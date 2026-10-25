@@ -18,10 +18,12 @@ def model_for(lang, direction):
         _models[lang] = genanki.Model(stable_id("model:" + lang), f"Vocab ({lang})",
           fields=[{"name": n} for n in ["Word", "Audio", "Image", "English", "Occurrences"]],
           templates=[{"name": "Word → Meaning",
-            "qfmt": '<div class="word">{{Word}}</div>{{Audio}}',
+            "qfmt": '<div class="word">{{Word}}</div>{{Audio}}<script>document.querySelectorAll(".word").forEach(function(e){e.innerHTML=e.innerHTML.replace(/([\u00b9\u00b2\u00b3])/g,"<span class=hom>$1</span>")})</script>',
             "afmt": '<div class="word">{{Word}}</div><hr id=answer><div>{{Image}}</div><div class="en">{{English}}</div>'}],
           css=f""".card{{font-family:sans-serif;text-align:center;background:#fff;color:#000}}
 .word{{font-size:64px;direction:{direction};font-family:'SBL Hebrew','SBL Greek','Ezra SIL','Times New Roman',serif;margin:20px}}
+
+.hom{{font-family:sans-serif;font-size:40px;font-weight:bold;color:#c00;vertical-align:super;unicode-bidi:isolate;margin:0 4px}}
 .en{{font-size:26px;margin-top:12px}} img{{max-width:100%;max-height:60vh}}""")
     return _models[lang]
 

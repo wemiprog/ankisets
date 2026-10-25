@@ -1,0 +1,19 @@
+{
+ "video": "input/video23.mp4",
+ "output": "out/biblehebrew_video23.apkg",
+ "lang": "hebrew",
+ "dir": "rtl",
+ "pos": "adj",
+ "freq": "120+",
+ "freq_tag": "120plus",
+ "crop": [
+  60,
+  810,
+  1086,
+  870
+ ],
+ "pad": 0.25,
+ "cards": "config/video23.csv",
+ "root": "BibleHebrew",
+ "pos_label": "Adj"
+}
