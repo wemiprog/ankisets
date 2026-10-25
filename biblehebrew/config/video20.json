@@ -1,0 +1,19 @@
+{
+ "video": "input/video20.mp4",
+ "output": "out/biblehebrew_video20.apkg",
+ "lang": "hebrew",
+ "dir": "rtl",
+ "pos": "verb",
+ "freq": "120+",
+ "freq_tag": "120plus",
+ "crop": [
+  60,
+  810,
+  1086,
+  870
+ ],
+ "pad": 0.25,
+ "cards": "config/video20.csv",
+ "root": "BibleHebrew",
+ "pos_label": "Verb"
+}

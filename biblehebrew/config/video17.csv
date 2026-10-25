@@ -1,0 +1,23 @@
+id,word,english,number,frame_t,audio_start,audio_end
+he-nn120p-133-chomah,חוֹמָה,"wall, city wall",133,2.22,2.02,3.44
+he-nn120p-123-qahal,קָהָל,"assembly, congregation",123,5.47,5.27,6.80
+he-nn120p-227-laylah,"לַיְלָה, לַיִל",night,227,8.15,7.95,10.70
+he-nn120p-127-emet,אֱמֶת,truth,127,12.30,12.10,13.51
+he-nn120p-213-malakh,מַלְאָךְ,"angel, messenger",213,15.45,15.25,16.69
+he-nn120p-161-bad,בַּד,"solitude, alone, apart",161,18.67,18.47,19.88
+he-nn120p-135-shemesh,שֶׁמֶשׁ,sun,135,22.32,22.12,23.69
+he-nn120p-223-moed,מוֹעֵד,appointed time or place,223,25.78,25.58,27.14
+he-nn120p-198-baal,בַּעַל,"owner, husband, Baal",198,30.13,29.93,31.34
+he-nn120p-193-shemen,שֶׁמֶן,oil,193,34.36,34.16,35.72
+he-nn120p-149-edah,עֵדָה,congregation,149,38.21,38.01,39.65
+he-nn120p-233-avon,עָוֹן,"transgression, iniquity",233,42.44,42.24,44.08
+he-nn120p-162-zevach,זֶבַח,sacrifice,162,47.28,47.08,48.66
+he-nn120p-145-avodah,עֲבֹדָה,service,145,51.48,51.28,52.83
+he-nn120p-187-rea,רֵעַ,"friend, fellow, companion",187,56.67,56.47,57.12
+he-nn120p-133-par,פַּר; פָּרָה,bull; cow,133,61.00,60.80,63.29
+he-nn120p-164-chuts,חוּץ,outside; street,164,65.93,65.73,67.51
+he-nn120p-190-behemah,בְּהֵמָה,"cattle, animals",190,70.64,70.44,71.63
+he-nn120p-149-chokhmah,חָכְמָה,"wisdom, experience",149,74.42,74.22,75.73
+he-nn120p-139-nechoshet,נְחֹשֶׁת,"bronze, copper",139,77.94,77.74,79.54
+he-nn120p-200-kavod,כָּבוֹד,"possessions, honor, glory",200,83.72,83.52,85.14
+he-nn120p-141-yayin,יַיִן,wine,141,88.16,87.96,89.04

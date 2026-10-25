@@ -1,0 +1,27 @@
+id,word,english,number,frame_t,audio_start,audio_end
+he-v304-paqad,פָּקַד,"to visit, number, appoint",304,1.23,1.03,2.52
+he-v894-alah,עָלָה,to go up,894,5.28,5.08,6.56
+he-v469-shamar,שָׁמַר,"to keep watch, guard",469,8.55,8.35,9.80
+he-v2632-asah,עָשָׂה,"to do, make; (Pi) press",2632,11.92,11.72,12.93
+he-v1075-shuv,שׁוּב,"to turn, return",1075,15.23,15.03,16.22
+he-v289-karat,כָּרַת,"to cut off, exterminate",289,18.75,18.55,19.82
+he-v1135-dibber,דָּבַר,to speak,1135,22.22,22.02,23.46
+he-v3576-hayah,הָיָה,"to be, happen, become",3576,25.79,25.59,26.94
+he-v457-matsa,מָצָא,"to find, (Hi) present",457,29.60,29.40,30.79
+he-v495-yalad,יָלַד,"to bring forth, beget",495,33.08,32.88,34.41
+he-v814-akhal,אָכַל,"to eat, devour",814,36.77,36.57,37.76
+he-v554-avar,עָבַר,"to pass through, transgress",554,40.44,40.24,41.84
+he-v2014-natan,נָתַן,to give,2014,44.65,44.45,45.64
+he-v1554-halakh,הָלַךְ,"to walk, go",1554,48.20,48.00,49.69
+he-v350-malakh,מָלַךְ,"to reign, be king",350,52.02,51.82,53.37
+he-v736-qara,קָרָא,"to call, meet; read",736,56.19,55.99,57.41
+he-v1165-shama,שָׁמַע,"to hear, obey",1165,60.16,59.96,61.39
+he-v1075-yatsa,יָצָא,to go (come) out,1075,63.65,63.45,64.85
+he-v627-qum,קוּם,"to rise, stand",627,66.91,66.71,68.11
+he-v371-nagad,נָגַד,"to report, tell, make known",371,70.42,70.22,71.43
+he-v280-qarav,קָרַב,to come near,280,73.24,73.04,74.59
+he-v382-yarad,יָרַד,to go down,382,76.51,76.31,77.73
+he-v327-barakh,בָּרַךְ,to bless,327,79.83,79.63,80.93
+he-v588-sim,שִׂים,"to put, set, place",588,82.88,82.68,84.11
+he-v658-nasa,נָשָׂא,"to lift up, bear, carry",658,86.73,86.53,88.04
+he-v952-yada,יָדַע,"to know, notice",952,89.89,89.69,91.26

@@ -1,0 +1,22 @@
+id,word,english,number,frame_t,audio_start,audio_end
+he-nn120p-167-dor,דּוֹר,generation,167,2.04,1.84,3.71
+he-nn120p-130-nasi,נָשִׂיא,"leader, prince",130,6.88,6.68,8.08
+he-nn120p-125-chatsi,חֲצִי,half,125,10.62,10.42,11.91
+he-nn120p-159-tsedaqah,צְדָקָה,righteousness,159,14.53,14.33,15.17
+he-nn120p-153-mavet,מָוֶת,death,153,17.40,17.20,18.87
+he-nn120p-137-nachal,נַחַל,"torrent, brook; wadi",137,21.46,21.26,22.05
+he-nn120p-164-petach,פֶּתַח,"door, opening, entrance",164,26.01,25.81,27.69
+he-nn120p-215-machaneh,מַחֲנֶה,"camp, army",215,30.41,30.21,31.77
+he-nn120p-190-shevet,שֵׁבֶט,"tribe; rod, staff",190,35.13,34.93,36.48
+he-nn120p-167-melakhah,מְלָאכָה,"work, craft",167,39.52,39.32,40.82
+he-nn120p-211-minchah,מִנְחָה,"gift, offering",211,44.28,44.08,45.53
+he-nn120p-229-zera,זֶרַע,seed,229,48.71,48.51,50.14
+he-nn120p-122-bekhor,"בְּכֹר, בְּכוֹר","firstborn, birthright",122,53.65,53.45,54.84
+he-nn120p-188-ozen,אֹזֶן,ear,188,58.48,58.28,59.44
+he-nn120p-202-aron,אֲרוֹן,"ark, chest",202,63.06,62.86,64.21
+he-nn120p-183-baqar,בָּקָר,cattle,183,67.80,67.60,68.27
+he-nn120p-222-adamah,אֲדָמָה,"ground, earth, land",222,71.77,71.57,73.03
+he-nn120p-191-sefer,סֵפֶר,"document, book",191,76.73,76.53,77.23
+he-nn120p-184-mitsvah,מִצְוָה,commandment,184,80.47,80.27,81.33
+he-nn120p-220-em,אֵם,mother,220,84.04,83.84,85.38
+he-nn120p-241-gevul,גְּבוּל,"boundary, territory",241,86.86,86.66,88.39

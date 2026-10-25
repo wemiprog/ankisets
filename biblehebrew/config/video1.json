@@ -1,0 +1,19 @@
+{
+ "video": "input/video1.mov",
+ "output": "out/biblehebrew_trial.apkg",
+ "lang": "hebrew",
+ "dir": "rtl",
+ "pos": "noun",
+ "freq": "250+",
+ "freq_tag": "250plus",
+ "crop": [
+  60,
+  810,
+  1086,
+  870
+ ],
+ "pad": 0.15,
+ "cards": "config/video1.csv",
+ "root": "BibleHebrew",
+ "pos_label": "Noun"
+}
