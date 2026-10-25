@@ -1,0 +1,26 @@
+id,word,english,number,frame_t,audio_start,audio_end
+he-nn120p-216-beged,בֶּגֶד,garment,216,2.82,2.62,4.14
+he-nn120p-195-kaf,כַּף,"hand, palm",195,7.18,6.98,8.39
+he-nn120p-134-mispar,מִסְפָּר,number,134,10.71,10.51,12.10
+he-nn120p-125-chemah,חֵמָה,"heat, rage, wrath; poison",125,14.35,14.15,15.43
+he-nn120p-153-tsafon,צָפוֹן,north,153,17.87,17.67,18.76
+he-nn120p-237-shalom,שָׁלוֹם,"peace, health",237,20.94,20.74,22.40
+he-nn120p-236-el,אֵל,"Mighty One, God",236,23.43,23.23,24.67
+he-nn120p-138-sus,"סוּס, סוּסָה",horse; mare,138,26.19,25.99,28.30
+he-nn120p-134-erev,עֶרֶב,evening,134,29.73,29.53,31.14
+he-nn120p-235-maaseh,מַעֲשֶׂה,work,235,32.39,32.19,34.23
+he-nn120p-140-yamin,יָמִין,right hand; south,140,34.61,34.41,36.15
+he-nn120p-227-qerev,קֶרֶב,"inward part, midst",227,37.97,37.77,39.75
+he-nn120p-223-torah,תּוֹרָה,"law, instruction",223,42.23,42.03,43.66
+he-nn120p-139-mishkan,מִשְׁכָּן,"tabernacle, dwelling",139,45.86,45.66,47.09
+he-nn120p-161-ayil,אַיִל,"ram, ruler",161,49.01,48.81,50.48
+he-nn120p-240-naar,נַעַר,"lad, youth",240,53.05,52.85,54.29
+he-nn120p-222-nachalah,נַחֲלָה,inheritance,222,56.82,56.62,58.08
+he-nn120p-135-kisse,כִּסֵּא,"seat, throne",135,60.85,60.65,62.06
+he-nn120p-191-chatser,חָצֵר,"village, courtyard",191,64.41,64.21,66.06
+he-nn120p-153-rov,רֹב,"multitude, abundance",153,67.56,67.36,68.83
+he-nn120p-213-boqer,בֹּקֶר,morning,213,70.14,69.94,71.26
+he-nn120p-249-chesed,חֶסֶד,"loyalty, kindness, devotion",249,72.92,72.72,74.31
+he-nn120p-123-etsem,עֶצֶם,bone,123,76.83,76.63,77.92
+he-nn120p-126-koach,כֹּחַ,strength,126,82.00,81.80,83.18
+he-nn120p-122-or,אוֹר,light,122,85.56,85.36,86.55

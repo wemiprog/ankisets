@@ -55,9 +55,11 @@ if __name__ == "__main__":
     os.makedirs("out", exist_ok=True); a = sys.argv[1:]
     if a and a[0] == "--all":
         out = a[a.index("-o") + 1] if "-o" in a else "out/biblehebrew_all.apkg"
-        cdir = a[1] if len(a) > 1 and a[1] != "-o" else "config"
+        cdir = a[1] if len(a) > 1 and not a[1].startswith("-") else "config"
         decks, files, imgs = [], [], []
+        fq = a[a.index("--freq") + 1] if "--freq" in a else None
         for p in sorted(glob.glob(f"{cdir}/*.json")):
+            if fq and json.load(open(p))["freq"] != fq: continue
             _, d, f, i = build(p); files += f; imgs += i; print(p, "->", d.name, len(d.notes))
             same = [x for x in decks if x.deck_id == d.deck_id]
             if same: same[0].notes += d.notes
