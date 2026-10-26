@@ -1,46 +1,22 @@
 #!/usr/bin/env python3
 """Anki vocab decks from a JSON word list (source of truth: data/<lang>_words.json).
-  python build_deck.py build   [--lang hebrew]      [--contact]  # fast: JSON + cached media/<lang>/ -> 4 set decks + _all (no video access)
-  python build_deck.py extract [--lang hebrew]      # only for entries whose image/audio file is missing: cut from entry's video
-  python build_deck.py init    [--lang hebrew]      # one-time: config/*.json+.csv -> data/<lang>_words.json
+  python tools/build_deck.py build   <project> [--lang hebrew]      [--contact]  # fast: JSON + <project>/media/<lang>/ + fonts/ + tools/template/ -> 4 set decks + _all (no video access)
+  python tools/build_deck.py extract <project> [--lang hebrew]      # only for entries whose image/audio file is missing: cut from entry's video
+  python tools/build_deck.py init    <project> [--lang hebrew]      # one-time: config/*.json+.csv -> data/<lang>_words.json
 JSON: {"lang","root","dir","prefix","font","sets":[{freq,freq_tag}],"words":[{id,word,english,occurrences,rank,due,
  pos,pos_label,freq,freq_tag,image,audio,src:{video,crop,pad,frame_t,audio_start,audio_end}}]} sorted by occurrences desc.
 Deck: <root>::<freq>::<pos_label>; GUID guid_for(lang,id); model/deck IDs from stable names."""
 import csv, glob, hashlib, json, os, subprocess, sys, time, genanki
 from PIL import Image
-BASE = os.path.dirname(os.path.abspath(__file__)); os.chdir(BASE)
+TOOLS = os.path.dirname(os.path.abspath(__file__)); REPO = os.path.dirname(TOOLS)
+PROJ = next((a for a in sys.argv[2:] if not a.startswith("-") and os.path.isdir(os.path.join(REPO, a))), "biblehebrew")
+os.chdir(os.path.join(REPO, PROJ))  # all data/, media/<lang>/, out/, config/, input/ paths are relative to the project dir
 
 def stable_id(s): return int(hashlib.sha1(s.encode()).hexdigest()[:8], 16) | 1 << 30
-HOM = '<script>document.querySelectorAll(".word,.en").forEach(function(e){if(!e.dataset.h){e.dataset.h=1;e.innerHTML=e.innerHTML.replace(/([\u00b9\u00b2\u00b3])/g,"<span class=hom>$1</span>")}})</script>'
-FRONT = '<div class="box wordbox"><div class="word">{{Word}}</div><div class="play">{{Audio}}</div></div>' + HOM
-BACK = ('<div class="box wordbox"><div class="word">{{Word}}</div><div class="play">{{Audio}}</div></div>'
-        '<div id="answer"></div><div class="pic">{{Image}}</div>'
-        '<div class="box enbox"><div class="en">{{English}}</div></div>'
-        '{{#Occurrences}}<div class="occ">Occurrences: <b>{{Occurrences}}</b>{{#Rank}}<span class=sep>·</span>Rank: <b>{{Rank}}</b>{{/Rank}}</div>{{/Occurrences}}' + HOM)
-CSS = """@font-face{font-family:EzraSIL;src:url("_EzraSIL.ttf")}
-.card{font-family:-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;text-align:center;background:#fff;color:#1d1d1f;margin:0;padding:14px}
-.box{position:relative;max-width:560px;margin:8px auto 14px;background:#e6e6e8;border-radius:18px;box-shadow:0 1px 3px rgba(0,0,0,.08)}
-.wordbox{padding:26px 64px;min-height:56px;display:flex;align-items:center;justify-content:center}
-.word{font-size:2.5em;line-height:1.5;direction:__DIR__;font-family:'EzraSIL','Ezra SIL','SBL Hebrew','Times New Roman',serif}
-.hom{font-family:-apple-system,sans-serif;font-size:.5em;font-weight:700;color:#c62828;vertical-align:super;unicode-bidi:isolate;margin:0 3px}
-.play{position:absolute;top:50%;right:12px;transform:translateY(-50%);line-height:0}
-.play .replay-button,.play .soundLink,.play a{display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;border-radius:50%;background:#fff;box-shadow:0 1px 4px rgba(0,0,0,.18);text-decoration:none;margin:0}
-.play .replay-button svg,.play .soundLink svg,.play img{width:22px;height:22px}
-.play .replay-button svg circle{fill:transparent;stroke:none}
-.play .replay-button svg path{fill:#555;stroke:none}
-.pic img{max-width:100%;max-height:45vh;border-radius:10px}
-.enbox{padding:26px 24px;min-height:56px;display:flex;align-items:center;justify-content:center}
-.en{font-size:1.6em;line-height:1.35}
-.occ{font-size:.85em;color:#2e7d32;margin-top:4px}
-.occ b{font-weight:700}
-.occ .sep{margin:0 8px;opacity:.6}
-.nightMode .card,.night_mode .card,.card.nightMode,.card.night_mode{background:#1e1e1e;color:#eee}
-.nightMode .box,.night_mode .box{background:#333336;box-shadow:none}
-.nightMode .play a,.night_mode .play a,.nightMode .play .replay-button,.night_mode .play .replay-button{background:#4a4a4e}
-.nightMode .play .replay-button svg path,.night_mode .play .replay-button svg path{fill:#ddd}
-.nightMode .occ,.night_mode .occ{color:#81c784}
-.nightMode .hom,.night_mode .hom{color:#ef6c6c}
-@media (max-width:480px){.wordbox{padding:22px 54px}.word{font-size:2.15em}.en{font-size:1.4em}}"""
+T = os.path.join(TOOLS, "template")
+def _t(n): return open(os.path.join(T, n), encoding="utf-8").read()
+FRONT, BACK, CSS = _t("front.html"), _t("back.html"), _t("style.css")  # CSS: __DIR__ -> rtl/ltr
+FONTS = os.path.join(REPO, "fonts")
 
 _models = {}
 def model_for(lang, direction):
@@ -108,7 +84,7 @@ def contact(imgs, path, cols=4):
 
 def package(d, words, out, sheet=True):
     lang = d["lang"]; media = f"media/{lang}"; m = model_for(lang, d.get("dir", "ltr")); decks = {}
-    files = [f"{media}/{d['font']}"] if d.get("font") else []
+    files = [os.path.join(FONTS, d["font"])] if d.get("font") else []
     for w in sorted(words, key=lambda w: w["due"]):
         name = f"{d['root']}::{w['freq']}::{w['pos_label']}"
         deck = decks.setdefault(name, genanki.Deck(stable_id("deck:" + name), name))
@@ -129,6 +105,6 @@ def build(lang, sheet):
     package(d, d["words"], f"out/{p}_all.apkg", sheet)
 
 if __name__ == "__main__":
-    cmd = sys.argv[1] if len(sys.argv) > 1 else "build"; lang = arg("--lang", "hebrew"); t = time.time()
+    cmd = sys.argv[1] if len(sys.argv) > 1 else "build"; lang = arg("--lang", None) or os.path.basename(glob.glob("data/*_words.json")[0]).split("_words")[0]; t = time.time()
     {"init": init, "extract": extract, "build": lambda l: build(l, "--contact" in sys.argv)}[cmd](lang)
     print(f"done in {time.time() - t:.1f}s")

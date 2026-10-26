@@ -1,3 +1,5 @@
+biblehebrew/input/
+*/input/
 .venv/
-input/
+**/.venv/
 __pycache__/
