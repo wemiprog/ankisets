@@ -95,14 +95,14 @@ def package(d, words, out, sheet=True):
             fields=[w["word"], f"[sound:{w['audio']}]", f'<img src="{w["image"]}">', w["english"], str(w["occurrences"]), str(w["rank"])]))
         files += [f"{media}/{w['image']}", f"{media}/{w['audio']}"]
     genanki.Package(list(decks.values()), media_files=files).write_to_file(out)
-    if sheet: contact([f"{media}/{w['image']}" for w in words], out.replace(".apkg", "_contact.png"))
+    if sheet: contact([f"{media}/{w['image']}" for w in words], "out/" + os.path.basename(out).replace(".apkg", "_contact.png"))
     print(f"wrote {out}: {len(words)} notes, {len(decks)} decks")
 
 def build(lang, sheet):
     d = load(lang); os.makedirs("out", exist_ok=True); p = d["prefix"]
     for s in d["sets"]:
-        package(d, [w for w in d["words"] if w["freq"] == s["freq"]], f"out/{p}_{s['freq_tag']}.apkg", sheet)
-    package(d, d["words"], f"out/{p}_all.apkg", sheet)
+        package(d, [w for w in d["words"] if w["freq"] == s["freq"]], f"{p}_{s['freq_tag']}.apkg", sheet)
+    package(d, d["words"], f"{p}_all.apkg", sheet)
 
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "build"; lang = arg("--lang", None) or os.path.basename(glob.glob("data/*_words.json")[0]).split("_words")[0]; t = time.time()
