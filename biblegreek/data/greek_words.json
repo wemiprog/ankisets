@@ -1,0 +1,501 @@
+{
+ "lang": "greek",
+ "root": "BibleGreek",
+ "dir": "ltr",
+ "prefix": "biblegreek",
+ "font": null,
+ "sets": [
+  {
+   "freq": "10+",
+   "freq_tag": "10plus"
+  }
+ ],
+ "words": [
+  {
+   "id": "gr-o10p-01",
+   "word": "λίαν",
+   "english": "exceedingly",
+   "occurrences": 12,
+   "rank": 1,
+   "due": 1,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-01.jpg",
+   "audio": "gr-o10p-01.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 2.5,
+    "audio_start": 2.6,
+    "audio_end": 3.2
+   }
+  },
+  {
+   "id": "gr-o10p-03",
+   "word": "ἔσωθεν",
+   "english": "within, inside, from within",
+   "occurrences": 12,
+   "rank": 1,
+   "due": 2,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-03.jpg",
+   "audio": "gr-o10p-03.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 7.9,
+    "audio_start": 8.2,
+    "audio_end": 8.9
+   }
+  },
+  {
+   "id": "gr-o10p-05",
+   "word": "πρωΐ",
+   "english": "in the morning",
+   "occurrences": 12,
+   "rank": 1,
+   "due": 3,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-05.jpg",
+   "audio": "gr-o10p-05.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 13.299999999999999,
+    "audio_start": 13.7,
+    "audio_end": 14.3
+   }
+  },
+  {
+   "id": "gr-o10p-09",
+   "word": "μάλιστα",
+   "english": "especially, exceedingly",
+   "occurrences": 12,
+   "rank": 1,
+   "due": 4,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-09.jpg",
+   "audio": "gr-o10p-09.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 25.5,
+    "audio_start": 26.0,
+    "audio_end": 26.85
+   }
+  },
+  {
+   "id": "gr-o10p-10",
+   "word": "ἀνά",
+   "english": "up, upon, on",
+   "occurrences": 12,
+   "rank": 1,
+   "due": 5,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-10.jpg",
+   "audio": "gr-o10p-10.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 28.3,
+    "audio_start": 28.75,
+    "audio_end": 29.5
+   }
+  },
+  {
+   "id": "gr-o10p-11",
+   "word": "τρίς",
+   "english": "three times",
+   "occurrences": 12,
+   "rank": 1,
+   "due": 6,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-11.jpg",
+   "audio": "gr-o10p-11.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 31.3,
+    "audio_start": 31.6,
+    "audio_end": 32.0
+   }
+  },
+  {
+   "id": "gr-o10p-12",
+   "word": "ταχύς",
+   "english": "swift, quickly, soon",
+   "occurrences": 12,
+   "rank": 1,
+   "due": 7,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-12.jpg",
+   "audio": "gr-o10p-12.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 34.1,
+    "audio_start": 34.6,
+    "audio_end": 35.05
+   }
+  },
+  {
+   "id": "gr-o10p-15",
+   "word": "περισσοτέρως",
+   "english": "even more so",
+   "occurrences": 12,
+   "rank": 1,
+   "due": 8,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-15.jpg",
+   "audio": "gr-o10p-15.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 42.900000000000006,
+    "audio_start": 43.3,
+    "audio_end": 44.1
+   }
+  },
+  {
+   "id": "gr-o10p-04",
+   "word": "ἔξωθεν (+gen)",
+   "english": "from outside, outside",
+   "occurrences": 11,
+   "rank": 9,
+   "due": 9,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-04.jpg",
+   "audio": "gr-o10p-04.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 10.5,
+    "audio_start": 10.9,
+    "audio_end": 11.65
+   }
+  },
+  {
+   "id": "gr-o10p-07",
+   "word": "ὁμοθυμαδόν",
+   "english": "of one accord",
+   "occurrences": 11,
+   "rank": 9,
+   "due": 10,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-07.jpg",
+   "audio": "gr-o10p-07.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 19.5,
+    "audio_start": 19.9,
+    "audio_end": 21.0
+   }
+  },
+  {
+   "id": "gr-o10p-14",
+   "word": "σφόδρα",
+   "english": "very much",
+   "occurrences": 11,
+   "rank": 9,
+   "due": 11,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-14.jpg",
+   "audio": "gr-o10p-14.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 39.900000000000006,
+    "audio_start": 40.65,
+    "audio_end": 41.2
+   }
+  },
+  {
+   "id": "gr-o10p-16",
+   "word": "ὕστερος",
+   "english": "afterwards, last, later",
+   "occurrences": 11,
+   "rank": 9,
+   "due": 12,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-16.jpg",
+   "audio": "gr-o10p-16.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 45.7,
+    "audio_start": 46.25,
+    "audio_end": 46.8
+   }
+  },
+  {
+   "id": "gr-o10p-02",
+   "word": "ἐπειδή",
+   "english": "since, because, for",
+   "occurrences": 10,
+   "rank": 13,
+   "due": 13,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-02.jpg",
+   "audio": "gr-o10p-02.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 5.5,
+    "audio_start": 5.75,
+    "audio_end": 6.4
+   }
+  },
+  {
+   "id": "gr-o10p-06",
+   "word": "ὄντως",
+   "english": "really, indeed",
+   "occurrences": 10,
+   "rank": 13,
+   "due": 14,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-06.jpg",
+   "audio": "gr-o10p-06.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 16.9,
+    "audio_start": 17.05,
+    "audio_end": 17.55
+   }
+  },
+  {
+   "id": "gr-o10p-08",
+   "word": "μακράν",
+   "english": "far, far off, far away",
+   "occurrences": 10,
+   "rank": 13,
+   "due": 15,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-08.jpg",
+   "audio": "gr-o10p-08.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 22.3,
+    "audio_start": 22.85,
+    "audio_end": 23.6
+   }
+  },
+  {
+   "id": "gr-o10p-13",
+   "word": "πρότερος",
+   "english": "former, formerly",
+   "occurrences": 10,
+   "rank": 13,
+   "due": 16,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-13.jpg",
+   "audio": "gr-o10p-13.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 37.1,
+    "audio_start": 37.55,
+    "audio_end": 38.2
+   }
+  },
+  {
+   "id": "gr-o10p-17",
+   "word": "ἐντεῦθεν",
+   "english": "hence, on each side",
+   "occurrences": 10,
+   "rank": 13,
+   "due": 17,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-17.jpg",
+   "audio": "gr-o10p-17.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 48.5,
+    "audio_start": 49.35,
+    "audio_end": 50.45
+   }
+  },
+  {
+   "id": "gr-o10p-18",
+   "word": "ὅδε",
+   "english": "this (one)",
+   "occurrences": 10,
+   "rank": 13,
+   "due": 18,
+   "pos": "other",
+   "pos_label": "Other",
+   "freq": "10+",
+   "freq_tag": "10plus",
+   "image": "gr-o10p-18.jpg",
+   "audio": "gr-o10p-18.mp3",
+   "src": {
+    "video": "input/10plus_other.mp4",
+    "crop": [
+     60,
+     810,
+     1086,
+     870
+    ],
+    "pad": 0.15,
+    "frame_t": 52.5,
+    "audio_start": 53.0,
+    "audio_end": 53.55
+   }
+  }
+ ]
+}
