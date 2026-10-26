@@ -12,19 +12,43 @@ BASE = os.path.dirname(os.path.abspath(__file__)); os.chdir(BASE)
 
 def stable_id(s): return int(hashlib.sha1(s.encode()).hexdigest()[:8], 16) | 1 << 30
 
+
+HOM = '<script>document.querySelectorAll(".word,.en").forEach(function(e){if(!e.dataset.h){e.dataset.h=1;e.innerHTML=e.innerHTML.replace(/([\u00b9\u00b2\u00b3])/g,"<span class=hom>$1</span>")}})</script>'
+FRONT = '<div class="box wordbox"><div class="word">{{Word}}</div><div class="play">{{Audio}}</div></div>' + HOM
+BACK = ('<div class="box wordbox"><div class="word">{{Word}}</div><div class="play">{{Audio}}</div></div>'
+        '<div id="answer"></div><div class="pic">{{Image}}</div>'
+        '<div class="box enbox"><div class="en">{{English}}</div></div>'
+        '{{#Occurrences}}<div class="occ">Occurrences: <b>{{Occurrences}}</b></div>{{/Occurrences}}' + HOM)
+CSS = """.card{font-family:-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;text-align:center;background:#fff;color:#1d1d1f;margin:0;padding:14px}
+.box{position:relative;max-width:560px;margin:8px auto 14px;background:#e6e6e8;border-radius:18px;box-shadow:0 1px 3px rgba(0,0,0,.08)}
+.wordbox{padding:26px 64px;min-height:56px;display:flex;align-items:center;justify-content:center}
+.word{font-size:2.2em;line-height:1.35;direction:__DIR__;font-family:'SBL Hebrew','Ezra SIL','Taamey Frank CLM','Times New Roman',serif}
+.hom{font-family:-apple-system,sans-serif;font-size:.5em;font-weight:700;color:#c62828;vertical-align:super;unicode-bidi:isolate;margin:0 3px}
+.play{position:absolute;top:10px;right:10px}
+.play .replay-button,.play .soundLink,.play a{display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;border-radius:50%;background:#fff;box-shadow:0 1px 4px rgba(0,0,0,.18);text-decoration:none;margin:0}
+.play .replay-button svg,.play .soundLink svg,.play img{width:22px;height:22px}
+.play .replay-button svg circle{fill:transparent;stroke:none}
+.play .replay-button svg path{fill:#555;stroke:none}
+.pic img{max-width:100%;max-height:45vh;border-radius:10px}
+.enbox{padding:16px 20px}
+.en{font-size:1.25em;line-height:1.4}
+.occ{font-size:.85em;color:#2e7d32;margin-top:4px}
+.occ b{font-weight:700}
+.nightMode .card,.night_mode .card,.card.nightMode,.card.night_mode{background:#1e1e1e;color:#eee}
+.nightMode .box,.night_mode .box{background:#333336;box-shadow:none}
+.nightMode .play a,.night_mode .play a,.nightMode .play .replay-button,.night_mode .play .replay-button{background:#4a4a4e}
+.nightMode .play .replay-button svg path,.night_mode .play .replay-button svg path{fill:#ddd}
+.nightMode .occ,.night_mode .occ{color:#81c784}
+.nightMode .hom,.night_mode .hom{color:#ef6c6c}
+@media (max-width:480px){.wordbox{padding:22px 54px}.word{font-size:1.9em}.en{font-size:1.1em}}"""
+
 _models = {}
 def model_for(lang, direction):
     if lang not in _models:
         _models[lang] = genanki.Model(stable_id("model:" + lang), f"Vocab ({lang})",
           fields=[{"name": n} for n in ["Word", "Audio", "Image", "English", "Occurrences"]],
           templates=[{"name": "Word → Meaning",
-            "qfmt": '<div class="word">{{Word}}</div>{{Audio}}<script>document.querySelectorAll(".word").forEach(function(e){e.innerHTML=e.innerHTML.replace(/([\u00b9\u00b2\u00b3])/g,"<span class=hom>$1</span>")})</script>',
-            "afmt": '<div class="word">{{Word}}</div><hr id=answer><div>{{Image}}</div><div class="en">{{English}}</div>'}],
-          css=f""".card{{font-family:sans-serif;text-align:center;background:#fff;color:#000}}
-.word{{font-size:64px;direction:{direction};font-family:'SBL Hebrew','SBL Greek','Ezra SIL','Times New Roman',serif;margin:20px}}
-
-.hom{{font-family:sans-serif;font-size:40px;font-weight:bold;color:#c00;vertical-align:super;unicode-bidi:isolate;margin:0 4px}}
-.en{{font-size:26px;margin-top:12px}} img{{max-width:100%;max-height:60vh}}""")
+            "qfmt": FRONT, "afmt": BACK}], css=CSS.replace("__DIR__", direction))
     return _models[lang]
 
 def build(cfg_path):
