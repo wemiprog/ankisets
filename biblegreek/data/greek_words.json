@@ -3,7 +3,7 @@
  "root": "BibleGreek",
  "dir": "ltr",
  "prefix": "biblegreek",
- "font": null,
+ "font": "_GentiumPlus.ttf",
  "sets": [
   {
    "freq": "10+",

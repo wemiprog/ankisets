@@ -18,13 +18,17 @@ def _t(n): return open(os.path.join(T, n), encoding="utf-8").read()
 FRONT, BACK, CSS = _t("front.html"), _t("back.html"), _t("style.css")  # CSS: __DIR__ -> rtl/ltr
 FONTS = os.path.join(REPO, "fonts")
 
+WORDFONT = {  # lang -> (@font-face rule, .word font-family list)
+    "hebrew": ('@font-face{font-family:EzraSIL;src:url("_EzraSIL.ttf")}', "'EzraSIL','Ezra SIL','SBL Hebrew','Times New Roman',serif"),
+    "greek": ('@font-face{font-family:GentiumPlus;src:url("_GentiumPlus.ttf")}', "'GentiumPlus','Gentium Plus','Times New Roman',serif")}
 _models = {}
 def model_for(lang, direction):
+    face, fam = WORDFONT[lang]
     if lang not in _models:
         _models[lang] = genanki.Model(stable_id("model:" + lang), f"Vocab ({lang})",
           fields=[{"name": n} for n in ["Word", "Audio", "Image", "English", "Occurrences", "Rank"]],
           templates=[{"name": "Word → Meaning",
-            "qfmt": FRONT, "afmt": BACK}], css=CSS.replace("__DIR__", direction))
+            "qfmt": FRONT, "afmt": BACK}], css=CSS.replace("__DIR__", direction).replace("__FONTFACE__", face).replace("__WORDFONT__", fam))
     return _models[lang]
 
 def arg(name, default):
@@ -51,7 +55,7 @@ def init(lang):
     for i, w in enumerate(sorted(words, key=lambda w: (-w["occurrences"], w["_seq"]))):
         w["due"] = i + 1; w["rank"] = 1 + sum(1 for x in words if x["occurrences"] > w["occurrences"]); del w["_seq"]
     sets = list(dict.fromkeys((w["freq"], w["freq_tag"].split("::")[0]) for w in words))
-    meta.update(prefix=meta["root"].lower(), font="_EzraSIL.ttf" if lang == "hebrew" else None,
+    meta.update(prefix=meta["root"].lower(), font={"hebrew": "_EzraSIL.ttf", "greek": "_GentiumPlus.ttf"}.get(lang),
                 sets=[{"freq": f, "freq_tag": t} for f, t in sets], words=words)
     save(meta); print("wrote", jpath(lang), len(words), "words")
 
