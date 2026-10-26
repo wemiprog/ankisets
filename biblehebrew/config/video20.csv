@@ -1,8 +1,8 @@
 id,word,english,number,frame_t,audio_start,audio_end
 he-v120p-153-kasah,כָּסָה,"to cover, conceal",153,2.45,2.25,3.82
 he-v120p-130-shakhan,שָׁכַן,"to dwell, tent, settle",130,7.66,7.46,8.77
-he-v120p-139-qara2,קָרָא,"to encounter, meet",139,11.84,11.64,13.16
-he-v120p-167-raah,רָעָה,"to feed, graze, tend cattle",167,16.88,16.68,18.05
+he-v120p-139-qara2,קָרָא²,"² to encounter, meet",139,11.84,11.64,13.16
+he-v120p-167-raah,רָעָה²,"² to feed, graze, tend cattle",167,16.88,16.68,18.05
 he-v120p-167-harag,הָרַג,to kill,167,21.55,21.35,22.78
 he-v120p-156-samach,שָׂמַח,to rejoice,156,26.29,26.09,27.68
 he-v120p-170-bachar,בָּחַר,to choose,170,30.93,30.73,32.24
