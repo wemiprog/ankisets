@@ -1,0 +1,30 @@
+id,word,english,number,frame_t,audio_start,audio_end
+he-nn50p-51-evur,עֲבוּר,produce,51,1.08,0.88,2.50
+he-nn50p-55-amal,עָמָל,"distress, trouble; effort",55,4.88,4.68,6.31
+he-nn50p-60-qetoret,קְטֹרֶת,incense; smoke,60,8.36,8.16,9.43
+he-nn50p-64-yeor,יְאֹר,"great river, Nile",64,11.53,11.33,12.81
+he-nn50p-51-qeresh,קֶרֶשׁ,"board, plank",51,14.99,14.79,16.35
+he-nn50p-65-isheh,אִשֶּׁה,offering by fire,65,18.06,17.86,19.76
+he-nn50p-61-acharit,אַחֲרִית,"end, outcome",61,21.42,21.72,22.97
+he-nn50p-50-tabbaat,טַבַּעַת,"ring, signet-ring",50,24.41,24.21,25.89
+he-nn50p-52-sair,שָׂעִיר,male goat,52,27.32,27.12,28.94
+he-nn50p-54-marom,מָרוֹם,height,54,30.29,30.09,31.20
+he-nn50p-67-katef,כָּתֵף,"shoulder, side",67,33.29,33.09,34.59
+he-nn50p-50-musar,מוּסָר,"discipline, correction",50,36.28,36.08,37.80
+he-nn50p-62-riv,רִיב,"dispute, legal speech",62,39.19,38.99,40.61
+he-nn50p-67-tovah,טוֹבָה,goodness,67,41.99,41.79,43.44
+he-nn50p-50-rav,רַב,"chief, captain",50,45.24,45.04,46.66
+he-nn50p-65-sheol,שְׁאוֹל,"Sheol, grave",65,48.12,47.92,49.09
+he-nn50p-60-nesekh,"נֶסֶךְ, נֵסֶךְ","libation, drink offering",60,51.29,51.09,52.89
+he-nn50p-55-gefen,גֶּפֶן,vine,55,54.84,54.64,55.32
+he-nn50p-54-devash,דְּבַשׁ,honey,54,57.27,57.07,59.00
+he-nn50p-54-shav,שָׁוְא,"emptiness, vanity",54,60.61,60.41,61.91
+he-nn50p-68-kikkar,כִּכָּר,"round loaf, valley, talent",68,63.52,63.32,65.46
+he-nn50p-60-alluf,אַלּוּף,"tribe chief, friend",60,66.98,66.78,68.35
+he-nn50p-57-parash,פָּרָשׁ,"horseman, horse",57,72.92,72.72,74.18
+he-nn50p-56-shemamah,שְׁמָמָה,"desolation, horror",56,76.04,75.84,77.44
+he-nn50p-60-magen,מָגֵן,shield,60,80.36,80.16,81.33
+he-nn50p-60-chamas,חָמָס,"violence, wrong",60,83.90,83.70,85.04
+he-nn50p-66-sheerit,שְׁאֵרִית,remnant,66,86.73,86.53,88.45
+he-nn50p-65-emeq,עֵמֶק,valley,65,90.12,89.92,91.54
+he-nn50p-63-shifchah,שִׁפְחָה,maidservant,63,93.55,93.35,95.16

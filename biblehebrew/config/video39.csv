@@ -1,0 +1,24 @@
+id,word,english,number,frame_t,audio_start,audio_end
+he-v50p-57-chil,חִיל,to be in labor,57,2.21,2.01,3.39
+he-v50p-56-tsaaq,צָעַק,"to cry out, call",56,5.86,5.66,7.02
+he-v50p-51-baqa,בָּקַע,to split,51,8.53,8.33,9.26
+he-v50p-57-yaats,יָעַץ,"to give counsel, advice",57,11.13,10.93,12.51
+he-v50p-50-taah,תָּעָה,"to wander off, err",50,14.03,13.83,14.72
+he-v50p-50-nakhar,נָכַר,to recognize; pretend,50,16.68,16.48,17.93
+he-v50p-65-natsach,נָצַח,"to lead music, supervise",65,19.66,19.46,20.94
+he-v50p-63-darakh,דָּרַךְ,to tread; (Hi) stamp firm,63,22.95,22.75,24.40
+he-v50p-56-zara,זָרַע,to sow,56,26.06,25.86,27.11
+he-v50p-63-qara,קָרַע,to tear up,63,29.52,29.32,30.81
+he-v50p-55-kaas,כָּעַס,"to be angry, irritated",55,32.96,32.76,34.34
+he-v50p-53-chatat,חָתַת,"to be shattered, dismayed",53,37.26,37.06,38.39
+he-v50p-69-rafa,רָפָא,"to heal, cure (someone)",69,40.68,40.48,42.07
+he-v50p-65-shakham,שָׁכַם,to rise early,65,43.59,43.39,45.31
+he-v50p-50-ratsah,רָצָה,"to be pleased with, like",50,46.78,46.58,48.03
+he-v50p-60-sakhal,שָׂכַל,to have success; be wise,60,49.68,49.48,50.98
+he-v50p-59-nachal,נָחַל,"to inherit, obtain",59,53.04,52.84,54.43
+he-v50p-64-tamam,תָּמַם,to be complete,64,56.23,56.03,57.65
+he-v50p-55-chalaq,חָלַק,"to divide, apportion",55,59.32,59.12,60.66
+he-v50p-65-tafas,תָּפַשׂ,"to seize, take hold of",65,62.68,62.48,64.07
+he-v50p-54-avah,אָבָה,to be willing,54,65.57,65.37,66.88
+he-v50p-53-ranan,רָנַן,"to sing for joy, shout",53,68.62,68.42,69.80
+he-v50p-97-yatsar,יָצַר,"to form, shape, fashion",97,71.89,71.69,73.08

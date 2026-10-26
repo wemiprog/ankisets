@@ -1,0 +1,31 @@
+id,word,english,number,frame_t,audio_start,audio_end
+he-nn50p-56-machashavah,מַחֲשָׁבָה,thought,56,2.16,1.96,3.60
+he-nn50p-54-semol,שְׂמֹאל,"left, left hand",54,5.70,5.50,7.15
+he-nn50p-54-ervah,עֶרְוָה,nakedness,54,8.94,8.74,9.42
+he-nn50p-61-dod,דּוֹד,"beloved, lover",61,11.31,11.11,13.12
+he-nn50p-51-reshit,רֵאשִׁית,"beginning, first",51,14.18,13.98,15.73
+he-nn50p-66-gever,גֶּבֶר,young man; strong man,66,17.25,17.05,18.93
+he-nn50p-57-mizmor,מִזְמוֹר,psalm,57,20.41,20.21,21.77
+he-nn50p-65-chalom,חֲלוֹם,dream,65,23.24,23.04,24.57
+he-nn50p-55-chets,חֵץ,arrow,55,26.07,25.87,26.97
+he-nn50p-50-betulah,בְּתוּלָה,virgin,50,28.96,28.76,30.42
+he-nn50p-62-gevurah,גְּבוּרָה,"might, strength",62,32.11,31.91,33.55
+he-nn50p-60-aravah,עֲרָבָה,"desert, plain",60,35.54,35.34,36.60
+he-nn50p-50-tiferet,תִּפְאֶרֶת,"ornament, decoration",50,38.23,38.03,39.83
+he-nn50p-53-matsah,מַצָּה,unleavened bread,53,41.41,41.21,42.83
+he-nn50p-60-neder,"נֶדֶר, נֵדֶר",vow,60,44.32,44.12,45.09
+he-nn50p-54-yeriah,יְרִיעָה,"curtain, tent",54,47.33,47.13,48.96
+he-nn50p-62-chag,"חַג, חָג","feast, festival; procession",62,50.97,50.77,52.53
+he-nn50p-56-ratson,רָצוֹן,favor; pleasure,56,54.04,53.84,55.50
+he-nn50p-61-ulam,"אֵילָם, אוּלָם","vestibule, porch",61,56.97,56.77,60.09
+he-nn50p-66-achuzzah,אֲחֻזָּה,landed property,66,61.81,61.61,63.24
+he-nn50p-62-qaneh,קָנֶה,measuring reed,62,65.04,64.84,66.57
+he-nn50p-67-qets,קֵץ,"end, limit, boundary",67,68.08,67.88,69.34
+he-nn50p-69-chen,חֵן,"charm, favor; grace",69,71.53,71.33,72.87
+he-nn50p-54-gamal,גָּמָל,camel,54,75.40,75.20,76.46
+he-nn50p-53-tsel,צֵל,shadow,53,78.32,78.12,79.84
+he-nn50p-69-qadim,קָדִים,"east side, east",69,81.50,81.30,83.00
+he-nn50p-55-almanah,אַלְמָנָה,widow,55,84.73,84.53,86.00
+he-nn50p-57-eden,אֶדֶן,"pedestal, socket",57,87.71,87.51,88.94
+he-nn50p-66-cheleq,חֵלֶק,"part, portion",66,91.44,91.24,92.98
+he-nn50p-53-emunah,אֱמוּנָה,faithfulness,53,94.78,94.58,96.03

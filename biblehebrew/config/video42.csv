@@ -1,0 +1,17 @@
+id,word,english,number,frame_t,audio_start,audio_end
+he-nn50p-58-eloah,אֱלוֹהַּ,"god, God, deity",58,5.71,5.51,6.36
+he-nn50p-54-middah,מִדָּה,measure,54,11.14,10.94,11.82
+he-nn50p-59-orach,אֹרַח,"way, path",59,14.71,14.51,15.28
+he-nn50p-58-sela,סֶלַע,rock,58,17.68,17.48,18.71
+he-nn50p-53-medinah,מְדִינָה,province,53,21.36,21.16,22.60
+he-nn50p-53-sofer,סֹפֵר,"scribe, writer",53,24.99,24.79,26.56
+he-nn50p-56-amah,אָמָה,female slave,56,28.33,28.13,29.46
+he-nn50p-53-solet,סֹלֶת,fine wheat flour,53,31.69,31.49,33.16
+he-nn50p-61-qedem,קֶדֶם,"east, ancient times",61,35.55,35.35,36.43
+he-nn50p-55-shen,שֵׁן,"tooth, ivory",55,38.34,38.14,39.54
+he-nn50p-58-tehillah,תְּהִלָּה,praise,58,42.18,41.98,43.57
+he-nn50p-58-reach,רֵיחַ,"odor, scent",58,46.42,46.22,47.29
+he-nn50p-69-ed,"עֵד, עֵדָה²",² witness,69,49.65,49.45,52.56
+he-nn50p-56-yaar,יַעַר,"thicket, forest",56,54.30,54.10,55.67
+he-nn50p-57-malkhu,מַלְכוּ,"kingdom, realm (Aram.)",57,57.47,57.27,58.88
+he-nn50p-67-qever,קֶבֶר,grave,67,60.96,60.76,62.18

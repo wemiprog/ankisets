@@ -1,0 +1,32 @@
+id,word,english,number,frame_t,audio_start,audio_end
+he-v50p-65-tsalach,צָלַח,"to be strong, succeed",65,1.23,1.03,2.63
+he-v50p-57-tsarar,צָרַר,"to wrap up, be hostile",57,5.43,5.23,6.25
+he-v50p-63-arar,אָרַר,to curse,63,8.44,8.24,9.77
+he-v50p-64-achaz,אָחַז,"to seize, hold fast",64,11.24,11.04,12.59
+he-v50p-50-parar,פָּרַר,"to break out, burst forth",50,13.88,13.68,14.52
+he-v50p-51-kavas,כָּבַס,to wash,51,16.48,16.28,17.64
+he-v50p-62-natsar,נָצַר,"to watch, guard",62,19.05,18.85,20.39
+he-v50p-66-puts,פּוּץ,"to scatter, disperse",66,21.67,21.47,23.01
+he-v50p-57-paal,פָּעַל,"to do, act, make",57,24.42,24.22,25.79
+he-v50p-69-taqa,תָּקַע,"to blow, thrust, drive",69,27.34,27.14,28.71
+he-v50p-60-padah,פָּדָה,"to redeem, buy off",60,30.78,30.58,31.95
+he-v50p-67-paras,פָּרַשׂ,to spread out,67,33.76,33.56,34.61
+he-v50p-50-yarah,יָרָה,"to instruct, teach (Hi)",50,36.64,36.44,37.99
+he-v50p-65-kashal,כָּשַׁל,"to stumble, totter",65,39.62,39.42,40.92
+he-v50p-50-parats,פָּרַץ,to burst out,50,42.73,42.53,43.73
+he-v50p-60-zanah,זָנָה,to be a harlot,60,47.01,46.81,48.27
+he-v50p-51-nadach,נָדַח,"to banish, drive away",51,49.62,49.42,51.02
+he-v50p-55-chadal,חָדַל,"to cease, refrain, end",55,52.35,52.15,53.68
+he-v50p-59-yakhach,יָכַח,to dispute; reprove,59,55.10,54.90,56.35
+he-v50p-54-davaq,דָּבַק,"to cling to, stick to",54,57.79,57.59,59.15
+he-v50p-60-baar,בָּעַר,"to burn, kindle",60,60.50,60.30,61.85
+he-v50p-50-charam,חָרַם,"to ban, devote, destroy",50,63.40,63.20,64.65
+he-v50p-59-nata,נָטַע,to plant,59,66.00,65.80,67.44
+he-v50p-53-yatsaq,יָצַק,"to pour out, cast",53,68.79,68.59,69.98
+he-v50p-63-barach,בָּרַח,"to run away, flee",63,71.16,70.96,72.43
+he-v50p-58-shadad,שָׁדַד,"to devastate, lay waste",58,73.81,73.61,75.00
+he-v50p-52-madad,מָדַד,to measure,52,78.14,77.94,79.42
+he-v50p-97-yavesh,יָבֵשׁ,"to be dry, wither",97,81.17,80.97,82.50
+he-v50p-62-shaqah,שָׁקָה,to give to drink (Hi),62,84.16,83.96,85.66
+he-v50p-58-rachaq,רָחַק,"to be far away, distant",58,87.61,87.41,88.95
+he-v50p-50-nasag,נָשַׂג,to overtake,50,91.26,91.06,92.48

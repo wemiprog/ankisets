@@ -1,0 +1,30 @@
+id,word,english,number,frame_t,audio_start,audio_end
+he-n50p-56-yehoyada,יְהוֹיָדָע,Jehoiada,56,1.67,1.47,3.18
+he-n50p-53-yoshiyyahu,"יֹאשִׁיָּה, יֹאשִׁיָּהוּ",Josiah,53,4.47,4.27,5.42
+he-n50p-58-iyyov,אִיּוֹב,Job,58,8.58,8.38,9.78
+he-n50p-67-avimelekh,אֲבִימֶלֶךְ,Abimelech,67,11.32,11.12,12.68
+he-n50p-55-ester,אֶסְתֵּר,Esther,55,14.76,14.56,15.85
+he-n50p-60-bashan,בָּשָׁן,Bashan,60,16.92,16.72,18.01
+he-n50p-60-mordekhay,מָרְדֳּכַי,Mordecai,60,19.59,19.39,20.89
+he-n50p-56-yishmael,יִשְׁמָעֵאל; יִשְׁמְעֵאלִי,"Ishmael, Ishmaelite",56,22.48,22.28,24.34
+he-n50p-63-tsidqiyyahu,"צִדְקִיָּה, צִדְקִיָּהוּ",Zedekiah,63,26.09,25.89,28.71
+he-n50p-54-haman,הָמָן,Haman,54,30.22,30.02,31.63
+he-n50p-53-sarah,שָׂרָה; שָׂרַי,Sarah; Sarai,53,33.72,33.52,35.77
+he-n50p-58-asa,אָסָא,Asa,58,37.94,37.74,39.21
+he-n50p-57-ramah,רָמָה,Ramah,57,41.10,40.90,42.06
+he-n50p-54-kush,כּוּשׁ; כּוּשִׁי,Cush; Cushite,54,43.67,43.47,45.55
+he-n50p-53-tsadoq,צָדוֹק,Zadok,53,47.13,46.93,48.49
+he-n50p-58-elisha,אֱלִישָׁע,Elisha,58,50.18,49.98,51.45
+he-n50p-54-lavan,לָבָן,Laban,54,53.15,52.95,54.46
+he-n50p-51-amaleq,עֲמָלֵק; עֲמָלֵקִי,Amalek; Amalekite,51,56.18,55.98,57.02
+he-n50p-57-yericho,יְרִיחוֹ,Jericho,57,61.93,61.73,63.30
+he-n50p-64-bilam,בִּלְעָם,Balaam,64,65.58,65.38,66.90
+he-n50p-67-midyan,מִדְיָן; מִדְיָנִי,Midian; Midianite,67,68.89,68.69,71.29
+he-n50p-62-chet,חֵת; חִתִּי,Heth; Hittite,62,72.75,72.55,74.44
+he-n50p-63-shekhem,שְׁכֶם,Shechem,63,76.29,76.09,77.65
+he-n50p-63-mikhah,"מִיכָה, מִיכָא",Micah,63,79.44,79.24,80.68
+he-n50p-58-yehu,יֵהוּא,Jehu,58,82.58,82.38,84.09
+he-n50p-64-yoash,יוֹאָשׁ,Joash,64,85.76,85.56,87.36
+he-n50p-52-rechavam,רְחַבְעָם,Rehoboam,52,88.60,88.40,89.85
+he-n50p-50-naftali,נַפְתָּלִי,Naphtali,50,92.55,92.35,92.99
+he-n50p-63-avner,אַבְנֵר,Abner,63,95.39,95.19,96.81
