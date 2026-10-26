@@ -1,0 +1,22 @@
+id,word,english,number,frame_t,audio_start,audio_end
+he-nn70p-71-shulchan,שֻׁלְחָן,table,71,2.34,2.14,3.47
+he-nn70p-73-tsur,צוּר,"boulder, (large) rock",73,6.82,6.62,8.26
+he-nn70p-71-berakhah,בְּרָכָה,blessing,71,11.04,10.84,12.48
+he-nn70p-72-beten,בֶּטֶן,"belly, womb",72,15.36,15.16,16.55
+he-nn70p-73-qir,קִיר,wall,73,19.91,19.71,20.72
+he-nn70p-91-malkhut,מַלְכוּת,dominion; kingdom,91,23.46,23.26,24.89
+he-nn70p-92-ger,גֵּר,stranger,92,28.26,28.06,29.41
+he-nn70p-79-ari,"אֲרִי, אַרְיֵה",lion,79,32.12,31.92,32.84
+he-nn70p-76-miqneh,מִקְנֶה,"possession (of land, cattle)",76,36.92,36.72,37.82
+he-nn70p-92-qatseh,קָצֶה,"end, border, extremity",92,41.25,41.05,42.52
+he-nn70p-115-migrash,מִגְרָשׁ,"open land, pasture",115,45.71,45.51,47.15
+he-nn70p-117-lashon,לָשׁוֹן,tongue,117,49.98,49.78,51.11
+he-nn70p-72-shofar,שׁוֹפָר,trumpet,72,54.18,53.98,55.34
+he-nn70p-82-zakhar,זָכָר,male (person or animal),82,58.40,58.20,59.55
+he-nn70p-79-shor,שׁוֹר,"ox, bull",79,61.70,61.50,62.75
+he-nn70p-116-tsedeq,צֶדֶק,"rightness, godliness",116,65.52,65.32,66.94
+he-nn70p-92-ever,עֵבֶר,"side, region; opposite side",92,69.27,69.07,71.02
+he-nn70p-74-mizrach,מִזְרָח,"sunrise, east",74,73.03,72.83,74.47
+he-nn70p-85-peah,פֵּאָה,"side, edge, corner",85,76.87,76.67,78.36
+he-nn70p-66-negev,נֶגֶב,"dry country, south, Negev",66,82.04,81.84,83.59
+he-nn70p-75-qeren,קֶרֶן,horn,75,86.21,86.01,87.76

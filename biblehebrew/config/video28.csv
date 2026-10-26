@@ -1,0 +1,26 @@
+id,word,english,number,frame_t,audio_start,audio_end
+he-v70p-70-mashach,מָשַׁח,to anoint,70,1.88,1.68,3.18
+he-v70p-74-zaaq,זָעַק,to cry out,74,5.97,5.77,7.46
+he-v70p-108-nacham,נָחַם,"to comfort, console",108,8.94,8.74,10.17
+he-v70p-116-shalem,שָׁלַם,"to be whole, complete",116,11.82,11.62,12.57
+he-v70p-111-yadah,יָדָה,"to praise, confess",111,14.37,14.17,15.67
+he-v70p-82-satar,סָתַר,"to hide, conceal",82,17.73,17.53,19.12
+he-v70p-102-shakhach,שָׁכַח,to forget,102,20.80,20.60,22.45
+he-v70p-83-gur,גּוּר,to sojourn,83,24.57,24.37,25.69
+he-v70p-81-mashal,מָשַׁל,"to rule, govern",81,28.52,28.32,29.97
+he-v70p-96-aman,אָמַן,"to believe; be firm, faithful",96,32.84,32.64,33.88
+he-v70p-79-anah,עָנָה,"to oppress, humiliate",79,36.71,36.51,37.21
+he-v70p-106-yatar,יָתַר,"to be left, remain",106,40.19,39.99,41.01
+he-v70p-73-asar,אָסַר,to bind; be imprisoned,73,43.28,43.08,44.53
+he-v70p-94-malat,מָלַט,"to escape, deliver",94,47.12,46.92,48.15
+he-v70p-104-ruts,רוּץ,to run,104,52.32,52.12,53.54
+he-v70p-77-chanan,חָנַן,"to be gracious, show favor",77,56.25,56.05,57.54
+he-v70p-82-sagar,סָגַר,"to shut, close; (Hi) deliver up",82,60.03,59.83,61.19
+he-v70p-72-rachats,רָחַץ,"to wash, bathe (oneself)",72,64.11,63.91,65.44
+he-v70p-81-mahar,מָהַר,to hasten (Pi),81,68.03,67.83,68.80
+he-v70p-88-shir,שִׁיר,to sing,88,71.80,71.60,73.14
+he-v70p-73-pala,פָּלָא,to be wonderful (Ni),73,75.44,75.24,76.85
+he-v70p-82-qalal,קָלַל,"to be easy, light; (Pi) curse",82,78.68,78.48,79.52
+he-v70p-70-navat,נָבַט,"to look at, regard (Pi, Hi)",70,82.00,81.80,82.86
+he-v70p-117-yatav,יָטַב,to be good,117,85.42,85.22,86.62
+he-v70p-116-saraf,שָׂרַף,to burn,116,88.88,88.68,90.05

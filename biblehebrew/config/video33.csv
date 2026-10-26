@@ -1,0 +1,23 @@
+id,word,english,number,frame_t,audio_start,audio_end
+he-nn70p-78-nega,נֶגַע,"plague, blow, sore",78,2.94,2.74,4.24
+he-nn70p-94-simchah,שִׂמְחָה,joy,94,6.56,6.36,7.91
+he-nn70p-110-afar,עָפָר,"dry earth, dust",110,10.12,9.92,11.63
+he-nn70p-112-ammud,עַמּוּד,"pillar, column",112,13.43,13.23,14.78
+he-nn70p-118-paam,פַּעַם,"foot, step; time",118,16.95,16.75,18.25
+he-nn70p-113-sheqer,שֶׁקֶר,"lie, deception",113,20.47,20.27,21.90
+he-nn70p-99-or,עוֹר,"skin, leather",99,24.07,23.87,25.57
+he-nn70p-70-kesil,כְּסִיל,fool,70,28.33,28.13,29.59
+he-nn70p-77-tefillah,תְּפִלָּה,prayer,77,32.16,31.96,33.70
+he-nn70p-70-tsarah,צָרָה,distress,70,36.36,36.16,37.70
+he-nn70p-111-shabbat,שַׁבָּת,"sabbath, rest",111,41.65,41.45,42.86
+he-nn70p-71-givah,גִּבְעָה,hill; cultic high place,71,46.13,45.93,47.59
+he-nn70p-95-orekh,אֹרֶךְ,length,95,50.84,50.64,52.11
+he-nn70p-76-naarah,נַעֲרָה,"young lady, miss, damsel",76,55.01,54.81,55.79
+he-nn70p-80-hekhal,הֵיכָל,"temple, palace",80,59.23,59.03,60.58
+he-nn70p-87-anan,עָנָן,cloud,87,63.11,62.91,64.38
+he-nn70p-101-raav,רָעָב,"hunger, famine",101,66.98,66.78,68.69
+he-nn70p-89-etsah,עֵצָה,"advice, counsel",89,70.91,70.71,72.13
+he-nn70p-103-mareh,מַרְאֶה,"appearance, sight",103,74.70,74.50,76.18
+he-nn70p-96-elah,אֱלָהּ,"God, god (Aram.)",96,78.69,78.49,80.00
+he-nn70p-70-bor,בּוֹר,"pit, cistern",70,82.76,82.56,84.03
+he-nn70p-91-zeroa,זְרוֹעַ,"arm, forearm",91,86.71,86.51,88.27

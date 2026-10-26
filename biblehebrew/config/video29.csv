@@ -1,0 +1,26 @@
+id,word,english,number,frame_t,audio_start,audio_end
+he-v70p-85-qanah,קָנָה,"to buy, acquire",85,2.56,2.36,3.83
+he-v70p-117-shafakh,שָׁפַךְ,to pour out,117,6.35,6.15,7.22
+he-v70p-104-gaal,גָּאַל,"to redeem, avenge",104,9.82,9.62,11.31
+he-v70p-87-lamad,לָמַד,to learn; (Pi) teach,87,13.29,13.09,14.67
+he-v70p-112-chashav,חָשַׁב,"to account, regard, value",112,16.52,16.32,17.92
+he-v70p-93-charah,חָרָה,"to be hot, burning, angry",93,20.14,19.94,21.41
+he-v70p-97-sava,שָׂבַע,"to satisfy, be satiated",97,23.82,23.62,24.55
+he-v70p-97-raa,רָעַע,"to be wicked, evil",97,27.38,27.18,28.69
+he-v70p-115-qatar,קָטַר,to smoke sacrifice,115,31.58,31.38,32.53
+he-v70p-84-palal,פָּלַל,to pray,84,35.20,35.00,36.56
+he-v70p-71-shavat,שָׁבַת,"to cease, rest",71,39.11,38.91,40.48
+he-v70p-88-shit,שִׁית,"to put, place, appoint",88,42.92,42.72,44.27
+he-v70p-97-lavash,לָבַשׁ,to wear,97,46.38,46.18,47.74
+he-v70p-94-hafakh,הָפַךְ,"to turn, overturn",94,49.88,49.68,50.86
+he-v70p-82-azar,עָזַר,"to help, assist",82,53.47,53.27,54.87
+he-v70p-75-arakh,עָרַךְ,"to arrange, set in order",75,57.03,56.83,58.48
+he-v70p-70-riv,רִיב,"to contend, plead (a case)",70,60.39,60.19,61.74
+he-v70p-107-safar,סָפַר,"to count, relate",107,63.73,63.53,64.57
+he-v70p-115-nava,נָבָא,"to prophesy (Ni, Hith)",115,66.97,66.77,68.02
+he-v70p-90-shamad,שָׁמַד,"to destroy, demolish",90,70.22,70.02,71.39
+he-v70p-70-lin,לִין,"to lodge, spend the night",70,74.18,73.98,75.12
+he-v70p-98-sharat,שָׁרַת,"to minister to, serve (Pi)",98,77.27,77.07,78.47
+he-v70p-80-ur,עוּר,"to arouse, stir up, awake",80,80.33,80.13,80.98
+he-v70p-94-taher,טָהֵר,"to be clean, purify",94,83.63,83.43,84.88
+he-v70p-80-makhar,מָכַר,to sell,80,87.04,86.84,87.81

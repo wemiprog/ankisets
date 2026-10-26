@@ -1,0 +1,24 @@
+id,word,english,number,frame_t,audio_start,audio_end
+he-nn70p-75-qeshet,קֶשֶׁת,bow; rainbow,75,2.41,2.21,3.42
+he-nn70p-93-pesha,פֶּשַׁע,"transgression, rebellion",93,7.24,7.04,8.69
+he-nn70p-119-nahar,נָהָר,"river, stream",119,11.66,11.46,12.59
+he-nn70p-118-toevah,תּוֹעֵבָה,abomination,118,14.40,14.20,16.02
+he-nn70p-96-chayyah,חַיָּה,"animal, beast",96,17.90,17.70,19.33
+he-nn70p-96-yeter,יֶתֶר,remainder,96,21.28,21.08,22.62
+he-nn70p-80-choshekh,חֹשֶׁךְ,darkness,80,24.85,24.65,26.14
+he-nn70p-71-of,עוֹף,bird,71,28.27,28.07,29.52
+he-nn70p-74-shalal,שָׁלָל,"spoil, plunder",74,31.93,31.73,33.05
+he-nn70p-117-mamlakhah,מַמְלָכָה,kingdom,117,35.76,35.56,37.25
+he-nn70p-73-erez,אֶרֶז,cedar,73,39.85,39.65,41.22
+he-nn70p-74-ez,עֵז,goat,74,43.58,43.38,44.93
+he-nn70p-88-sheqel,שֶׁקֶל,shekel (unit of weight),88,46.91,46.71,48.53
+he-nn70p-90-yeled,"יֶלֶד, יַלְדָּה",boy; girl,90,50.43,50.23,53.26
+he-nn70p-92-kerem,כֶּרֶם,vineyard,92,54.76,54.56,56.09
+he-nn70p-79-otsar,אוֹצָר,"treasure, treasury",79,58.84,58.64,59.85
+he-nn70p-91-keruv,כְּרוּב,cherubim,91,62.32,62.12,63.68
+he-nn70p-78-yeshuah,יְשׁוּעָה,"salvation, deliverance",78,66.12,65.92,67.50
+he-nn70p-78-shir,"שִׁיר, שִׁירָה",song,78,70.02,69.82,72.11
+he-nn70p-92-chelev,חֵלֶב,fat,92,74.45,74.25,76.02
+he-nn70p-119-achot,אָחוֹת,sister,119,78.16,77.96,79.23
+he-nn70p-104-chuqqah,חֻקָּה,"statute, prescription",104,81.81,81.61,83.04
+he-nn70p-80-qorban,קָרְבָּן,"offering, gift",80,85.37,85.17,86.85
