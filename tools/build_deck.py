@@ -116,6 +116,21 @@ def contact(imgs, path, cols=4):
     for i, im in enumerate(ims): sheet.paste(im.resize((tw, th)), ((i % cols) * tw, (i // cols) * th))
     sheet.save(path)
 
+PRESET = json.load(open(os.path.join(T, "deck_preset.json"), encoding="utf-8"))  # Anki default preset (anki 26.09) with Michi's changes:
+# gather Ascending position (newGatherPriority 1), sort Order gathered (newSortOrder 1), 5 new/day, steps 10m/10m, desiredRetention 0.90, no FSRS params
+class PresetPackage(genanki.Package):  # genanki hardcodes preset 1 ("Default"); add our own preset (stable id != 1) and assign it to every deck
+    def __init__(self, decks, media_files, preset_name):
+        super().__init__(decks, media_files=media_files); self.preset_name = preset_name
+    def write_to_db(self, cursor, timestamp, id_gen):
+        super().write_to_db(cursor, timestamp, id_gen)
+        pid = stable_id("preset:" + self.preset_name)
+        conf = dict(PRESET, id=pid, name=self.preset_name, mod=int(timestamp))
+        dconf = json.loads(cursor.execute("SELECT dconf FROM col").fetchone()[0]); dconf[str(pid)] = conf
+        decks = json.loads(cursor.execute("SELECT decks FROM col").fetchone()[0])
+        for k, dk in decks.items():
+            if k != "1": dk["conf"] = pid
+        cursor.execute("UPDATE col SET dconf = ?, decks = ?", (json.dumps(dconf), json.dumps(decks)))
+
 def package(d, words, out, sheet=True, variant="EN"):
     lang = d["lang"]; media = f"media/{lang}"; m = model_for(lang, d.get("dir", "ltr"), variant); decks = {}
     files = [os.path.join(FONTS, d["font"])] if d.get("font") else []
@@ -130,7 +145,12 @@ def package(d, words, out, sheet=True, variant="EN"):
             tags=[f"pos::{w['pos']}", f"freq::{w['freq_tag']}", f"lang::{lang}"],
             fields=[w["word"], f"[sound:{w['audio']}]", f'<img src="{w["image"]}">', w["english"], str(w["occurrences"]), str(w["rank"])] + ([size_class(w["word"])] if lang == "greek" else []) + [pos, w.get("strongs", ""), german_html(w, lang) if variant != "EN" else w.get("german", "")]))
         files += [f"{media}/{w['image']}", f"{media}/{w['audio']}"]
-    genanki.Package(list(decks.values()), media_files=files).write_to_file(out)
+    root = d["root_de"] if variant == "DE" else d["root"]
+    for name in list(decks):  # parent decks too, so they carry the preset (display order comes from the deck you study)
+        parts = name.split("::")
+        for i in range(1, len(parts)):
+            p = "::".join(parts[:i]); decks.setdefault(p, genanki.Deck(stable_id("deck:" + p), p))
+    PresetPackage(list(decks.values()), files, root).write_to_file(out)
     if sheet and variant == "EN": contact([f"{media}/{w['image']}" for w in words], "out/" + os.path.basename(out).replace(".apkg", "_contact.png"))
     print(f"wrote {out}: {len(words)} notes, {len(decks)} decks")
 
