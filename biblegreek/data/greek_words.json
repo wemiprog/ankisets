@@ -48,7 +48,8 @@
     "frame_t": 50.1,
     "audio_start": 50.4,
     "audio_end": 50.9
-   }
+   },
+   "german": "und, auch, sogar"
   },
   {
    "id": "gr-o50p-39",
@@ -75,7 +76,8 @@
     "frame_t": 14.899999999999999,
     "audio_start": 15.0,
     "audio_end": 15.6
-   }
+   },
+   "german": "er, sie, es; selbst"
   },
   {
    "id": "gr-o50p-48",
@@ -102,7 +104,8 @@
     "frame_t": 33.1,
     "audio_start": 33.6,
     "audio_end": 34.0
-   }
+   },
+   "german": "du; ihr (Pl.)"
   },
   {
    "id": "gr-o50p-31",
@@ -129,7 +132,8 @@
     "frame_t": 61.5,
     "audio_start": 62.25,
     "audio_end": 62.95
-   }
+   },
+   "german": "ich; wir (Pl.)"
   },
   {
    "id": "gr-o50p-29",
@@ -156,7 +160,8 @@
     "frame_t": 58.1,
     "audio_start": 58.25,
     "audio_end": 58.8
-   }
+   },
+   "german": "aber, und, nun"
   },
   {
    "id": "gr-v50p-44",
@@ -183,7 +188,8 @@
     "frame_t": 26.3,
     "audio_start": 26.6,
     "audio_end": 27.1
-   }
+   },
+   "german": "sein, existieren"
   },
   {
    "id": "gr-v50p-09",
@@ -210,7 +216,8 @@
     "frame_t": 18.3,
     "audio_start": 18.45,
     "audio_end": 19.15
-   }
+   },
+   "german": "sagen, reden"
   },
   {
    "id": "gr-o50p-04",
@@ -237,7 +244,8 @@
     "frame_t": 7.5,
     "audio_start": 7.75,
     "audio_end": 8.6
-   }
+   },
+   "german": "in … hinein, zu, nach"
   },
   {
    "id": "gr-o50p-17",
@@ -264,7 +272,8 @@
     "frame_t": 33.300000000000004,
     "audio_start": 33.55,
     "audio_end": 33.85
-   }
+   },
+   "german": "der, welcher (Relativpronomen)"
   },
   {
    "id": "gr-o50p-24",
@@ -291,7 +300,8 @@
     "frame_t": 46.900000000000006,
     "audio_start": 47.85,
     "audio_end": 48.3
-   }
+   },
+   "german": "dieser"
   },
   {
    "id": "gr-n50p-24",
@@ -318,7 +328,8 @@
     "frame_t": 54.300000000000004,
     "audio_start": 54.9,
     "audio_end": 55.5
-   }
+   },
+   "german": "der Gott"
   },
   {
    "id": "gr-o50p-50",
@@ -345,7 +356,8 @@
     "frame_t": 37.5,
     "audio_start": 37.8,
     "audio_end": 38.35
-   }
+   },
+   "german": "dass; weil"
   },
   {
    "id": "gr-a50p-09",
@@ -372,7 +384,8 @@
     "frame_t": 17.9,
     "audio_start": 18.35,
     "audio_end": 18.6
-   }
+   },
+   "german": "jeder, ganz, all"
   },
   {
    "id": "gr-o50p-43",
@@ -399,7 +412,8 @@
     "frame_t": 23.5,
     "audio_start": 23.85,
     "audio_end": 24.4
-   }
+   },
+   "german": "denn, nämlich"
   },
   {
    "id": "gr-o50p-40",
@@ -426,7 +440,8 @@
     "frame_t": 16.7,
     "audio_start": 17.2,
     "audio_end": 17.5
-   }
+   },
+   "german": "aus, von … her"
   },
   {
    "id": "gr-o50p-27",
@@ -453,7 +468,8 @@
     "frame_t": 54.1,
     "audio_start": 54.45,
     "audio_end": 55.0
-   }
+   },
+   "german": "auf, an, über; zu"
   },
   {
    "id": "gr-n50p-32",
@@ -480,7 +496,8 @@
     "frame_t": 73.10000000000001,
     "audio_start": 74.0,
     "audio_end": 74.55
-   }
+   },
+   "german": "der Herr"
   },
   {
    "id": "gr-v50p-05",
@@ -507,7 +524,8 @@
     "frame_t": 10.1,
     "audio_start": 10.6,
     "audio_end": 11.15
-   }
+   },
+   "german": "haben, halten"
   },
   {
    "id": "gr-o50p-13",
@@ -534,7 +552,8 @@
     "frame_t": 24.9,
     "audio_start": 25.25,
     "audio_end": 25.65
-   }
+   },
+   "german": "(Akk.) zu, hin zu; (Dat.) bei; (Gen.) für"
   },
   {
    "id": "gr-v50p-13",
@@ -561,7 +580,8 @@
     "frame_t": 26.3,
     "audio_start": 26.35,
     "audio_end": 27.2
-   }
+   },
+   "german": "werden, geschehen, entstehen"
   },
   {
    "id": "gr-o50p-21",
@@ -588,7 +608,8 @@
     "frame_t": 41.1,
     "audio_start": 41.25,
     "audio_end": 41.75
-   }
+   },
+   "german": "(Gen.) durch; (Akk.) wegen"
   },
   {
    "id": "gr-o50p-28",
@@ -615,7 +636,8 @@
     "frame_t": 55.900000000000006,
     "audio_start": 56.45,
     "audio_end": 56.9
-   }
+   },
+   "german": "damit, dass"
   },
   {
    "id": "gr-o50p-54",
@@ -642,7 +664,8 @@
     "frame_t": 46.1,
     "audio_start": 46.35,
     "audio_end": 47.0
-   }
+   },
+   "german": "von, von … weg"
   },
   {
    "id": "gr-o50p-26",
@@ -669,7 +692,8 @@
     "frame_t": 51.900000000000006,
     "audio_start": 52.25,
     "audio_end": 52.8
-   }
+   },
+   "german": "aber, sondern"
   },
   {
    "id": "gr-v50p-06",
@@ -696,7 +720,8 @@
     "frame_t": 12.1,
     "audio_start": 12.4,
     "audio_end": 13.2
-   }
+   },
+   "german": "kommen, gehen"
   },
   {
    "id": "gr-v50p-80",
@@ -723,7 +748,8 @@
     "frame_t": 18.9,
     "audio_start": 19.05,
     "audio_end": 19.85
-   }
+   },
+   "german": "tun, machen"
   },
   {
    "id": "gr-o50p-20",
@@ -750,7 +776,8 @@
     "frame_t": 39.1,
     "audio_start": 39.4,
     "audio_end": 39.75
-   }
+   },
+   "german": "wer? was? warum?"
   },
   {
    "id": "gr-n50p-75",
@@ -777,7 +804,8 @@
     "frame_t": 9.899999999999999,
     "audio_start": 10.3,
     "audio_end": 11.0
-   }
+   },
+   "german": "der Mensch"
   },
   {
    "id": "gr-n50p-65",
@@ -804,7 +832,8 @@
     "frame_t": 73.3,
     "audio_start": 73.85,
     "audio_end": 74.9
-   }
+   },
+   "german": "Christus, der Gesalbte"
   },
   {
    "id": "gr-o50p-32",
@@ -831,7 +860,8 @@
     "frame_t": 0.5,
     "audio_start": 1.0,
     "audio_end": 1.55
-   }
+   },
+   "german": "irgendein, jemand, etwas"
   },
   {
    "id": "gr-o50p-25",
@@ -858,7 +888,8 @@
     "frame_t": 49.7,
     "audio_start": 49.85,
     "audio_end": 50.45
-   }
+   },
+   "german": "also, nun, folglich"
   },
   {
    "id": "gr-o50p-35",
@@ -885,7 +916,8 @@
     "frame_t": 6.9,
     "audio_start": 7.15,
     "audio_end": 7.6
-   }
+   },
+   "german": "wenn, ob"
   },
   {
    "id": "gr-o50p-09",
@@ -912,7 +944,8 @@
     "frame_t": 16.9,
     "audio_start": 17.1,
     "audio_end": 17.85
-   }
+   },
+   "german": "(Gen.) gegen, herab; (Akk.) gemäß, entlang"
   },
   {
    "id": "gr-o50p-10",
@@ -939,7 +972,8 @@
     "frame_t": 18.9,
     "audio_start": 19.3,
     "audio_end": 19.9
-   }
+   },
+   "german": "(Gen.) mit; (Akk.) nach"
   },
   {
    "id": "gr-v50p-83",
@@ -966,7 +1000,8 @@
     "frame_t": 25.099999999999998,
     "audio_start": 25.35,
     "audio_end": 25.95
-   }
+   },
+   "german": "sehen"
   },
   {
    "id": "gr-v50p-59",
@@ -993,7 +1028,8 @@
     "frame_t": 57.7,
     "audio_start": 57.95,
     "audio_end": 58.65
-   }
+   },
+   "german": "hören; gehorchen"
   },
   {
    "id": "gr-v50p-08",
@@ -1020,7 +1056,8 @@
     "frame_t": 16.3,
     "audio_start": 16.45,
     "audio_end": 17.3
-   }
+   },
+   "german": "geben"
   },
   {
    "id": "gr-n50p-18",
@@ -1047,7 +1084,8 @@
     "frame_t": 40.1,
     "audio_start": 40.65,
     "audio_end": 41.15
-   }
+   },
+   "german": "der Vater"
   },
   {
    "id": "gr-a50p-18",
@@ -1074,7 +1112,8 @@
     "frame_t": 38.1,
     "audio_start": 38.6,
     "audio_end": 39.2
-   }
+   },
+   "german": "viel, groß; (Pl.) viele"
   },
   {
    "id": "gr-n50p-54",
@@ -1101,7 +1140,8 @@
     "frame_t": 44.900000000000006,
     "audio_start": 45.35,
     "audio_end": 46.15
-   }
+   },
+   "german": "der Tag"
   },
   {
    "id": "gr-n50p-14",
@@ -1128,7 +1168,8 @@
     "frame_t": 31.5,
     "audio_start": 31.85,
     "audio_end": 32.5
-   }
+   },
+   "german": "der Geist; der Wind, Atem"
   },
   {
    "id": "gr-n50p-02",
@@ -1155,7 +1196,8 @@
     "frame_t": 3.7,
     "audio_start": 4.35,
     "audio_end": 4.9
-   }
+   },
+   "german": "der Sohn"
   },
   {
    "id": "gr-a50p-10",
@@ -1182,7 +1224,8 @@
     "frame_t": 19.9,
     "audio_start": 20.1,
     "audio_end": 20.6
-   }
+   },
+   "german": "einer, eins"
   },
   {
    "id": "gr-n50p-95",
@@ -1209,7 +1252,8 @@
     "frame_t": 55.900000000000006,
     "audio_start": 56.5,
     "audio_end": 57.15
-   }
+   },
+   "german": "der Bruder"
   },
   {
    "id": "gr-o50p-46",
@@ -1236,7 +1280,8 @@
     "frame_t": 29.099999999999998,
     "audio_start": 29.35,
     "audio_end": 29.9
-   }
+   },
+   "german": "(Gen.) über, betreffs; (Akk.) um … herum"
   },
   {
    "id": "gr-n50p-28",
@@ -1263,7 +1308,8 @@
     "frame_t": 63.7,
     "audio_start": 64.0,
     "audio_end": 64.45
-   }
+   },
+   "german": "das Wort; die Rede"
   },
   {
    "id": "gr-o50p-55",
@@ -1290,7 +1336,8 @@
     "frame_t": 48.1,
     "audio_start": 48.4,
     "audio_end": 49.2
-   }
+   },
+   "german": "seiner selbst, sein eigen"
   },
   {
    "id": "gr-v50p-43",
@@ -1317,7 +1364,8 @@
     "frame_t": 24.5,
     "audio_start": 24.65,
     "audio_end": 25.3
-   }
+   },
+   "german": "wissen, kennen"
   },
   {
    "id": "gr-v50p-24",
@@ -1344,7 +1392,8 @@
     "frame_t": 48.900000000000006,
     "audio_start": 49.4,
     "audio_end": 50.2
-   }
+   },
+   "german": "reden, sprechen"
   },
   {
    "id": "gr-o50p-57",
@@ -1371,7 +1420,8 @@
     "frame_t": 51.900000000000006,
     "audio_start": 52.15,
     "audio_end": 52.7
-   }
+   },
+   "german": "wenn, falls"
   },
   {
    "id": "gr-n50p-26",
@@ -1398,7 +1448,8 @@
     "frame_t": 58.900000000000006,
     "audio_start": 59.55,
     "audio_end": 60.05
-   }
+   },
+   "german": "der Himmel"
   },
   {
    "id": "gr-o50p-36",
@@ -1425,7 +1476,8 @@
     "frame_t": 8.899999999999999,
     "audio_start": 9.25,
     "audio_end": 10.1
-   }
+   },
+   "german": "jener"
   },
   {
    "id": "gr-n50p-11",
@@ -1452,7 +1504,8 @@
     "frame_t": 24.5,
     "audio_start": 24.95,
     "audio_end": 26.05
-   }
+   },
+   "german": "der Jünger, Schüler"
   },
   {
    "id": "gr-v50p-25",
@@ -1479,7 +1532,8 @@
     "frame_t": 51.5,
     "audio_start": 52.1,
     "audio_end": 52.85
-   }
+   },
+   "german": "nehmen, empfangen"
   },
   {
    "id": "gr-n50p-53",
@@ -1506,7 +1560,8 @@
     "frame_t": 42.300000000000004,
     "audio_start": 42.85,
     "audio_end": 43.3
-   }
+   },
+   "german": "die Erde, das Land"
   },
   {
    "id": "gr-n50p-92",
@@ -1533,7 +1588,8 @@
     "frame_t": 48.300000000000004,
     "audio_start": 48.8,
     "audio_end": 49.25
-   }
+   },
+   "german": "der Glaube, das Vertrauen; die Treue"
   },
   {
    "id": "gr-a50p-29",
@@ -1560,7 +1616,8 @@
     "frame_t": 62.300000000000004,
     "audio_start": 62.65,
     "audio_end": 63.2
-   }
+   },
+   "german": "groß"
   },
   {
    "id": "gr-v50p-81",
@@ -1587,7 +1644,8 @@
     "frame_t": 20.7,
     "audio_start": 21.05,
     "audio_end": 21.95
-   }
+   },
+   "german": "glauben, vertrauen"
   },
   {
    "id": "gr-a50p-14",
@@ -1614,7 +1672,8 @@
     "frame_t": 28.9,
     "audio_start": 29.25,
     "audio_end": 30.0
-   }
+   },
+   "german": "heilig"
   },
   {
    "id": "gr-v50p-39",
@@ -1641,7 +1700,8 @@
     "frame_t": 15.7,
     "audio_start": 16.05,
     "audio_end": 17.0
-   }
+   },
+   "german": "antworten"
   },
   {
    "id": "gr-n50p-78",
@@ -1668,7 +1728,8 @@
     "frame_t": 16.9,
     "audio_start": 17.35,
     "audio_end": 17.95
-   }
+   },
+   "german": "der Name"
   },
   {
    "id": "gr-a50p-22",
@@ -1695,7 +1756,8 @@
     "frame_t": 47.1,
     "audio_start": 47.55,
     "audio_end": 48.1
-   }
+   },
+   "german": "niemand, nichts"
   },
   {
    "id": "gr-v50p-18",
@@ -1722,7 +1784,8 @@
     "frame_t": 36.1,
     "audio_start": 36.35,
     "audio_end": 37.35
-   }
+   },
+   "german": "erkennen, wissen"
   },
   {
    "id": "gr-o50p-44",
@@ -1749,7 +1812,8 @@
     "frame_t": 25.3,
     "audio_start": 25.6,
     "audio_end": 26.15
-   }
+   },
+   "german": "(Gen.) von, durch; (Akk.) unter"
   },
   {
    "id": "gr-v50p-56",
@@ -1776,7 +1840,8 @@
     "frame_t": 50.7,
     "audio_start": 51.2,
     "audio_end": 52.2
-   }
+   },
+   "german": "hinausgehen, herauskommen"
   },
   {
    "id": "gr-n50p-79",
@@ -1803,7 +1868,8 @@
     "frame_t": 18.9,
     "audio_start": 19.45,
     "audio_end": 20.0
-   }
+   },
+   "german": "der Mann, Ehemann"
   },
   {
    "id": "gr-o50p-02",
@@ -1830,7 +1896,8 @@
     "frame_t": 3.9000000000000004,
     "audio_start": 4.05,
     "audio_end": 4.45
-   }
+   },
+   "german": "und; sowohl … als auch"
   },
   {
    "id": "gr-n50p-12",
@@ -1857,7 +1924,8 @@
     "frame_t": 26.9,
     "audio_start": 27.35,
     "audio_end": 27.95
-   }
+   },
+   "german": "die Frau, Ehefrau"
   },
   {
    "id": "gr-v50p-69",
@@ -1884,7 +1952,8 @@
     "frame_t": 78.9,
     "audio_start": 79.3,
     "audio_end": 80.1
-   }
+   },
+   "german": "können, vermögen"
   },
   {
    "id": "gr-o50p-49",
@@ -1911,7 +1980,8 @@
     "frame_t": 35.300000000000004,
     "audio_start": 35.65,
     "audio_end": 35.95
-   }
+   },
+   "german": "so, auf diese Weise"
   },
   {
    "id": "gr-v50p-50",
@@ -1938,7 +2008,8 @@
     "frame_t": 38.900000000000006,
     "audio_start": 39.2,
     "audio_end": 39.6
-   }
+   },
+   "german": "wollen, wünschen"
   },
   {
    "id": "gr-o50p-05",
@@ -1965,7 +2036,8 @@
     "frame_t": 9.1,
     "audio_start": 9.3,
     "audio_end": 10.1
-   }
+   },
+   "german": "(Gen.) von; (Dat.) bei; (Akk.) neben, entlang"
   },
   {
    "id": "gr-a50p-27",
@@ -1992,7 +2064,8 @@
     "frame_t": 58.1,
     "audio_start": 58.6,
     "audio_end": 59.4
-   }
+   },
+   "german": "jüdisch; der Jude"
   },
   {
    "id": "gr-v50p-31",
@@ -2019,7 +2092,8 @@
     "frame_t": 64.5,
     "audio_start": 65.5,
     "audio_end": 66.6
-   }
+   },
+   "german": "hineingehen"
   },
   {
    "id": "gr-n50p-55",
@@ -2046,7 +2120,8 @@
     "frame_t": 47.300000000000004,
     "audio_start": 47.85,
     "audio_end": 48.7
-   }
+   },
+   "german": "das Gesetz"
   },
   {
    "id": "gr-v50p-76",
@@ -2073,7 +2148,8 @@
     "frame_t": 11.1,
     "audio_start": 11.25,
     "audio_end": 12.0
-   }
+   },
+   "german": "schreiben"
   },
   {
    "id": "gr-o50p-23",
@@ -2100,7 +2176,8 @@
     "frame_t": 44.900000000000006,
     "audio_start": 45.3,
     "audio_end": 45.55
-   }
+   },
+   "german": "wie, als"
   },
   {
    "id": "gr-n50p-66",
@@ -2127,7 +2204,8 @@
     "frame_t": 75.9,
     "audio_start": 76.2,
     "audio_end": 76.75
-   }
+   },
+   "german": "die Welt"
   },
   {
    "id": "gr-o50p-01",
@@ -2154,7 +2232,8 @@
     "frame_t": 1.1,
     "audio_start": 1.8,
     "audio_end": 2.4
-   }
+   },
+   "german": "wie, gleichwie"
   },
   {
    "id": "gr-n50p-50",
@@ -2181,7 +2260,8 @@
     "frame_t": 35.5,
     "audio_start": 36.15,
     "audio_end": 36.75
-   }
+   },
+   "german": "die Hand"
   },
   {
    "id": "gr-v50p-55",
@@ -2208,7 +2288,8 @@
     "frame_t": 48.7,
     "audio_start": 48.9,
     "audio_end": 49.8
-   }
+   },
+   "german": "finden"
   },
   {
    "id": "gr-n50p-15",
@@ -2235,7 +2316,8 @@
     "frame_t": 33.5,
     "audio_start": 34.05,
     "audio_end": 34.55
-   }
+   },
+   "german": "die Volksmenge"
   },
   {
    "id": "gr-n50p-20",
@@ -2262,7 +2344,8 @@
     "frame_t": 44.900000000000006,
     "audio_start": 45.4,
     "audio_end": 46.0
-   }
+   },
+   "german": "der Engel; der Bote"
   },
   {
    "id": "gr-n50p-89",
@@ -2289,7 +2372,8 @@
     "frame_t": 40.7,
     "audio_start": 41.6,
     "audio_end": 42.45
-   }
+   },
+   "german": "die Sünde"
   },
   {
    "id": "gr-n50p-72",
@@ -2316,7 +2400,8 @@
     "frame_t": 3.7,
     "audio_start": 4.1,
     "audio_end": 4.75
-   }
+   },
+   "german": "das Werk, die Tat"
   },
   {
    "id": "gr-n50p-13",
@@ -2343,7 +2428,8 @@
     "frame_t": 29.099999999999998,
     "audio_start": 29.85,
     "audio_end": 30.45
-   }
+   },
+   "german": "die Herrlichkeit, Ehre"
   },
   {
    "id": "gr-n50p-04",
@@ -2370,7 +2456,8 @@
     "frame_t": 8.1,
     "audio_start": 8.8,
     "audio_end": 9.2
-   }
+   },
+   "german": "die Stadt"
   },
   {
    "id": "gr-n50p-73",
@@ -2397,7 +2484,8 @@
     "frame_t": 5.7,
     "audio_start": 5.95,
     "audio_end": 6.95
-   }
+   },
+   "german": "das Reich, die Königsherrschaft"
   },
   {
    "id": "gr-n50p-83",
@@ -2424,7 +2512,8 @@
     "frame_t": 27.5,
     "audio_start": 27.95,
     "audio_end": 28.5
-   }
+   },
+   "german": "das Volk; (Pl.) die Heiden"
   },
   {
    "id": "gr-o50p-03",
@@ -2451,7 +2540,8 @@
     "frame_t": 5.9,
     "audio_start": 6.15,
     "audio_end": 6.75
-   }
+   },
+   "german": "dann, damals"
   },
   {
    "id": "gr-v50p-67",
@@ -2478,7 +2568,8 @@
     "frame_t": 74.5,
     "audio_start": 75.0,
     "audio_end": 75.7
-   }
+   },
+   "german": "essen"
   },
   {
    "id": "gr-n50p-33",
@@ -2505,7 +2596,8 @@
     "frame_t": 75.5,
     "audio_start": 76.9,
     "audio_end": 77.6
-   }
+   },
+   "german": "das Herz"
   },
   {
    "id": "gr-a50p-30",
@@ -2532,7 +2624,8 @@
     "frame_t": 64.3,
     "audio_start": 64.55,
     "audio_end": 64.95
-   }
+   },
+   "german": "anderer"
   },
   {
    "id": "gr-n50p-96",
@@ -2559,7 +2652,8 @@
     "frame_t": 58.5,
     "audio_start": 59.0,
     "audio_end": 59.45
-   }
+   },
+   "german": "die Gnade, Gunst; der Dank"
   },
   {
    "id": "gr-v50p-17",
@@ -2586,7 +2680,8 @@
     "frame_t": 34.1,
     "audio_start": 34.45,
     "audio_end": 35.15
-   }
+   },
+   "german": "stellen; (intr.) stehen, hintreten"
   },
   {
    "id": "gr-v50p-64",
@@ -2613,7 +2708,8 @@
     "frame_t": 68.10000000000001,
     "audio_start": 68.45,
     "audio_end": 69.3
-   }
+   },
+   "german": "gehen, reisen"
   },
   {
    "id": "gr-o50p-14",
@@ -2640,7 +2736,8 @@
     "frame_t": 27.099999999999998,
     "audio_start": 27.5,
     "audio_end": 28.0
-   }
+   },
+   "german": "wer, welcher; jeder, der"
   },
   {
    "id": "gr-o50p-15",
@@ -2667,7 +2764,8 @@
     "frame_t": 29.099999999999998,
     "audio_start": 29.45,
     "audio_end": 30.0
-   }
+   },
+   "german": "(Gen.) für, zugunsten; (Akk.) über … hinaus"
   },
   {
    "id": "gr-v50p-45",
@@ -2694,7 +2792,8 @@
     "frame_t": 28.3,
     "audio_start": 28.45,
     "audio_end": 29.1
-   }
+   },
+   "german": "rufen, berufen; einladen"
   },
   {
    "id": "gr-o50p-22",
@@ -2721,7 +2820,8 @@
     "frame_t": 42.900000000000006,
     "audio_start": 43.15,
     "audio_end": 43.75
-   }
+   },
+   "german": "jetzt, nun"
   },
   {
    "id": "gr-n50p-80",
@@ -2748,7 +2848,8 @@
     "frame_t": 21.099999999999998,
     "audio_start": 21.85,
     "audio_end": 22.55
-   }
+   },
+   "german": "das Fleisch"
   },
   {
    "id": "gr-v50p-10",
@@ -2775,7 +2876,8 @@
     "frame_t": 20.099999999999998,
     "audio_start": 20.35,
     "audio_end": 21.2
-   }
+   },
+   "german": "aufwecken, auferwecken; (Pass.) auferstehen"
   },
   {
    "id": "gr-n50p-29",
@@ -2802,7 +2904,8 @@
     "frame_t": 66.10000000000001,
     "audio_start": 66.35,
     "audio_end": 67.0
-   }
+   },
+   "german": "der Prophet"
   },
   {
    "id": "gr-v50p-53",
@@ -2829,7 +2932,8 @@
     "frame_t": 44.5,
     "audio_start": 44.85,
     "audio_end": 45.6
-   }
+   },
+   "german": "lassen, vergeben; zulassen"
   },
   {
    "id": "gr-v50p-87",
@@ -2856,7 +2960,8 @@
     "frame_t": 33.5,
     "audio_start": 33.8,
     "audio_end": 34.65
-   }
+   },
+   "german": "lieben"
   },
   {
    "id": "gr-n50p-08",
@@ -2883,7 +2988,8 @@
     "frame_t": 17.3,
     "audio_start": 17.9,
     "audio_end": 18.45
-   }
+   },
+   "german": "das Volk"
   },
   {
    "id": "gr-n50p-16",
@@ -2910,7 +3016,8 @@
     "frame_t": 35.7,
     "audio_start": 36.2,
     "audio_end": 36.8
-   }
+   },
+   "german": "der Leib, Körper"
   },
   {
    "id": "gr-o50p-51",
@@ -2937,7 +3044,8 @@
     "frame_t": 39.7,
     "audio_start": 40.05,
     "audio_end": 40.7
-   }
+   },
+   "german": "wieder, zurück"
   },
   {
    "id": "gr-v50p-51",
@@ -2964,7 +3072,8 @@
     "frame_t": 40.7,
     "audio_start": 40.85,
     "audio_end": 41.4
-   }
+   },
+   "german": "leben"
   },
   {
    "id": "gr-n50p-03",
@@ -2991,7 +3100,8 @@
     "frame_t": 6.3,
     "audio_start": 6.6,
     "audio_end": 7.1
-   }
+   },
+   "german": "die Stimme, der Laut"
   },
   {
    "id": "gr-a50p-34",
@@ -3018,7 +3128,8 @@
     "frame_t": 72.5,
     "audio_start": 72.8,
     "audio_end": 73.35
-   }
+   },
+   "german": "zwei"
   },
   {
    "id": "gr-n50p-45",
@@ -3045,7 +3156,8 @@
     "frame_t": 23.5,
     "audio_start": 23.7,
     "audio_end": 24.35
-   }
+   },
+   "german": "das Leben"
   },
   {
    "id": "gr-v50p-54",
@@ -3072,7 +3184,8 @@
     "frame_t": 46.7,
     "audio_start": 46.85,
     "audio_end": 47.75
-   }
+   },
+   "german": "senden, aussenden"
   },
   {
    "id": "gr-v50p-75",
@@ -3099,7 +3212,8 @@
     "frame_t": 9.1,
     "audio_start": 9.3,
     "audio_end": 10.05
-   }
+   },
+   "german": "sehen, blicken"
   },
   {
    "id": "gr-o50p-07",
@@ -3126,7 +3240,8 @@
     "frame_t": 12.899999999999999,
     "audio_start": 13.5,
     "audio_end": 13.9
-   }
+   },
+   "german": "mit, zusammen mit"
   },
   {
    "id": "gr-a50p-19",
@@ -3153,7 +3268,8 @@
     "frame_t": 40.5,
     "audio_start": 40.75,
     "audio_end": 41.25
-   }
+   },
+   "german": "tot"
   },
   {
    "id": "gr-n50p-58",
@@ -3180,7 +3296,8 @@
     "frame_t": 55.1,
     "audio_start": 55.55,
     "audio_end": 56.05
-   }
+   },
+   "german": "der Knecht, Sklave"
   },
   {
    "id": "gr-o50p-58",
@@ -3207,7 +3324,8 @@
     "frame_t": 53.7,
     "audio_start": 53.95,
     "audio_end": 54.45
-   }
+   },
+   "german": "wann immer, sooft"
   },
   {
    "id": "gr-v50p-27",
@@ -3234,7 +3352,8 @@
     "frame_t": 55.900000000000006,
     "audio_start": 56.15,
     "audio_end": 56.85
-   }
+   },
+   "german": "werfen, legen"
   },
   {
    "id": "gr-n50p-46",
@@ -3261,7 +3380,8 @@
     "frame_t": 25.7,
     "audio_start": 26.05,
     "audio_end": 27.15
-   }
+   },
+   "german": "der Hohepriester"
   },
   {
    "id": "gr-n50p-51",
@@ -3288,7 +3408,8 @@
     "frame_t": 37.7,
     "audio_start": 38.1,
     "audio_end": 38.7
-   }
+   },
+   "german": "das Zeitalter, die Ewigkeit"
   },
   {
    "id": "gr-n50p-41",
@@ -3315,7 +3436,8 @@
     "frame_t": 14.5,
     "audio_start": 15.1,
     "audio_end": 15.65
-   }
+   },
+   "german": "der Tod"
   },
   {
    "id": "gr-v50p-79",
@@ -3342,7 +3464,8 @@
     "frame_t": 16.7,
     "audio_start": 17.0,
     "audio_end": 17.9
-   }
+   },
+   "german": "übergeben, ausliefern; überliefern"
   },
   {
    "id": "gr-n50p-64",
@@ -3369,7 +3492,8 @@
     "frame_t": 70.7,
     "audio_start": 71.35,
     "audio_end": 72.05
-   }
+   },
+   "german": "die Kraft, Macht; die Wundertat"
   },
   {
    "id": "gr-v50p-38",
@@ -3396,7 +3520,8 @@
     "frame_t": 13.7,
     "audio_start": 14.0,
     "audio_end": 14.7
-   }
+   },
+   "german": "bleiben"
   },
   {
    "id": "gr-v50p-34",
@@ -3423,7 +3548,8 @@
     "frame_t": 4.9,
     "audio_start": 5.15,
     "audio_end": 6.0
-   }
+   },
+   "german": "suchen, verlangen"
   },
   {
    "id": "gr-v50p-70",
@@ -3450,7 +3576,8 @@
     "frame_t": 81.10000000000001,
     "audio_start": 81.8,
     "audio_end": 82.5
-   }
+   },
+   "german": "weggehen, fortgehen"
   },
   {
    "id": "gr-n50p-25",
@@ -3477,7 +3604,8 @@
     "frame_t": 56.7,
     "audio_start": 57.05,
     "audio_end": 57.5
-   }
+   },
+   "german": "die Liebe"
   },
   {
    "id": "gr-n50p-97",
@@ -3504,7 +3632,8 @@
     "frame_t": 60.7,
     "audio_start": 61.05,
     "audio_end": 61.8
-   }
+   },
+   "german": "der König"
   },
   {
    "id": "gr-a50p-33",
@@ -3531,7 +3660,8 @@
     "frame_t": 70.5,
     "audio_start": 70.9,
     "audio_end": 71.4
-   }
+   },
+   "german": "eigen"
   },
   {
    "id": "gr-v50p-65",
@@ -3558,7 +3688,8 @@
     "frame_t": 70.3,
     "audio_start": 70.7,
     "audio_end": 71.35
-   }
+   },
+   "german": "richten, urteilen"
   },
   {
    "id": "gr-n50p-07",
@@ -3585,7 +3716,8 @@
     "frame_t": 15.1,
     "audio_start": 15.6,
     "audio_end": 16.1
-   }
+   },
+   "german": "das Haus"
   },
   {
    "id": "gr-n50p-70",
@@ -3612,7 +3744,8 @@
     "frame_t": 85.7,
     "audio_start": 86.35,
     "audio_end": 87.25
-   }
+   },
+   "german": "die Gemeinde, Versammlung"
   },
   {
    "id": "gr-v50p-07",
@@ -3639,7 +3772,8 @@
     "frame_t": 14.1,
     "audio_start": 14.25,
     "audio_end": 15.2
-   }
+   },
+   "german": "sterben"
   },
   {
    "id": "gr-o50p-42",
@@ -3666,7 +3800,8 @@
     "frame_t": 21.099999999999998,
     "audio_start": 21.55,
     "audio_end": 22.0
-   }
+   },
+   "german": "wie viel, so viel wie; alle, die"
   },
   {
    "id": "gr-a50p-03",
@@ -3693,7 +3828,8 @@
     "frame_t": 5.7,
     "audio_start": 6.1,
     "audio_end": 6.65
-   }
+   },
+   "german": "ganz"
   },
   {
    "id": "gr-v50p-03",
@@ -3720,7 +3856,8 @@
     "frame_t": 6.1000000000000005,
     "audio_start": 6.3,
     "audio_end": 7.25
-   }
+   },
+   "german": "ermahnen, bitten; trösten"
   },
   {
    "id": "gr-v50p-26",
@@ -3747,7 +3884,8 @@
     "frame_t": 54.1,
     "audio_start": 54.35,
     "audio_end": 55.0
-   }
+   },
+   "german": "im Begriff sein, sollen; zögern"
   },
   {
    "id": "gr-n50p-84",
@@ -3774,7 +3912,8 @@
     "frame_t": 29.5,
     "audio_start": 30.05,
     "audio_end": 30.85
-   }
+   },
+   "german": "die Wahrheit"
   },
   {
    "id": "gr-v50p-57",
@@ -3801,7 +3940,8 @@
     "frame_t": 53.1,
     "audio_start": 53.65,
     "audio_end": 54.65
-   }
+   },
+   "german": "auferwecken; (intr.) aufstehen, auferstehen"
   },
   {
    "id": "gr-v50p-22",
@@ -3828,7 +3968,8 @@
     "frame_t": 44.5,
     "audio_start": 44.9,
     "audio_end": 45.45
-   }
+   },
+   "german": "retten"
   },
   {
    "id": "gr-n50p-49",
@@ -3855,7 +3996,8 @@
     "frame_t": 33.300000000000004,
     "audio_start": 33.6,
     "audio_end": 34.25
-   }
+   },
+   "german": "die Stunde"
   },
   {
    "id": "gr-o50p-06",
@@ -3882,7 +4024,8 @@
     "frame_t": 11.1,
     "audio_start": 11.6,
     "audio_end": 12.2
-   }
+   },
+   "german": "dort"
   },
   {
    "id": "gr-o50p-30",
@@ -3909,7 +4052,8 @@
     "frame_t": 59.7,
     "audio_start": 60.0,
     "audio_end": 60.4
-   }
+   },
+   "german": "als, wenn"
   },
   {
    "id": "gr-n50p-74",
@@ -3936,7 +4080,8 @@
     "frame_t": 7.9,
     "audio_start": 8.35,
     "audio_end": 8.95
-   }
+   },
+   "german": "die Seele, das Leben"
   },
   {
    "id": "gr-a50p-15",
@@ -3963,7 +4108,8 @@
     "frame_t": 31.5,
     "audio_start": 32.05,
     "audio_end": 32.7
-   }
+   },
+   "german": "gut"
   },
   {
    "id": "gr-n50p-39",
@@ -3990,7 +4136,8 @@
     "frame_t": 10.1,
     "audio_start": 10.45,
     "audio_end": 11.3
-   }
+   },
+   "german": "die Vollmacht, Macht"
   },
   {
    "id": "gr-v50p-32",
@@ -4017,7 +4164,8 @@
     "frame_t": 0.5,
     "audio_start": 1.0,
     "audio_end": 1.45
-   }
+   },
+   "german": "es ist nötig, man muss"
   },
   {
    "id": "gr-v50p-46",
@@ -4044,7 +4192,8 @@
     "frame_t": 30.3,
     "audio_start": 30.4,
     "audio_end": 31.05
-   }
+   },
+   "german": "aufheben, wegnehmen"
   },
   {
    "id": "gr-n50p-17",
@@ -4071,7 +4220,8 @@
     "frame_t": 37.900000000000006,
     "audio_start": 38.35,
     "audio_end": 38.9
-   }
+   },
+   "german": "der Weg"
   },
   {
    "id": "gr-o50p-16",
@@ -4098,7 +4248,8 @@
     "frame_t": 31.099999999999998,
     "audio_start": 31.55,
     "audio_end": 32.4
-   }
+   },
+   "german": "einander"
   },
   {
    "id": "gr-a50p-25",
@@ -4125,7 +4276,8 @@
     "frame_t": 53.900000000000006,
     "audio_start": 54.1,
     "audio_end": 54.6
-   }
+   },
+   "german": "gut, schön"
   },
   {
    "id": "gr-v50p-89",
@@ -4152,7 +4304,8 @@
     "frame_t": 37.900000000000006,
     "audio_start": 38.35,
     "audio_end": 39.05
-   }
+   },
+   "german": "setzen, legen, stellen"
   },
   {
    "id": "gr-n50p-88",
@@ -4179,7 +4332,8 @@
     "frame_t": 38.5,
     "audio_start": 38.9,
     "audio_end": 39.6
-   }
+   },
+   "german": "das Auge"
   },
   {
    "id": "gr-n50p-67",
@@ -4206,7 +4360,8 @@
     "frame_t": 77.9,
     "audio_start": 78.7,
     "audio_end": 79.35
-   }
+   },
+   "german": "das Kind"
   },
   {
    "id": "gr-o50p-47",
@@ -4233,7 +4388,8 @@
     "frame_t": 31.099999999999998,
     "audio_start": 31.55,
     "audio_end": 32.1
-   }
+   },
+   "german": "und nicht, auch nicht"
   },
   {
    "id": "gr-a50p-24",
@@ -4260,7 +4416,8 @@
     "frame_t": 51.5,
     "audio_start": 51.85,
     "audio_end": 52.55
-   }
+   },
+   "german": "anderer"
   },
   {
    "id": "gr-v50p-04",
@@ -4287,7 +4444,8 @@
     "frame_t": 8.299999999999999,
     "audio_start": 8.3,
     "audio_end": 9.2
-   }
+   },
+   "german": "zeugen; gebären"
   },
   {
    "id": "gr-v50p-36",
@@ -4314,7 +4472,8 @@
     "frame_t": 9.7,
     "audio_start": 9.75,
     "audio_end": 10.55
-   }
+   },
+   "german": "lehren"
   },
   {
    "id": "gr-n50p-27",
@@ -4341,7 +4500,8 @@
     "frame_t": 61.5,
     "audio_start": 61.85,
     "audio_end": 62.8
-   }
+   },
+   "german": "das Brot"
   },
   {
    "id": "gr-n50p-37",
@@ -4368,7 +4528,8 @@
     "frame_t": 5.9,
     "audio_start": 6.4,
     "audio_end": 6.9
-   }
+   },
+   "german": "das Blut"
   },
   {
    "id": "gr-v50p-21",
@@ -4395,7 +4556,8 @@
     "frame_t": 42.7,
     "audio_start": 42.95,
     "audio_end": 43.6
-   }
+   },
+   "german": "(Pass.) sich fürchten"
   },
   {
    "id": "gr-v50p-49",
@@ -4422,7 +4584,8 @@
     "frame_t": 36.7,
     "audio_start": 37.05,
     "audio_end": 38.0
-   }
+   },
+   "german": "umhergehen; wandeln, leben"
   },
   {
    "id": "gr-o50p-19",
@@ -4449,7 +4612,8 @@
     "frame_t": 36.900000000000006,
     "audio_start": 37.25,
     "audio_end": 37.85
-   }
+   },
+   "german": "noch, weiterhin"
   },
   {
    "id": "gr-n50p-23",
@@ -4476,7 +4640,8 @@
     "frame_t": 52.1,
     "audio_start": 52.8,
     "audio_end": 53.55
-   }
+   },
+   "german": "der Fuß"
   },
   {
    "id": "gr-n50p-76",
@@ -4503,7 +4668,8 @@
     "frame_t": 12.299999999999999,
     "audio_start": 13.0,
     "audio_end": 13.8
-   }
+   },
+   "german": "das Haus; die Familie"
   },
   {
    "id": "gr-n50p-10",
@@ -4530,7 +4696,8 @@
     "frame_t": 22.099999999999998,
     "audio_start": 22.4,
     "audio_end": 23.2
-   }
+   },
+   "german": "der Friede"
   },
   {
    "id": "gr-n50p-22",
@@ -4557,7 +4724,8 @@
     "frame_t": 49.7,
     "audio_start": 50.0,
     "audio_end": 51.1
-   }
+   },
+   "german": "die Gerechtigkeit"
   },
   {
    "id": "gr-n50p-85",
@@ -4584,7 +4752,8 @@
     "frame_t": 31.7,
     "audio_start": 32.4,
     "audio_end": 33.0
-   }
+   },
+   "german": "das Meer, der See"
   },
   {
    "id": "gr-v50p-48",
@@ -4611,7 +4780,8 @@
     "frame_t": 34.5,
     "audio_start": 34.9,
     "audio_end": 35.6
-   }
+   },
+   "german": "sitzen"
   },
   {
    "id": "gr-n50p-06",
@@ -4638,7 +4808,8 @@
     "frame_t": 12.5,
     "audio_start": 13.3,
     "audio_end": 13.7
-   }
+   },
+   "german": "der Ort, die Stelle"
   },
   {
    "id": "gr-a50p-01",
@@ -4665,7 +4836,8 @@
     "frame_t": 1.3,
     "audio_start": 1.65,
     "audio_end": 2.4
-   }
+   },
+   "german": "kein, niemand"
   },
   {
    "id": "gr-v50p-29",
@@ -4692,7 +4864,8 @@
     "frame_t": 60.1,
     "audio_start": 60.6,
     "audio_end": 61.6
-   }
+   },
+   "german": "nachfolgen, folgen"
   },
   {
    "id": "gr-v50p-33",
@@ -4719,7 +4892,8 @@
     "frame_t": 2.9000000000000004,
     "audio_start": 3.2,
     "audio_end": 3.85
-   }
+   },
+   "german": "fallen"
   },
   {
    "id": "gr-v50p-61",
@@ -4746,7 +4920,8 @@
     "frame_t": 61.7,
     "audio_start": 62.15,
     "audio_end": 62.95
-   }
+   },
+   "german": "verderben, vernichten; verlieren; (Med.) umkommen"
   },
   {
    "id": "gr-a50p-04",
@@ -4773,7 +4948,8 @@
     "frame_t": 7.9,
     "audio_start": 8.2,
     "audio_end": 8.9
-   }
+   },
+   "german": "sieben"
   },
   {
    "id": "gr-o50p-59",
@@ -4800,7 +4976,8 @@
     "frame_t": 55.5,
     "audio_start": 55.5,
     "audio_end": 56.25
-   }
+   },
+   "german": "und nicht; weder … noch"
   },
   {
    "id": "gr-v50p-35",
@@ -4827,7 +5004,8 @@
     "frame_t": 6.9,
     "audio_start": 7.3,
     "audio_end": 8.45
-   }
+   },
+   "german": "herzutreten, hingehen"
   },
   {
    "id": "gr-v50p-47",
@@ -4854,7 +5032,8 @@
     "frame_t": 32.300000000000004,
     "audio_start": 32.55,
     "audio_end": 33.3
-   }
+   },
+   "german": "erfüllen, füllen"
   },
   {
    "id": "gr-v50p-77",
@@ -4881,7 +5060,8 @@
     "frame_t": 12.899999999999999,
     "audio_start": 13.05,
     "audio_end": 13.75
-   }
+   },
+   "german": "(Med.) anfangen; (Akt.) herrschen"
   },
   {
    "id": "gr-v50p-23",
@@ -4908,7 +5088,8 @@
     "frame_t": 46.7,
     "audio_start": 47.05,
     "audio_end": 47.9
-   }
+   },
+   "german": "beten"
   },
   {
    "id": "gr-n50p-48",
@@ -4935,7 +5116,8 @@
     "frame_t": 30.9,
     "audio_start": 31.35,
     "audio_end": 32.25
-   }
+   },
+   "german": "die (rechte) Zeit"
   },
   {
    "id": "gr-o50p-37",
@@ -4962,7 +5144,8 @@
     "frame_t": 10.899999999999999,
     "audio_start": 11.3,
     "audio_end": 11.85
-   }
+   },
+   "german": "sodass, daher"
   },
   {
    "id": "gr-n50p-44",
@@ -4989,7 +5172,8 @@
     "frame_t": 21.3,
     "audio_start": 21.75,
     "audio_end": 22.45
-   }
+   },
+   "german": "die Mutter"
   },
   {
    "id": "gr-o50p-41",
@@ -5016,7 +5200,8 @@
     "frame_t": 18.9,
     "audio_start": 19.2,
     "audio_end": 19.75
-   }
+   },
+   "german": "wo"
   },
   {
    "id": "gr-a50p-11",
@@ -5043,7 +5228,8 @@
     "frame_t": 21.9,
     "audio_start": 22.25,
     "audio_end": 23.0
-   }
+   },
+   "german": "jeder"
   },
   {
    "id": "gr-v50p-86",
@@ -5070,7 +5256,8 @@
     "frame_t": 31.3,
     "audio_start": 31.55,
     "audio_end": 32.6
-   }
+   },
+   "german": "hinaufgehen, aufsteigen"
   },
   {
    "id": "gr-o50p-53",
@@ -5097,7 +5284,8 @@
     "frame_t": 43.900000000000006,
     "audio_start": 44.4,
     "audio_end": 45.1
-   }
+   },
+   "german": "mehr, vielmehr, eher"
   },
   {
    "id": "gr-v50p-11",
@@ -5124,7 +5312,8 @@
     "frame_t": 22.099999999999998,
     "audio_start": 22.45,
     "audio_end": 23.15
-   }
+   },
+   "german": "hinauswerfen, austreiben"
   },
   {
    "id": "gr-v50p-15",
@@ -5151,7 +5340,8 @@
     "frame_t": 30.3,
     "audio_start": 30.55,
     "audio_end": 31.55
-   }
+   },
+   "german": "herabkommen, hinabsteigen"
   },
   {
    "id": "gr-n50p-47",
@@ -5178,7 +5368,8 @@
     "frame_t": 28.5,
     "audio_start": 28.9,
     "audio_end": 29.7
-   }
+   },
+   "german": "der Apostel, Gesandte"
   },
   {
    "id": "gr-a50p-13",
@@ -5205,7 +5396,8 @@
     "frame_t": 26.5,
     "audio_start": 26.6,
     "audio_end": 27.45
-   }
+   },
+   "german": "gerecht"
   },
   {
    "id": "gr-v50p-42",
@@ -5232,7 +5424,8 @@
     "frame_t": 22.3,
     "audio_start": 22.8,
     "audio_end": 23.5
-   }
+   },
+   "german": "hingehen, weggehen"
   },
   {
    "id": "gr-v50p-78",
@@ -5259,7 +5452,8 @@
     "frame_t": 14.7,
     "audio_start": 15.0,
     "audio_end": 15.65
-   }
+   },
+   "german": "senden, schicken"
   },
   {
    "id": "gr-a50p-12",
@@ -5286,7 +5480,8 @@
     "frame_t": 24.3,
     "audio_start": 24.4,
     "audio_end": 25.05
-   }
+   },
+   "german": "böse, schlecht"
   },
   {
    "id": "gr-n50p-60",
@@ -5313,7 +5508,8 @@
     "frame_t": 60.5,
     "audio_start": 61.45,
     "audio_end": 61.85
-   }
+   },
+   "german": "der Mund"
   },
   {
    "id": "gr-v50p-52",
@@ -5340,7 +5536,8 @@
     "frame_t": 42.5,
     "audio_start": 42.85,
     "audio_end": 43.7
-   }
+   },
+   "german": "öffnen"
   },
   {
    "id": "gr-v50p-63",
@@ -5367,7 +5564,8 @@
     "frame_t": 66.10000000000001,
     "audio_start": 66.3,
     "audio_end": 67.2
-   }
+   },
+   "german": "taufen"
   },
   {
    "id": "gr-n50p-38",
@@ -5394,7 +5592,8 @@
     "frame_t": 7.9,
     "audio_start": 8.7,
     "audio_end": 9.4
-   }
+   },
+   "german": "das Zeichen, Wunderzeichen"
   },
   {
    "id": "gr-a50p-28",
@@ -5421,7 +5620,8 @@
     "frame_t": 60.300000000000004,
     "audio_start": 60.7,
     "audio_end": 61.15
-   }
+   },
+   "german": "mein"
   },
   {
    "id": "gr-v50p-40",
@@ -5448,7 +5648,8 @@
     "frame_t": 17.9,
     "audio_start": 18.15,
     "audio_end": 19.05
-   }
+   },
+   "german": "bezeugen, Zeugnis ablegen"
   },
   {
    "id": "gr-n50p-05",
@@ -5475,7 +5676,8 @@
     "frame_t": 10.299999999999999,
     "audio_start": 10.85,
     "audio_end": 11.6
-   }
+   },
+   "german": "das Angesicht"
   },
   {
    "id": "gr-n50p-36",
@@ -5502,7 +5704,8 @@
     "frame_t": 3.1,
     "audio_start": 3.85,
     "audio_end": 4.95
-   }
+   },
+   "german": "das Evangelium, die frohe Botschaft"
   },
   {
    "id": "gr-n50p-81",
@@ -5529,7 +5732,8 @@
     "frame_t": 23.5,
     "audio_start": 24.05,
     "audio_end": 24.75
-   }
+   },
+   "german": "das Wasser"
   },
   {
    "id": "gr-a50p-17",
@@ -5556,7 +5760,8 @@
     "frame_t": 36.1,
     "audio_start": 36.25,
     "audio_end": 37.05
-   }
+   },
+   "german": "zwölf"
   },
   {
    "id": "gr-n50p-68",
@@ -5583,7 +5788,8 @@
     "frame_t": 80.5,
     "audio_start": 80.8,
     "audio_end": 81.65
-   }
+   },
+   "german": "das Haupt, der Kopf"
   },
   {
    "id": "gr-v50p-41",
@@ -5610,7 +5816,8 @@
     "frame_t": 20.099999999999998,
     "audio_start": 20.5,
     "audio_end": 21.35
-   }
+   },
+   "german": "töten"
   },
   {
    "id": "gr-v50p-88",
@@ -5637,7 +5844,8 @@
     "frame_t": 35.7,
     "audio_start": 36.2,
     "audio_end": 36.75
-   }
+   },
+   "german": "sich freuen; (Gruß) sei gegrüßt!"
   },
   {
    "id": "gr-v50p-84",
@@ -5664,7 +5872,8 @@
     "frame_t": 27.099999999999998,
     "audio_start": 27.4,
     "audio_end": 27.95
-   }
+   },
+   "german": "trinken"
   },
   {
    "id": "gr-n50p-93",
@@ -5691,7 +5900,8 @@
     "frame_t": 51.1,
     "audio_start": 51.35,
     "audio_end": 51.9
-   }
+   },
+   "german": "das Licht"
   },
   {
    "id": "gr-a50p-16",
@@ -5718,7 +5928,8 @@
     "frame_t": 33.900000000000006,
     "audio_start": 34.15,
     "audio_end": 34.95
-   }
+   },
+   "german": "ewig"
   },
   {
    "id": "gr-n50p-61",
@@ -5745,7 +5956,8 @@
     "frame_t": 63.1,
     "audio_start": 63.7,
     "audio_end": 64.5
-   }
+   },
+   "german": "der Tempel, das Heiligtum"
   },
   {
    "id": "gr-n50p-94",
@@ -5772,7 +5984,8 @@
     "frame_t": 53.7,
     "audio_start": 54.1,
     "audio_end": 54.5
-   }
+   },
+   "german": "das Feuer"
   },
   {
    "id": "gr-o50p-34",
@@ -5799,7 +6012,8 @@
     "frame_t": 4.9,
     "audio_start": 5.3,
     "audio_end": 5.9
-   }
+   },
+   "german": "allein, einzig"
   },
   {
    "id": "gr-v50p-71",
@@ -5826,7 +6040,8 @@
     "frame_t": 83.5,
     "audio_start": 84.05,
     "audio_end": 84.7
-   }
+   },
+   "german": "bitten, erbitten"
   },
   {
    "id": "gr-v50p-72",
@@ -5853,7 +6068,8 @@
     "frame_t": 2.5,
     "audio_start": 3.0,
     "audio_end": 3.7
-   }
+   },
+   "german": "bewahren, halten, bewachen"
   },
   {
    "id": "gr-a50p-20",
@@ -5880,7 +6096,8 @@
     "frame_t": 42.5,
     "audio_start": 42.95,
     "audio_end": 43.45
-   }
+   },
+   "german": "drei"
   },
   {
    "id": "gr-n50p-52",
@@ -5907,7 +6124,8 @@
     "frame_t": 39.900000000000006,
     "audio_start": 40.45,
     "audio_end": 41.0
-   }
+   },
+   "german": "das Wort; die Sache"
   },
   {
    "id": "gr-n50p-63",
@@ -5934,7 +6152,8 @@
     "frame_t": 67.9,
     "audio_start": 69.0,
     "audio_end": 69.65
-   }
+   },
+   "german": "der Sabbat; die Woche"
   },
   {
    "id": "gr-a50p-26",
@@ -5961,7 +6180,8 @@
     "frame_t": 56.1,
     "audio_start": 56.3,
     "audio_end": 56.85
-   }
+   },
+   "german": "treu; gläubig"
   },
   {
    "id": "gr-v50p-16",
@@ -5988,7 +6208,8 @@
     "frame_t": 32.300000000000004,
     "audio_start": 32.5,
     "audio_end": 33.05
-   }
+   },
+   "german": "führen, bringen"
   },
   {
    "id": "gr-n50p-31",
@@ -6015,7 +6236,8 @@
     "frame_t": 70.7,
     "audio_start": 71.35,
     "audio_end": 72.1
-   }
+   },
+   "german": "das Boot, Schiff"
   },
   {
    "id": "gr-n50p-42",
@@ -6042,7 +6264,8 @@
     "frame_t": 16.9,
     "audio_start": 17.3,
     "audio_end": 17.95
-   }
+   },
+   "german": "das Gebot"
   },
   {
    "id": "gr-a50p-21",
@@ -6069,7 +6292,8 @@
     "frame_t": 44.7,
     "audio_start": 45.1,
     "audio_end": 46.0
-   }
+   },
+   "german": "älter; der Älteste"
   },
   {
    "id": "gr-v50p-60",
@@ -6096,7 +6320,8 @@
     "frame_t": 59.7,
     "audio_start": 60.05,
     "audio_end": 60.6
-   }
+   },
+   "german": "tragen, bringen"
   },
   {
    "id": "gr-v50p-68",
@@ -6123,7 +6348,8 @@
     "frame_t": 76.7,
     "audio_start": 77.2,
     "audio_end": 78.1
-   }
+   },
+   "german": "freilassen, entlassen"
   },
   {
    "id": "gr-v50p-74",
@@ -6150,7 +6376,8 @@
     "frame_t": 6.9,
     "audio_start": 7.3,
     "audio_end": 7.95
-   }
+   },
+   "german": "sagen"
   },
   {
    "id": "gr-n50p-91",
@@ -6177,7 +6404,8 @@
     "frame_t": 46.1,
     "audio_start": 46.5,
     "audio_end": 47.05
-   }
+   },
+   "german": "die Frucht"
   },
   {
    "id": "gr-o50p-33",
@@ -6204,7 +6432,8 @@
     "frame_t": 2.9000000000000004,
     "audio_start": 3.1,
     "audio_end": 3.75
-   }
+   },
+   "german": "sei es … sei es; oder"
   },
   {
    "id": "gr-v50p-20",
@@ -6231,7 +6460,8 @@
     "frame_t": 40.300000000000004,
     "audio_start": 40.75,
     "audio_end": 41.65
-   }
+   },
+   "german": "fragen; bitten"
   },
   {
    "id": "gr-n50p-30",
@@ -6258,7 +6488,8 @@
     "frame_t": 68.7,
     "audio_start": 68.85,
     "audio_end": 69.3
-   }
+   },
+   "german": "der Berg"
   },
   {
    "id": "gr-n50p-59",
@@ -6285,7 +6516,8 @@
     "frame_t": 57.7,
     "audio_start": 58.1,
     "audio_end": 59.15
-   }
+   },
+   "german": "der Dämon, böse Geist"
   },
   {
    "id": "gr-n50p-90",
@@ -6312,7 +6544,8 @@
     "frame_t": 43.5,
     "audio_start": 44.0,
     "audio_end": 44.9
-   }
+   },
+   "german": "der Schriftgelehrte"
   },
   {
    "id": "gr-v50p-58",
@@ -6339,7 +6572,8 @@
     "frame_t": 55.5,
     "audio_start": 55.8,
     "audio_end": 56.7
-   }
+   },
+   "german": "meinen; scheinen"
   },
   {
    "id": "gr-n50p-09",
@@ -6366,7 +6600,8 @@
     "frame_t": 19.7,
     "audio_start": 20.15,
     "audio_end": 20.65
-   }
+   },
+   "german": "der Thron"
   },
   {
    "id": "gr-n50p-40",
@@ -6393,7 +6628,8 @@
     "frame_t": 12.299999999999999,
     "audio_start": 12.9,
     "audio_end": 13.55
-   }
+   },
+   "german": "der Wille"
   },
   {
    "id": "gr-o50p-45",
@@ -6420,7 +6656,8 @@
     "frame_t": 27.3,
     "audio_start": 27.7,
     "audio_end": 28.25
-   }
+   },
+   "german": "hier, hierher"
   },
   {
    "id": "gr-o50p-52",
@@ -6447,7 +6684,8 @@
     "frame_t": 41.7,
     "audio_start": 42.3,
     "audio_end": 42.85
-   }
+   },
+   "german": "schon, bereits"
   },
   {
    "id": "gr-a50p-02",
@@ -6474,7 +6712,8 @@
     "frame_t": 3.5,
     "audio_start": 3.85,
     "audio_end": 4.6
-   }
+   },
+   "german": "geliebt"
   },
   {
    "id": "gr-v50p-14",
@@ -6501,7 +6740,8 @@
     "frame_t": 28.3,
     "audio_start": 28.55,
     "audio_end": 29.45
-   }
+   },
+   "german": "verherrlichen, preisen"
   },
   {
    "id": "gr-v50p-19",
@@ -6528,7 +6768,8 @@
     "frame_t": 38.1,
     "audio_start": 38.45,
     "audio_end": 39.15
-   }
+   },
+   "german": "verkündigen, predigen"
   },
   {
    "id": "gr-n50p-01",
@@ -6555,7 +6796,8 @@
     "frame_t": 1.1,
     "audio_start": 1.7,
     "audio_end": 2.1
-   }
+   },
+   "german": "die Nacht"
   },
   {
    "id": "gr-a50p-06",
@@ -6582,7 +6824,8 @@
     "frame_t": 12.1,
     "audio_start": 12.4,
     "audio_end": 12.95
-   }
+   },
+   "german": "erster"
   },
   {
    "id": "gr-v50p-28",
@@ -6609,7 +6852,8 @@
     "frame_t": 57.900000000000006,
     "audio_start": 58.2,
     "audio_end": 59.15
-   }
+   },
+   "german": "anbeten, sich niederwerfen"
   },
   {
    "id": "gr-v50p-66",
@@ -6636,7 +6880,8 @@
     "frame_t": 72.5,
     "audio_start": 72.9,
     "audio_end": 73.75
-   }
+   },
+   "german": "vorhanden sein, sein; (Part.) der Besitz"
   },
   {
    "id": "gr-n50p-62",
@@ -6663,7 +6908,8 @@
     "frame_t": 65.5,
     "audio_start": 65.85,
     "audio_end": 66.9
-   }
+   },
+   "german": "das Obergewand, Kleid"
   },
   {
    "id": "gr-v50p-01",
@@ -6690,7 +6936,8 @@
     "frame_t": 1.1,
     "audio_start": 1.55,
     "audio_end": 2.4
-   }
+   },
+   "german": "versammeln, sammeln"
   },
   {
    "id": "gr-v50p-02",
@@ -6717,7 +6964,8 @@
     "frame_t": 3.7,
     "audio_start": 4.0,
     "audio_end": 5.0
-   }
+   },
+   "german": "grüßen"
   },
   {
    "id": "gr-n50p-57",
@@ -6744,7 +6992,8 @@
     "frame_t": 52.7,
     "audio_start": 52.9,
     "audio_end": 53.45
-   }
+   },
+   "german": "der Stein"
   },
   {
    "id": "gr-n50p-71",
@@ -6771,7 +7020,8 @@
     "frame_t": 0.5,
     "audio_start": 1.25,
     "audio_end": 2.45
-   }
+   },
+   "german": "der Lehrer"
   },
   {
    "id": "gr-n50p-86",
@@ -6798,7 +7048,8 @@
     "frame_t": 33.900000000000006,
     "audio_start": 34.2,
     "audio_end": 34.75
-   }
+   },
+   "german": "die Freude"
   },
   {
    "id": "gr-v50p-37",
@@ -6825,7 +7076,8 @@
     "frame_t": 11.7,
     "audio_start": 11.95,
     "audio_end": 12.65
-   }
+   },
+   "german": "schauen, betrachten"
   },
   {
    "id": "gr-o50p-11",
@@ -6852,7 +7104,8 @@
     "frame_t": 20.9,
     "audio_start": 21.45,
     "audio_end": 22.2
-   }
+   },
+   "german": "ein solcher, so beschaffen"
   },
   {
    "id": "gr-v50p-30",
@@ -6879,7 +7132,8 @@
     "frame_t": 62.300000000000004,
     "audio_start": 62.75,
     "audio_end": 63.65
-   }
+   },
+   "german": "befragen, fragen"
   },
   {
    "id": "gr-v50p-82",
@@ -6906,7 +7160,8 @@
     "frame_t": 22.9,
     "audio_start": 23.25,
     "audio_end": 24.1
-   }
+   },
+   "german": "aufnehmen, empfangen"
   },
   {
    "id": "gr-n50p-56",
@@ -6933,7 +7188,8 @@
     "frame_t": 49.7,
     "audio_start": 50.3,
     "audio_end": 51.2
-   }
+   },
+   "german": "die Synagoge"
   },
   {
    "id": "gr-v50p-73",
@@ -6960,7 +7216,8 @@
     "frame_t": 4.7,
     "audio_start": 4.9,
     "audio_end": 5.65
-   }
+   },
+   "german": "schreien, rufen"
   },
   {
    "id": "gr-n50p-87",
@@ -6987,7 +7244,8 @@
     "frame_t": 36.1,
     "audio_start": 36.7,
     "audio_end": 37.3
-   }
+   },
+   "german": "der Anfang; die Herrschaft, Macht"
   },
   {
    "id": "gr-a50p-08",
@@ -7014,7 +7272,8 @@
     "frame_t": 16.1,
     "audio_start": 16.45,
     "audio_end": 17.0
-   }
+   },
+   "german": "recht(s); die Rechte"
   },
   {
    "id": "gr-a50p-31",
@@ -7041,7 +7300,8 @@
     "frame_t": 66.3,
     "audio_start": 66.6,
     "audio_end": 66.95
-   }
+   },
+   "german": "mitten; die Mitte"
   },
   {
    "id": "gr-v50p-12",
@@ -7068,7 +7328,8 @@
     "frame_t": 24.099999999999998,
     "audio_start": 24.25,
     "audio_end": 25.3
-   }
+   },
+   "german": "(Med.) das Evangelium verkündigen"
   },
   {
    "id": "gr-n50p-21",
@@ -7095,7 +7356,8 @@
     "frame_t": 47.5,
     "audio_start": 47.85,
     "audio_end": 48.4
-   }
+   },
+   "german": "die Zeit, Zeitdauer"
   },
   {
    "id": "gr-o50p-08",
@@ -7122,7 +7384,8 @@
     "frame_t": 15.1,
     "audio_start": 15.3,
     "audio_end": 15.7
-   }
+   },
+   "german": "damit, dass; wie"
   },
   {
    "id": "gr-o50p-12",
@@ -7149,7 +7412,8 @@
     "frame_t": 23.099999999999998,
     "audio_start": 23.3,
     "audio_end": 23.85
-   }
+   },
+   "german": "deshalb, darum"
   },
   {
    "id": "gr-n50p-82",
@@ -7176,7 +7440,8 @@
     "frame_t": 25.7,
     "audio_start": 25.95,
     "audio_end": 26.5
-   }
+   },
+   "german": "die Hoffnung"
   },
   {
    "id": "gr-v50p-62",
@@ -7203,7 +7468,8 @@
     "frame_t": 63.900000000000006,
     "audio_start": 64.25,
     "audio_end": 64.85
-   }
+   },
+   "german": "überzeugen, überreden; (Pass.) gehorchen"
   },
   {
    "id": "gr-v50p-85",
@@ -7230,7 +7496,8 @@
     "frame_t": 29.099999999999998,
     "audio_start": 29.55,
     "audio_end": 30.05
-   }
+   },
+   "german": "säen"
   },
   {
    "id": "gr-n50p-19",
@@ -7257,7 +7524,8 @@
     "frame_t": 42.1,
     "audio_start": 42.75,
     "audio_end": 43.7
-   }
+   },
+   "german": "das Kind, Kindlein"
   },
   {
    "id": "gr-n50p-69",
@@ -7284,7 +7552,8 @@
     "frame_t": 82.9,
     "audio_start": 83.55,
     "audio_end": 84.55
-   }
+   },
+   "german": "die Verheißung"
   },
   {
    "id": "gr-o50p-38",
@@ -7311,7 +7580,8 @@
     "frame_t": 12.899999999999999,
     "audio_start": 13.05,
     "audio_end": 13.65
-   }
+   },
+   "german": "sogleich, sofort"
   },
   {
    "id": "gr-n50p-43",
@@ -7338,7 +7608,8 @@
     "frame_t": 19.3,
     "audio_start": 19.65,
     "audio_end": 20.2
-   }
+   },
+   "german": "die Weisheit"
   },
   {
    "id": "gr-o50p-18",
@@ -7365,7 +7636,8 @@
     "frame_t": 35.1,
     "audio_start": 35.35,
     "audio_end": 36.0
-   }
+   },
+   "german": "und nicht, auch nicht"
   },
   {
    "id": "gr-a50p-05",
@@ -7392,7 +7664,8 @@
     "frame_t": 10.1,
     "audio_start": 10.35,
     "audio_end": 11.2
-   }
+   },
+   "german": "selig, glücklich"
   },
   {
    "id": "gr-a50p-07",
@@ -7419,7 +7692,8 @@
     "frame_t": 14.1,
     "audio_start": 14.25,
     "audio_end": 14.8
-   }
+   },
+   "german": "schlecht, böse"
   },
   {
    "id": "gr-a50p-23",
@@ -7446,7 +7720,8 @@
     "frame_t": 49.300000000000004,
     "audio_start": 49.5,
     "audio_end": 50.15
-   }
+   },
+   "german": "letzter"
   },
   {
    "id": "gr-a50p-32",
@@ -7473,7 +7748,8 @@
     "frame_t": 68.10000000000001,
     "audio_start": 68.75,
     "audio_end": 69.3
-   }
+   },
+   "german": "blind"
   },
   {
    "id": "gr-n50p-34",
@@ -7500,7 +7776,8 @@
     "frame_t": 78.9,
     "audio_start": 79.95,
     "audio_end": 80.75
-   }
+   },
+   "german": "das Gleichnis"
   },
   {
    "id": "gr-n50p-35",
@@ -7527,7 +7804,8 @@
     "frame_t": 0.5,
     "audio_start": 0.85,
     "audio_end": 1.6
-   }
+   },
+   "german": "die Schrift"
   },
   {
    "id": "gr-n50p-77",
@@ -7554,7 +7832,8 @@
     "frame_t": 14.7,
     "audio_start": 15.15,
     "audio_end": 15.85
-   }
+   },
+   "german": "die Zunge; die Sprache"
   },
   {
    "id": "gr-o20p-32",
