@@ -22,5 +22,5 @@ Greek cross-check against the German Strong's by Kautz (copyrighted, kept locall
 `biblegreek/data/sources/`, git-ignored, not committed).
 
 Strong's: Hebrew 748/756 matched. No Strong's entry exists for the prefixes/particles
-וְ, הַ (2 cards), לְ, בְּ, כְּ, הֲ and כַּאֲשֶׁר (= כְּ + H834); their `strongs` field is empty and the
-card shows nothing. Greek 1023/1023 matched.
+וְ, הַ (2 cards), לְ, בְּ, כְּ, הֲ and כַּאֲשֶׁר (= כְּ + H834); their `strongs` field is „Präfix“
+(כַּאֲשֶׁר: „Präfix + H834“), as decided by Michi. Greek 1023/1023 matched.

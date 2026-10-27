@@ -1,39 +1,40 @@
 # German glosses: flag list for Michi
 
-Short list of items to check in Gesenius 18th ed. (Hebrew) or Bauer (Greek). Everything not
-listed here I consider safe. The German is stored in the `german` field of the JSON; Strong's in `strongs`.
+Status: **all items resolved** (Michi, 27.10.2026). The German is stored in the `german` field of the JSON; Strong's in `strongs`.
 
-## Hebrew: gloss wording
+## Resolved, round 2 (Michi, 27.10.2026): Hebrew glosses
 
-| Word | Strong's | Proposed German | Doubt |
+| Word | Strong's | Final German | Decision |
 |---|---|---|---|
-| נֶפֶשׁ | H5315 | die Seele, das Leben; die Kehle | „Seele“ can suggest a Greek body/soul split. Would „das Leben, die Person; die Kehle“ be better? |
-| חֶסֶד | H2617 | die Gnade, Güte, Treue | Should „(Bundes-)Treue“ come first? |
-| פָּקַד | H6485 | sich kümmern um, heimsuchen; mustern; einsetzen | „heimsuchen“ is traditional Bible German and in modern German only means „punish“. Keep it? |
-| תְּרוּמָה | H8641 | die Abgabe, das Hebopfer | „Hebopfer“ is a traditional technical term. |
-| פָּרַר | H6565 | brechen, aufheben (Hi.) | The German follows Gesenius (break a covenant, annul). The app's English „to break out, burst forth“ looks wrong. I left the English as it is (source). |
-| עֵדוּת; עֵדָה² | H5715 | das Zeugnis; die Bezeugung | The card combines עֵדוּת and עֵדָה². Only H5715 is shown. |
+| נֶפֶשׁ | H5315 | die Seele, das Leben; die Kehle | proposal kept |
+| חֶסֶד | H2617 | die Güte, Liebe, Treue, Glaube, Solidarität, Schönheit, Anmut, Bundestreue | Michi's list |
+| פָּקַד | H6485 | sich kümmern um, heimsuchen; mustern; einsetzen | proposal kept |
+| מִשְׁכָּן | H4908 | die Wohnung; die Stiftshütte | as in round 1 |
+| תְּרוּמָה | H8641 | die Abgabe, das Hebopfer | proposal kept |
+| פָּרַר | H6565 | brechen, aufheben (Hi.); (einen Bund) brechen | „(einen Bund) brechen“ added; English stays as in the source |
+| עֵדוּת; עֵדָה² | H5715 | das Zeugnis; die Bezeugung | proposal kept |
 
-## Hebrew: Strong's numbers
+## Resolved, round 2: Hebrew Strong's
 
-| Word | Strong's | Doubt |
+| Word | Strong's shown | Decision |
 |---|---|---|
-| רָבָה¹ / רָבָה² | both H7235 | Strong's has only one entry. Both cards show H7235. |
-| הַרְבֵּה | H7235 | Hiphil infinitive of רָבָה. There is no separate entry. |
-| מֵת | H4191 | Participle of מוּת. There is no separate entry. |
-| מָאתַיִם | H3967 | Dual of מֵאָה. There is no separate entry. |
-| לִפְנֵי | H3942 | Strong's has its own entry, but many tools tag לְ + H6440 instead. |
-| שֶׁ־ | H7945 | Strong's lists it as שֶׁל. |
-| ו, ה, ל, ב, כ, הֲ, כַּאֲשֶׁר | none | There is no Strong's entry for these prefixes. The field is empty and nothing is shown. |
+| רָבָה¹ / רָבָה² | H7235 / H7235 | kept as proposed |
+| הַרְבֵּה | H7235 | kept |
+| מֵת | H4191 | kept |
+| מָאתַיִם | H3967 | kept |
+| לִפְנֵי | H3942 | kept |
+| שֶׁ־ | H7945 | kept |
+| וְ־, הַ־ (2 cards), לְ־, בְּ־, כְּ־, הֲ־ | Präfix | no Strong's entry; shows „Präfix“ |
+| כַּאֲשֶׁר | Präfix + H834 | כְּ + אֲשֶׁר |
 
-## Greek
+## Resolved, round 2: Greek
 
-| Word | Strong's | Proposed German | Doubt |
+| Word | Strong's | Final German | Decision |
 |---|---|---|---|
-| μακάριος | G3107 | glücklich (zu preisen), selig | Is „selig“ too old-fashioned, or keep it because of the Beatitudes? |
-| γέεννα | G1067 | die Hölle (Gehenna) | Hölle or Gehenna first? |
+| μακάριος | G3107 | glücklich (zu preisen), selig | proposal kept |
+| γέεννα | G1067 | die Hölle (Gehenna) | proposal kept |
 
-## Resolved (Michi, 27.10.2026)
+## Resolved, round 1 (Michi, 27.10.2026)
 
 | Word | Strong's | Final German | Note |
 |---|---|---|---|

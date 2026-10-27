@@ -51,7 +51,7 @@
    "due": 1,
    "rank": 1,
    "german": "und, auch, aber",
-   "strongs": ""
+   "strongs": "Präfix"
   },
   {
    "id": "he-o23968-ha",
@@ -80,7 +80,7 @@
    "due": 2,
    "rank": 2,
    "german": "der, die, das (Artikel)",
-   "strongs": ""
+   "strongs": "Präfix"
   },
   {
    "id": "he-o20435-le",
@@ -109,7 +109,7 @@
    "due": 3,
    "rank": 3,
    "german": "zu, nach, für",
-   "strongs": ""
+   "strongs": "Präfix"
   },
   {
    "id": "he-o15632-be",
@@ -138,7 +138,7 @@
    "due": 4,
    "rank": 4,
    "german": "in, an, mit, durch",
-   "strongs": ""
+   "strongs": "Präfix"
   },
   {
    "id": "he-o10970-et",
@@ -515,7 +515,7 @@
    "due": 17,
    "rank": 17,
    "german": "wie, gemäß",
-   "strongs": ""
+   "strongs": "Präfix"
   },
   {
    "id": "he-v2632-asah",
@@ -1617,7 +1617,7 @@
    "due": 55,
    "rank": 55,
    "german": "der, die, das (Artikel)",
-   "strongs": ""
+   "strongs": "Präfix"
   },
   {
    "id": "he-v894-alah",
@@ -2226,7 +2226,7 @@
    "due": 76,
    "rank": 76,
    "german": "(Fragepartikel)",
-   "strongs": ""
+   "strongs": "Präfix"
   },
   {
    "id": "he-o746-eleh",
@@ -3096,7 +3096,7 @@
    "due": 106,
    "rank": 106,
    "german": "wie, als",
-   "strongs": ""
+   "strongs": "Präfix + H834"
   },
   {
    "id": "he-v501-nakhah",
@@ -5821,7 +5821,7 @@
    },
    "due": 200,
    "rank": 200,
-   "german": "die Gnade, Güte, Treue",
+   "german": "die Güte, Liebe, Treue, Glaube, Solidarität, Schönheit, Anmut, Bundestreue",
    "strongs": "H2617"
   },
   {
@@ -21597,7 +21597,7 @@
    },
    "due": 744,
    "rank": 742,
-   "german": "brechen, aufheben (Hi.)",
+   "german": "brechen, aufheben (Hi.); (einen Bund) brechen",
    "strongs": "H6565"
   },
   {
