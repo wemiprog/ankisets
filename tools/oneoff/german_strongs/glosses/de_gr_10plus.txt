@@ -170,13 +170,13 @@
 169|trauern, Leid tragen
 170|wegnehmen, abhauen
 171|entgegengehen, begegnen
-172|als Gast aufnehmen; befremden
+172|beherbergen, als Gast aufnehmen; befremden
 173|schonen
 174|sich streiten, sich besprechen
 175|schlachten, hinschlachten
 176|befehlen, gebieten
 177|die Erlösung
-178|der Unzüchtige
+178|der Hurer, Unzüchtige
 179|die Taube
 180|das Leben; der Lebensunterhalt
 181|der Teilhaber, Genosse
@@ -201,7 +201,7 @@
 200|die Verfolgung
 201|die Rechtsforderung, Satzung; die gerechte Tat
 202|das Gold
-203|der Herr, Besitzer
+203|der Herr, Gebieter, Besitzer
 204|die Stärke, Kraft
 205|der Gruß
 206|die Heiligung

@@ -61,7 +61,7 @@
 60|Baschan
 61|Mordechai
 62|loskaufen, erlösen
-63|Unzucht treiben; (übertr.) Götzendienst treiben
+63|Unzucht treiben, huren; (übertr.) Götzendienst treiben
 64|brennen; (Pi.) wegschaffen
 65|einsichtig sein; (Hi.) Erfolg haben
 66|die Steppe, Araba
@@ -124,7 +124,7 @@
 123|Kusch; Kuschit
 124|Laban
 125|klein, gering
-126|festhalten an, sich anschließen
+126|anhangen, festhalten an, sich anschließen
 127|wollen, willig sein
 128|die linke Seite, Linke
 129|die Blöße, Scham
@@ -170,7 +170,7 @@
 169|brechen, aufheben (Hi.)
 170|unterweisen, lehren (Hi.)
 171|einreißen, durchbrechen
-172|(Hi.) dem Bann weihen, vernichten
+172|(Hi.) den Bann vollstrecken, dem Bann weihen, vernichten
 173|einholen, erreichen (Hi.)
 174|umherirren, sich verirren
 175|(Hi.) erkennen; (Hitp.) sich verstellen

@@ -28,7 +28,7 @@
 27|geben
 28|das Volk
 29|die Hand; Macht
-30|gehen; (übertr.) leben
+30|gehen, wandeln; (übertr.) leben
 31|das Wort; die Sache
 32|sehen
 33|bis, bis zu
@@ -65,7 +65,7 @@
 64|der Knecht, Diener; Sklave
 65|nicht vorhanden, es gibt nicht
 66|die Frau, Ehefrau
-67|der Herr, Besitzer
+67|der Herr, Gebieter, Besitzer
 68|zwei (m./f.)
 69|auch, sogar
 70|Mose

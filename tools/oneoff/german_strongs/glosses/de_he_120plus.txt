@@ -3,12 +3,12 @@
 2|Josua
 3|die Kraft, Tüchtigkeit; das Vermögen; das Heer
 4|die Grenze; das Gebiet
-5|der Junge, junge Mann; Diener
+5|der Junge, der junge Mann; Diener
 6|verfehlen; sündigen
 7|der Friede, das Wohlergehen
 8|Gott; der Starke
 9|das Werk, die Tat
-10|die Schuld, Verfehlung
+10|die Schuld, Missetat, Verfehlung
 11|in Besitz nehmen, beerben
 12|der Same; die Nachkommenschaft
 13|die Nacht
@@ -130,7 +130,7 @@
 129|Samuel
 130|das Kupfer, die Bronze
 131|begegnen, treffen
-132|die Wohnung; das Zeltheiligtum (Stiftshütte)
+132|die Wohnung; die Stiftshütte
 133|das Pferd; die Stute
 134|weise
 135|der Bach, das Bachtal
