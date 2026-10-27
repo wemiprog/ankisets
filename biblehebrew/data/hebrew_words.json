@@ -49,7 +49,8 @@
    },
    "due": 1,
    "rank": 1,
-   "german": "und, auch, aber"
+   "german": "und, auch, aber",
+   "strongs": ""
   },
   {
    "id": "he-o23968-ha",
@@ -77,7 +78,8 @@
    },
    "due": 2,
    "rank": 2,
-   "german": "der, die, das (Artikel)"
+   "german": "der, die, das (Artikel)",
+   "strongs": ""
   },
   {
    "id": "he-o20435-le",
@@ -105,7 +107,8 @@
    },
    "due": 3,
    "rank": 3,
-   "german": "zu, nach, für"
+   "german": "zu, nach, für",
+   "strongs": ""
   },
   {
    "id": "he-o15632-be",
@@ -133,7 +136,8 @@
    },
    "due": 4,
    "rank": 4,
-   "german": "in, an, mit, durch"
+   "german": "in, an, mit, durch",
+   "strongs": ""
   },
   {
    "id": "he-o10970-et",
@@ -161,7 +165,8 @@
    },
    "due": 5,
    "rank": 5,
-   "german": "(Akkusativzeichen)"
+   "german": "(Akkusativzeichen)",
+   "strongs": "H853"
   },
   {
    "id": "he-o7586-min",
@@ -189,7 +194,8 @@
    },
    "due": 6,
    "rank": 6,
-   "german": "von, aus; mehr als"
+   "german": "von, aus; mehr als",
+   "strongs": "H4480"
   },
   {
    "id": "he-6877",
@@ -217,7 +223,8 @@
    },
    "due": 7,
    "rank": 7,
-   "german": "der HERR, Jahwe"
+   "german": "der HERR, Jahwe",
+   "strongs": "H3068"
   },
   {
    "id": "he-o5774-al",
@@ -245,7 +252,8 @@
    },
    "due": 8,
    "rank": 8,
-   "german": "auf, über, gegen"
+   "german": "auf, über, gegen",
+   "strongs": "H5921"
   },
   {
    "id": "he-o5518-el",
@@ -273,7 +281,8 @@
    },
    "due": 9,
    "rank": 9,
-   "german": "zu, nach, hin zu"
+   "german": "zu, nach, hin zu",
+   "strongs": "H413"
   },
   {
    "id": "he-o5503-asher",
@@ -301,7 +310,8 @@
    },
    "due": 10,
    "rank": 10,
-   "german": "der, die, das; welcher; dass"
+   "german": "der, die, das; welcher; dass",
+   "strongs": "H834"
   },
   {
    "id": "he-5415",
@@ -329,7 +339,8 @@
    },
    "due": 11,
    "rank": 11,
-   "german": "all, ganz, jeder"
+   "german": "all, ganz, jeder",
+   "strongs": "H3605"
   },
   {
    "id": "he-v5317-amar",
@@ -357,7 +368,8 @@
    },
    "due": 12,
    "rank": 12,
-   "german": "sagen, sprechen"
+   "german": "sagen, sprechen",
+   "strongs": "H559"
   },
   {
    "id": "he-o5188-lo",
@@ -385,7 +397,8 @@
    },
    "due": 13,
    "rank": 13,
-   "german": "nicht, nein"
+   "german": "nicht, nein",
+   "strongs": "H3808"
   },
   {
    "id": "he-4942",
@@ -413,7 +426,8 @@
    },
    "due": 14,
    "rank": 14,
-   "german": "der Sohn"
+   "german": "der Sohn",
+   "strongs": "H1121"
   },
   {
    "id": "he-o4487-ki",
@@ -441,7 +455,8 @@
    },
    "due": 15,
    "rank": 15,
-   "german": "denn, weil, dass; wenn"
+   "german": "denn, weil, dass; wenn",
+   "strongs": "H3588"
   },
   {
    "id": "he-v3576-hayah",
@@ -469,7 +484,8 @@
    },
    "due": 16,
    "rank": 16,
-   "german": "sein, werden, geschehen"
+   "german": "sein, werden, geschehen",
+   "strongs": "H1961"
   },
   {
    "id": "he-o2910-ke",
@@ -497,7 +513,8 @@
    },
    "due": 17,
    "rank": 17,
-   "german": "wie, gemäß"
+   "german": "wie, gemäß",
+   "strongs": ""
   },
   {
    "id": "he-v2632-asah",
@@ -525,7 +542,8 @@
    },
    "due": 18,
    "rank": 18,
-   "german": "machen, tun"
+   "german": "machen, tun",
+   "strongs": "H6213"
   },
   {
    "id": "he-2602",
@@ -553,7 +571,8 @@
    },
    "due": 19,
    "rank": 19,
-   "german": "Gott"
+   "german": "Gott",
+   "strongs": "H430"
   },
   {
    "id": "he-v2579-bo",
@@ -581,7 +600,8 @@
    },
    "due": 20,
    "rank": 20,
-   "german": "kommen, hineingehen"
+   "german": "kommen, hineingehen",
+   "strongs": "H935"
   },
   {
    "id": "he-2530",
@@ -609,7 +629,8 @@
    },
    "due": 21,
    "rank": 21,
-   "german": "der König"
+   "german": "der König",
+   "strongs": "H4428"
   },
   {
    "id": "he-n2507-yisrael",
@@ -637,7 +658,8 @@
    },
    "due": 22,
    "rank": 22,
-   "german": "Israel"
+   "german": "Israel",
+   "strongs": "H3478"
   },
   {
    "id": "he-2505",
@@ -665,7 +687,8 @@
    },
    "due": 23,
    "rank": 23,
-   "german": "das Land, die Erde"
+   "german": "das Land, die Erde",
+   "strongs": "H776"
   },
   {
    "id": "he-2303",
@@ -693,7 +716,8 @@
    },
    "due": 24,
    "rank": 24,
-   "german": "der Tag"
+   "german": "der Tag",
+   "strongs": "H3117"
   },
   {
    "id": "he-2187",
@@ -721,7 +745,8 @@
    },
    "due": 25,
    "rank": 25,
-   "german": "der Mann, Ehemann; jeder"
+   "german": "der Mann, Ehemann; jeder",
+   "strongs": "H376"
   },
   {
    "id": "he-2128",
@@ -749,7 +774,8 @@
    },
    "due": 26,
    "rank": 26,
-   "german": "das Angesicht, Gesicht"
+   "german": "das Angesicht, Gesicht",
+   "strongs": "H6440"
   },
   {
    "id": "he-2046",
@@ -777,7 +803,8 @@
    },
    "due": 27,
    "rank": 27,
-   "german": "das Haus"
+   "german": "das Haus",
+   "strongs": "H1004"
   },
   {
    "id": "he-v2014-natan",
@@ -805,7 +832,8 @@
    },
    "due": 28,
    "rank": 28,
-   "german": "geben"
+   "german": "geben",
+   "strongs": "H5414"
   },
   {
    "id": "he-1867",
@@ -833,7 +861,8 @@
    },
    "due": 29,
    "rank": 29,
-   "german": "das Volk"
+   "german": "das Volk",
+   "strongs": "H5971"
   },
   {
    "id": "he-1627",
@@ -861,7 +890,8 @@
    },
    "due": 30,
    "rank": 30,
-   "german": "die Hand; Macht"
+   "german": "die Hand; Macht",
+   "strongs": "H3027"
   },
   {
    "id": "he-v1554-halakh",
@@ -889,7 +919,8 @@
    },
    "due": 31,
    "rank": 31,
-   "german": "gehen, wandeln"
+   "german": "gehen; (übertr.) leben",
+   "strongs": "H1980"
   },
   {
    "id": "he-1454",
@@ -917,7 +948,8 @@
    },
    "due": 32,
    "rank": 32,
-   "german": "das Wort; die Sache"
+   "german": "das Wort; die Sache",
+   "strongs": "H1697"
   },
   {
    "id": "he-v1310-raah",
@@ -945,7 +977,8 @@
    },
    "due": 33,
    "rank": 33,
-   "german": "sehen"
+   "german": "sehen",
+   "strongs": "H7200"
   },
   {
    "id": "he-o1263-ad",
@@ -973,7 +1006,8 @@
    },
    "due": 34,
    "rank": 34,
-   "german": "bis, bis zu"
+   "german": "bis, bis zu",
+   "strongs": "H5704"
   },
   {
    "id": "he-o1232-ani",
@@ -1001,7 +1035,8 @@
    },
    "due": 35,
    "rank": 35,
-   "german": "ich"
+   "german": "ich",
+   "strongs": "H589"
   },
   {
    "id": "he-1210",
@@ -1029,7 +1064,8 @@
    },
    "due": 36,
    "rank": 36,
-   "german": "der Vater"
+   "german": "der Vater",
+   "strongs": "H1"
   },
   {
    "id": "he-v1165-shama",
@@ -1057,7 +1093,8 @@
    },
    "due": 37,
    "rank": 37,
-   "german": "hören; gehorchen"
+   "german": "hören; gehorchen",
+   "strongs": "H8085"
   },
   {
    "id": "he-v1135-dibber",
@@ -1085,7 +1122,8 @@
    },
    "due": 38,
    "rank": 38,
-   "german": "reden, sprechen (Pi.)"
+   "german": "reden, sprechen (Pi.)",
+   "strongs": "H1696"
   },
   {
    "id": "he-o1103-lifnei",
@@ -1113,7 +1151,8 @@
    },
    "due": 39,
    "rank": 39,
-   "german": "vor, angesichts"
+   "german": "vor, angesichts",
+   "strongs": "H3942"
   },
   {
    "id": "he-1094",
@@ -1141,7 +1180,8 @@
    },
    "due": 40,
    "rank": 40,
-   "german": "die Stadt"
+   "german": "die Stadt",
+   "strongs": "H5892"
   },
   {
    "id": "he-v1087-yashav",
@@ -1169,7 +1209,8 @@
    },
    "due": 41,
    "rank": 41,
-   "german": "sitzen, wohnen"
+   "german": "sitzen, wohnen",
+   "strongs": "H3427"
   },
   {
    "id": "he-o1078-zeh",
@@ -1197,7 +1238,8 @@
    },
    "due": 42,
    "rank": 42,
-   "german": "dieser (m.)"
+   "german": "dieser (m.)",
+   "strongs": "H2088"
   },
   {
    "id": "he-n1075-david",
@@ -1225,7 +1267,8 @@
    },
    "due": 43,
    "rank": 43,
-   "german": "David"
+   "german": "David",
+   "strongs": "H1732"
   },
   {
    "id": "he-v1075-shuv",
@@ -1253,7 +1296,8 @@
    },
    "due": 44,
    "rank": 43,
-   "german": "umkehren, zurückkehren"
+   "german": "umkehren, zurückkehren",
+   "strongs": "H7725"
   },
   {
    "id": "he-v1075-yatsa",
@@ -1281,7 +1325,8 @@
    },
    "due": 45,
    "rank": 43,
-   "german": "hinausgehen, herauskommen"
+   "german": "hinausgehen, herauskommen",
+   "strongs": "H3318"
   },
   {
    "id": "he-o1070-im",
@@ -1309,7 +1354,8 @@
    },
    "due": 46,
    "rank": 46,
-   "german": "wenn, falls; ob"
+   "german": "wenn, falls; ob",
+   "strongs": "H518"
   },
   {
    "id": "he-o1061-hinneh",
@@ -1337,7 +1383,8 @@
    },
    "due": 47,
    "rank": 47,
-   "german": "siehe!"
+   "german": "siehe! schau!",
+   "strongs": "H2009"
   },
   {
    "id": "he-o1048-im",
@@ -1365,7 +1412,8 @@
    },
    "due": 48,
    "rank": 48,
-   "german": "mit, bei"
+   "german": "mit, bei",
+   "strongs": "H5973"
   },
   {
    "id": "he-o1039-hu",
@@ -1393,7 +1441,8 @@
    },
    "due": 49,
    "rank": 49,
-   "german": "er"
+   "german": "er",
+   "strongs": "H1931"
   },
   {
    "id": "he-a976-echad",
@@ -1421,7 +1470,8 @@
    },
    "due": 50,
    "rank": 50,
-   "german": "eins, einer (m./f.)"
+   "german": "eins, einer (m./f.)",
+   "strongs": "H259"
   },
   {
    "id": "he-v966-laqach",
@@ -1449,7 +1499,8 @@
    },
    "due": 51,
    "rank": 51,
-   "german": "nehmen"
+   "german": "nehmen",
+   "strongs": "H3947"
   },
   {
    "id": "he-v952-yada",
@@ -1477,7 +1528,8 @@
    },
    "due": 52,
    "rank": 52,
-   "german": "erkennen, wissen"
+   "german": "erkennen, wissen",
+   "strongs": "H3045"
   },
   {
    "id": "he-o898-et",
@@ -1505,7 +1557,8 @@
    },
    "due": 53,
    "rank": 53,
-   "german": "mit, bei"
+   "german": "mit, bei",
+   "strongs": "H854"
   },
   {
    "id": "he-896",
@@ -1533,7 +1586,8 @@
    },
    "due": 54,
    "rank": 54,
-   "german": "das Auge; die Quelle"
+   "german": "das Auge; die Quelle",
+   "strongs": "H5869"
   },
   {
    "id": "he-o894-ha-qamets",
@@ -1561,7 +1615,8 @@
    },
    "due": 55,
    "rank": 55,
-   "german": "der, die, das (Artikel)"
+   "german": "der, die, das (Artikel)",
+   "strongs": ""
   },
   {
    "id": "he-v894-alah",
@@ -1589,7 +1644,8 @@
    },
    "due": 56,
    "rank": 55,
-   "german": "hinaufgehen, aufsteigen"
+   "german": "hinaufgehen, aufsteigen",
+   "strongs": "H5927"
   },
   {
    "id": "he-879",
@@ -1617,7 +1673,8 @@
    },
    "due": 57,
    "rank": 57,
-   "german": "das Jahr"
+   "german": "das Jahr",
+   "strongs": "H8141"
   },
   {
    "id": "he-864",
@@ -1645,7 +1702,8 @@
    },
    "due": 58,
    "rank": 58,
-   "german": "der Name"
+   "german": "der Name",
+   "strongs": "H8034"
   },
   {
    "id": "he-853",
@@ -1673,7 +1731,8 @@
    },
    "due": 59,
    "rank": 59,
-   "german": "das Herz; Sinn, Verstand"
+   "german": "das Herz; Sinn, Verstand",
+   "strongs": "H3820"
   },
   {
    "id": "he-v847-shalach",
@@ -1701,7 +1760,8 @@
    },
    "due": 60,
    "rank": 60,
-   "german": "senden, ausstrecken"
+   "german": "senden, ausstrecken",
+   "strongs": "H7971"
   },
   {
    "id": "he-v845-mut",
@@ -1729,7 +1789,8 @@
    },
    "due": 61,
    "rank": 61,
-   "german": "sterben"
+   "german": "sterben",
+   "strongs": "H4191"
   },
   {
    "id": "he-o835-sham",
@@ -1757,7 +1818,8 @@
    },
    "due": 62,
    "rank": 62,
-   "german": "dort, dorthin"
+   "german": "dort, dorthin",
+   "strongs": "H8033"
   },
   {
    "id": "he-n820-yehudah",
@@ -1785,7 +1847,8 @@
    },
    "due": 63,
    "rank": 63,
-   "german": "Juda"
+   "german": "Juda",
+   "strongs": "H3063"
   },
   {
    "id": "he-v814-akhal",
@@ -1813,7 +1876,8 @@
    },
    "due": 64,
    "rank": 64,
-   "german": "essen, verzehren"
+   "german": "essen, verzehren",
+   "strongs": "H398"
   },
   {
    "id": "he-803",
@@ -1841,7 +1905,8 @@
    },
    "due": 65,
    "rank": 65,
-   "german": "der Knecht, Diener"
+   "german": "der Knecht, Diener; Sklave",
+   "strongs": "H5650"
   },
   {
    "id": "he-o790-ayin",
@@ -1869,7 +1934,8 @@
    },
    "due": 66,
    "rank": 66,
-   "german": "nicht vorhanden, es gibt nicht"
+   "german": "nicht vorhanden, es gibt nicht",
+   "strongs": "H369"
   },
   {
    "id": "he-781",
@@ -1897,7 +1963,8 @@
    },
    "due": 67,
    "rank": 67,
-   "german": "die Frau, Ehefrau"
+   "german": "die Frau, Ehefrau",
+   "strongs": "H802"
   },
   {
    "id": "he-774",
@@ -1925,7 +1992,8 @@
    },
    "due": 68,
    "rank": 68,
-   "german": "der Herr, Gebieter"
+   "german": "der Herr, Besitzer",
+   "strongs": "H113"
   },
   {
    "id": "he-a769-shnayim",
@@ -1953,7 +2021,8 @@
    },
    "due": 69,
    "rank": 69,
-   "german": "zwei (m./f.)"
+   "german": "zwei (m./f.)",
+   "strongs": "H8147"
   },
   {
    "id": "he-o769-gam",
@@ -1981,7 +2050,8 @@
    },
    "due": 70,
    "rank": 69,
-   "german": "auch, sogar"
+   "german": "auch, sogar",
+   "strongs": "H1571"
   },
   {
    "id": "he-n763-moshe",
@@ -2009,7 +2079,8 @@
    },
    "due": 71,
    "rank": 71,
-   "german": "Mose"
+   "german": "Mose",
+   "strongs": "H4872"
   },
   {
    "id": "he-757",
@@ -2037,7 +2108,8 @@
    },
    "due": 72,
    "rank": 72,
-   "german": "die Seele, das Leben; die Kehle"
+   "german": "die Seele, das Leben; die Kehle",
+   "strongs": "H5315"
   },
   {
    "id": "he-o755-mah",
@@ -2065,7 +2137,8 @@
    },
    "due": 73,
    "rank": 73,
-   "german": "was? wie?"
+   "german": "was? wie?",
+   "strongs": "H4100"
   },
   {
    "id": "he-o752-atah",
@@ -2093,7 +2166,8 @@
    },
    "due": 74,
    "rank": 74,
-   "german": "du (m.)"
+   "german": "du (m.)",
+   "strongs": "H859"
   },
   {
    "id": "he-750",
@@ -2121,7 +2195,8 @@
    },
    "due": 75,
    "rank": 75,
-   "german": "der Priester"
+   "german": "der Priester",
+   "strongs": "H3548"
   },
   {
    "id": "he-o748-ha-interr",
@@ -2149,7 +2224,8 @@
    },
    "due": 76,
    "rank": 76,
-   "german": "(Fragepartikel)"
+   "german": "(Fragepartikel)",
+   "strongs": ""
   },
   {
    "id": "he-o746-eleh",
@@ -2177,7 +2253,8 @@
    },
    "due": 77,
    "rank": 77,
-   "german": "diese"
+   "german": "diese",
+   "strongs": "H428"
   },
   {
    "id": "he-o743-ken",
@@ -2205,7 +2282,8 @@
    },
    "due": 78,
    "rank": 78,
-   "german": "so; recht, richtig"
+   "german": "so; recht, richtig",
+   "strongs": "H3651"
   },
   {
    "id": "he-v736-qara",
@@ -2233,7 +2311,8 @@
    },
    "due": 79,
    "rank": 79,
-   "german": "rufen, nennen; lesen"
+   "german": "rufen, nennen; lesen",
+   "strongs": "H7121"
   },
   {
    "id": "he-o729-al-neg",
@@ -2261,7 +2340,8 @@
    },
    "due": 80,
    "rank": 80,
-   "german": "nicht (Verbot)"
+   "german": "nicht (Verbot)",
+   "strongs": "H408"
   },
   {
    "id": "he-712",
@@ -2289,7 +2369,8 @@
    },
    "due": 81,
    "rank": 81,
-   "german": "der Weg; Lebenswandel"
+   "german": "der Weg; Lebenswandel",
+   "strongs": "H1870"
   },
   {
    "id": "he-n712-mitsrayim",
@@ -2317,7 +2398,8 @@
    },
    "due": 82,
    "rank": 81,
-   "german": "Ägypten; Ägypter"
+   "german": "Ägypten; Ägypter",
+   "strongs": "H4714"
   },
   {
    "id": "he-o707-achar",
@@ -2345,7 +2427,8 @@
    },
    "due": 83,
    "rank": 83,
-   "german": "hinter, nach"
+   "german": "hinter, nach",
+   "strongs": "H310"
   },
   {
    "id": "he-n667-yerushalayim",
@@ -2373,7 +2456,8 @@
    },
    "due": 84,
    "rank": 84,
-   "german": "Jerusalem"
+   "german": "Jerusalem",
+   "strongs": "H3389"
   },
   {
    "id": "he-v658-nasa",
@@ -2401,7 +2485,8 @@
    },
    "due": 85,
    "rank": 85,
-   "german": "heben, tragen"
+   "german": "heben, tragen",
+   "strongs": "H5375"
   },
   {
    "id": "he-629",
@@ -2429,7 +2514,8 @@
    },
    "due": 86,
    "rank": 86,
-   "german": "der Bruder"
+   "german": "der Bruder",
+   "strongs": "H251"
   },
   {
    "id": "he-v627-qum",
@@ -2457,7 +2543,8 @@
    },
    "due": 87,
    "rank": 87,
-   "german": "aufstehen, sich erheben"
+   "german": "aufstehen, sich erheben",
+   "strongs": "H6965"
   },
   {
    "id": "he-o616-zot",
@@ -2485,7 +2572,8 @@
    },
    "due": 88,
    "rank": 88,
-   "german": "diese (f.)"
+   "german": "diese (f.)",
+   "strongs": "H2063"
   },
   {
    "id": "he-a606-shalosh",
@@ -2513,7 +2601,8 @@
    },
    "due": 89,
    "rank": 89,
-   "german": "drei"
+   "german": "drei",
+   "strongs": "H7969"
   },
   {
    "id": "he-600",
@@ -2541,7 +2630,8 @@
    },
    "due": 90,
    "rank": 90,
-   "german": "das Haupt, der Kopf; Anfang"
+   "german": "das Haupt, der Kopf; Anfang",
+   "strongs": "H7218"
   },
   {
    "id": "he-588",
@@ -2569,7 +2659,8 @@
    },
    "due": 91,
    "rank": 91,
-   "german": "die Tochter"
+   "german": "die Tochter",
+   "strongs": "H1323"
   },
   {
    "id": "he-v588-sim",
@@ -2597,7 +2688,8 @@
    },
    "due": 92,
    "rank": 91,
-   "german": "setzen, stellen, legen"
+   "german": "setzen, stellen, legen",
+   "strongs": "H7760"
   },
   {
    "id": "he-a583-meah",
@@ -2625,7 +2717,8 @@
    },
    "due": 93,
    "rank": 93,
-   "german": "hundert"
+   "german": "hundert",
+   "strongs": "H3967"
   },
   {
    "id": "he-583",
@@ -2653,7 +2746,8 @@
    },
    "due": 94,
    "rank": 93,
-   "german": "das Wasser"
+   "german": "das Wasser",
+   "strongs": "H4325"
   },
   {
    "id": "he-o577-koh",
@@ -2681,7 +2775,8 @@
    },
    "due": 95,
    "rank": 95,
-   "german": "so, hier"
+   "german": "so, hier",
+   "strongs": "H3541"
   },
   {
    "id": "he-o563-hem",
@@ -2709,7 +2804,8 @@
    },
    "due": 96,
    "rank": 96,
-   "german": "sie (m. Pl.)"
+   "german": "sie (m. Pl.)",
+   "strongs": "H1992"
   },
   {
    "id": "he-560",
@@ -2737,7 +2833,8 @@
    },
    "due": 97,
    "rank": 97,
-   "german": "das Volk, die Nation; Heiden"
+   "german": "das Volk, die Nation; Heiden",
+   "strongs": "H1471"
   },
   {
    "id": "he-559",
@@ -2765,7 +2862,8 @@
    },
    "due": 98,
    "rank": 98,
-   "german": "der Berg, das Gebirge"
+   "german": "der Berg, das Gebirge",
+   "strongs": "H2022"
   },
   {
    "id": "he-v554-avar",
@@ -2793,7 +2891,8 @@
    },
    "due": 99,
    "rank": 99,
-   "german": "hinübergehen, vorübergehen; übertreten"
+   "german": "hinübergehen, vorübergehen; übertreten",
+   "strongs": "H5674"
   },
   {
    "id": "he-545",
@@ -2821,7 +2920,8 @@
    },
    "due": 100,
    "rank": 100,
-   "german": "der Mensch, die Menschheit"
+   "german": "der Mensch, die Menschheit",
+   "strongs": "H120"
   },
   {
    "id": "he-a527-gadol",
@@ -2849,7 +2949,8 @@
    },
    "due": 101,
    "rank": 101,
-   "german": "groß"
+   "german": "groß",
+   "strongs": "H1419"
   },
   {
    "id": "he-v524-amad",
@@ -2877,7 +2978,8 @@
    },
    "due": 102,
    "rank": 102,
-   "german": "stehen, hintreten"
+   "german": "stehen, hintreten",
+   "strongs": "H5975"
   },
   {
    "id": "he-o511-tachat",
@@ -2905,7 +3007,8 @@
    },
    "due": 103,
    "rank": 103,
-   "german": "unter; anstatt"
+   "german": "unter; anstatt",
+   "strongs": "H8478"
   },
   {
    "id": "he-a508-chamesh",
@@ -2933,7 +3036,8 @@
    },
    "due": 104,
    "rank": 104,
-   "german": "fünf"
+   "german": "fünf",
+   "strongs": "H2568"
   },
   {
    "id": "he-505",
@@ -2961,7 +3065,8 @@
    },
    "due": 105,
    "rank": 105,
-   "german": "die Stimme; der Laut"
+   "german": "die Stimme; der Laut",
+   "strongs": "H6963"
   },
   {
    "id": "he-o504-kaasher",
@@ -2989,7 +3094,8 @@
    },
    "due": 106,
    "rank": 106,
-   "german": "wie, als"
+   "german": "wie, als",
+   "strongs": ""
   },
   {
    "id": "he-v501-nakhah",
@@ -3017,7 +3123,8 @@
    },
    "due": 107,
    "rank": 107,
-   "german": "schlagen, erschlagen (Hi.)"
+   "german": "schlagen, erschlagen (Hi.)",
+   "strongs": "H5221"
   },
   {
    "id": "he-498",
@@ -3045,7 +3152,8 @@
    },
    "due": 108,
    "rank": 108,
-   "german": "der Mund"
+   "german": "der Mund",
+   "strongs": "H6310"
   },
   {
    "id": "he-v496-tsivah",
@@ -3073,7 +3181,8 @@
    },
    "due": 109,
    "rank": 109,
-   "german": "gebieten, befehlen (Pi.)"
+   "german": "gebieten, befehlen (Pi.)",
+   "strongs": "H6680"
   },
   {
    "id": "he-v495-yalad",
@@ -3101,7 +3210,8 @@
    },
    "due": 110,
    "rank": 110,
-   "german": "gebären; zeugen"
+   "german": "gebären; zeugen",
+   "strongs": "H3205"
   },
   {
    "id": "he-a494-elef",
@@ -3129,7 +3239,8 @@
    },
    "due": 111,
    "rank": 111,
-   "german": "tausend; die Sippe"
+   "german": "tausend; die Sippe",
+   "strongs": "H505"
   },
   {
    "id": "he-a492-eser",
@@ -3157,7 +3268,8 @@
    },
    "due": 112,
    "rank": 112,
-   "german": "zehn"
+   "german": "zehn",
+   "strongs": "H6235"
   },
   {
    "id": "he-o491-od",
@@ -3185,7 +3297,8 @@
    },
    "due": 113,
    "rank": 113,
-   "german": "noch, wieder"
+   "german": "noch, wieder",
+   "strongs": "H5750"
   },
   {
    "id": "he-o490-hi",
@@ -3213,7 +3326,8 @@
    },
    "due": 114,
    "rank": 114,
-   "german": "sie (f. Sg.)"
+   "german": "sie (f. Sg.)",
+   "strongs": "H1931"
   },
   {
    "id": "he-486",
@@ -3241,7 +3355,8 @@
    },
    "due": 115,
    "rank": 115,
-   "german": "das Heer; der Kriegsdienst"
+   "german": "das Heer; der Kriegsdienst",
+   "strongs": "H6635"
   },
   {
    "id": "he-470",
@@ -3269,7 +3384,8 @@
    },
    "due": 116,
    "rank": 116,
-   "german": "das Heilige, die Heiligkeit"
+   "german": "das Heilige, die Heiligkeit",
+   "strongs": "H6944"
   },
   {
    "id": "he-v469-shamar",
@@ -3297,7 +3413,8 @@
    },
    "due": 117,
    "rank": 117,
-   "german": "bewahren, behüten, halten"
+   "german": "bewahren, behüten, halten",
+   "strongs": "H8104"
   },
   {
    "id": "he-a465-arba",
@@ -3325,7 +3442,8 @@
    },
    "due": 118,
    "rank": 118,
-   "german": "vier"
+   "german": "vier",
+   "strongs": "H702"
   },
   {
    "id": "he-v457-matsa",
@@ -3353,7 +3471,8 @@
    },
    "due": 119,
    "rank": 119,
-   "german": "finden, antreffen"
+   "german": "finden, antreffen",
+   "strongs": "H4672"
   },
   {
    "id": "he-440",
@@ -3381,7 +3500,8 @@
    },
    "due": 120,
    "rank": 120,
-   "german": "die Ewigkeit, ferne Zeit"
+   "german": "die Ewigkeit, ferne Zeit",
+   "strongs": "H5769"
   },
   {
    "id": "he-o435-atah",
@@ -3409,7 +3529,8 @@
    },
    "due": 121,
    "rank": 121,
-   "german": "jetzt, nun"
+   "german": "jetzt, nun",
+   "strongs": "H6258"
   },
   {
    "id": "he-v435-nafal",
@@ -3437,7 +3558,8 @@
    },
    "due": 122,
    "rank": 121,
-   "german": "fallen"
+   "german": "fallen",
+   "strongs": "H5307"
   },
   {
    "id": "he-o424-mi",
@@ -3465,7 +3587,8 @@
    },
    "due": 123,
    "rank": 123,
-   "german": "wer?"
+   "german": "wer?",
+   "strongs": "H4310"
   },
   {
    "id": "he-424",
@@ -3493,7 +3616,8 @@
    },
    "due": 124,
    "rank": 123,
-   "german": "das Recht, Gericht; der Brauch"
+   "german": "das Recht, Gericht; der Brauch",
+   "strongs": "H4941"
   },
   {
    "id": "he-a422-rav",
@@ -3521,7 +3645,8 @@
    },
    "due": 125,
    "rank": 125,
-   "german": "viel, groß; der Oberste"
+   "german": "viel, groß; der Oberste",
+   "strongs": "H7227"
   },
   {
    "id": "he-421-sar",
@@ -3549,7 +3674,8 @@
    },
    "due": 126,
    "rank": 126,
-   "german": "der Fürst, Oberste"
+   "german": "der Fürst, Oberste",
+   "strongs": "H8269"
   },
   {
    "id": "he-421-shamayim",
@@ -3577,7 +3703,8 @@
    },
    "due": 127,
    "rank": 126,
-   "german": "der Himmel"
+   "german": "der Himmel",
+   "strongs": "H8064"
   },
   {
    "id": "he-420",
@@ -3605,7 +3732,8 @@
    },
    "due": 128,
    "rank": 128,
-   "german": "die Mitte"
+   "german": "die Mitte",
+   "strongs": "H8432"
   },
   {
    "id": "he-413",
@@ -3633,7 +3761,8 @@
    },
    "due": 129,
    "rank": 129,
-   "german": "das Schwert"
+   "german": "das Schwert",
+   "strongs": "H2719"
   },
   {
    "id": "he-o409-bein",
@@ -3661,7 +3790,8 @@
    },
    "due": 130,
    "rank": 130,
-   "german": "zwischen"
+   "german": "zwischen",
+   "strongs": "H996"
   },
   {
    "id": "he-n406-shaul",
@@ -3689,7 +3819,8 @@
    },
    "due": 131,
    "rank": 131,
-   "german": "Saul"
+   "german": "Saul",
+   "strongs": "H7586"
   },
   {
    "id": "he-o405-na",
@@ -3717,7 +3848,8 @@
    },
    "due": 132,
    "rank": 132,
-   "german": "doch, bitte"
+   "german": "doch, bitte",
+   "strongs": "H4994"
   },
   {
    "id": "he-403",
@@ -3745,7 +3877,8 @@
    },
    "due": 133,
    "rank": 133,
-   "german": "das Silber, Geld"
+   "german": "das Silber, Geld",
+   "strongs": "H3701"
   },
   {
    "id": "he-403-mizbeach",
@@ -3773,7 +3906,8 @@
    },
    "due": 134,
    "rank": 133,
-   "german": "der Altar"
+   "german": "der Altar",
+   "strongs": "H4196"
   },
   {
    "id": "he-a402-sheva",
@@ -3801,7 +3935,8 @@
    },
    "due": 135,
    "rank": 135,
-   "german": "sieben"
+   "german": "sieben",
+   "strongs": "H7651"
   },
   {
    "id": "he-401",
@@ -3829,7 +3964,8 @@
    },
    "due": 136,
    "rank": 136,
-   "german": "der Ort, die Stätte"
+   "german": "der Ort, die Stätte",
+   "strongs": "H4725"
   },
   {
    "id": "he-396",
@@ -3857,7 +3993,8 @@
    },
    "due": 137,
    "rank": 137,
-   "german": "das Meer; der Westen"
+   "german": "das Meer; der Westen",
+   "strongs": "H3220"
   },
   {
    "id": "he-389",
@@ -3885,7 +4022,8 @@
    },
    "due": 138,
    "rank": 138,
-   "german": "das Gold"
+   "german": "das Gold",
+   "strongs": "H2091"
   },
   {
    "id": "he-v382-yarad",
@@ -3913,7 +4051,8 @@
    },
    "due": 139,
    "rank": 139,
-   "german": "hinabsteigen, herabkommen"
+   "german": "hinabsteigen, herabkommen",
+   "strongs": "H3381"
   },
   {
    "id": "he-377",
@@ -3941,7 +4080,8 @@
    },
    "due": 140,
    "rank": 140,
-   "german": "das Feuer"
+   "german": "das Feuer",
+   "strongs": "H784"
   },
   {
    "id": "he-v377-banah",
@@ -3969,7 +4109,8 @@
    },
    "due": 141,
    "rank": 140,
-   "german": "bauen"
+   "german": "bauen",
+   "strongs": "H1129"
   },
   {
    "id": "he-376",
@@ -3997,7 +4138,8 @@
    },
    "due": 142,
    "rank": 142,
-   "german": "der Spruch (des HERRN)"
+   "german": "der Spruch (des HERRN)",
+   "strongs": "H5002"
   },
   {
    "id": "he-a373-tov",
@@ -4025,7 +4167,8 @@
    },
    "due": 143,
    "rank": 143,
-   "german": "gut, schön"
+   "german": "gut, schön",
+   "strongs": "H2896"
   },
   {
    "id": "he-373",
@@ -4053,7 +4196,8 @@
    },
    "due": 144,
    "rank": 143,
-   "german": "das Tor"
+   "german": "das Tor",
+   "strongs": "H8179"
   },
   {
    "id": "he-v371-nagad",
@@ -4081,7 +4225,8 @@
    },
    "due": 145,
    "rank": 145,
-   "german": "mitteilen, verkünden (Hi.)"
+   "german": "mitteilen, verkünden (Hi.)",
+   "strongs": "H5046"
   },
   {
    "id": "he-363",
@@ -4109,7 +4254,8 @@
    },
    "due": 146,
    "rank": 146,
-   "german": "der Geist, Wind, Atem"
+   "german": "der Geist, Wind, Atem",
+   "strongs": "H7307"
   },
   {
    "id": "he-361",
@@ -4137,7 +4283,8 @@
    },
    "due": 147,
    "rank": 147,
-   "german": "das Blut"
+   "german": "das Blut",
+   "strongs": "H1818"
   },
   {
    "id": "he-a358-ra",
@@ -4165,7 +4312,8 @@
    },
    "due": 148,
    "rank": 148,
-   "german": "schlecht, böse"
+   "german": "schlecht, böse",
+   "strongs": "H7451"
   },
   {
    "id": "he-n350-levi",
@@ -4193,7 +4341,8 @@
    },
    "due": 149,
    "rank": 149,
-   "german": "Levi; Levit"
+   "german": "Levi; Levit",
+   "strongs": "H3878"
   },
   {
    "id": "he-v350-malakh",
@@ -4221,7 +4370,8 @@
    },
    "due": 150,
    "rank": 149,
-   "german": "König sein, herrschen"
+   "german": "König sein, herrschen",
+   "strongs": "H4427"
   },
   {
    "id": "he-n349-yaakov",
@@ -4249,7 +4399,8 @@
    },
    "due": 151,
    "rank": 151,
-   "german": "Jakob"
+   "german": "Jakob",
+   "strongs": "H3290"
   },
   {
    "id": "he-348",
@@ -4277,7 +4428,8 @@
    },
    "due": 152,
    "rank": 152,
-   "german": "das Zelt"
+   "german": "das Zelt",
+   "strongs": "H168"
   },
   {
    "id": "he-n347-aharon",
@@ -4305,7 +4457,8 @@
    },
    "due": 153,
    "rank": 153,
-   "german": "Aaron"
+   "german": "Aaron",
+   "strongs": "H175"
   },
   {
    "id": "he-o347-di",
@@ -4333,7 +4486,8 @@
    },
    "due": 154,
    "rank": 153,
-   "german": "der, welcher; dass (aram.)"
+   "german": "der, welcher; dass (aram.)",
+   "strongs": "H1768"
   },
   {
    "id": "he-o338-saviv",
@@ -4361,7 +4515,8 @@
    },
    "due": 155,
    "rank": 155,
-   "german": "ringsum, rings umher"
+   "german": "ringsum, rings umher",
+   "strongs": "H5439"
   },
   {
    "id": "he-330",
@@ -4389,7 +4544,8 @@
    },
    "due": 156,
    "rank": 156,
-   "german": "der Baum; das Holz"
+   "german": "der Baum; das Holz",
+   "strongs": "H6086"
   },
   {
    "id": "he-v327-barakh",
@@ -4417,7 +4573,8 @@
    },
    "due": 157,
    "rank": 157,
-   "german": "segnen; preisen (Pi.)"
+   "german": "segnen; preisen (Pi.)",
+   "strongs": "H1288"
   },
   {
    "id": "he-325",
@@ -4445,7 +4602,8 @@
    },
    "due": 158,
    "rank": 158,
-   "german": "das Gerät, Gefäß; die Waffe"
+   "german": "das Gerät, Gefäß; die Waffe",
+   "strongs": "H3627"
   },
   {
    "id": "he-o321-o",
@@ -4473,7 +4631,8 @@
    },
    "due": 159,
    "rank": 159,
-   "german": "oder"
+   "german": "oder",
+   "strongs": "H176"
   },
   {
    "id": "he-321",
@@ -4501,7 +4660,8 @@
    },
    "due": 160,
    "rank": 159,
-   "german": "das Feld"
+   "german": "das Feld",
+   "strongs": "H7704"
   },
   {
    "id": "he-319",
@@ -4529,7 +4689,8 @@
    },
    "due": 161,
    "rank": 161,
-   "german": "der Krieg, Kampf"
+   "german": "der Krieg, Kampf",
+   "strongs": "H4421"
   },
   {
    "id": "he-v318-yare",
@@ -4557,7 +4718,8 @@
    },
    "due": 162,
    "rank": 162,
-   "german": "sich fürchten, Ehrfurcht haben"
+   "german": "sich fürchten, Ehrfurcht haben",
+   "strongs": "H3372"
   },
   {
    "id": "he-317",
@@ -4585,7 +4747,8 @@
    },
    "due": 163,
    "rank": 163,
-   "german": "der Prophet"
+   "german": "der Prophet",
+   "strongs": "H5030"
   },
   {
    "id": "he-v317-anah",
@@ -4613,7 +4776,8 @@
    },
    "due": 164,
    "rank": 163,
-   "german": "antworten"
+   "german": "antworten",
+   "strongs": "H6030"
   },
   {
    "id": "he-311",
@@ -4641,7 +4805,8 @@
    },
    "due": 165,
    "rank": 165,
-   "german": "das Böse, Unheil"
+   "german": "das Böse, Unheil",
+   "strongs": "H7451"
   },
   {
    "id": "he-304",
@@ -4669,7 +4834,8 @@
    },
    "due": 166,
    "rank": 166,
-   "german": "die Sippe, das Geschlecht"
+   "german": "die Sippe, das Geschlecht",
+   "strongs": "H4940"
   },
   {
    "id": "he-v304-paqad",
@@ -4697,7 +4863,8 @@
    },
    "due": 167,
    "rank": 166,
-   "german": "heimsuchen, mustern; bestellen"
+   "german": "sich kümmern um, heimsuchen; mustern; einsetzen",
+   "strongs": "H6485"
   },
   {
    "id": "he-o298-meod",
@@ -4725,7 +4892,8 @@
    },
    "due": 168,
    "rank": 168,
-   "german": "sehr"
+   "german": "sehr",
+   "strongs": "H3966"
   },
   {
    "id": "he-298-chattat",
@@ -4753,7 +4921,8 @@
    },
    "due": 169,
    "rank": 168,
-   "german": "die Sünde; das Sündopfer"
+   "german": "die Sünde; das Sündopfer",
+   "strongs": "H2403"
   },
   {
    "id": "he-298-lechem",
@@ -4781,7 +4950,8 @@
    },
    "due": 170,
    "rank": 168,
-   "german": "das Brot, die Speise"
+   "german": "das Brot, die Speise",
+   "strongs": "H3899"
   },
   {
    "id": "he-v298-sur",
@@ -4809,7 +4979,8 @@
    },
    "due": 171,
    "rank": 168,
-   "german": "weichen, abweichen; (Hi.) entfernen"
+   "german": "weichen, abweichen; (Hi.) entfernen",
+   "strongs": "H5493"
   },
   {
    "id": "he-296",
@@ -4837,7 +5008,8 @@
    },
    "due": 172,
    "rank": 172,
-   "german": "die Zeit"
+   "german": "die Zeit",
+   "strongs": "H6256"
   },
   {
    "id": "he-n293-shlomo",
@@ -4865,7 +5037,8 @@
    },
    "due": 173,
    "rank": 173,
-   "german": "Salomo"
+   "german": "Salomo",
+   "strongs": "H8010"
   },
   {
    "id": "he-n290-plishti",
@@ -4893,7 +5066,8 @@
    },
    "due": 174,
    "rank": 174,
-   "german": "Philister"
+   "german": "Philister",
+   "strongs": "H6430"
   },
   {
    "id": "he-v290-chazaq",
@@ -4921,7 +5095,8 @@
    },
    "due": 175,
    "rank": 174,
-   "german": "stark sein; (Hi.) ergreifen"
+   "german": "stark sein; (Hi.) ergreifen",
+   "strongs": "H2388"
   },
   {
    "id": "he-v289-karat",
@@ -4949,7 +5124,8 @@
    },
    "due": 176,
    "rank": 176,
-   "german": "abschneiden, ausrotten; (Bund) schließen"
+   "german": "abschneiden, ausrotten; (Bund) schließen",
+   "strongs": "H3772"
   },
   {
    "id": "he-v289-avad",
@@ -4977,7 +5153,8 @@
    },
    "due": 177,
    "rank": 176,
-   "german": "dienen, arbeiten"
+   "german": "dienen, arbeiten",
+   "strongs": "H5647"
   },
   {
    "id": "he-n288-bavel",
@@ -5005,7 +5182,8 @@
    },
    "due": 178,
    "rank": 178,
-   "german": "Babel, Babylon"
+   "german": "Babel, Babylon",
+   "strongs": "H894"
   },
   {
    "id": "he-288",
@@ -5033,7 +5211,8 @@
    },
    "due": 179,
    "rank": 178,
-   "german": "das Brandopfer"
+   "german": "das Brandopfer",
+   "strongs": "H5930"
   },
   {
    "id": "he-v287-chayah",
@@ -5061,7 +5240,8 @@
    },
    "due": 180,
    "rank": 180,
-   "german": "leben, am Leben bleiben"
+   "german": "leben, am Leben bleiben",
+   "strongs": "H2421"
   },
   {
    "id": "he-284-berit",
@@ -5089,7 +5269,8 @@
    },
    "due": 181,
    "rank": 181,
-   "german": "der Bund"
+   "german": "der Bund",
+   "strongs": "H1285"
   },
   {
    "id": "he-284-oyev",
@@ -5117,7 +5298,8 @@
    },
    "due": 182,
    "rank": 181,
-   "german": "der Feind"
+   "german": "der Feind",
+   "strongs": "H341"
   },
   {
    "id": "he-o283-atem",
@@ -5145,7 +5327,8 @@
    },
    "due": 183,
    "rank": 183,
-   "german": "ihr (m./f.)"
+   "german": "ihr (m./f.)",
+   "strongs": "H859"
   },
   {
    "id": "he-283",
@@ -5173,7 +5356,8 @@
    },
    "due": 184,
    "rank": 183,
-   "german": "der Neumond, Monat"
+   "german": "der Neumond, Monat",
+   "strongs": "H2320"
   },
   {
    "id": "he-v280-qarav",
@@ -5201,7 +5385,8 @@
    },
    "due": 185,
    "rank": 185,
-   "german": "sich nähern, herantreten"
+   "german": "sich nähern, herantreten",
+   "strongs": "H7126"
   },
   {
    "id": "he-277",
@@ -5229,7 +5414,8 @@
    },
    "due": 186,
    "rank": 186,
-   "german": "die Nase; der Zorn"
+   "german": "die Nase; der Zorn",
+   "strongs": "H639"
   },
   {
    "id": "he-n274-paroh",
@@ -5257,7 +5443,8 @@
    },
    "due": 187,
    "rank": 187,
-   "german": "der Pharao"
+   "german": "der Pharao",
+   "strongs": "H6547"
   },
   {
    "id": "he-a120p-274-shesh",
@@ -5285,7 +5472,8 @@
    },
    "due": 188,
    "rank": 187,
-   "german": "sechs"
+   "german": "sechs",
+   "strongs": "H8337"
   },
   {
    "id": "he-274",
@@ -5313,7 +5501,8 @@
    },
    "due": 189,
    "rank": 187,
-   "german": "das Kleinvieh, die Schafe"
+   "german": "das Kleinvieh, die Schafe",
+   "strongs": "H6629"
   },
   {
    "id": "he-o272-lemaan",
@@ -5341,7 +5530,8 @@
    },
    "due": 190,
    "rank": 190,
-   "german": "um … willen, damit"
+   "german": "um … willen, damit",
+   "strongs": "H4616"
   },
   {
    "id": "he-272",
@@ -5369,7 +5559,8 @@
    },
    "due": 191,
    "rank": 190,
-   "german": "der Stein"
+   "german": "der Stein",
+   "strongs": "H68"
   },
   {
    "id": "he-270-midbar",
@@ -5397,7 +5588,8 @@
    },
    "due": 192,
    "rank": 192,
-   "german": "die Wüste, Steppe"
+   "german": "die Wüste, Steppe",
+   "strongs": "H4057"
   },
   {
    "id": "he-270-basar",
@@ -5425,7 +5617,8 @@
    },
    "due": 193,
    "rank": 192,
-   "german": "das Fleisch"
+   "german": "das Fleisch",
+   "strongs": "H1320"
   },
   {
    "id": "he-268",
@@ -5453,7 +5646,8 @@
    },
    "due": 194,
    "rank": 194,
-   "german": "das Leben; lebendig"
+   "german": "das Leben; lebendig",
+   "strongs": "H2416"
   },
   {
    "id": "he-a264-rasha",
@@ -5481,7 +5675,8 @@
    },
    "due": 195,
    "rank": 195,
-   "german": "schuldig, gottlos, frevelhaft"
+   "german": "schuldig, gottlos, frevelhaft",
+   "strongs": "H7563"
   },
   {
    "id": "he-252",
@@ -5509,7 +5704,8 @@
    },
    "due": 196,
    "rank": 196,
-   "german": "der Stab; der Stamm"
+   "german": "der Stab; der Stamm",
+   "strongs": "H4294"
   },
   {
    "id": "he-251",
@@ -5537,7 +5733,8 @@
    },
    "due": 197,
    "rank": 197,
-   "german": "der Fuß"
+   "german": "der Fuß",
+   "strongs": "H7272"
   },
   {
    "id": "he-250",
@@ -5565,7 +5762,8 @@
    },
    "due": 198,
    "rank": 198,
-   "german": "die Elle; der Unterarm"
+   "german": "die Elle; der Unterarm",
+   "strongs": "H520"
   },
   {
    "id": "he-v250-male",
@@ -5593,7 +5791,8 @@
    },
    "due": 199,
    "rank": 198,
-   "german": "voll sein, füllen, erfüllen"
+   "german": "voll sein, füllen, erfüllen",
+   "strongs": "H4390"
   },
   {
    "id": "he-nn120p-249-chesed",
@@ -5621,7 +5820,8 @@
    },
    "due": 200,
    "rank": 200,
-   "german": "die Gnade, Güte, Treue"
+   "german": "die Gnade, Güte, Treue",
+   "strongs": "H2617"
   },
   {
    "id": "he-n120p-247-yehoshua",
@@ -5649,7 +5849,8 @@
    },
    "due": 201,
    "rank": 201,
-   "german": "Josua"
+   "german": "Josua",
+   "strongs": "H3091"
   },
   {
    "id": "he-nn120p-245-chayil",
@@ -5677,7 +5878,8 @@
    },
    "due": 202,
    "rank": 202,
-   "german": "die Kraft, Tüchtigkeit; das Vermögen; das Heer"
+   "german": "die Kraft, Tüchtigkeit; das Vermögen; das Heer",
+   "strongs": "H2428"
   },
   {
    "id": "he-nn120p-241-gevul",
@@ -5705,7 +5907,8 @@
    },
    "due": 203,
    "rank": 203,
-   "german": "die Grenze; das Gebiet"
+   "german": "die Grenze; das Gebiet",
+   "strongs": "H1366"
   },
   {
    "id": "he-nn120p-240-naar",
@@ -5733,7 +5936,8 @@
    },
    "due": 204,
    "rank": 204,
-   "german": "der Knabe, junge Mann; Diener"
+   "german": "der Junge, junge Mann; Diener",
+   "strongs": "H5288"
   },
   {
    "id": "he-v120p-239-chata",
@@ -5761,7 +5965,8 @@
    },
    "due": 205,
    "rank": 205,
-   "german": "verfehlen; sündigen"
+   "german": "verfehlen; sündigen",
+   "strongs": "H2398"
   },
   {
    "id": "he-nn120p-237-shalom",
@@ -5789,7 +5994,8 @@
    },
    "due": 206,
    "rank": 206,
-   "german": "der Friede, das Wohlergehen"
+   "german": "der Friede, das Wohlergehen",
+   "strongs": "H7965"
   },
   {
    "id": "he-nn120p-236-el",
@@ -5817,7 +6023,8 @@
    },
    "due": 207,
    "rank": 207,
-   "german": "Gott; der Starke"
+   "german": "Gott; der Starke",
+   "strongs": "H410"
   },
   {
    "id": "he-nn120p-235-maaseh",
@@ -5845,7 +6052,8 @@
    },
    "due": 208,
    "rank": 208,
-   "german": "das Werk, die Tat"
+   "german": "das Werk, die Tat",
+   "strongs": "H4639"
   },
   {
    "id": "he-nn120p-233-avon",
@@ -5873,7 +6081,8 @@
    },
    "due": 209,
    "rank": 209,
-   "german": "die Schuld, Missetat"
+   "german": "die Schuld, Verfehlung",
+   "strongs": "H5771"
   },
   {
    "id": "he-v120p-232-yarash",
@@ -5901,7 +6110,8 @@
    },
    "due": 210,
    "rank": 210,
-   "german": "in Besitz nehmen, beerben"
+   "german": "in Besitz nehmen, beerben",
+   "strongs": "H3423"
   },
   {
    "id": "he-nn120p-229-zera",
@@ -5929,7 +6139,8 @@
    },
    "due": 211,
    "rank": 211,
-   "german": "der Same; die Nachkommenschaft"
+   "german": "der Same; die Nachkommenschaft",
+   "strongs": "H2233"
   },
   {
    "id": "he-nn120p-227-laylah",
@@ -5957,7 +6168,8 @@
    },
    "due": 212,
    "rank": 212,
-   "german": "die Nacht"
+   "german": "die Nacht",
+   "strongs": "H3915"
   },
   {
    "id": "he-nn120p-227-qerev",
@@ -5985,7 +6197,8 @@
    },
    "due": 213,
    "rank": 212,
-   "german": "das Innere, die Mitte"
+   "german": "das Innere, die Mitte",
+   "strongs": "H7130"
   },
   {
    "id": "he-v120p-225-katav",
@@ -6013,7 +6226,8 @@
    },
    "due": 214,
    "rank": 214,
-   "german": "schreiben"
+   "german": "schreiben",
+   "strongs": "H3789"
   },
   {
    "id": "he-v120p-225-biqqesh",
@@ -6041,7 +6255,8 @@
    },
    "due": 215,
    "rank": 214,
-   "german": "suchen (Pi.)"
+   "german": "suchen (Pi.)",
+   "strongs": "H1245"
   },
   {
    "id": "he-v120p-225-zakhar",
@@ -6069,7 +6284,8 @@
    },
    "due": 216,
    "rank": 214,
-   "german": "gedenken, sich erinnern"
+   "german": "gedenken, sich erinnern",
+   "strongs": "H2142"
   },
   {
    "id": "he-nn120p-223-moed",
@@ -6097,7 +6313,8 @@
    },
    "due": 217,
    "rank": 217,
-   "german": "die festgesetzte Zeit; der Treffpunkt"
+   "german": "die festgesetzte Zeit; der Treffpunkt",
+   "strongs": "H4150"
   },
   {
    "id": "he-nn120p-223-torah",
@@ -6125,7 +6342,8 @@
    },
    "due": 218,
    "rank": 217,
-   "german": "das Gesetz, die Weisung"
+   "german": "das Gesetz, die Weisung",
+   "strongs": "H8451"
   },
   {
    "id": "he-nn120p-222-adamah",
@@ -6153,7 +6371,8 @@
    },
    "due": 219,
    "rank": 219,
-   "german": "der Erdboden, das Ackerland"
+   "german": "der Erdboden, das Ackerland",
+   "strongs": "H127"
   },
   {
    "id": "he-nn120p-222-nachalah",
@@ -6181,7 +6400,8 @@
    },
    "due": 220,
    "rank": 219,
-   "german": "das Erbe, der Erbbesitz"
+   "german": "das Erbe, der Erbbesitz",
+   "strongs": "H5159"
   },
   {
    "id": "he-nn120p-220-em",
@@ -6209,7 +6429,8 @@
    },
    "due": 221,
    "rank": 221,
-   "german": "die Mutter"
+   "german": "die Mutter",
+   "strongs": "H517"
   },
   {
    "id": "he-v120p-219-kun",
@@ -6237,7 +6458,8 @@
    },
    "due": 222,
    "rank": 222,
-   "german": "feststehen; (Hi.) bereiten, festigen"
+   "german": "feststehen; (Hi.) bereiten, festigen",
+   "strongs": "H3559"
   },
   {
    "id": "he-v120p-217-ahav",
@@ -6265,7 +6487,8 @@
    },
    "due": 223,
    "rank": 223,
-   "german": "lieben"
+   "german": "lieben",
+   "strongs": "H157"
   },
   {
    "id": "he-v120p-217-shatah",
@@ -6293,7 +6516,8 @@
    },
    "due": 224,
    "rank": 223,
-   "german": "trinken"
+   "german": "trinken",
+   "strongs": "H8354"
   },
   {
    "id": "he-v120p-216-natah",
@@ -6321,7 +6545,8 @@
    },
    "due": 225,
    "rank": 225,
-   "german": "ausstrecken; sich neigen"
+   "german": "ausstrecken; sich neigen",
+   "strongs": "H5186"
   },
   {
    "id": "he-nn120p-216-beged",
@@ -6349,7 +6574,8 @@
    },
    "due": 226,
    "rank": 225,
-   "german": "das Kleid, Gewand"
+   "german": "das Kleid, Gewand",
+   "strongs": "H899"
   },
   {
    "id": "he-nn120p-215-machaneh",
@@ -6377,7 +6603,8 @@
    },
    "due": 227,
    "rank": 227,
-   "german": "das Lager; das Heer"
+   "german": "das Lager; das Heer",
+   "strongs": "H4264"
   },
   {
    "id": "he-v120p-215-yasaf",
@@ -6405,7 +6632,8 @@
    },
    "due": 228,
    "rank": 227,
-   "german": "hinzufügen; etwas wieder tun"
+   "german": "hinzufügen; etwas wieder tun",
+   "strongs": "H3254"
   },
   {
    "id": "he-v120p-214-azav",
@@ -6433,7 +6661,8 @@
    },
    "due": 229,
    "rank": 229,
-   "german": "verlassen, preisgeben"
+   "german": "verlassen, preisgeben",
+   "strongs": "H5800"
   },
   {
    "id": "he-n120p-213-yosef",
@@ -6461,7 +6690,8 @@
    },
    "due": 230,
    "rank": 230,
-   "german": "Josef"
+   "german": "Josef",
+   "strongs": "H3130"
   },
   {
    "id": "he-v120p-213-natsal",
@@ -6489,7 +6719,8 @@
    },
    "due": 231,
    "rank": 230,
-   "german": "entreißen, retten (Hi.)"
+   "german": "entreißen, retten (Hi.)",
+   "strongs": "H5337"
   },
   {
    "id": "he-nn120p-213-malakh",
@@ -6517,7 +6748,8 @@
    },
    "due": 232,
    "rank": 230,
-   "german": "der Bote; der Engel"
+   "german": "der Bote; der Engel",
+   "strongs": "H4397"
   },
   {
    "id": "he-nn120p-213-boqer",
@@ -6545,7 +6777,8 @@
    },
    "due": 233,
    "rank": 230,
-   "german": "der Morgen"
+   "german": "der Morgen",
+   "strongs": "H1242"
   },
   {
    "id": "he-v120p-213-shakhav",
@@ -6573,7 +6806,8 @@
    },
    "due": 234,
    "rank": 230,
-   "german": "sich hinlegen, liegen; beiwohnen"
+   "german": "sich hinlegen, liegen; mit jmdm. schlafen",
+   "strongs": "H7901"
   },
   {
    "id": "he-nn120p-211-minchah",
@@ -6601,7 +6835,8 @@
    },
    "due": 235,
    "rank": 235,
-   "german": "die Gabe; das Speisopfer"
+   "german": "die Gabe; das Speisopfer",
+   "strongs": "H4503"
   },
   {
    "id": "he-v120p-208-kalah",
@@ -6629,7 +6864,8 @@
    },
    "due": 236,
    "rank": 236,
-   "german": "aufhören; vollenden"
+   "german": "aufhören; vollenden",
+   "strongs": "H3615"
   },
   {
    "id": "he-a120p-206-tsaddiq",
@@ -6657,7 +6893,8 @@
    },
    "due": 237,
    "rank": 237,
-   "german": "gerecht"
+   "german": "gerecht",
+   "strongs": "H6662"
   },
   {
    "id": "he-nn120p-202-aron",
@@ -6685,7 +6922,8 @@
    },
    "due": 238,
    "rank": 238,
-   "german": "die Lade, der Kasten"
+   "german": "die Lade, der Kasten",
+   "strongs": "H727"
   },
   {
    "id": "he-v120p-200-asaf",
@@ -6713,7 +6951,8 @@
    },
    "due": 239,
    "rank": 239,
-   "german": "sammeln; aufnehmen"
+   "german": "sammeln; aufnehmen",
+   "strongs": "H622"
   },
   {
    "id": "he-v120p-200-shafat",
@@ -6741,7 +6980,8 @@
    },
    "due": 240,
    "rank": 239,
-   "german": "richten, Recht schaffen"
+   "german": "richten, Recht schaffen",
+   "strongs": "H8199"
   },
   {
    "id": "he-nn120p-200-kavod",
@@ -6769,7 +7009,8 @@
    },
    "due": 241,
    "rank": 239,
-   "german": "die Herrlichkeit, Ehre"
+   "german": "die Herrlichkeit, Ehre",
+   "strongs": "H3519"
   },
   {
    "id": "he-n120p-199-moav",
@@ -6797,7 +7038,8 @@
    },
    "due": 242,
    "rank": 242,
-   "german": "Moab; Moabiter"
+   "german": "Moab; Moabiter",
+   "strongs": "H4124"
   },
   {
    "id": "he-nn120p-198-baal",
@@ -6825,7 +7067,8 @@
    },
    "due": 243,
    "rank": 243,
-   "german": "der Besitzer, Ehemann; Baal"
+   "german": "der Besitzer, Ehemann; Baal",
+   "strongs": "H1167"
   },
   {
    "id": "he-v120p-195-rum",
@@ -6853,7 +7096,8 @@
    },
    "due": 244,
    "rank": 244,
-   "german": "hoch sein, erhaben sein; (Hi.) erheben"
+   "german": "hoch sein, erhaben sein; (Hi.) erheben",
+   "strongs": "H7311"
   },
   {
    "id": "he-nn120p-195-kaf",
@@ -6881,7 +7125,8 @@
    },
    "due": 245,
    "rank": 244,
-   "german": "die Handfläche, Hand"
+   "german": "die Handfläche, Hand",
+   "strongs": "H3709"
   },
   {
    "id": "he-v120p-194-yakhol",
@@ -6909,7 +7154,8 @@
    },
    "due": 246,
    "rank": 246,
-   "german": "können, vermögen"
+   "german": "können, vermögen",
+   "strongs": "H3201"
   },
   {
    "id": "he-nn120p-193-shemen",
@@ -6937,7 +7183,8 @@
    },
    "due": 247,
    "rank": 247,
-   "german": "das Öl"
+   "german": "das Öl",
+   "strongs": "H8081"
   },
   {
    "id": "he-a120p-193-esrim",
@@ -6965,7 +7212,8 @@
    },
    "due": 248,
    "rank": 247,
-   "german": "zwanzig"
+   "german": "zwanzig",
+   "strongs": "H6242"
   },
   {
    "id": "he-nn120p-191-sefer",
@@ -6993,7 +7241,8 @@
    },
    "due": 249,
    "rank": 249,
-   "german": "die Schrift, das Buch"
+   "german": "die Schrift, das Buch",
+   "strongs": "H5612"
   },
   {
    "id": "he-nn120p-191-chatser",
@@ -7021,7 +7270,8 @@
    },
    "due": 250,
    "rank": 249,
-   "german": "der Vorhof; das Gehöft"
+   "german": "der Vorhof; das Gehöft",
+   "strongs": "H2691"
   },
   {
    "id": "he-nn120p-190-behemah",
@@ -7049,7 +7299,8 @@
    },
    "due": 251,
    "rank": 251,
-   "german": "das Vieh, die Tiere"
+   "german": "das Vieh, die Tiere",
+   "strongs": "H929"
   },
   {
    "id": "he-nn120p-190-shevet",
@@ -7077,7 +7328,8 @@
    },
    "due": 252,
    "rank": 251,
-   "german": "der Stamm; der Stab"
+   "german": "der Stamm; der Stab",
+   "strongs": "H7626"
   },
   {
    "id": "he-nn120p-188-ozen",
@@ -7105,7 +7357,8 @@
    },
    "due": 253,
    "rank": 253,
-   "german": "das Ohr"
+   "german": "das Ohr",
+   "strongs": "H241"
   },
   {
    "id": "he-v120p-187-galah",
@@ -7133,7 +7386,8 @@
    },
    "due": 254,
    "rank": 254,
-   "german": "aufdecken; in die Verbannung gehen"
+   "german": "aufdecken; in die Verbannung gehen",
+   "strongs": "H1540"
   },
   {
    "id": "he-nn120p-187-rea",
@@ -7161,7 +7415,8 @@
    },
    "due": 255,
    "rank": 254,
-   "german": "der Nächste, Freund"
+   "german": "der Nächste, Freund",
+   "strongs": "H7453"
   },
   {
    "id": "he-v120p-186-shava",
@@ -7189,7 +7444,8 @@
    },
    "due": 256,
    "rank": 256,
-   "german": "schwören (Ni.)"
+   "german": "schwören (Ni.)",
+   "strongs": "H7650"
   },
   {
    "id": "he-v120p-185-avad",
@@ -7217,7 +7473,8 @@
    },
    "due": 257,
    "rank": 257,
-   "german": "zugrunde gehen; (Pi./Hi.) vernichten"
+   "german": "zugrunde gehen; (Pi./Hi.) vernichten",
+   "strongs": "H6"
   },
   {
    "id": "he-nn120p-184-mitsvah",
@@ -7245,7 +7502,8 @@
    },
    "due": 258,
    "rank": 258,
-   "german": "das Gebot"
+   "german": "das Gebot",
+   "strongs": "H4687"
   },
   {
    "id": "he-n120p-183-yarden",
@@ -7273,7 +7531,8 @@
    },
    "due": 259,
    "rank": 259,
-   "german": "Jordan"
+   "german": "Jordan",
+   "strongs": "H3383"
   },
   {
    "id": "he-nn120p-183-baqar",
@@ -7301,7 +7560,8 @@
    },
    "due": 260,
    "rank": 259,
-   "german": "das Rind, die Rinder"
+   "german": "das Rind, die Rinder",
+   "strongs": "H1241"
   },
   {
    "id": "he-a120p-182-rishon",
@@ -7329,7 +7589,8 @@
    },
    "due": 261,
    "rank": 261,
-   "german": "erster, früherer"
+   "german": "erster, früherer",
+   "strongs": "H7223"
   },
   {
    "id": "he-n120p-180-efrayim",
@@ -7357,7 +7618,8 @@
    },
    "due": 262,
    "rank": 262,
-   "german": "Ephraim"
+   "german": "Ephraim",
+   "strongs": "H669"
   },
   {
    "id": "he-a120p-179-zaqen",
@@ -7385,7 +7647,8 @@
    },
    "due": 263,
    "rank": 263,
-   "german": "alt; der Älteste"
+   "german": "alt; der Älteste",
+   "strongs": "H2205"
   },
   {
    "id": "he-v120p-178-ravah",
@@ -7413,7 +7676,8 @@
    },
    "due": 264,
    "rank": 264,
-   "german": "viel werden, sich mehren"
+   "german": "viel werden, sich mehren",
+   "strongs": "H7235"
   },
   {
    "id": "he-nn120p-178-safah",
@@ -7441,7 +7705,8 @@
    },
    "due": 265,
    "rank": 264,
-   "german": "die Lippe; das Ufer"
+   "german": "die Lippe; das Ufer",
+   "strongs": "H8193"
   },
   {
    "id": "he-v120p-178-ravah-2",
@@ -7469,7 +7734,8 @@
    },
    "due": 266,
    "rank": 264,
-   "german": "viel sein, groß sein"
+   "german": "viel sein, groß sein",
+   "strongs": "H7235"
   },
   {
    "id": "he-v120p-178-yasha",
@@ -7497,7 +7763,8 @@
    },
    "due": 267,
    "rank": 264,
-   "german": "retten, helfen (Hi.)"
+   "german": "retten, helfen (Hi.)",
+   "strongs": "H3467"
   },
   {
    "id": "he-n120p-175-avraham",
@@ -7525,7 +7792,8 @@
    },
    "due": 268,
    "rank": 268,
-   "german": "Abraham, Abram"
+   "german": "Abraham, Abram",
+   "strongs": "H85"
   },
   {
    "id": "he-v120p-174-shaal",
@@ -7553,7 +7821,8 @@
    },
    "due": 269,
    "rank": 269,
-   "german": "fragen, bitten, fordern"
+   "german": "fragen, bitten, fordern",
+   "strongs": "H7592"
   },
   {
    "id": "he-v120p-173-chavah",
@@ -7581,7 +7850,8 @@
    },
    "due": 270,
    "rank": 270,
-   "german": "sich niederwerfen, anbeten"
+   "german": "sich niederwerfen, anbeten",
+   "strongs": "H2331"
   },
   {
    "id": "he-v120p-171-lacham",
@@ -7609,7 +7879,8 @@
    },
    "due": 271,
    "rank": 271,
-   "german": "kämpfen (Ni.)"
+   "german": "kämpfen (Ni.)",
+   "strongs": "H3898"
   },
   {
    "id": "he-v120p-171-qadash",
@@ -7637,7 +7908,8 @@
    },
    "due": 272,
    "rank": 271,
-   "german": "heilig sein; (Pi.) heiligen"
+   "german": "heilig sein; (Pi.) heiligen",
+   "strongs": "H6942"
   },
   {
    "id": "he-v120p-171-bin",
@@ -7665,7 +7937,8 @@
    },
    "due": 273,
    "rank": 271,
-   "german": "verstehen, einsehen"
+   "german": "verstehen, einsehen",
+   "strongs": "H995"
   },
   {
    "id": "he-v120p-170-bachar",
@@ -7693,7 +7966,8 @@
    },
    "due": 274,
    "rank": 274,
-   "german": "erwählen"
+   "german": "erwählen",
+   "strongs": "H977"
   },
   {
    "id": "he-n120p-168-binyamin",
@@ -7721,7 +7995,8 @@
    },
    "due": 275,
    "rank": 275,
-   "german": "Benjamin"
+   "german": "Benjamin",
+   "strongs": "H1144"
   },
   {
    "id": "he-nn120p-167-dor",
@@ -7749,7 +8024,8 @@
    },
    "due": 276,
    "rank": 276,
-   "german": "das Geschlecht, die Generation"
+   "german": "das Geschlecht, die Generation",
+   "strongs": "H1755"
   },
   {
    "id": "he-nn120p-167-melakhah",
@@ -7777,7 +8053,8 @@
    },
    "due": 277,
    "rank": 276,
-   "german": "die Arbeit, das Werk"
+   "german": "die Arbeit, das Werk",
+   "strongs": "H4399"
   },
   {
    "id": "he-v120p-167-raah",
@@ -7805,7 +8082,8 @@
    },
    "due": 278,
    "rank": 276,
-   "german": "weiden, hüten"
+   "german": "weiden, hüten",
+   "strongs": "H7462"
   },
   {
    "id": "he-v120p-167-harag",
@@ -7833,7 +8111,8 @@
    },
    "due": 279,
    "rank": 276,
-   "german": "töten, umbringen"
+   "german": "töten, umbringen",
+   "strongs": "H2026"
   },
   {
    "id": "he-a120p-166-acher",
@@ -7861,7 +8140,8 @@
    },
    "due": 280,
    "rank": 280,
-   "german": "anderer"
+   "german": "anderer",
+   "strongs": "H312"
   },
   {
    "id": "he-v120p-165-darash",
@@ -7889,7 +8169,8 @@
    },
    "due": 281,
    "rank": 281,
-   "german": "suchen, fragen, befragen"
+   "german": "suchen, fragen, befragen",
+   "strongs": "H1875"
   },
   {
    "id": "he-nn120p-164-chuts",
@@ -7917,7 +8198,8 @@
    },
    "due": 282,
    "rank": 282,
-   "german": "das Draußen; die Gasse"
+   "german": "das Draußen; die Gasse",
+   "strongs": "H2351"
   },
   {
    "id": "he-nn120p-164-petach",
@@ -7945,7 +8227,8 @@
    },
    "due": 283,
    "rank": 282,
-   "german": "die Tür, der Eingang"
+   "german": "die Tür, der Eingang",
+   "strongs": "H6607"
   },
   {
    "id": "he-n120p-163-knaan",
@@ -7973,7 +8256,8 @@
    },
    "due": 284,
    "rank": 284,
-   "german": "Kanaan; Kanaaniter"
+   "german": "Kanaan; Kanaaniter",
+   "strongs": "H3667"
   },
   {
    "id": "he-v120p-163-savav",
@@ -8001,7 +8285,8 @@
    },
    "due": 285,
    "rank": 284,
-   "german": "sich wenden, umgeben"
+   "german": "sich wenden, umgeben",
+   "strongs": "H5437"
   },
   {
    "id": "he-v120p-162-tame",
@@ -8029,7 +8314,8 @@
    },
    "due": 286,
    "rank": 286,
-   "german": "unrein sein; (Pi.) verunreinigen"
+   "german": "unrein sein; (Pi.) verunreinigen",
+   "strongs": "H2930"
   },
   {
    "id": "he-nn120p-162-zevach",
@@ -8057,7 +8343,8 @@
    },
    "due": 287,
    "rank": 286,
-   "german": "das Schlachtopfer"
+   "german": "das Schlachtopfer",
+   "strongs": "H2077"
   },
   {
    "id": "he-o120p-162-anachnu",
@@ -8085,7 +8372,8 @@
    },
    "due": 288,
    "rank": 286,
-   "german": "wir"
+   "german": "wir",
+   "strongs": "H587"
   },
   {
    "id": "he-nn120p-161-bad",
@@ -8113,7 +8401,8 @@
    },
    "due": 289,
    "rank": 289,
-   "german": "allein, für sich; abgesehen von"
+   "german": "allein, für sich; abgesehen von",
+   "strongs": "H905"
   },
   {
    "id": "he-nn120p-161-ayil",
@@ -8141,7 +8430,8 @@
    },
    "due": 290,
    "rank": 289,
-   "german": "der Widder; der Mächtige"
+   "german": "der Widder; der Mächtige",
+   "strongs": "H352"
   },
   {
    "id": "he-o120p-161-akh",
@@ -8169,7 +8459,8 @@
    },
    "due": 291,
    "rank": 289,
-   "german": "nur; gewiss, fürwahr"
+   "german": "nur; gewiss, sicherlich",
+   "strongs": "H389"
   },
   {
    "id": "he-v120p-160-nus",
@@ -8197,7 +8488,8 @@
    },
    "due": 292,
    "rank": 292,
-   "german": "fliehen"
+   "german": "fliehen",
+   "strongs": "H5127"
   },
   {
    "id": "he-a120p-160-gibbor",
@@ -8225,7 +8517,8 @@
    },
    "due": 293,
    "rank": 292,
-   "german": "der Held; stark, tapfer"
+   "german": "der Held; stark, tapfer",
+   "strongs": "H1368"
   },
   {
    "id": "he-nn120p-159-tsedaqah",
@@ -8253,7 +8546,8 @@
    },
    "due": 294,
    "rank": 294,
-   "german": "die Gerechtigkeit"
+   "german": "die Gerechtigkeit",
+   "strongs": "H6666"
   },
   {
    "id": "he-a120p-159-chamishim",
@@ -8281,7 +8575,8 @@
    },
    "due": 295,
    "rank": 294,
-   "german": "fünfzig"
+   "german": "fünfzig",
+   "strongs": "H2572"
   },
   {
    "id": "he-v120p-156-samach",
@@ -8309,7 +8604,8 @@
    },
    "due": 296,
    "rank": 296,
-   "german": "sich freuen"
+   "german": "sich freuen",
+   "strongs": "H8055"
   },
   {
    "id": "he-a120p-156-sheni",
@@ -8337,7 +8633,8 @@
    },
    "due": 297,
    "rank": 296,
-   "german": "zweiter"
+   "german": "zweiter",
+   "strongs": "H8145"
   },
   {
    "id": "he-n120p-155-aram",
@@ -8365,7 +8662,8 @@
    },
    "due": 298,
    "rank": 298,
-   "german": "Aram; Aramäer"
+   "german": "Aram; Aramäer",
+   "strongs": "H758"
   },
   {
    "id": "he-n120p-154-tsiyon",
@@ -8393,7 +8691,8 @@
    },
    "due": 299,
    "rank": 299,
-   "german": "Zion"
+   "german": "Zion",
+   "strongs": "H6726"
   },
   {
    "id": "he-nn120p-153-mavet",
@@ -8421,7 +8720,8 @@
    },
    "due": 300,
    "rank": 300,
-   "german": "der Tod"
+   "german": "der Tod",
+   "strongs": "H4194"
   },
   {
    "id": "he-v120p-153-kasah",
@@ -8449,7 +8749,8 @@
    },
    "due": 301,
    "rank": 300,
-   "german": "bedecken, verhüllen (Pi.)"
+   "german": "bedecken, verhüllen (Pi.)",
+   "strongs": "H3680"
   },
   {
    "id": "he-nn120p-153-tsafon",
@@ -8477,7 +8778,8 @@
    },
    "due": 302,
    "rank": 300,
-   "german": "der Norden"
+   "german": "der Norden",
+   "strongs": "H6828"
   },
   {
    "id": "he-nn120p-153-rov",
@@ -8505,7 +8807,8 @@
    },
    "due": 303,
    "rank": 300,
-   "german": "die Menge, Fülle"
+   "german": "die Menge, Fülle",
+   "strongs": "H7230"
   },
   {
    "id": "he-n120p-151-ashur",
@@ -8533,7 +8836,8 @@
    },
    "due": 304,
    "rank": 304,
-   "german": "Assur, Assyrien"
+   "german": "Assur, Assyrien",
+   "strongs": "H804"
   },
   {
    "id": "he-n120p-150-menasheh",
@@ -8561,7 +8865,8 @@
    },
    "due": 305,
    "rank": 305,
-   "german": "Manasse"
+   "german": "Manasse",
+   "strongs": "H4519"
   },
   {
    "id": "he-v120p-150-naga",
@@ -8589,7 +8894,8 @@
    },
    "due": 306,
    "rank": 305,
-   "german": "berühren; gelangen an"
+   "german": "berühren; gelangen an",
+   "strongs": "H5060"
   },
   {
    "id": "he-nn120p-149-edah",
@@ -8617,7 +8923,8 @@
    },
    "due": 307,
    "rank": 307,
-   "german": "die Gemeinde, Versammlung"
+   "german": "die Gemeinde, Versammlung",
+   "strongs": "H5712"
   },
   {
    "id": "he-nn120p-149-chokhmah",
@@ -8645,7 +8952,8 @@
    },
    "due": 308,
    "rank": 307,
-   "german": "die Weisheit"
+   "german": "die Weisheit",
+   "strongs": "H2451"
   },
   {
    "id": "he-o120p-149-neged",
@@ -8673,7 +8981,8 @@
    },
    "due": 309,
    "rank": 307,
-   "german": "gegenüber, vor"
+   "german": "gegenüber, vor",
+   "strongs": "H5048"
   },
   {
    "id": "he-v120p-148-sane",
@@ -8701,7 +9010,8 @@
    },
    "due": 310,
    "rank": 310,
-   "german": "hassen"
+   "german": "hassen",
+   "strongs": "H8130"
   },
   {
    "id": "he-v120p-148-shavar",
@@ -8729,7 +9039,8 @@
    },
    "due": 311,
    "rank": 310,
-   "german": "zerbrechen"
+   "german": "zerbrechen",
+   "strongs": "H7665"
   },
   {
    "id": "he-n120p-147-yirmeyah",
@@ -8757,7 +9068,8 @@
    },
    "due": 312,
    "rank": 312,
-   "german": "Jeremia"
+   "german": "Jeremia",
+   "strongs": "H3414"
   },
   {
    "id": "he-a120p-147-shemoneh",
@@ -8785,7 +9097,8 @@
    },
    "due": 313,
    "rank": 312,
-   "german": "acht; achtzig"
+   "german": "acht; achtzig",
+   "strongs": "H8083"
   },
   {
    "id": "he-n120p-146-yoav",
@@ -8813,7 +9126,8 @@
    },
    "due": 314,
    "rank": 314,
-   "german": "Joab"
+   "german": "Joab",
+   "strongs": "H3097"
   },
   {
    "id": "he-v120p-146-nasa",
@@ -8841,7 +9155,8 @@
    },
    "due": 315,
    "rank": 314,
-   "german": "aufbrechen, weiterziehen"
+   "german": "aufbrechen, weiterziehen",
+   "strongs": "H5265"
   },
   {
    "id": "he-v120p-146-halal",
@@ -8869,7 +9184,8 @@
    },
    "due": 316,
    "rank": 314,
-   "german": "(Pi.) loben, preisen; (Hitp.) sich rühmen"
+   "german": "(Pi.) loben, preisen; (Hitp.) sich rühmen",
+   "strongs": "H1984"
   },
   {
    "id": "he-nn120p-145-avodah",
@@ -8897,7 +9213,8 @@
    },
    "due": 317,
    "rank": 317,
-   "german": "der Dienst, die Arbeit"
+   "german": "der Dienst, die Arbeit",
+   "strongs": "H5656"
   },
   {
    "id": "he-v120p-144-radaf",
@@ -8925,7 +9242,8 @@
    },
    "due": 318,
    "rank": 318,
-   "german": "verfolgen, nachjagen"
+   "german": "verfolgen, nachjagen",
+   "strongs": "H7291"
   },
   {
    "id": "he-v120p-143-chanah",
@@ -8953,7 +9271,8 @@
    },
    "due": 319,
    "rank": 319,
-   "german": "sich lagern"
+   "german": "sich lagern",
+   "strongs": "H2583"
   },
   {
    "id": "he-v120p-142-shachat",
@@ -8981,7 +9300,8 @@
    },
    "due": 320,
    "rank": 320,
-   "german": "verderben, vernichten (Pi./Hi.)"
+   "german": "verderben, vernichten (Pi./Hi.)",
+   "strongs": "H7843"
   },
   {
    "id": "he-o120p-142-yachad",
@@ -9009,7 +9329,8 @@
    },
    "due": 321,
    "rank": 320,
-   "german": "zusammen, miteinander"
+   "german": "zusammen, miteinander",
+   "strongs": "H3162"
   },
   {
    "id": "he-o120p-142-she",
@@ -9037,7 +9358,8 @@
    },
    "due": 322,
    "rank": 320,
-   "german": "der, welcher; dass"
+   "german": "der, welcher; dass",
+   "strongs": "H7945"
   },
   {
    "id": "he-nn120p-141-yayin",
@@ -9065,7 +9387,8 @@
    },
    "due": 323,
    "rank": 323,
-   "german": "der Wein"
+   "german": "der Wein",
+   "strongs": "H3196"
   },
   {
    "id": "he-o120p-141-az",
@@ -9093,7 +9416,8 @@
    },
    "due": 324,
    "rank": 323,
-   "german": "damals, dann; seit"
+   "german": "damals, dann; seit",
+   "strongs": "H227"
   },
   {
    "id": "he-o120p-141-kemo",
@@ -9121,7 +9445,8 @@
    },
    "due": 325,
    "rank": 323,
-   "german": "wie, gleich wie"
+   "german": "wie, gleich wie",
+   "strongs": "H3644"
   },
   {
    "id": "he-nn120p-140-yamin",
@@ -9149,7 +9474,8 @@
    },
    "due": 326,
    "rank": 326,
-   "german": "die rechte Hand; der Süden"
+   "german": "die rechte Hand; der Süden",
+   "strongs": "H3225"
   },
   {
    "id": "he-o120p-140-maal",
@@ -9177,7 +9503,8 @@
    },
    "due": 327,
    "rank": 326,
-   "german": "oben, darüber; aufwärts"
+   "german": "oben, darüber; aufwärts",
+   "strongs": "H4605"
   },
   {
    "id": "he-n120p-139-shmuel",
@@ -9205,7 +9532,8 @@
    },
    "due": 328,
    "rank": 328,
-   "german": "Samuel"
+   "german": "Samuel",
+   "strongs": "H8050"
   },
   {
    "id": "he-nn120p-139-nechoshet",
@@ -9233,7 +9561,8 @@
    },
    "due": 329,
    "rank": 328,
-   "german": "das Kupfer, die Bronze"
+   "german": "das Kupfer, die Bronze",
+   "strongs": "H5178"
   },
   {
    "id": "he-v120p-139-qara2",
@@ -9261,7 +9590,8 @@
    },
    "due": 330,
    "rank": 328,
-   "german": "begegnen, treffen"
+   "german": "begegnen, treffen",
+   "strongs": "H7122"
   },
   {
    "id": "he-nn120p-139-mishkan",
@@ -9289,7 +9619,8 @@
    },
    "due": 331,
    "rank": 328,
-   "german": "die Wohnung; die Stiftshütte"
+   "german": "die Wohnung; das Zeltheiligtum (Stiftshütte)",
+   "strongs": "H4908"
   },
   {
    "id": "he-nn120p-138-sus",
@@ -9317,7 +9648,8 @@
    },
    "due": 332,
    "rank": 332,
-   "german": "das Pferd; die Stute"
+   "german": "das Pferd; die Stute",
+   "strongs": "H5483"
   },
   {
    "id": "he-a120p-138-chakham",
@@ -9345,7 +9677,8 @@
    },
    "due": 333,
    "rank": 332,
-   "german": "weise"
+   "german": "weise",
+   "strongs": "H2450"
   },
   {
    "id": "he-nn120p-137-nachal",
@@ -9373,7 +9706,8 @@
    },
    "due": 334,
    "rank": 334,
-   "german": "der Bach, das Bachtal"
+   "german": "der Bach, das Bachtal",
+   "strongs": "H5158"
   },
   {
    "id": "he-o120p-137-yesh",
@@ -9401,7 +9735,8 @@
    },
    "due": 335,
    "rank": 334,
-   "german": "es gibt, vorhanden sein"
+   "german": "es gibt, vorhanden sein",
+   "strongs": "H3426"
   },
   {
    "id": "he-v120p-136-patach",
@@ -9429,7 +9764,8 @@
    },
    "due": 336,
    "rank": 336,
-   "german": "öffnen; (Pi.) lösen"
+   "german": "öffnen; (Pi.) lösen",
+   "strongs": "H6605"
   },
   {
    "id": "he-v120p-135-chalal",
@@ -9457,7 +9793,8 @@
    },
    "due": 337,
    "rank": 337,
-   "german": "entweihen; (Hi.) anfangen"
+   "german": "entweihen; (Hi.) anfangen",
+   "strongs": "H2490"
   },
   {
    "id": "he-nn120p-135-shemesh",
@@ -9485,7 +9822,8 @@
    },
    "due": 338,
    "rank": 337,
-   "german": "die Sonne"
+   "german": "die Sonne",
+   "strongs": "H8121"
   },
   {
    "id": "he-nn120p-135-kisse",
@@ -9513,7 +9851,8 @@
    },
    "due": 339,
    "rank": 337,
-   "german": "der Thron, Stuhl"
+   "german": "der Thron, Stuhl",
+   "strongs": "H3678"
   },
   {
    "id": "he-a120p-135-arbaim",
@@ -9541,7 +9880,8 @@
    },
    "due": 340,
    "rank": 337,
-   "german": "vierzig"
+   "german": "vierzig",
+   "strongs": "H705"
   },
   {
    "id": "he-v120p-134-zavach",
@@ -9569,7 +9909,8 @@
    },
    "due": 341,
    "rank": 341,
-   "german": "schlachten, opfern"
+   "german": "schlachten, opfern",
+   "strongs": "H2076"
   },
   {
    "id": "he-nn120p-134-mispar",
@@ -9597,7 +9938,8 @@
    },
    "due": 342,
    "rank": 341,
-   "german": "die Zahl"
+   "german": "die Zahl",
+   "strongs": "H4557"
   },
   {
    "id": "he-nn120p-134-erev",
@@ -9625,7 +9967,8 @@
    },
    "due": 343,
    "rank": 341,
-   "german": "der Abend"
+   "german": "der Abend",
+   "strongs": "H6153"
   },
   {
    "id": "he-v120p-134-nuach",
@@ -9653,7 +9996,8 @@
    },
    "due": 344,
    "rank": 341,
-   "german": "ruhen, sich niederlassen"
+   "german": "ruhen, sich niederlassen",
+   "strongs": "H5117"
   },
   {
    "id": "he-v120p-134-panah",
@@ -9681,7 +10025,8 @@
    },
    "due": 345,
    "rank": 341,
-   "german": "sich wenden, sich umwenden"
+   "german": "sich wenden, sich umwenden",
+   "strongs": "H6437"
   },
   {
    "id": "he-v120p-133-shaar",
@@ -9709,7 +10054,8 @@
    },
    "due": 346,
    "rank": 346,
-   "german": "übrig bleiben (Ni.)"
+   "german": "übrig bleiben (Ni.)",
+   "strongs": "H7604"
   },
   {
    "id": "he-nn120p-133-chomah",
@@ -9737,7 +10083,8 @@
    },
    "due": 347,
    "rank": 346,
-   "german": "die Mauer, Stadtmauer"
+   "german": "die Mauer, Stadtmauer",
+   "strongs": "H2346"
   },
   {
    "id": "he-nn120p-133-par",
@@ -9765,7 +10112,8 @@
    },
    "due": 348,
    "rank": 346,
-   "german": "der Stier; die Kuh"
+   "german": "der Stier; die Kuh",
+   "strongs": "H6499"
   },
   {
    "id": "he-v120p-133-qavar",
@@ -9793,7 +10141,8 @@
    },
    "due": 349,
    "rank": 346,
-   "german": "begraben"
+   "german": "begraben",
+   "strongs": "H6912"
   },
   {
    "id": "he-o120p-133-pen",
@@ -9821,7 +10170,8 @@
    },
    "due": 350,
    "rank": 346,
-   "german": "damit nicht, dass nicht"
+   "german": "damit nicht, dass nicht",
+   "strongs": "H6435"
   },
   {
    "id": "he-o120p-133-af",
@@ -9849,7 +10199,8 @@
    },
    "due": 351,
    "rank": 346,
-   "german": "auch, sogar; wie viel mehr"
+   "german": "auch, sogar; wie viel mehr",
+   "strongs": "H637"
   },
   {
    "id": "he-n120p-131-chizqiyah",
@@ -9877,7 +10228,8 @@
    },
    "due": 352,
    "rank": 352,
-   "german": "Hiskia"
+   "german": "Hiskia",
+   "strongs": "H2396"
   },
   {
    "id": "he-nn120p-131-choq",
@@ -9905,7 +10257,8 @@
    },
    "due": 353,
    "rank": 352,
-   "german": "die Satzung, Ordnung"
+   "german": "die Satzung, Ordnung",
+   "strongs": "H2706"
   },
   {
    "id": "he-nn120p-130-nasi",
@@ -9933,7 +10286,8 @@
    },
    "due": 354,
    "rank": 354,
-   "german": "der Fürst, Vorsteher"
+   "german": "der Fürst, Vorsteher",
+   "strongs": "H5387"
   },
   {
    "id": "he-v120p-130-shakhan",
@@ -9961,7 +10315,8 @@
    },
    "due": 355,
    "rank": 354,
-   "german": "wohnen, sich niederlassen"
+   "german": "wohnen, sich niederlassen",
+   "strongs": "H7931"
   },
   {
    "id": "he-a120p-129-sheloshim",
@@ -9989,7 +10344,8 @@
    },
    "due": 356,
    "rank": 356,
-   "german": "dreißig"
+   "german": "dreißig",
+   "strongs": "H7970"
   },
   {
    "id": "he-nn120p-127-emet",
@@ -10017,7 +10373,8 @@
    },
    "due": 357,
    "rank": 357,
-   "german": "die Wahrheit, Treue"
+   "german": "die Wahrheit, Treue",
+   "strongs": "H571"
   },
   {
    "id": "he-v120p-127-qavats",
@@ -10045,7 +10402,8 @@
    },
    "due": 358,
    "rank": 357,
-   "german": "sammeln, versammeln"
+   "german": "sammeln, versammeln",
+   "strongs": "H6908"
   },
   {
    "id": "he-nn120p-126-koach",
@@ -10073,7 +10431,8 @@
    },
    "due": 359,
    "rank": 359,
-   "german": "die Kraft"
+   "german": "die Kraft",
+   "strongs": "H3581"
   },
   {
    "id": "he-v120p-125-bosh",
@@ -10101,7 +10460,8 @@
    },
    "due": 360,
    "rank": 360,
-   "german": "sich schämen, zuschanden werden"
+   "german": "sich schämen, zuschanden werden",
+   "strongs": "H954"
   },
   {
    "id": "he-v120p-125-nagash",
@@ -10129,7 +10489,8 @@
    },
    "due": 361,
    "rank": 360,
-   "german": "herantreten, sich nähern"
+   "german": "herantreten, sich nähern",
+   "strongs": "H5066"
   },
   {
    "id": "he-nn120p-125-chatsi",
@@ -10157,7 +10518,8 @@
    },
    "due": 362,
    "rank": 360,
-   "german": "die Hälfte"
+   "german": "die Hälfte",
+   "strongs": "H2677"
   },
   {
    "id": "he-v120p-125-shalakh",
@@ -10185,7 +10547,8 @@
    },
    "due": 363,
    "rank": 360,
-   "german": "werfen (Hi.)"
+   "german": "werfen (Hi.)",
+   "strongs": "H7993"
   },
   {
    "id": "he-nn120p-125-chemah",
@@ -10213,7 +10576,8 @@
    },
    "due": 364,
    "rank": 360,
-   "german": "die Glut, der Zorn; das Gift"
+   "german": "die Glut, der Zorn; das Gift",
+   "strongs": "H2534"
   },
   {
    "id": "he-n120p-124-yehonatan",
@@ -10241,7 +10605,8 @@
    },
    "due": 365,
    "rank": 365,
-   "german": "Jonatan"
+   "german": "Jonatan",
+   "strongs": "H3083"
   },
   {
    "id": "he-nn120p-123-qahal",
@@ -10269,7 +10634,8 @@
    },
    "due": 366,
    "rank": 366,
-   "german": "die Versammlung, Gemeinde"
+   "german": "die Versammlung, Gemeinde",
+   "strongs": "H6951"
   },
   {
    "id": "he-v120p-123-gadal",
@@ -10297,7 +10663,8 @@
    },
    "due": 367,
    "rank": 366,
-   "german": "groß sein; (Pi.) großziehen"
+   "german": "groß sein; (Pi.) großziehen",
+   "strongs": "H1431"
   },
   {
    "id": "he-nn120p-123-etsem",
@@ -10325,7 +10692,8 @@
    },
    "due": 368,
    "rank": 366,
-   "german": "der Knochen; das Selbst"
+   "german": "der Knochen; das Selbst",
+   "strongs": "H6106"
   },
   {
    "id": "he-n120p-122-amon",
@@ -10353,7 +10721,8 @@
    },
    "due": 369,
    "rank": 369,
-   "german": "Ammon; Ammoniter"
+   "german": "Ammon; Ammoniter",
+   "strongs": "H5983"
   },
   {
    "id": "he-nn120p-122-bekhor",
@@ -10381,7 +10750,8 @@
    },
    "due": 370,
    "rank": 369,
-   "german": "der Erstgeborene; das Erstgeburtsrecht"
+   "german": "der Erstgeborene; das Erstgeburtsrecht",
+   "strongs": "H1060"
   },
   {
    "id": "he-nn120p-122-or",
@@ -10409,7 +10779,8 @@
    },
    "due": 371,
    "rank": 369,
-   "german": "das Licht"
+   "german": "das Licht",
+   "strongs": "H216"
   },
   {
    "id": "he-v120p-121-lakhad",
@@ -10437,7 +10808,8 @@
    },
    "due": 372,
    "rank": 372,
-   "german": "einnehmen, erobern"
+   "german": "einnehmen, erobern",
+   "strongs": "H3920"
   },
   {
    "id": "he-nn120p-120-rekhev",
@@ -10465,7 +10837,8 @@
    },
    "due": 373,
    "rank": 373,
-   "german": "der Wagen, die Streitwagen"
+   "german": "der Wagen, die Streitwagen",
+   "strongs": "H7393"
   },
   {
    "id": "he-a70p-119-chay",
@@ -10493,7 +10866,8 @@
    },
    "due": 374,
    "rank": 374,
-   "german": "lebendig, lebend"
+   "german": "lebendig, lebend",
+   "strongs": "H2416"
   },
   {
    "id": "he-a70p-119-yashar",
@@ -10521,7 +10895,8 @@
    },
    "due": 375,
    "rank": 374,
-   "german": "gerade, recht, aufrichtig"
+   "german": "gerade, recht, aufrichtig",
+   "strongs": "H3477"
   },
   {
    "id": "he-nn70p-119-nahar",
@@ -10549,7 +10924,8 @@
    },
    "due": 376,
    "rank": 374,
-   "german": "der Strom, Fluss"
+   "german": "der Strom, Fluss",
+   "strongs": "H5104"
   },
   {
    "id": "he-nn70p-119-achot",
@@ -10577,7 +10953,8 @@
    },
    "due": 377,
    "rank": 374,
-   "german": "die Schwester"
+   "german": "die Schwester",
+   "strongs": "H269"
   },
   {
    "id": "he-nn70p-119-peri",
@@ -10605,7 +10982,8 @@
    },
    "due": 378,
    "rank": 374,
-   "german": "die Frucht"
+   "german": "die Frucht",
+   "strongs": "H6529"
   },
   {
    "id": "he-nn70p-118-toevah",
@@ -10633,7 +11011,8 @@
    },
    "due": 379,
    "rank": 379,
-   "german": "der Gräuel"
+   "german": "der Gräuel, das Abscheuliche",
+   "strongs": "H8441"
   },
   {
    "id": "he-nn70p-118-paam",
@@ -10661,7 +11040,8 @@
    },
    "due": 380,
    "rank": 379,
-   "german": "das Mal; der Schritt, Fuß"
+   "german": "das Mal; der Schritt, Fuß",
+   "strongs": "H6471"
   },
   {
    "id": "he-a70p-117-qadosh",
@@ -10689,7 +11069,8 @@
    },
    "due": 381,
    "rank": 381,
-   "german": "heilig"
+   "german": "heilig",
+   "strongs": "H6918"
   },
   {
    "id": "he-v70p-117-yatav",
@@ -10717,7 +11098,8 @@
    },
    "due": 382,
    "rank": 381,
-   "german": "gut sein; (Hi.) gut machen"
+   "german": "gut sein; (Hi.) gut machen",
+   "strongs": "H3190"
   },
   {
    "id": "he-v70p-117-shafakh",
@@ -10745,7 +11127,8 @@
    },
    "due": 383,
    "rank": 381,
-   "german": "ausgießen, vergießen"
+   "german": "ausgießen, vergießen",
+   "strongs": "H8210"
   },
   {
    "id": "he-nn70p-117-mamlakhah",
@@ -10773,7 +11156,8 @@
    },
    "due": 384,
    "rank": 381,
-   "german": "das Königreich"
+   "german": "das Königreich",
+   "strongs": "H4467"
   },
   {
    "id": "he-nn70p-117-lashon",
@@ -10801,7 +11185,8 @@
    },
    "due": 385,
    "rank": 381,
-   "german": "die Zunge; die Sprache"
+   "german": "die Zunge; die Sprache",
+   "strongs": "H3956"
   },
   {
    "id": "he-v70p-116-shalem",
@@ -10829,7 +11214,8 @@
    },
    "due": 386,
    "rank": 386,
-   "german": "vollständig sein; (Pi.) vergelten, erstatten"
+   "german": "vollständig sein; (Pi.) vergelten, erstatten",
+   "strongs": "H7999"
   },
   {
    "id": "he-v70p-116-saraf",
@@ -10857,7 +11243,8 @@
    },
    "due": 387,
    "rank": 386,
-   "german": "verbrennen"
+   "german": "verbrennen",
+   "strongs": "H8313"
   },
   {
    "id": "he-v70p-116-batach",
@@ -10885,7 +11272,8 @@
    },
    "due": 388,
    "rank": 386,
-   "german": "vertrauen"
+   "german": "vertrauen",
+   "strongs": "H982"
   },
   {
    "id": "he-nn70p-116-tsedeq",
@@ -10913,7 +11301,8 @@
    },
    "due": 389,
    "rank": 386,
-   "german": "die Gerechtigkeit, das Rechte"
+   "german": "die Gerechtigkeit, das Rechte",
+   "strongs": "H6664"
   },
   {
    "id": "he-v70p-115-qatar",
@@ -10941,7 +11330,8 @@
    },
    "due": 390,
    "rank": 390,
-   "german": "(Opfer) in Rauch aufgehen lassen, räuchern"
+   "german": "(Opfer) in Rauch aufgehen lassen, räuchern",
+   "strongs": "H6999"
   },
   {
    "id": "he-v70p-115-nava",
@@ -10969,7 +11359,8 @@
    },
    "due": 391,
    "rank": 390,
-   "german": "weissagen, prophezeien"
+   "german": "weissagen, prophezeien",
+   "strongs": "H5012"
   },
   {
    "id": "he-nn70p-115-migrash",
@@ -10997,7 +11388,8 @@
    },
    "due": 392,
    "rank": 390,
-   "german": "der Weideplatz"
+   "german": "der Weideplatz",
+   "strongs": "H4054"
   },
   {
    "id": "he-v70p-114-kaved",
@@ -11025,7 +11417,8 @@
    },
    "due": 393,
    "rank": 393,
-   "german": "schwer sein; geehrt sein"
+   "german": "schwer sein; geehrt sein",
+   "strongs": "H3513"
   },
   {
    "id": "he-v70p-114-bakhah",
@@ -11053,7 +11446,8 @@
    },
    "due": 394,
    "rank": 393,
-   "german": "weinen"
+   "german": "weinen",
+   "strongs": "H1058"
   },
   {
    "id": "he-nn70p-113-sheqer",
@@ -11081,7 +11475,8 @@
    },
    "due": 395,
    "rank": 395,
-   "german": "die Lüge, der Trug"
+   "german": "die Lüge, der Trug",
+   "strongs": "H8267"
   },
   {
    "id": "he-n70p-112-yitschak",
@@ -11109,7 +11504,8 @@
    },
    "due": 396,
    "rank": 396,
-   "german": "Isaak"
+   "german": "Isaak",
+   "strongs": "H3327"
   },
   {
    "id": "he-n70p-112-shomron",
@@ -11137,7 +11533,8 @@
    },
    "due": 397,
    "rank": 396,
-   "german": "Samaria"
+   "german": "Samaria",
+   "strongs": "H8111"
   },
   {
    "id": "he-n70p-112-edom",
@@ -11165,7 +11562,8 @@
    },
    "due": 398,
    "rank": 396,
-   "german": "Edom; Edomiter"
+   "german": "Edom; Edomiter",
+   "strongs": "H123"
   },
   {
    "id": "he-o70p-112-bilti",
@@ -11193,7 +11591,8 @@
    },
    "due": 399,
    "rank": 396,
-   "german": "nicht; außer"
+   "german": "nicht; außer",
+   "strongs": "H1115"
   },
   {
    "id": "he-v70p-112-chashav",
@@ -11221,7 +11620,8 @@
    },
    "due": 400,
    "rank": 396,
-   "german": "denken, rechnen, achten"
+   "german": "denken, rechnen, achten",
+   "strongs": "H2803"
   },
   {
    "id": "he-nn70p-112-ammud",
@@ -11249,7 +11649,8 @@
    },
    "due": 401,
    "rank": 396,
-   "german": "die Säule"
+   "german": "die Säule",
+   "strongs": "H5982"
   },
   {
    "id": "he-v70p-111-yadah",
@@ -11277,7 +11678,8 @@
    },
    "due": 402,
    "rank": 402,
-   "german": "(Hi.) preisen, danken; bekennen"
+   "german": "(Hi.) preisen, danken; bekennen",
+   "strongs": "H3034"
   },
   {
    "id": "he-nn70p-111-shabbat",
@@ -11305,7 +11707,8 @@
    },
    "due": 403,
    "rank": 402,
-   "german": "der Sabbat"
+   "german": "der Sabbat",
+   "strongs": "H7676"
   },
   {
    "id": "he-nn70p-110-afar",
@@ -11333,7 +11736,8 @@
    },
    "due": 404,
    "rank": 404,
-   "german": "der Staub, die Erde"
+   "german": "der Staub, die Erde",
+   "strongs": "H6083"
   },
   {
    "id": "he-n70p-109-gilad",
@@ -11361,7 +11765,8 @@
    },
    "due": 405,
    "rank": 405,
-   "german": "Gilead; Gileaditer"
+   "german": "Gilead; Gileaditer",
+   "strongs": "H1568"
   },
   {
    "id": "he-o70p-109-raq",
@@ -11389,7 +11794,8 @@
    },
    "due": 406,
    "rank": 405,
-   "german": "nur"
+   "german": "nur",
+   "strongs": "H7535"
   },
   {
    "id": "he-nn70p-109-kanaf",
@@ -11417,7 +11823,8 @@
    },
    "due": 407,
    "rank": 405,
-   "german": "der Flügel; der Zipfel"
+   "german": "der Flügel; der Zipfel",
+   "strongs": "H3671"
   },
   {
    "id": "he-v70p-108-nacham",
@@ -11445,7 +11852,8 @@
    },
    "due": 408,
    "rank": 408,
-   "german": "(Pi.) trösten; (Ni.) bereuen"
+   "german": "(Pi.) trösten; (Ni.) bereuen",
+   "strongs": "H5162"
   },
   {
    "id": "he-a70p-107-shelishi",
@@ -11473,7 +11881,8 @@
    },
    "due": 409,
    "rank": 409,
-   "german": "dritter; Drittel"
+   "german": "dritter; Drittel",
+   "strongs": "H7992"
   },
   {
    "id": "he-v70p-107-safar",
@@ -11501,7 +11910,8 @@
    },
    "due": 410,
    "rank": 409,
-   "german": "zählen; (Pi.) erzählen"
+   "german": "zählen; (Pi.) erzählen",
+   "strongs": "H5608"
   },
   {
    "id": "he-nn70p-107-keves",
@@ -11529,7 +11939,8 @@
    },
    "due": 411,
    "rank": 409,
-   "german": "das Lamm"
+   "german": "das Lamm",
+   "strongs": "H3532"
   },
   {
    "id": "he-v70p-106-yatar",
@@ -11557,7 +11968,8 @@
    },
    "due": 412,
    "rank": 412,
-   "german": "übrig bleiben (Ni.)"
+   "german": "übrig bleiben (Ni.)",
+   "strongs": "H3498"
   },
   {
    "id": "he-n70p-105-avshalom",
@@ -11585,7 +11997,8 @@
    },
    "due": 413,
    "rank": 413,
-   "german": "Absalom"
+   "german": "Absalom",
+   "strongs": "H53"
   },
   {
    "id": "he-nn70p-105-bamah",
@@ -11613,7 +12026,8 @@
    },
    "due": 414,
    "rank": 413,
-   "german": "die Höhe, das Höhenheiligtum"
+   "german": "die Höhe, das Höhenheiligtum",
+   "strongs": "H1116"
   },
   {
    "id": "he-n70p-104-yarovam",
@@ -11641,7 +12055,8 @@
    },
    "due": 415,
    "rank": 415,
-   "german": "Jerobeam"
+   "german": "Jerobeam",
+   "strongs": "H3379"
   },
   {
    "id": "he-o70p-104-tamid",
@@ -11669,7 +12084,8 @@
    },
    "due": 416,
    "rank": 415,
-   "german": "beständig, immer"
+   "german": "beständig, immer",
+   "strongs": "H8548"
   },
   {
    "id": "he-o70p-104-bead",
@@ -11697,7 +12113,8 @@
    },
    "due": 417,
    "rank": 415,
-   "german": "hinter; durch; für"
+   "german": "hinter; durch; für",
+   "strongs": "H1157"
   },
   {
    "id": "he-v70p-104-ruts",
@@ -11725,7 +12142,8 @@
    },
    "due": 418,
    "rank": 415,
-   "german": "laufen"
+   "german": "laufen",
+   "strongs": "H7323"
   },
   {
    "id": "he-v70p-104-gaal",
@@ -11753,7 +12171,8 @@
    },
    "due": 419,
    "rank": 415,
-   "german": "erlösen, auslösen; rächen"
+   "german": "erlösen, auslösen; rächen",
+   "strongs": "H1350"
   },
   {
    "id": "he-nn70p-104-chuqqah",
@@ -11781,7 +12200,8 @@
    },
    "due": 420,
    "rank": 415,
-   "german": "die Satzung, Ordnung"
+   "german": "die Satzung, Ordnung",
+   "strongs": "H2708"
   },
   {
    "id": "he-nn70p-103-mareh",
@@ -11809,7 +12229,8 @@
    },
    "due": 421,
    "rank": 421,
-   "german": "das Aussehen; die Erscheinung"
+   "german": "das Aussehen; die Erscheinung",
+   "strongs": "H4758"
   },
   {
    "id": "he-v70p-102-shakhach",
@@ -11837,7 +12258,8 @@
    },
    "due": 422,
    "rank": 422,
-   "german": "vergessen"
+   "german": "vergessen",
+   "strongs": "H7911"
   },
   {
    "id": "he-v70p-102-kafar",
@@ -11865,7 +12287,8 @@
    },
    "due": 423,
    "rank": 422,
-   "german": "(Pi.) sühnen, Sühne schaffen"
+   "german": "(Pi.) sühnen, Sühne schaffen",
+   "strongs": "H3722"
   },
   {
    "id": "he-a70p-101-meat",
@@ -11893,7 +12316,8 @@
    },
    "due": 424,
    "rank": 424,
-   "german": "wenig"
+   "german": "wenig",
+   "strongs": "H4592"
   },
   {
    "id": "he-nn70p-101-rochav",
@@ -11921,7 +12345,8 @@
    },
    "due": 425,
    "rank": 424,
-   "german": "die Breite"
+   "german": "die Breite",
+   "strongs": "H7341"
   },
   {
    "id": "he-nn70p-101-raav",
@@ -11949,7 +12374,8 @@
    },
    "due": 426,
    "rank": 424,
-   "german": "der Hunger, die Hungersnot"
+   "german": "der Hunger, die Hungersnot",
+   "strongs": "H7458"
   },
   {
    "id": "he-o70p-100-hen",
@@ -11977,7 +12403,8 @@
    },
    "due": 427,
    "rank": 427,
-   "german": "siehe; wenn"
+   "german": "siehe; wenn",
+   "strongs": "H2005"
   },
   {
    "id": "he-o70p-99-yaan",
@@ -12005,7 +12432,8 @@
    },
    "due": 428,
    "rank": 428,
-   "german": "weil"
+   "german": "weil",
+   "strongs": "H3282"
   },
   {
    "id": "he-nn70p-99-or",
@@ -12033,7 +12461,8 @@
    },
    "due": 429,
    "rank": 428,
-   "german": "die Haut; das Leder"
+   "german": "die Haut; das Leder",
+   "strongs": "H5785"
   },
   {
    "id": "he-n70p-98-yehudi",
@@ -12061,7 +12490,8 @@
    },
    "due": 430,
    "rank": 430,
-   "german": "der Jude, Judäer; jüdisch"
+   "german": "der Jude, Judäer; jüdisch",
+   "strongs": "H3064"
   },
   {
    "id": "he-v70p-98-sharat",
@@ -12089,7 +12519,8 @@
    },
    "due": 431,
    "rank": 430,
-   "german": "dienen (Pi.)"
+   "german": "dienen (Pi.)",
+   "strongs": "H8334"
   },
   {
    "id": "he-v70p-97-sava",
@@ -12117,7 +12548,8 @@
    },
    "due": 432,
    "rank": 432,
-   "german": "satt werden, sich sättigen"
+   "german": "satt werden, sich sättigen",
+   "strongs": "H7646"
   },
   {
    "id": "he-v70p-97-raa",
@@ -12145,7 +12577,8 @@
    },
    "due": 433,
    "rank": 432,
-   "german": "böse sein; (Hi.) Böses tun"
+   "german": "böse sein; (Hi.) Böses tun",
+   "strongs": "H7489"
   },
   {
    "id": "he-v70p-97-lavash",
@@ -12173,7 +12606,8 @@
    },
    "due": 434,
    "rank": 432,
-   "german": "anziehen, bekleiden"
+   "german": "anziehen, bekleiden",
+   "strongs": "H3847"
   },
   {
    "id": "he-v50p-97-yavesh",
@@ -12201,7 +12635,8 @@
    },
    "due": 435,
    "rank": 432,
-   "german": "trocken sein, verdorren"
+   "german": "trocken sein, verdorren",
+   "strongs": "H3001"
   },
   {
    "id": "he-v50p-97-yatsar",
@@ -12229,7 +12664,8 @@
    },
    "due": 436,
    "rank": 432,
-   "german": "bilden, formen"
+   "german": "bilden, formen",
+   "strongs": "H3335"
   },
   {
    "id": "he-n70p-96-esav",
@@ -12257,7 +12693,8 @@
    },
    "due": 437,
    "rank": 437,
-   "german": "Esau"
+   "german": "Esau",
+   "strongs": "H6215"
   },
   {
    "id": "he-a70p-96-tahor",
@@ -12285,7 +12722,8 @@
    },
    "due": 438,
    "rank": 437,
-   "german": "rein"
+   "german": "rein",
+   "strongs": "H2889"
   },
   {
    "id": "he-a70p-96-shevii",
@@ -12313,7 +12751,8 @@
    },
    "due": 439,
    "rank": 437,
-   "german": "siebter"
+   "german": "siebter",
+   "strongs": "H7637"
   },
   {
    "id": "he-v70p-96-aman",
@@ -12341,7 +12780,8 @@
    },
    "due": 440,
    "rank": 437,
-   "german": "(Hi.) glauben, vertrauen; (Ni.) treu, zuverlässig sein"
+   "german": "(Hi.) glauben, vertrauen; (Ni.) treu, zuverlässig sein",
+   "strongs": "H539"
   },
   {
    "id": "he-nn70p-96-chayyah",
@@ -12369,7 +12809,8 @@
    },
    "due": 441,
    "rank": 437,
-   "german": "das Tier, Lebewesen"
+   "german": "das Tier, Lebewesen",
+   "strongs": "H2416"
   },
   {
    "id": "he-nn70p-96-yeter",
@@ -12397,7 +12838,8 @@
    },
    "due": 442,
    "rank": 437,
-   "german": "der Rest; der Vorrang"
+   "german": "der Rest; der Vorrang",
+   "strongs": "H3499"
   },
   {
    "id": "he-nn70p-96-chamor",
@@ -12425,7 +12867,8 @@
    },
    "due": 443,
    "rank": 437,
-   "german": "der Esel"
+   "german": "der Esel",
+   "strongs": "H2543"
   },
   {
    "id": "he-nn70p-96-elah",
@@ -12453,7 +12896,8 @@
    },
    "due": 444,
    "rank": 437,
-   "german": "Gott; Gottheit (aram.)"
+   "german": "Gott; Gottheit (aram.)",
+   "strongs": "H426"
   },
   {
    "id": "he-nn70p-95-orekh",
@@ -12481,7 +12925,8 @@
    },
    "due": 445,
    "rank": 445,
-   "german": "die Länge"
+   "german": "die Länge",
+   "strongs": "H753"
   },
   {
    "id": "he-a70p-94-chalal",
@@ -12509,7 +12954,8 @@
    },
    "due": 446,
    "rank": 446,
-   "german": "erschlagen, durchbohrt"
+   "german": "erschlagen, durchbohrt",
+   "strongs": "H2491"
   },
   {
    "id": "he-v70p-94-malat",
@@ -12537,7 +12983,8 @@
    },
    "due": 447,
    "rank": 446,
-   "german": "(Ni.) entkommen; (Pi.) retten"
+   "german": "(Ni.) entkommen; (Pi.) retten",
+   "strongs": "H4422"
   },
   {
    "id": "he-v70p-94-hafakh",
@@ -12565,7 +13012,8 @@
    },
    "due": 448,
    "rank": 446,
-   "german": "umwenden, umstürzen; verwandeln"
+   "german": "umwenden, umstürzen; verwandeln",
+   "strongs": "H2015"
   },
   {
    "id": "he-v70p-94-taher",
@@ -12593,7 +13041,8 @@
    },
    "due": 449,
    "rank": 446,
-   "german": "rein sein; (Pi.) reinigen"
+   "german": "rein sein; (Pi.) reinigen",
+   "strongs": "H2891"
   },
   {
    "id": "he-nn70p-94-simchah",
@@ -12621,7 +13070,8 @@
    },
    "due": 450,
    "rank": 446,
-   "german": "die Freude"
+   "german": "die Freude",
+   "strongs": "H8057"
   },
   {
    "id": "he-n70p-93-achav",
@@ -12649,7 +13099,8 @@
    },
    "due": 451,
    "rank": 451,
-   "german": "Ahab"
+   "german": "Ahab",
+   "strongs": "H256"
   },
   {
    "id": "he-v70p-93-charah",
@@ -12677,7 +13128,8 @@
    },
    "due": 452,
    "rank": 451,
-   "german": "entbrennen (Zorn), zornig werden"
+   "german": "entbrennen (Zorn), zornig werden",
+   "strongs": "H2734"
   },
   {
    "id": "he-nn70p-93-pesha",
@@ -12705,7 +13157,8 @@
    },
    "due": 453,
    "rank": 451,
-   "german": "das Vergehen, der Frevel"
+   "german": "das Vergehen, der Frevel",
+   "strongs": "H6588"
   },
   {
    "id": "he-v70p-92-shamem",
@@ -12733,7 +13186,8 @@
    },
    "due": 454,
    "rank": 454,
-   "german": "verwüstet sein; sich entsetzen"
+   "german": "verwüstet sein; sich entsetzen",
+   "strongs": "H8074"
   },
   {
    "id": "he-nn70p-92-kerem",
@@ -12761,7 +13215,8 @@
    },
    "due": 455,
    "rank": 454,
-   "german": "der Weinberg"
+   "german": "der Weinberg",
+   "strongs": "H3754"
   },
   {
    "id": "he-nn70p-92-chelev",
@@ -12789,7 +13244,8 @@
    },
    "due": 456,
    "rank": 454,
-   "german": "das Fett"
+   "german": "das Fett",
+   "strongs": "H2459"
   },
   {
    "id": "he-nn70p-92-ger",
@@ -12817,7 +13273,8 @@
    },
    "due": 457,
    "rank": 454,
-   "german": "der Fremdling, Schutzbürger"
+   "german": "der Fremde, Schutzbürger",
+   "strongs": "H1616"
   },
   {
    "id": "he-nn70p-92-qatseh",
@@ -12845,7 +13302,8 @@
    },
    "due": 458,
    "rank": 454,
-   "german": "das Ende, der Rand"
+   "german": "das Ende, der Rand",
+   "strongs": "H7097"
   },
   {
    "id": "he-nn70p-92-ever",
@@ -12873,7 +13331,8 @@
    },
    "due": 459,
    "rank": 454,
-   "german": "die andere Seite, das Jenseits"
+   "german": "die andere Seite, das Jenseits",
+   "strongs": "H5676"
   },
   {
    "id": "he-n70p-91-nevukhadretsar",
@@ -12901,7 +13360,8 @@
    },
    "due": 460,
    "rank": 460,
-   "german": "Nebukadnezar"
+   "german": "Nebukadnezar",
+   "strongs": "H5019"
   },
   {
    "id": "he-a70p-91-tamim",
@@ -12929,7 +13389,8 @@
    },
    "due": 461,
    "rank": 460,
-   "german": "vollständig; untadelig"
+   "german": "vollständig; untadelig",
+   "strongs": "H8549"
   },
   {
    "id": "he-nn70p-91-keruv",
@@ -12957,7 +13418,8 @@
    },
    "due": 462,
    "rank": 460,
-   "german": "der Kerub"
+   "german": "der Kerub",
+   "strongs": "H3742"
   },
   {
    "id": "he-nn70p-91-zeroa",
@@ -12985,7 +13447,8 @@
    },
    "due": 463,
    "rank": 460,
-   "german": "der Arm; die Macht"
+   "german": "der Arm; die Macht",
+   "strongs": "H2220"
   },
   {
    "id": "he-nn70p-91-malkhut",
@@ -13013,7 +13476,8 @@
    },
    "due": 464,
    "rank": 460,
-   "german": "die Königsherrschaft, das Königreich"
+   "german": "die Königsherrschaft, das Königreich",
+   "strongs": "H4438"
   },
   {
    "id": "he-v70p-90-shamad",
@@ -13041,7 +13505,8 @@
    },
    "due": 465,
    "rank": 465,
-   "german": "vertilgen, vernichten (Hi.)"
+   "german": "vertilgen, vernichten (Hi.)",
+   "strongs": "H8045"
   },
   {
    "id": "he-nn70p-90-yeled",
@@ -13069,7 +13534,8 @@
    },
    "due": 466,
    "rank": 465,
-   "german": "das Kind; der Knabe, das Mädchen"
+   "german": "das Kind, der Junge; das Mädchen",
+   "strongs": "H3206"
   },
   {
    "id": "he-n70p-89-kasdim",
@@ -13097,7 +13563,8 @@
    },
    "due": 467,
    "rank": 467,
-   "german": "die Chaldäer; Chaldäa"
+   "german": "die Chaldäer; Chaldäa",
+   "strongs": "H3778"
   },
   {
    "id": "he-a70p-89-shivim",
@@ -13125,7 +13592,8 @@
    },
    "due": 468,
    "rank": 467,
-   "german": "siebzig"
+   "german": "siebzig",
+   "strongs": "H7657"
   },
   {
    "id": "he-nn70p-89-etsah",
@@ -13153,7 +13621,8 @@
    },
    "due": 469,
    "rank": 467,
-   "german": "der Rat, Ratschluss"
+   "german": "der Rat, Ratschluss",
+   "strongs": "H6098"
   },
   {
    "id": "he-a70p-88-tame",
@@ -13181,7 +13650,8 @@
    },
    "due": 470,
    "rank": 470,
-   "german": "unrein"
+   "german": "unrein",
+   "strongs": "H2931"
   },
   {
    "id": "he-v70p-88-shir",
@@ -13209,7 +13679,8 @@
    },
    "due": 471,
    "rank": 470,
-   "german": "singen"
+   "german": "singen",
+   "strongs": "H7891"
   },
   {
    "id": "he-v70p-88-shit",
@@ -13237,7 +13708,8 @@
    },
    "due": 472,
    "rank": 470,
-   "german": "setzen, stellen"
+   "german": "setzen, stellen",
+   "strongs": "H7896"
   },
   {
    "id": "he-nn70p-88-sheqel",
@@ -13265,7 +13737,8 @@
    },
    "due": 473,
    "rank": 470,
-   "german": "der Schekel"
+   "german": "der Schekel",
+   "strongs": "H8255"
   },
   {
    "id": "he-nn70p-88-daat",
@@ -13293,7 +13766,8 @@
    },
    "due": 474,
    "rank": 470,
-   "german": "die Erkenntnis, das Wissen"
+   "german": "die Erkenntnis, das Wissen",
+   "strongs": "H1847"
   },
   {
    "id": "he-nn70p-88-delet",
@@ -13321,7 +13795,8 @@
    },
    "due": 475,
    "rank": 470,
-   "german": "die Tür"
+   "german": "die Tür",
+   "strongs": "H1817"
   },
   {
    "id": "he-n70p-87-reuven",
@@ -13349,7 +13824,8 @@
    },
    "due": 476,
    "rank": 476,
-   "german": "Ruben; Rubeniter"
+   "german": "Ruben; Rubeniter",
+   "strongs": "H7205"
   },
   {
    "id": "he-v70p-87-lamad",
@@ -13377,7 +13853,8 @@
    },
    "due": 477,
    "rank": 476,
-   "german": "lernen; (Pi.) lehren"
+   "german": "lernen; (Pi.) lehren",
+   "strongs": "H3925"
   },
   {
    "id": "he-nn70p-87-shelem",
@@ -13405,7 +13882,8 @@
    },
    "due": 478,
    "rank": 476,
-   "german": "das Heilsopfer, Gemeinschaftsopfer"
+   "german": "das Heilsopfer, Gemeinschaftsopfer",
+   "strongs": "H8002"
   },
   {
    "id": "he-nn70p-87-anan",
@@ -13433,7 +13911,8 @@
    },
    "due": 479,
    "rank": 476,
-   "german": "die Wolke"
+   "german": "die Wolke",
+   "strongs": "H6051"
   },
   {
    "id": "he-n70p-86-yehoshafat",
@@ -13461,7 +13940,8 @@
    },
    "due": 480,
    "rank": 480,
-   "german": "Joschafat"
+   "german": "Joschafat",
+   "strongs": "H3092"
   },
   {
    "id": "he-n70p-86-emori",
@@ -13489,7 +13969,8 @@
    },
    "due": 481,
    "rank": 480,
-   "german": "Amoriter"
+   "german": "Amoriter",
+   "strongs": "H567"
   },
   {
    "id": "he-n70p-85-gad",
@@ -13517,7 +13998,8 @@
    },
    "due": 482,
    "rank": 482,
-   "german": "Gad; Gaditer"
+   "german": "Gad; Gaditer",
+   "strongs": "H1410"
   },
   {
    "id": "he-a70p-85-rachoq",
@@ -13545,7 +14027,8 @@
    },
    "due": 483,
    "rank": 482,
-   "german": "fern, entfernt"
+   "german": "fern, entfernt",
+   "strongs": "H7350"
   },
   {
    "id": "he-v70p-85-qanah",
@@ -13573,7 +14056,8 @@
    },
    "due": 484,
    "rank": 482,
-   "german": "erwerben, kaufen"
+   "german": "erwerben, kaufen",
+   "strongs": "H7069"
   },
   {
    "id": "he-nn70p-85-hamon",
@@ -13601,7 +14085,8 @@
    },
    "due": 485,
    "rank": 482,
-   "german": "die Menge; das Getöse"
+   "german": "die Menge; das Getöse",
+   "strongs": "H1995"
   },
   {
    "id": "he-nn70p-85-peah",
@@ -13629,7 +14114,8 @@
    },
    "due": 486,
    "rank": 482,
-   "german": "die Seite, der Rand, die Ecke"
+   "german": "die Seite, der Rand, die Ecke",
+   "strongs": "H6285"
   },
   {
    "id": "he-v70p-84-palal",
@@ -13657,7 +14143,8 @@
    },
    "due": 487,
    "rank": 487,
-   "german": "beten (Hitp.)"
+   "german": "beten (Hitp.)",
+   "strongs": "H6419"
   },
   {
    "id": "he-v70p-83-gur",
@@ -13685,7 +14172,8 @@
    },
    "due": 488,
    "rank": 488,
-   "german": "als Fremdling weilen"
+   "german": "als Fremder wohnen",
+   "strongs": "H1481"
   },
   {
    "id": "he-nn70p-83-edut",
@@ -13713,7 +14201,8 @@
    },
    "due": 489,
    "rank": 488,
-   "german": "das Zeugnis; die Zeugin"
+   "german": "das Zeugnis; die Bezeugung",
+   "strongs": "H5715"
   },
   {
    "id": "he-o70p-82-po",
@@ -13741,7 +14230,8 @@
    },
    "due": 490,
    "rank": 490,
-   "german": "hier"
+   "german": "hier",
+   "strongs": "H6311"
   },
   {
    "id": "he-o70p-82-la",
@@ -13769,7 +14259,8 @@
    },
    "due": 491,
    "rank": 490,
-   "german": "nicht (aram.)"
+   "german": "nicht (aram.)",
+   "strongs": "H3809"
   },
   {
    "id": "he-v70p-82-satar",
@@ -13797,7 +14288,8 @@
    },
    "due": 492,
    "rank": 490,
-   "german": "verbergen (Hi.)"
+   "german": "verbergen (Hi.)",
+   "strongs": "H5641"
   },
   {
    "id": "he-v70p-82-sagar",
@@ -13825,7 +14317,8 @@
    },
    "due": 493,
    "rank": 490,
-   "german": "verschließen; (Hi.) ausliefern"
+   "german": "verschließen; (Hi.) ausliefern",
+   "strongs": "H5462"
   },
   {
    "id": "he-v70p-82-qalal",
@@ -13853,7 +14346,8 @@
    },
    "due": 494,
    "rank": 490,
-   "german": "gering sein, leicht sein; (Pi.) verfluchen"
+   "german": "gering sein, leicht sein; (Pi.) verfluchen",
+   "strongs": "H7043"
   },
   {
    "id": "he-v70p-82-azar",
@@ -13881,7 +14375,8 @@
    },
    "due": 495,
    "rank": 490,
-   "german": "helfen"
+   "german": "helfen",
+   "strongs": "H5826"
   },
   {
    "id": "he-nn70p-82-zakhar",
@@ -13909,7 +14404,8 @@
    },
    "due": 496,
    "rank": 490,
-   "german": "männlich; das Männliche"
+   "german": "männlich; das Männliche",
+   "strongs": "H2145"
   },
   {
    "id": "he-n70p-81-daniyyel",
@@ -13937,7 +14433,8 @@
    },
    "due": 497,
    "rank": 497,
-   "german": "Daniel"
+   "german": "Daniel",
+   "strongs": "H1841"
   },
   {
    "id": "he-v70p-81-mashal",
@@ -13965,7 +14462,8 @@
    },
    "due": 498,
    "rank": 497,
-   "german": "herrschen"
+   "german": "herrschen",
+   "strongs": "H4910"
   },
   {
    "id": "he-v70p-81-mahar",
@@ -13993,7 +14491,8 @@
    },
    "due": 499,
    "rank": 497,
-   "german": "eilen (Pi.)"
+   "german": "eilen (Pi.)",
+   "strongs": "H4116"
   },
   {
    "id": "he-a70p-80-ani",
@@ -14021,7 +14520,8 @@
    },
    "due": 500,
    "rank": 500,
-   "german": "arm, elend"
+   "german": "arm, elend",
+   "strongs": "H6041"
   },
   {
    "id": "he-v70p-80-ur",
@@ -14049,7 +14549,8 @@
    },
    "due": 501,
    "rank": 500,
-   "german": "aufwachen; (Hi./Pol.) aufwecken"
+   "german": "aufwachen; (Hi./Pol.) aufwecken",
+   "strongs": "H5782"
   },
   {
    "id": "he-v70p-80-makhar",
@@ -14077,7 +14578,8 @@
    },
    "due": 502,
    "rank": 500,
-   "german": "verkaufen"
+   "german": "verkaufen",
+   "strongs": "H4376"
   },
   {
    "id": "he-v70p-80-shachat",
@@ -14105,7 +14607,8 @@
    },
    "due": 503,
    "rank": 500,
-   "german": "schlachten"
+   "german": "schlachten",
+   "strongs": "H7819"
   },
   {
    "id": "he-nn70p-80-choshekh",
@@ -14133,7 +14636,8 @@
    },
    "due": 504,
    "rank": 500,
-   "german": "die Finsternis"
+   "german": "die Finsternis",
+   "strongs": "H2822"
   },
   {
    "id": "he-nn70p-80-qorban",
@@ -14161,7 +14665,8 @@
    },
    "due": 505,
    "rank": 500,
-   "german": "die Opfergabe"
+   "german": "die Opfergabe",
+   "strongs": "H7133"
   },
   {
    "id": "he-nn70p-80-hekhal",
@@ -14189,7 +14694,8 @@
    },
    "due": 506,
    "rank": 500,
-   "german": "der Tempel; der Palast"
+   "german": "der Tempel; der Palast",
+   "strongs": "H1964"
   },
   {
    "id": "he-v70p-79-anah",
@@ -14217,7 +14723,8 @@
    },
    "due": 507,
    "rank": 507,
-   "german": "demütigen, bedrücken (Pi.)"
+   "german": "demütigen, bedrücken (Pi.)",
+   "strongs": "H6031"
   },
   {
    "id": "he-nn70p-79-otsar",
@@ -14245,7 +14752,8 @@
    },
    "due": 508,
    "rank": 507,
-   "german": "der Schatz; die Schatzkammer"
+   "german": "der Schatz; die Schatzkammer",
+   "strongs": "H214"
   },
   {
    "id": "he-nn70p-79-ot",
@@ -14273,7 +14781,8 @@
    },
    "due": 509,
    "rank": 507,
-   "german": "das Zeichen"
+   "german": "das Zeichen",
+   "strongs": "H226"
   },
   {
    "id": "he-nn70p-79-ari",
@@ -14301,7 +14810,8 @@
    },
    "due": 510,
    "rank": 507,
-   "german": "der Löwe"
+   "german": "der Löwe",
+   "strongs": "H738"
   },
   {
    "id": "he-nn70p-79-shor",
@@ -14329,7 +14839,8 @@
    },
    "due": 511,
    "rank": 507,
-   "german": "der Stier, das Rind"
+   "german": "der Stier, das Rind",
+   "strongs": "H7794"
   },
   {
    "id": "he-n70p-78-dan",
@@ -14357,7 +14868,8 @@
    },
    "due": 512,
    "rank": 512,
-   "german": "Dan; Daniter"
+   "german": "Dan; Daniter",
+   "strongs": "H1835"
   },
   {
    "id": "he-a70p-78-tesha",
@@ -14385,7 +14897,8 @@
    },
    "due": 513,
    "rank": 512,
-   "german": "neun"
+   "german": "neun",
+   "strongs": "H8672"
   },
   {
    "id": "he-v70p-78-rakhav",
@@ -14413,7 +14926,8 @@
    },
    "due": 514,
    "rank": 512,
-   "german": "reiten, fahren"
+   "german": "reiten, fahren",
+   "strongs": "H7392"
   },
   {
    "id": "he-nn70p-78-yeshuah",
@@ -14441,7 +14955,8 @@
    },
    "due": 515,
    "rank": 512,
-   "german": "die Rettung, das Heil"
+   "german": "die Rettung, das Heil",
+   "strongs": "H3444"
   },
   {
    "id": "he-nn70p-78-shir",
@@ -14469,7 +14984,8 @@
    },
    "due": 516,
    "rank": 512,
-   "german": "das Lied"
+   "german": "das Lied",
+   "strongs": "H7892"
   },
   {
    "id": "he-nn70p-78-mishmeret",
@@ -14497,7 +15013,8 @@
    },
    "due": 517,
    "rank": 512,
-   "german": "die Wache, Hut; der Dienst"
+   "german": "die Wache, Hut; der Dienst",
+   "strongs": "H4931"
   },
   {
    "id": "he-nn70p-78-goral",
@@ -14525,7 +15042,8 @@
    },
    "due": 518,
    "rank": 512,
-   "german": "das Los; das Erbteil"
+   "german": "das Los; das Erbteil",
+   "strongs": "H1486"
   },
   {
    "id": "he-nn70p-78-nega",
@@ -14553,7 +15071,8 @@
    },
    "due": 519,
    "rank": 512,
-   "german": "die Plage; der Schlag; das Mal"
+   "german": "die Plage; der Schlag; das Mal",
+   "strongs": "H5061"
   },
   {
    "id": "he-n70p-77-chevron",
@@ -14581,7 +15100,8 @@
    },
    "due": 520,
    "rank": 520,
-   "german": "Hebron"
+   "german": "Hebron",
+   "strongs": "H2275"
   },
   {
    "id": "he-a70p-77-matayim",
@@ -14609,7 +15129,8 @@
    },
    "due": 521,
    "rank": 520,
-   "german": "zweihundert"
+   "german": "zweihundert",
+   "strongs": "H3967"
   },
   {
    "id": "he-v70p-77-chanan",
@@ -14637,7 +15158,8 @@
    },
    "due": 522,
    "rank": 520,
-   "german": "gnädig sein"
+   "german": "gnädig sein",
+   "strongs": "H2603"
   },
   {
    "id": "he-nn70p-77-aven",
@@ -14665,7 +15187,8 @@
    },
    "due": 523,
    "rank": 520,
-   "german": "das Unheil, die Bosheit"
+   "german": "das Unheil, die Bosheit",
+   "strongs": "H205"
   },
   {
    "id": "he-nn70p-77-tefillah",
@@ -14693,7 +15216,8 @@
    },
    "due": 524,
    "rank": 520,
-   "german": "das Gebet"
+   "german": "das Gebet",
+   "strongs": "H8605"
   },
   {
    "id": "he-nn70p-76-oz",
@@ -14721,7 +15245,8 @@
    },
    "due": 525,
    "rank": 525,
-   "german": "die Stärke, Macht"
+   "german": "die Stärke, Macht",
+   "strongs": "H5797"
   },
   {
    "id": "he-nn70p-76-barzel",
@@ -14749,7 +15274,8 @@
    },
    "due": 526,
    "rank": 525,
-   "german": "das Eisen"
+   "german": "das Eisen",
+   "strongs": "H1270"
   },
   {
    "id": "he-nn70p-76-terumah",
@@ -14777,7 +15303,8 @@
    },
    "due": 527,
    "rank": 525,
-   "german": "die Abgabe, Hebeopfer"
+   "german": "die Abgabe, das Hebopfer",
+   "strongs": "H8641"
   },
   {
    "id": "he-nn70p-76-naarah",
@@ -14805,7 +15332,8 @@
    },
    "due": 528,
    "rank": 525,
-   "german": "das Mädchen, junge Frau"
+   "german": "das Mädchen, junge Frau",
+   "strongs": "H5291"
   },
   {
    "id": "he-nn70p-76-miqneh",
@@ -14833,7 +15361,8 @@
    },
    "due": 529,
    "rank": 525,
-   "german": "der Besitz, das Vieh"
+   "german": "der Besitz, das Vieh",
+   "strongs": "H4735"
   },
   {
    "id": "he-a70p-75-qarov",
@@ -14861,7 +15390,8 @@
    },
    "due": 530,
    "rank": 530,
-   "german": "nahe"
+   "german": "nahe",
+   "strongs": "H7138"
   },
   {
    "id": "he-v70p-75-arakh",
@@ -14889,7 +15419,8 @@
    },
    "due": 531,
    "rank": 530,
-   "german": "ordnen, zurichten; sich aufstellen"
+   "german": "ordnen, zurichten; sich aufstellen",
+   "strongs": "H6186"
   },
   {
    "id": "he-v70p-75-chalah",
@@ -14917,7 +15448,8 @@
    },
    "due": 532,
    "rank": 530,
-   "german": "schwach sein, krank sein"
+   "german": "schwach sein, krank sein",
+   "strongs": "H2470"
   },
   {
    "id": "he-nn70p-75-qeshet",
@@ -14945,7 +15477,8 @@
    },
    "due": 533,
    "rank": 530,
-   "german": "der Bogen"
+   "german": "der Bogen",
+   "strongs": "H7198"
   },
   {
    "id": "he-nn70p-75-miqdash",
@@ -14973,7 +15506,8 @@
    },
    "due": 534,
    "rank": 530,
-   "german": "das Heiligtum"
+   "german": "das Heiligtum",
+   "strongs": "H4720"
   },
   {
    "id": "he-nn70p-75-qeren",
@@ -15001,7 +15535,8 @@
    },
    "due": 535,
    "rank": 530,
-   "german": "das Horn"
+   "german": "das Horn",
+   "strongs": "H7161"
   },
   {
    "id": "he-o70p-74-selah",
@@ -15029,7 +15564,8 @@
    },
    "due": 536,
    "rank": 536,
-   "german": "Sela (musikal. Zeichen)"
+   "german": "Sela (musikal. Zeichen)",
+   "strongs": "H5542"
   },
   {
    "id": "he-v70p-74-zaaq",
@@ -15057,7 +15593,8 @@
    },
    "due": 537,
    "rank": 536,
-   "german": "schreien, um Hilfe rufen"
+   "german": "schreien, um Hilfe rufen",
+   "strongs": "H2199"
   },
   {
    "id": "he-v70p-74-maas",
@@ -15085,7 +15622,8 @@
    },
    "due": 538,
    "rank": 536,
-   "german": "verwerfen, verachten"
+   "german": "verwerfen, verachten",
+   "strongs": "H3988"
   },
   {
    "id": "he-v70p-74-natsav",
@@ -15113,7 +15651,8 @@
    },
    "due": 539,
    "rank": 536,
-   "german": "sich hinstellen (Ni.)"
+   "german": "sich hinstellen (Ni.)",
+   "strongs": "H5324"
   },
   {
    "id": "he-nn70p-74-shalal",
@@ -15141,7 +15680,8 @@
    },
    "due": 540,
    "rank": 536,
-   "german": "die Beute"
+   "german": "die Beute",
+   "strongs": "H7998"
   },
   {
    "id": "he-nn70p-74-ez",
@@ -15169,7 +15709,8 @@
    },
    "due": 541,
    "rank": 536,
-   "german": "die Ziege"
+   "german": "die Ziege",
+   "strongs": "H5795"
   },
   {
    "id": "he-nn70p-74-mizrach",
@@ -15197,7 +15738,8 @@
    },
    "due": 542,
    "rank": 536,
-   "german": "der Sonnenaufgang, Osten"
+   "german": "der Sonnenaufgang, Osten",
+   "strongs": "H4217"
   },
   {
    "id": "he-o70p-73-bal",
@@ -15225,7 +15767,8 @@
    },
    "due": 543,
    "rank": 543,
-   "german": "nicht, niemals"
+   "german": "nicht, niemals",
+   "strongs": "H1077"
   },
   {
    "id": "he-v70p-73-asar",
@@ -15253,7 +15796,8 @@
    },
    "due": 544,
    "rank": 543,
-   "german": "binden, fesseln"
+   "german": "binden, fesseln",
+   "strongs": "H631"
   },
   {
    "id": "he-v70p-73-pala",
@@ -15281,7 +15825,8 @@
    },
    "due": 545,
    "rank": 543,
-   "german": "wunderbar sein (Ni.)"
+   "german": "wunderbar sein (Ni.)",
+   "strongs": "H6381"
   },
   {
    "id": "he-v70p-73-chafets",
@@ -15309,7 +15854,8 @@
    },
    "due": 546,
    "rank": 543,
-   "german": "Gefallen haben, begehren"
+   "german": "Gefallen haben, begehren",
+   "strongs": "H2654"
   },
   {
    "id": "he-nn70p-73-erez",
@@ -15337,7 +15883,8 @@
    },
    "due": 547,
    "rank": 543,
-   "german": "die Zeder"
+   "german": "die Zeder",
+   "strongs": "H730"
   },
   {
    "id": "he-nn70p-73-hevel",
@@ -15365,7 +15912,8 @@
    },
    "due": 548,
    "rank": 543,
-   "german": "der Hauch, die Nichtigkeit; der Götze"
+   "german": "der Hauch, die Nichtigkeit; der Götze",
+   "strongs": "H1892"
   },
   {
    "id": "he-nn70p-73-cherpah",
@@ -15393,7 +15941,8 @@
    },
    "due": 549,
    "rank": 543,
-   "german": "die Schmach, Schande"
+   "german": "die Schmach, Schande",
+   "strongs": "H2781"
   },
   {
    "id": "he-nn70p-73-tsur",
@@ -15421,7 +15970,8 @@
    },
    "due": 550,
    "rank": 543,
-   "german": "der Fels"
+   "german": "der Fels",
+   "strongs": "H6697"
   },
   {
    "id": "he-nn70p-73-qir",
@@ -15449,7 +15999,8 @@
    },
    "due": 551,
    "rank": 543,
-   "german": "die Wand, Mauer"
+   "german": "die Wand, Mauer",
+   "strongs": "H7023"
   },
   {
    "id": "he-n70p-72-elazar",
@@ -15477,7 +16028,8 @@
    },
    "due": 552,
    "rank": 552,
-   "german": "Eleasar"
+   "german": "Eleasar",
+   "strongs": "H499"
   },
   {
    "id": "he-o70p-72-madua",
@@ -15505,7 +16057,8 @@
    },
    "due": 553,
    "rank": 552,
-   "german": "warum?"
+   "german": "warum?",
+   "strongs": "H4069"
   },
   {
    "id": "he-a70p-72-met",
@@ -15533,7 +16086,8 @@
    },
    "due": 554,
    "rank": 552,
-   "german": "tot"
+   "german": "tot",
+   "strongs": "H4191"
   },
   {
    "id": "he-v70p-72-rachats",
@@ -15561,7 +16115,8 @@
    },
    "due": 555,
    "rank": 552,
-   "german": "waschen, (sich) baden"
+   "german": "waschen, (sich) baden",
+   "strongs": "H7364"
   },
   {
    "id": "he-v70p-72-chazah",
@@ -15589,7 +16144,8 @@
    },
    "due": 556,
    "rank": 552,
-   "german": "schauen, sehen"
+   "german": "schauen, sehen",
+   "strongs": "H2372"
   },
   {
    "id": "he-nn70p-72-beten",
@@ -15617,7 +16173,8 @@
    },
    "due": 557,
    "rank": 552,
-   "german": "der Bauch, Mutterleib"
+   "german": "der Bauch, Mutterleib",
+   "strongs": "H990"
   },
   {
    "id": "he-nn70p-72-shofar",
@@ -15645,7 +16202,8 @@
    },
    "due": 558,
    "rank": 552,
-   "german": "das Widderhorn, Schofar"
+   "german": "das Widderhorn, Schofar",
+   "strongs": "H7782"
   },
   {
    "id": "he-n70p-71-eliyyahu",
@@ -15673,7 +16231,8 @@
    },
    "due": 559,
    "rank": 559,
-   "german": "Elia"
+   "german": "Elia",
+   "strongs": "H452"
   },
   {
    "id": "he-n70p-71-levanon",
@@ -15701,7 +16260,8 @@
    },
    "due": 560,
    "rank": 559,
-   "german": "Libanon"
+   "german": "Libanon",
+   "strongs": "H3844"
   },
   {
    "id": "he-v70p-71-shavat",
@@ -15729,7 +16289,8 @@
    },
    "due": 561,
    "rank": 559,
-   "german": "aufhören, ruhen"
+   "german": "aufhören, ruhen",
+   "strongs": "H7673"
   },
   {
    "id": "he-nn70p-71-of",
@@ -15757,7 +16318,8 @@
    },
    "due": 562,
    "rank": 559,
-   "german": "die Vögel, das Geflügel"
+   "german": "die Vögel, das Geflügel",
+   "strongs": "H5775"
   },
   {
    "id": "he-nn70p-71-givah",
@@ -15785,7 +16347,8 @@
    },
    "due": 563,
    "rank": 559,
-   "german": "der Hügel"
+   "german": "der Hügel",
+   "strongs": "H1389"
   },
   {
    "id": "he-nn70p-71-shulchan",
@@ -15813,7 +16376,8 @@
    },
    "due": 564,
    "rank": 559,
-   "german": "der Tisch"
+   "german": "der Tisch",
+   "strongs": "H7979"
   },
   {
    "id": "he-nn70p-71-berakhah",
@@ -15841,7 +16405,8 @@
    },
    "due": 565,
    "rank": 559,
-   "german": "der Segen"
+   "german": "der Segen",
+   "strongs": "H1293"
   },
   {
    "id": "he-n70p-70-bethel",
@@ -15869,7 +16434,8 @@
    },
    "due": 566,
    "rank": 566,
-   "german": "Bethel"
+   "german": "Bethel",
+   "strongs": "H1008"
   },
   {
    "id": "he-a70p-70-zar",
@@ -15897,7 +16463,8 @@
    },
    "due": 567,
    "rank": 566,
-   "german": "fremd"
+   "german": "fremd",
+   "strongs": "H2114"
   },
   {
    "id": "he-v70p-70-mashach",
@@ -15925,7 +16492,8 @@
    },
    "due": 568,
    "rank": 566,
-   "german": "salben"
+   "german": "salben",
+   "strongs": "H4886"
   },
   {
    "id": "he-v70p-70-navat",
@@ -15953,7 +16521,8 @@
    },
    "due": 569,
    "rank": 566,
-   "german": "blicken, schauen (Hi.)"
+   "german": "blicken, schauen (Hi.)",
+   "strongs": "H5027"
   },
   {
    "id": "he-v70p-70-riv",
@@ -15981,7 +16550,8 @@
    },
    "due": 570,
    "rank": 566,
-   "german": "streiten, einen Rechtsstreit führen"
+   "german": "streiten, einen Rechtsstreit führen",
+   "strongs": "H7378"
   },
   {
    "id": "he-v70p-70-lin",
@@ -16009,7 +16579,8 @@
    },
    "due": 571,
    "rank": 566,
-   "german": "übernachten"
+   "german": "übernachten",
+   "strongs": "H3885"
   },
   {
    "id": "he-nn70p-70-tsar",
@@ -16037,7 +16608,8 @@
    },
    "due": 572,
    "rank": 566,
-   "german": "der Feind, Bedränger"
+   "german": "der Feind, Bedränger",
+   "strongs": "H6862"
   },
   {
    "id": "he-nn70p-70-kesil",
@@ -16065,7 +16637,8 @@
    },
    "due": 573,
    "rank": 566,
-   "german": "der Tor, Narr"
+   "german": "der Tor, Narr",
+   "strongs": "H3684"
   },
   {
    "id": "he-nn70p-70-tsarah",
@@ -16093,7 +16666,8 @@
    },
    "due": 574,
    "rank": 566,
-   "german": "die Not, Bedrängnis"
+   "german": "die Not, Bedrängnis",
+   "strongs": "H6869"
   },
   {
    "id": "he-nn70p-70-bor",
@@ -16121,7 +16695,8 @@
    },
    "due": 575,
    "rank": 566,
-   "german": "die Grube, Zisterne"
+   "german": "die Grube, Zisterne",
+   "strongs": "H953"
   },
   {
    "id": "he-v50p-69-taqa",
@@ -16149,7 +16724,8 @@
    },
    "due": 576,
    "rank": 576,
-   "german": "(in die Posaune) stoßen, blasen; einschlagen"
+   "german": "(ins Horn) blasen; (Pflock) einschlagen",
+   "strongs": "H8628"
   },
   {
    "id": "he-v50p-69-rafa",
@@ -16177,7 +16753,8 @@
    },
    "due": 577,
    "rank": 576,
-   "german": "heilen"
+   "german": "heilen",
+   "strongs": "H7495"
   },
   {
    "id": "he-nn50p-69-chen",
@@ -16205,7 +16782,8 @@
    },
    "due": 578,
    "rank": 576,
-   "german": "die Gunst, Gnade; die Anmut"
+   "german": "die Gunst, Gnade; die Anmut",
+   "strongs": "H2580"
   },
   {
    "id": "he-nn50p-69-qadim",
@@ -16233,7 +16811,8 @@
    },
    "due": 579,
    "rank": 576,
-   "german": "der Osten; der Ostwind"
+   "german": "der Osten; der Ostwind",
+   "strongs": "H6921"
   },
   {
    "id": "he-nn50p-69-ed",
@@ -16261,7 +16840,8 @@
    },
    "due": 580,
    "rank": 576,
-   "german": "der Zeuge"
+   "german": "der Zeuge",
+   "strongs": "H5707"
   },
   {
    "id": "he-nn50p-68-kikkar",
@@ -16289,7 +16869,8 @@
    },
    "due": 581,
    "rank": 581,
-   "german": "der runde Laib; das Talent; die Jordanaue"
+   "german": "der runde Laib; das Talent; die (Jordan-)Ebene",
+   "strongs": "H3603"
   },
   {
    "id": "he-n50p-67-avimelekh",
@@ -16317,7 +16898,8 @@
    },
    "due": 582,
    "rank": 582,
-   "german": "Abimelech"
+   "german": "Abimelech",
+   "strongs": "H40"
   },
   {
    "id": "he-n50p-67-midyan",
@@ -16345,7 +16927,8 @@
    },
    "due": 583,
    "rank": 582,
-   "german": "Midian; Midianiter"
+   "german": "Midian; Midianiter",
+   "strongs": "H4080"
   },
   {
    "id": "he-v50p-67-paras",
@@ -16373,7 +16956,8 @@
    },
    "due": 584,
    "rank": 582,
-   "german": "ausbreiten"
+   "german": "ausbreiten",
+   "strongs": "H6566"
   },
   {
    "id": "he-nn50p-67-qets",
@@ -16401,7 +16985,8 @@
    },
    "due": 585,
    "rank": 582,
-   "german": "das Ende"
+   "german": "das Ende",
+   "strongs": "H7093"
   },
   {
    "id": "he-nn50p-67-katef",
@@ -16429,7 +17014,8 @@
    },
    "due": 586,
    "rank": 582,
-   "german": "die Schulter; die Seite"
+   "german": "die Schulter; die Seite",
+   "strongs": "H3802"
   },
   {
    "id": "he-nn50p-67-tovah",
@@ -16457,7 +17043,8 @@
    },
    "due": 587,
    "rank": 582,
-   "german": "das Gute, die Güte"
+   "german": "das Gute, die Güte",
+   "strongs": "H2896"
   },
   {
    "id": "he-nn50p-67-qever",
@@ -16485,7 +17072,8 @@
    },
    "due": 588,
    "rank": 582,
-   "german": "das Grab"
+   "german": "das Grab",
+   "strongs": "H6913"
   },
   {
    "id": "he-nn70p-66-negev",
@@ -16513,7 +17101,8 @@
    },
    "due": 589,
    "rank": 589,
-   "german": "der Süden, das Südland (Negev)"
+   "german": "der Süden, das Südland (Negev)",
+   "strongs": "H5045"
   },
   {
    "id": "he-v50p-66-puts",
@@ -16541,7 +17130,8 @@
    },
    "due": 590,
    "rank": 589,
-   "german": "sich zerstreuen; (Hi.) zerstreuen"
+   "german": "sich zerstreuen; (Hi.) zerstreuen",
+   "strongs": "H6327"
   },
   {
    "id": "he-nn50p-66-gever",
@@ -16569,7 +17159,8 @@
    },
    "due": 591,
    "rank": 589,
-   "german": "der Mann (kräftig)"
+   "german": "der Mann (kräftig)",
+   "strongs": "H1397"
   },
   {
    "id": "he-nn50p-66-achuzzah",
@@ -16597,7 +17188,8 @@
    },
    "due": 592,
    "rank": 589,
-   "german": "der Grundbesitz, das Eigentum"
+   "german": "der Grundbesitz, das Eigentum",
+   "strongs": "H272"
   },
   {
    "id": "he-nn50p-66-cheleq",
@@ -16625,7 +17217,8 @@
    },
    "due": 593,
    "rank": 589,
-   "german": "der Anteil, das Teil"
+   "german": "der Anteil, das Teil",
+   "strongs": "H2506"
   },
   {
    "id": "he-nn50p-66-sheerit",
@@ -16653,7 +17246,8 @@
    },
    "due": 594,
    "rank": 589,
-   "german": "der Rest, Überrest"
+   "german": "der Rest, Überrest",
+   "strongs": "H7611"
   },
   {
    "id": "he-v50p-65-tsalach",
@@ -16681,7 +17275,8 @@
    },
    "due": 595,
    "rank": 595,
-   "german": "gelingen, Erfolg haben"
+   "german": "gelingen, Erfolg haben",
+   "strongs": "H6743"
   },
   {
    "id": "he-v50p-65-kashal",
@@ -16709,7 +17304,8 @@
    },
    "due": 596,
    "rank": 595,
-   "german": "straucheln, stürzen"
+   "german": "straucheln, stürzen",
+   "strongs": "H3782"
   },
   {
    "id": "he-v50p-65-natsach",
@@ -16737,7 +17333,8 @@
    },
    "due": 597,
    "rank": 595,
-   "german": "(Pi.) leiten; „dem Chorleiter“"
+   "german": "(Pi.) leiten; „dem Chorleiter“",
+   "strongs": "H5329"
   },
   {
    "id": "he-v50p-65-shakham",
@@ -16765,7 +17362,8 @@
    },
    "due": 598,
    "rank": 595,
-   "german": "früh aufstehen (Hi.)"
+   "german": "früh aufstehen (Hi.)",
+   "strongs": "H7925"
   },
   {
    "id": "he-v50p-65-tafas",
@@ -16793,7 +17391,8 @@
    },
    "due": 599,
    "rank": 595,
-   "german": "ergreifen, fassen"
+   "german": "ergreifen, fassen",
+   "strongs": "H8610"
   },
   {
    "id": "he-nn50p-65-chalom",
@@ -16821,7 +17420,8 @@
    },
    "due": 600,
    "rank": 595,
-   "german": "der Traum"
+   "german": "der Traum",
+   "strongs": "H2472"
   },
   {
    "id": "he-nn50p-65-isheh",
@@ -16849,7 +17449,8 @@
    },
    "due": 601,
    "rank": 595,
-   "german": "das Feueropfer"
+   "german": "das Feueropfer",
+   "strongs": "H801"
   },
   {
    "id": "he-nn50p-65-sheol",
@@ -16877,7 +17478,8 @@
    },
    "due": 602,
    "rank": 595,
-   "german": "das Totenreich, die Scheol"
+   "german": "das Totenreich, die Scheol",
+   "strongs": "H7585"
   },
   {
    "id": "he-nn50p-65-emeq",
@@ -16905,7 +17507,8 @@
    },
    "due": 603,
    "rank": 595,
-   "german": "das Tal, die Ebene"
+   "german": "das Tal, die Ebene",
+   "strongs": "H6010"
   },
   {
    "id": "he-n50p-64-bilam",
@@ -16933,7 +17536,8 @@
    },
    "due": 604,
    "rank": 604,
-   "german": "Bileam"
+   "german": "Bileam",
+   "strongs": "H1109"
   },
   {
    "id": "he-n50p-64-yoash",
@@ -16961,7 +17565,8 @@
    },
    "due": 605,
    "rank": 604,
-   "german": "Joasch"
+   "german": "Joasch",
+   "strongs": "H3101"
   },
   {
    "id": "he-o50p-64-at",
@@ -16989,7 +17594,8 @@
    },
    "due": 606,
    "rank": 604,
-   "german": "du (f.)"
+   "german": "du (f.)",
+   "strongs": "H859"
   },
   {
    "id": "he-v50p-64-achaz",
@@ -17017,7 +17623,8 @@
    },
    "due": 607,
    "rank": 604,
-   "german": "ergreifen, festhalten"
+   "german": "ergreifen, festhalten",
+   "strongs": "H270"
   },
   {
    "id": "he-v50p-64-tamam",
@@ -17045,7 +17652,8 @@
    },
    "due": 608,
    "rank": 604,
-   "german": "vollendet sein, zu Ende gehen"
+   "german": "vollendet sein, zu Ende gehen",
+   "strongs": "H8552"
   },
   {
    "id": "he-nn50p-64-yeor",
@@ -17073,7 +17681,8 @@
    },
    "due": 609,
    "rank": 604,
-   "german": "der Strom, Nil"
+   "german": "der Strom, Nil",
+   "strongs": "H2975"
   },
   {
    "id": "he-n50p-63-tsidqiyyahu",
@@ -17101,7 +17710,8 @@
    },
    "due": 610,
    "rank": 610,
-   "german": "Zedekia"
+   "german": "Zedekia",
+   "strongs": "H6667"
   },
   {
    "id": "he-n50p-63-shekhem",
@@ -17129,7 +17739,8 @@
    },
    "due": 611,
    "rank": 610,
-   "german": "Sichem"
+   "german": "Sichem",
+   "strongs": "H7927"
   },
   {
    "id": "he-n50p-63-mikhah",
@@ -17157,7 +17768,8 @@
    },
    "due": 612,
    "rank": 610,
-   "german": "Micha"
+   "german": "Micha",
+   "strongs": "H4318"
   },
   {
    "id": "he-n50p-63-avner",
@@ -17185,7 +17797,8 @@
    },
    "due": 613,
    "rank": 610,
-   "german": "Abner"
+   "german": "Abner",
+   "strongs": "H74"
   },
   {
    "id": "he-a50p-63-male",
@@ -17213,7 +17826,8 @@
    },
    "due": 614,
    "rank": 610,
-   "german": "voll"
+   "german": "voll",
+   "strongs": "H4392"
   },
   {
    "id": "he-a50p-63-yare",
@@ -17241,7 +17855,8 @@
    },
    "due": 615,
    "rank": 610,
-   "german": "fürchtend, gottesfürchtig"
+   "german": "fürchtend, gottesfürchtig",
+   "strongs": "H3373"
   },
   {
    "id": "he-v50p-63-arar",
@@ -17269,7 +17884,8 @@
    },
    "due": 616,
    "rank": 610,
-   "german": "verfluchen"
+   "german": "verfluchen",
+   "strongs": "H779"
   },
   {
    "id": "he-v50p-63-barach",
@@ -17297,7 +17913,8 @@
    },
    "due": 617,
    "rank": 610,
-   "german": "fliehen"
+   "german": "fliehen",
+   "strongs": "H1272"
   },
   {
    "id": "he-v50p-63-darakh",
@@ -17325,7 +17942,8 @@
    },
    "due": 618,
    "rank": 610,
-   "german": "treten; (Bogen) spannen"
+   "german": "treten; (Bogen) spannen",
+   "strongs": "H1869"
   },
   {
    "id": "he-v50p-63-qara",
@@ -17353,7 +17971,8 @@
    },
    "due": 619,
    "rank": 610,
-   "german": "zerreißen"
+   "german": "zerreißen",
+   "strongs": "H7167"
   },
   {
    "id": "he-nn50p-63-shifchah",
@@ -17381,7 +18000,8 @@
    },
    "due": 620,
    "rank": 610,
-   "german": "die Magd"
+   "german": "die Magd, Sklavin",
+   "strongs": "H8198"
   },
   {
    "id": "he-n50p-62-chet",
@@ -17409,7 +18029,8 @@
    },
    "due": 621,
    "rank": 621,
-   "german": "Het; Hetiter"
+   "german": "Het; Hetiter",
+   "strongs": "H2845"
   },
   {
    "id": "he-v50p-62-natsar",
@@ -17437,7 +18058,8 @@
    },
    "due": 622,
    "rank": 621,
-   "german": "bewahren, behüten"
+   "german": "bewahren, behüten",
+   "strongs": "H5341"
   },
   {
    "id": "he-v50p-62-shaqah",
@@ -17465,7 +18087,8 @@
    },
    "due": 623,
    "rank": 621,
-   "german": "tränken (Hi.)"
+   "german": "tränken (Hi.)",
+   "strongs": "H8248"
   },
   {
    "id": "he-nn50p-62-gevurah",
@@ -17493,7 +18116,8 @@
    },
    "due": 624,
    "rank": 621,
-   "german": "die Stärke; die Machttat"
+   "german": "die Stärke; die Machttat",
+   "strongs": "H1369"
   },
   {
    "id": "he-nn50p-62-chag",
@@ -17521,7 +18145,8 @@
    },
    "due": 625,
    "rank": 621,
-   "german": "das Fest, Wallfahrtsfest"
+   "german": "das Fest, Wallfahrtsfest",
+   "strongs": "H2282"
   },
   {
    "id": "he-nn50p-62-qaneh",
@@ -17549,7 +18174,8 @@
    },
    "due": 626,
    "rank": 621,
-   "german": "das Rohr, die Messrute"
+   "german": "das Rohr, die Messrute",
+   "strongs": "H7070"
   },
   {
    "id": "he-nn50p-62-riv",
@@ -17577,7 +18203,8 @@
    },
    "due": 627,
    "rank": 621,
-   "german": "der Rechtsstreit, Streit"
+   "german": "der Rechtsstreit, Streit",
+   "strongs": "H7379"
   },
   {
    "id": "he-o50p-61-etsel",
@@ -17605,7 +18232,8 @@
    },
    "due": 628,
    "rank": 628,
-   "german": "neben, bei"
+   "german": "neben, bei",
+   "strongs": "H681"
   },
   {
    "id": "he-o50p-61-ekh",
@@ -17633,7 +18261,8 @@
    },
    "due": 629,
    "rank": 628,
-   "german": "wie?"
+   "german": "wie?",
+   "strongs": "H349"
   },
   {
    "id": "he-a50p-61-evyon",
@@ -17661,7 +18290,8 @@
    },
    "due": 630,
    "rank": 628,
-   "german": "arm, bedürftig"
+   "german": "arm, bedürftig",
+   "strongs": "H34"
   },
   {
    "id": "he-nn50p-61-dod",
@@ -17689,7 +18319,8 @@
    },
    "due": 631,
    "rank": 628,
-   "german": "der Geliebte; der Onkel"
+   "german": "der Geliebte; der Onkel",
+   "strongs": "H1730"
   },
   {
    "id": "he-nn50p-61-ulam",
@@ -17717,7 +18348,8 @@
    },
    "due": 632,
    "rank": 628,
-   "german": "die Vorhalle"
+   "german": "die Vorhalle",
+   "strongs": "H361"
   },
   {
    "id": "he-nn50p-61-acharit",
@@ -17745,7 +18377,8 @@
    },
    "due": 633,
    "rank": 628,
-   "german": "das Ende, der Ausgang; die Zukunft"
+   "german": "das Ende, der Ausgang; die Zukunft",
+   "strongs": "H319"
   },
   {
    "id": "he-nn50p-61-qedem",
@@ -17773,7 +18406,8 @@
    },
    "due": 634,
    "rank": 628,
-   "german": "der Osten; die Vorzeit"
+   "german": "der Osten; die Vorzeit",
+   "strongs": "H6924"
   },
   {
    "id": "he-n50p-60-bashan",
@@ -17801,7 +18435,8 @@
    },
    "due": 635,
    "rank": 635,
-   "german": "Baschan"
+   "german": "Baschan",
+   "strongs": "H1316"
   },
   {
    "id": "he-n50p-60-mordekhay",
@@ -17829,7 +18464,8 @@
    },
    "due": 636,
    "rank": 635,
-   "german": "Mordechai"
+   "german": "Mordechai",
+   "strongs": "H4782"
   },
   {
    "id": "he-v50p-60-padah",
@@ -17857,7 +18493,8 @@
    },
    "due": 637,
    "rank": 635,
-   "german": "loskaufen, erlösen"
+   "german": "loskaufen, erlösen",
+   "strongs": "H6299"
   },
   {
    "id": "he-v50p-60-zanah",
@@ -17885,7 +18522,8 @@
    },
    "due": 638,
    "rank": 635,
-   "german": "Unzucht treiben, huren"
+   "german": "Unzucht treiben; (übertr.) Götzendienst treiben",
+   "strongs": "H2181"
   },
   {
    "id": "he-v50p-60-baar",
@@ -17913,7 +18551,8 @@
    },
    "due": 639,
    "rank": 635,
-   "german": "brennen; (Pi.) wegschaffen"
+   "german": "brennen; (Pi.) wegschaffen",
+   "strongs": "H1197"
   },
   {
    "id": "he-v50p-60-sakhal",
@@ -17941,7 +18580,8 @@
    },
    "due": 640,
    "rank": 635,
-   "german": "einsichtig sein; (Hi.) Erfolg haben"
+   "german": "einsichtig sein; (Hi.) Erfolg haben",
+   "strongs": "H7919"
   },
   {
    "id": "he-nn50p-60-aravah",
@@ -17969,7 +18609,8 @@
    },
    "due": 641,
    "rank": 635,
-   "german": "die Steppe, Araba"
+   "german": "die Steppe, Araba",
+   "strongs": "H6160"
   },
   {
    "id": "he-nn50p-60-neder",
@@ -17997,7 +18638,8 @@
    },
    "due": 642,
    "rank": 635,
-   "german": "das Gelübde"
+   "german": "das Gelübde",
+   "strongs": "H5088"
   },
   {
    "id": "he-nn50p-60-qetoret",
@@ -18025,7 +18667,8 @@
    },
    "due": 643,
    "rank": 635,
-   "german": "das Räucherwerk"
+   "german": "das Räucherwerk",
+   "strongs": "H7004"
   },
   {
    "id": "he-nn50p-60-nesekh",
@@ -18053,7 +18696,8 @@
    },
    "due": 644,
    "rank": 635,
-   "german": "das Trankopfer"
+   "german": "das Trankopfer",
+   "strongs": "H5262"
   },
   {
    "id": "he-nn50p-60-alluf",
@@ -18081,7 +18725,8 @@
    },
    "due": 645,
    "rank": 635,
-   "german": "der Stammesfürst; der Vertraute"
+   "german": "der Stammesfürst; der Vertraute",
+   "strongs": "H441"
   },
   {
    "id": "he-nn50p-60-magen",
@@ -18109,7 +18754,8 @@
    },
    "due": 646,
    "rank": 635,
-   "german": "der Schild"
+   "german": "der Schild",
+   "strongs": "H4043"
   },
   {
    "id": "he-nn50p-60-chamas",
@@ -18137,7 +18783,8 @@
    },
    "due": 647,
    "rank": 635,
-   "german": "die Gewalttat, das Unrecht"
+   "german": "die Gewalttat, das Unrecht",
+   "strongs": "H2555"
   },
   {
    "id": "he-a50p-59-shishim",
@@ -18165,7 +18812,8 @@
    },
    "due": 648,
    "rank": 648,
-   "german": "sechzig"
+   "german": "sechzig",
+   "strongs": "H8346"
   },
   {
    "id": "he-v50p-59-yakhach",
@@ -18193,7 +18841,8 @@
    },
    "due": 649,
    "rank": 648,
-   "german": "(Hi.) zurechtweisen; Recht sprechen"
+   "german": "(Hi.) zurechtweisen; Recht sprechen",
+   "strongs": "H3198"
   },
   {
    "id": "he-v50p-59-nata",
@@ -18221,7 +18870,8 @@
    },
    "due": 650,
    "rank": 648,
-   "german": "pflanzen"
+   "german": "pflanzen",
+   "strongs": "H5193"
   },
   {
    "id": "he-v50p-59-nachal",
@@ -18249,7 +18899,8 @@
    },
    "due": 651,
    "rank": 648,
-   "german": "erben, als Erbteil erhalten"
+   "german": "erben, als Erbteil erhalten",
+   "strongs": "H5157"
   },
   {
    "id": "he-nn50p-59-orach",
@@ -18277,7 +18928,8 @@
    },
    "due": 652,
    "rank": 648,
-   "german": "der Pfad, Weg"
+   "german": "der Pfad, Weg",
+   "strongs": "H734"
   },
   {
    "id": "he-n50p-58-iyyov",
@@ -18305,7 +18957,8 @@
    },
    "due": 653,
    "rank": 653,
-   "german": "Hiob"
+   "german": "Hiob",
+   "strongs": "H347"
   },
   {
    "id": "he-n50p-58-asa",
@@ -18333,7 +18986,8 @@
    },
    "due": 654,
    "rank": 653,
-   "german": "Asa"
+   "german": "Asa",
+   "strongs": "H609"
   },
   {
    "id": "he-n50p-58-elisha",
@@ -18361,7 +19015,8 @@
    },
    "due": 655,
    "rank": 653,
-   "german": "Elisa"
+   "german": "Elisa",
+   "strongs": "H477"
   },
   {
    "id": "he-n50p-58-yehu",
@@ -18389,7 +19044,8 @@
    },
    "due": 656,
    "rank": 653,
-   "german": "Jehu"
+   "german": "Jehu",
+   "strongs": "H3058"
   },
   {
    "id": "he-o50p-58-denah",
@@ -18417,7 +19073,8 @@
    },
    "due": 657,
    "rank": 653,
-   "german": "dieser (aram.)"
+   "german": "dieser (aram.)",
+   "strongs": "H1836"
   },
   {
    "id": "he-v50p-58-shadad",
@@ -18445,7 +19102,8 @@
    },
    "due": 658,
    "rank": 653,
-   "german": "verwüsten"
+   "german": "verwüsten",
+   "strongs": "H7703"
   },
   {
    "id": "he-v50p-58-rachaq",
@@ -18473,7 +19131,8 @@
    },
    "due": 659,
    "rank": 653,
-   "german": "fern sein, sich entfernen"
+   "german": "fern sein, sich entfernen",
+   "strongs": "H7368"
   },
   {
    "id": "he-nn50p-58-eloah",
@@ -18501,7 +19160,8 @@
    },
    "due": 660,
    "rank": 653,
-   "german": "Gott"
+   "german": "Gott",
+   "strongs": "H433"
   },
   {
    "id": "he-nn50p-58-sela",
@@ -18529,7 +19189,8 @@
    },
    "due": 661,
    "rank": 653,
-   "german": "der Fels"
+   "german": "der Fels",
+   "strongs": "H5553"
   },
   {
    "id": "he-nn50p-58-tehillah",
@@ -18557,7 +19218,8 @@
    },
    "due": 662,
    "rank": 653,
-   "german": "der Lobpreis, Ruhm"
+   "german": "der Lobpreis, Ruhm",
+   "strongs": "H8416"
   },
   {
    "id": "he-nn50p-58-reach",
@@ -18585,7 +19247,8 @@
    },
    "due": 663,
    "rank": 653,
-   "german": "der Geruch, Duft"
+   "german": "der Geruch, Duft",
+   "strongs": "H7381"
   },
   {
    "id": "he-n50p-57-ramah",
@@ -18613,7 +19276,8 @@
    },
    "due": 664,
    "rank": 664,
-   "german": "Rama"
+   "german": "Rama",
+   "strongs": "H7414"
   },
   {
    "id": "he-n50p-57-yericho",
@@ -18641,7 +19305,8 @@
    },
    "due": 665,
    "rank": 664,
-   "german": "Jericho"
+   "german": "Jericho",
+   "strongs": "H3405"
   },
   {
    "id": "he-o50p-57-edayin",
@@ -18669,7 +19334,8 @@
    },
    "due": 666,
    "rank": 664,
-   "german": "dann, damals (aram.)"
+   "german": "dann, damals (aram.)",
+   "strongs": "H116"
   },
   {
    "id": "he-a50p-57-revii",
@@ -18697,7 +19363,8 @@
    },
    "due": 667,
    "rank": 664,
-   "german": "vierter"
+   "german": "vierter",
+   "strongs": "H7243"
   },
   {
    "id": "he-a50p-57-chazaq",
@@ -18725,7 +19392,8 @@
    },
    "due": 668,
    "rank": 664,
-   "german": "stark, fest"
+   "german": "stark, fest",
+   "strongs": "H2389"
   },
   {
    "id": "he-v50p-57-tsarar",
@@ -18753,7 +19421,8 @@
    },
    "due": 669,
    "rank": 664,
-   "german": "einschnüren; bedrängen, befeinden"
+   "german": "einschnüren; bedrängen, befeinden",
+   "strongs": "H6887"
   },
   {
    "id": "he-v50p-57-paal",
@@ -18781,7 +19450,8 @@
    },
    "due": 670,
    "rank": 664,
-   "german": "tun, wirken"
+   "german": "tun, wirken",
+   "strongs": "H6466"
   },
   {
    "id": "he-v50p-57-chil",
@@ -18809,7 +19479,8 @@
    },
    "due": 671,
    "rank": 664,
-   "german": "kreißen, beben"
+   "german": "in Wehen liegen; beben, zittern",
+   "strongs": "H2342"
   },
   {
    "id": "he-v50p-57-yaats",
@@ -18837,7 +19508,8 @@
    },
    "due": 672,
    "rank": 664,
-   "german": "raten, beraten"
+   "german": "raten, beraten",
+   "strongs": "H3289"
   },
   {
    "id": "he-nn50p-57-mizmor",
@@ -18865,7 +19537,8 @@
    },
    "due": 673,
    "rank": 664,
-   "german": "der Psalm"
+   "german": "der Psalm",
+   "strongs": "H4210"
   },
   {
    "id": "he-nn50p-57-eden",
@@ -18893,7 +19566,8 @@
    },
    "due": 674,
    "rank": 664,
-   "german": "der Sockel, das Fußgestell"
+   "german": "der Sockel, das Fußgestell",
+   "strongs": "H134"
   },
   {
    "id": "he-nn50p-57-parash",
@@ -18921,7 +19595,8 @@
    },
    "due": 675,
    "rank": 664,
-   "german": "der Reiter"
+   "german": "der Reiter",
+   "strongs": "H6571"
   },
   {
    "id": "he-nn50p-57-malkhu",
@@ -18949,7 +19624,8 @@
    },
    "due": 676,
    "rank": 664,
-   "german": "das Königtum, Reich (aram.)"
+   "german": "das Königtum, Reich (aram.)",
+   "strongs": "H4437"
   },
   {
    "id": "he-n50p-56-yehoyada",
@@ -18977,7 +19653,8 @@
    },
    "due": 677,
    "rank": 677,
-   "german": "Jojada"
+   "german": "Jojada",
+   "strongs": "H3077"
   },
   {
    "id": "he-n50p-56-yishmael",
@@ -19005,7 +19682,8 @@
    },
    "due": 678,
    "rank": 677,
-   "german": "Ismael; Ismaeliter"
+   "german": "Ismael; Ismaeliter",
+   "strongs": "H3458"
   },
   {
    "id": "he-o50p-56-beli",
@@ -19033,7 +19711,8 @@
    },
    "due": 679,
    "rank": 677,
-   "german": "ohne"
+   "german": "ohne",
+   "strongs": "H1097"
   },
   {
    "id": "he-o50p-56-terem",
@@ -19061,7 +19740,8 @@
    },
    "due": 680,
    "rank": 677,
-   "german": "bevor, noch nicht"
+   "german": "bevor, noch nicht",
+   "strongs": "H2962"
   },
   {
    "id": "he-v50p-56-tsaaq",
@@ -19089,7 +19769,8 @@
    },
    "due": 681,
    "rank": 677,
-   "german": "schreien, rufen"
+   "german": "schreien, rufen",
+   "strongs": "H6817"
   },
   {
    "id": "he-v50p-56-zara",
@@ -19117,7 +19798,8 @@
    },
    "due": 682,
    "rank": 677,
-   "german": "säen"
+   "german": "säen",
+   "strongs": "H2232"
   },
   {
    "id": "he-nn50p-56-machashavah",
@@ -19145,7 +19827,8 @@
    },
    "due": 683,
    "rank": 677,
-   "german": "der Gedanke, Plan"
+   "german": "der Gedanke, Plan",
+   "strongs": "H4284"
   },
   {
    "id": "he-nn50p-56-ratson",
@@ -19173,7 +19856,8 @@
    },
    "due": 684,
    "rank": 677,
-   "german": "das Wohlgefallen, die Gunst"
+   "german": "das Wohlgefallen, die Gunst",
+   "strongs": "H7522"
   },
   {
    "id": "he-nn50p-56-shemamah",
@@ -19201,7 +19885,8 @@
    },
    "due": 685,
    "rank": 677,
-   "german": "die Verwüstung, Öde"
+   "german": "die Verwüstung, Öde",
+   "strongs": "H8077"
   },
   {
    "id": "he-nn50p-56-amah",
@@ -19229,7 +19914,8 @@
    },
    "due": 686,
    "rank": 677,
-   "german": "die Magd"
+   "german": "die Magd, Sklavin",
+   "strongs": "H519"
   },
   {
    "id": "he-nn50p-56-yaar",
@@ -19257,7 +19943,8 @@
    },
    "due": 687,
    "rank": 677,
-   "german": "der Wald, das Dickicht"
+   "german": "der Wald, das Dickicht",
+   "strongs": "H3293"
   },
   {
    "id": "he-n50p-55-ester",
@@ -19285,7 +19972,8 @@
    },
    "due": 688,
    "rank": 688,
-   "german": "Ester"
+   "german": "Ester",
+   "strongs": "H635"
   },
   {
    "id": "he-v50p-55-chadal",
@@ -19313,7 +20001,8 @@
    },
    "due": 689,
    "rank": 688,
-   "german": "aufhören, ablassen"
+   "german": "aufhören, ablassen",
+   "strongs": "H2308"
   },
   {
    "id": "he-v50p-55-kaas",
@@ -19341,7 +20030,8 @@
    },
    "due": 690,
    "rank": 688,
-   "german": "zornig sein; (Hi.) kränken, reizen"
+   "german": "zornig sein; (Hi.) kränken, reizen",
+   "strongs": "H3707"
   },
   {
    "id": "he-v50p-55-chalaq",
@@ -19369,7 +20059,8 @@
    },
    "due": 691,
    "rank": 688,
-   "german": "teilen, verteilen"
+   "german": "teilen, verteilen",
+   "strongs": "H2505"
   },
   {
    "id": "he-nn50p-55-chets",
@@ -19397,7 +20088,8 @@
    },
    "due": 692,
    "rank": 688,
-   "german": "der Pfeil"
+   "german": "der Pfeil",
+   "strongs": "H2671"
   },
   {
    "id": "he-nn50p-55-almanah",
@@ -19425,7 +20117,8 @@
    },
    "due": 693,
    "rank": 688,
-   "german": "die Witwe"
+   "german": "die Witwe",
+   "strongs": "H490"
   },
   {
    "id": "he-nn50p-55-amal",
@@ -19453,7 +20146,8 @@
    },
    "due": 694,
    "rank": 688,
-   "german": "die Mühsal; das Leid"
+   "german": "die Mühsal; das Leid",
+   "strongs": "H5999"
   },
   {
    "id": "he-nn50p-55-gefen",
@@ -19481,7 +20175,8 @@
    },
    "due": 695,
    "rank": 688,
-   "german": "der Weinstock"
+   "german": "der Weinstock",
+   "strongs": "H1612"
   },
   {
    "id": "he-nn50p-55-shen",
@@ -19509,7 +20204,8 @@
    },
    "due": 696,
    "rank": 688,
-   "german": "der Zahn; das Elfenbein"
+   "german": "der Zahn; das Elfenbein",
+   "strongs": "H8127"
   },
   {
    "id": "he-n50p-54-haman",
@@ -19537,7 +20233,8 @@
    },
    "due": 697,
    "rank": 697,
-   "german": "Haman"
+   "german": "Haman",
+   "strongs": "H2001"
   },
   {
    "id": "he-n50p-54-kush",
@@ -19565,7 +20262,8 @@
    },
    "due": 698,
    "rank": 697,
-   "german": "Kusch; Kuschit"
+   "german": "Kusch; Kuschit",
+   "strongs": "H3568"
   },
   {
    "id": "he-n50p-54-lavan",
@@ -19593,7 +20291,8 @@
    },
    "due": 699,
    "rank": 697,
-   "german": "Laban"
+   "german": "Laban",
+   "strongs": "H3837"
   },
   {
    "id": "he-a50p-54-qaton",
@@ -19621,7 +20320,8 @@
    },
    "due": 700,
    "rank": 697,
-   "german": "klein, gering"
+   "german": "klein, gering",
+   "strongs": "H6994"
   },
   {
    "id": "he-v50p-54-davaq",
@@ -19649,7 +20349,8 @@
    },
    "due": 701,
    "rank": 697,
-   "german": "anhangen, sich anschließen"
+   "german": "festhalten an, sich anschließen",
+   "strongs": "H1692"
   },
   {
    "id": "he-v50p-54-avah",
@@ -19677,7 +20378,8 @@
    },
    "due": 702,
    "rank": 697,
-   "german": "wollen, willig sein"
+   "german": "wollen, willig sein",
+   "strongs": "H14"
   },
   {
    "id": "he-nn50p-54-semol",
@@ -19705,7 +20407,8 @@
    },
    "due": 703,
    "rank": 697,
-   "german": "die linke Seite, Linke"
+   "german": "die linke Seite, Linke",
+   "strongs": "H8040"
   },
   {
    "id": "he-nn50p-54-ervah",
@@ -19733,7 +20436,8 @@
    },
    "due": 704,
    "rank": 697,
-   "german": "die Blöße, Scham"
+   "german": "die Blöße, Scham",
+   "strongs": "H6172"
   },
   {
    "id": "he-nn50p-54-yeriah",
@@ -19761,7 +20465,8 @@
    },
    "due": 705,
    "rank": 697,
-   "german": "der Zeltteppich, Vorhang"
+   "german": "der Zeltteppich, Vorhang",
+   "strongs": "H3407"
   },
   {
    "id": "he-nn50p-54-gamal",
@@ -19789,7 +20494,8 @@
    },
    "due": 706,
    "rank": 697,
-   "german": "das Kamel"
+   "german": "das Kamel",
+   "strongs": "H1581"
   },
   {
    "id": "he-nn50p-54-marom",
@@ -19817,7 +20523,8 @@
    },
    "due": 707,
    "rank": 697,
-   "german": "die Höhe"
+   "german": "die Höhe",
+   "strongs": "H4791"
   },
   {
    "id": "he-nn50p-54-devash",
@@ -19845,7 +20552,8 @@
    },
    "due": 708,
    "rank": 697,
-   "german": "der Honig"
+   "german": "der Honig",
+   "strongs": "H1706"
   },
   {
    "id": "he-nn50p-54-shav",
@@ -19873,7 +20581,8 @@
    },
    "due": 709,
    "rank": 697,
-   "german": "die Nichtigkeit, Lüge"
+   "german": "die Nichtigkeit, Lüge",
+   "strongs": "H7723"
   },
   {
    "id": "he-nn50p-54-middah",
@@ -19901,7 +20610,8 @@
    },
    "due": 710,
    "rank": 697,
-   "german": "das Maß"
+   "german": "das Maß",
+   "strongs": "H4060"
   },
   {
    "id": "he-n50p-53-yoshiyyahu",
@@ -19929,7 +20639,8 @@
    },
    "due": 711,
    "rank": 711,
-   "german": "Josia"
+   "german": "Josia",
+   "strongs": "H2977"
   },
   {
    "id": "he-n50p-53-sarah",
@@ -19957,7 +20668,8 @@
    },
    "due": 712,
    "rank": 711,
-   "german": "Sara; Sarai"
+   "german": "Sara; Sarai",
+   "strongs": "H8283"
   },
   {
    "id": "he-n50p-53-tsadoq",
@@ -19985,7 +20697,8 @@
    },
    "due": 713,
    "rank": 711,
-   "german": "Zadok"
+   "german": "Zadok",
+   "strongs": "H6659"
   },
   {
    "id": "he-o50p-53-lemo",
@@ -20013,7 +20726,8 @@
    },
    "due": 714,
    "rank": 711,
-   "german": "zu, für (poet.)"
+   "german": "zu, für (poet.)",
+   "strongs": "H3926"
   },
   {
    "id": "he-a50p-53-elyon",
@@ -20041,7 +20755,8 @@
    },
    "due": 715,
    "rank": 711,
-   "german": "oberer; der Höchste"
+   "german": "oberer; der Höchste",
+   "strongs": "H5945"
   },
   {
    "id": "he-a50p-53-chadash",
@@ -20069,7 +20784,8 @@
    },
    "due": 716,
    "rank": 711,
-   "german": "neu"
+   "german": "neu",
+   "strongs": "H2319"
   },
   {
    "id": "he-v50p-53-yatsaq",
@@ -20097,7 +20813,8 @@
    },
    "due": 717,
    "rank": 711,
-   "german": "gießen, ausgießen"
+   "german": "gießen, ausgießen",
+   "strongs": "H3332"
   },
   {
    "id": "he-v50p-53-chatat",
@@ -20125,7 +20842,8 @@
    },
    "due": 718,
    "rank": 711,
-   "german": "zerbrochen sein; erschrecken"
+   "german": "zerbrochen sein; erschrecken",
+   "strongs": "H2865"
   },
   {
    "id": "he-v50p-53-ranan",
@@ -20153,7 +20871,8 @@
    },
    "due": 719,
    "rank": 711,
-   "german": "jubeln"
+   "german": "jubeln",
+   "strongs": "H7442"
   },
   {
    "id": "he-nn50p-53-matsah",
@@ -20181,7 +20900,8 @@
    },
    "due": 720,
    "rank": 711,
-   "german": "das ungesäuerte Brot, die Mazze"
+   "german": "das ungesäuerte Brot, die Mazze",
+   "strongs": "H4682"
   },
   {
    "id": "he-nn50p-53-tsel",
@@ -20209,7 +20929,8 @@
    },
    "due": 721,
    "rank": 711,
-   "german": "der Schatten"
+   "german": "der Schatten",
+   "strongs": "H6738"
   },
   {
    "id": "he-nn50p-53-emunah",
@@ -20237,7 +20958,8 @@
    },
    "due": 722,
    "rank": 711,
-   "german": "die Treue, Zuverlässigkeit"
+   "german": "die Treue, Zuverlässigkeit",
+   "strongs": "H530"
   },
   {
    "id": "he-nn50p-53-medinah",
@@ -20265,7 +20987,8 @@
    },
    "due": 723,
    "rank": 711,
-   "german": "die Provinz"
+   "german": "die Provinz",
+   "strongs": "H4082"
   },
   {
    "id": "he-nn50p-53-sofer",
@@ -20293,7 +21016,8 @@
    },
    "due": 724,
    "rank": 711,
-   "german": "der Schreiber"
+   "german": "der Schreiber",
+   "strongs": "H5608"
   },
   {
    "id": "he-nn50p-53-solet",
@@ -20321,7 +21045,8 @@
    },
    "due": 725,
    "rank": 711,
-   "german": "das Feinmehl"
+   "german": "das Feinmehl",
+   "strongs": "H5560"
   },
   {
    "id": "he-n50p-52-rechavam",
@@ -20349,7 +21074,8 @@
    },
    "due": 726,
    "rank": 726,
-   "german": "Rehabeam"
+   "german": "Rehabeam",
+   "strongs": "H7346"
   },
   {
    "id": "he-o50p-52-machar",
@@ -20377,7 +21103,8 @@
    },
    "due": 727,
    "rank": 726,
-   "german": "morgen"
+   "german": "morgen",
+   "strongs": "H4279"
   },
   {
    "id": "he-o50p-52-ayyeh",
@@ -20405,7 +21132,8 @@
    },
    "due": 728,
    "rank": 726,
-   "german": "wo?"
+   "german": "wo?",
+   "strongs": "H346"
   },
   {
    "id": "he-v50p-52-madad",
@@ -20433,7 +21161,8 @@
    },
    "due": 729,
    "rank": 726,
-   "german": "messen"
+   "german": "messen",
+   "strongs": "H4058"
   },
   {
    "id": "he-nn50p-52-sair",
@@ -20461,7 +21190,8 @@
    },
    "due": 730,
    "rank": 726,
-   "german": "der Ziegenbock"
+   "german": "der Ziegenbock",
+   "strongs": "H8163"
   },
   {
    "id": "he-n50p-51-amaleq",
@@ -20489,7 +21219,8 @@
    },
    "due": 731,
    "rank": 731,
-   "german": "Amalek; Amalekiter"
+   "german": "Amalek; Amalekiter",
+   "strongs": "H6002"
   },
   {
    "id": "he-o50p-51-hoy",
@@ -20517,7 +21248,8 @@
    },
    "due": 732,
    "rank": 731,
-   "german": "wehe!"
+   "german": "wehe!",
+   "strongs": "H1945"
   },
   {
    "id": "he-o50p-51-yomam",
@@ -20545,7 +21277,8 @@
    },
    "due": 733,
    "rank": 731,
-   "german": "bei Tag, tagsüber"
+   "german": "bei Tag, tagsüber",
+   "strongs": "H3119"
   },
   {
    "id": "he-o50p-51-harbeh",
@@ -20573,7 +21306,8 @@
    },
    "due": 734,
    "rank": 731,
-   "german": "viel, sehr"
+   "german": "viel, sehr",
+   "strongs": "H7235"
   },
   {
    "id": "he-a50p-51-acharon",
@@ -20601,7 +21335,8 @@
    },
    "due": 735,
    "rank": 731,
-   "german": "letzter, späterer"
+   "german": "letzter, späterer",
+   "strongs": "H314"
   },
   {
    "id": "he-v50p-51-kavas",
@@ -20629,7 +21364,8 @@
    },
    "due": 736,
    "rank": 731,
-   "german": "waschen (Pi.)"
+   "german": "waschen (Pi.)",
+   "strongs": "H3526"
   },
   {
    "id": "he-v50p-51-nadach",
@@ -20657,7 +21393,8 @@
    },
    "due": 737,
    "rank": 731,
-   "german": "versprengt werden; (Hi.) verstoßen"
+   "german": "versprengt werden; (Hi.) verstoßen",
+   "strongs": "H5080"
   },
   {
    "id": "he-v50p-51-baqa",
@@ -20685,7 +21422,8 @@
    },
    "due": 738,
    "rank": 731,
-   "german": "spalten"
+   "german": "spalten",
+   "strongs": "H1234"
   },
   {
    "id": "he-nn50p-51-reshit",
@@ -20713,7 +21451,8 @@
    },
    "due": 739,
    "rank": 731,
-   "german": "der Anfang; das Erste, Beste"
+   "german": "der Anfang; das Erste, Beste",
+   "strongs": "H7225"
   },
   {
    "id": "he-nn50p-51-evur",
@@ -20741,7 +21480,8 @@
    },
    "due": 740,
    "rank": 731,
-   "german": "der Ertrag"
+   "german": "der Ertrag",
+   "strongs": "H5669"
   },
   {
    "id": "he-nn50p-51-qeresh",
@@ -20769,7 +21509,8 @@
    },
    "due": 741,
    "rank": 731,
-   "german": "das Brett"
+   "german": "das Brett",
+   "strongs": "H7175"
   },
   {
    "id": "he-n50p-50-naftali",
@@ -20797,7 +21538,8 @@
    },
    "due": 742,
    "rank": 742,
-   "german": "Naftali"
+   "german": "Naftali",
+   "strongs": "H5321"
   },
   {
    "id": "he-o50p-50-hennah",
@@ -20825,7 +21567,8 @@
    },
    "due": 743,
    "rank": 742,
-   "german": "sie (f. Pl.)"
+   "german": "sie (f. Pl.)",
+   "strongs": "H2007"
   },
   {
    "id": "he-v50p-50-parar",
@@ -20853,7 +21596,8 @@
    },
    "due": 744,
    "rank": 742,
-   "german": "brechen, aufheben (Hi.)"
+   "german": "brechen, aufheben (Hi.)",
+   "strongs": "H6565"
   },
   {
    "id": "he-v50p-50-yarah",
@@ -20881,7 +21625,8 @@
    },
    "due": 745,
    "rank": 742,
-   "german": "unterweisen, lehren (Hi.)"
+   "german": "unterweisen, lehren (Hi.)",
+   "strongs": "H3384"
   },
   {
    "id": "he-v50p-50-parats",
@@ -20909,7 +21654,8 @@
    },
    "due": 746,
    "rank": 742,
-   "german": "einreißen, durchbrechen"
+   "german": "einreißen, durchbrechen",
+   "strongs": "H6555"
   },
   {
    "id": "he-v50p-50-charam",
@@ -20937,7 +21683,8 @@
    },
    "due": 747,
    "rank": 742,
-   "german": "den Bann vollstrecken, weihen (Hi.)"
+   "german": "(Hi.) dem Bann weihen, vernichten",
+   "strongs": "H2763"
   },
   {
    "id": "he-v50p-50-nasag",
@@ -20965,7 +21712,8 @@
    },
    "due": 748,
    "rank": 742,
-   "german": "einholen, erreichen (Hi.)"
+   "german": "einholen, erreichen (Hi.)",
+   "strongs": "H5381"
   },
   {
    "id": "he-v50p-50-taah",
@@ -20993,7 +21741,8 @@
    },
    "due": 749,
    "rank": 742,
-   "german": "umherirren, sich verirren"
+   "german": "umherirren, sich verirren",
+   "strongs": "H8582"
   },
   {
    "id": "he-v50p-50-nakhar",
@@ -21021,7 +21770,8 @@
    },
    "due": 750,
    "rank": 742,
-   "german": "(Hi.) erkennen; (Hitp.) sich verstellen"
+   "german": "(Hi.) erkennen; (Hitp.) sich verstellen",
+   "strongs": "H5234"
   },
   {
    "id": "he-v50p-50-ratsah",
@@ -21049,7 +21799,8 @@
    },
    "due": 751,
    "rank": 742,
-   "german": "Gefallen haben"
+   "german": "Gefallen haben",
+   "strongs": "H7521"
   },
   {
    "id": "he-nn50p-50-betulah",
@@ -21077,7 +21828,8 @@
    },
    "due": 752,
    "rank": 742,
-   "german": "die Jungfrau"
+   "german": "die Jungfrau",
+   "strongs": "H1330"
   },
   {
    "id": "he-nn50p-50-tiferet",
@@ -21105,7 +21857,8 @@
    },
    "due": 753,
    "rank": 742,
-   "german": "die Pracht, Zierde, der Ruhm"
+   "german": "die Pracht, Zierde, der Ruhm",
+   "strongs": "H8597"
   },
   {
    "id": "he-nn50p-50-tabbaat",
@@ -21133,7 +21886,8 @@
    },
    "due": 754,
    "rank": 742,
-   "german": "der Siegelring, Ring"
+   "german": "der Siegelring, Ring",
+   "strongs": "H2885"
   },
   {
    "id": "he-nn50p-50-musar",
@@ -21161,7 +21915,8 @@
    },
    "due": 755,
    "rank": 742,
-   "german": "die Zucht, Erziehung"
+   "german": "die Erziehung, Zurechtweisung",
+   "strongs": "H4148"
   },
   {
    "id": "he-nn50p-50-rav",
@@ -21189,7 +21944,8 @@
    },
    "due": 756,
    "rank": 742,
-   "german": "der Oberste (aram./Titel)"
+   "german": "der Oberste, Anführer (in Titeln)",
+   "strongs": "H7227"
   }
  ]
 }
