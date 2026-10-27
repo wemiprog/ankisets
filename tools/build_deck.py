@@ -21,9 +21,9 @@ FONTS = os.path.join(REPO, "fonts")
 WORDFONT = {  # lang -> (@font-face rule, .word font-family list)
     "hebrew": ('@font-face{font-family:EzraSIL;src:url("_EzraSIL.ttf")}', "'EzraSIL','Ezra SIL','SBL Hebrew','Times New Roman',serif"),
     "greek": ('@font-face{font-family:GentiumPlus;src:url("_GentiumPlus.ttf")}', "'GentiumPlus','Gentium Plus','Times New Roman',serif")}
-# Greek: word 2.0em, shrunk per card by character count (Size field -> class), JS refines (never below 1.4em); English 1.5em
-EXTRA_CSS = {"greek": "\n.word{font-size:2em}.word.len-l{font-size:1.8em}.word.len-xl{font-size:1.5em}.word.len-xxl{font-size:1.4em}.en{font-size:1.5em}"
-    "@media (max-width:480px){.word{font-size:2em}.word.len-l{font-size:1.8em}.word.len-xl{font-size:1.5em}.word.len-xxl{font-size:1.4em}.en{font-size:1.5em}.enbox{padding:22px 24px}}"}
+# Greek: word 2.0em, shrunk per card by character count (Size field -> class), JS refines (never below 1.4em); English 1.4em
+EXTRA_CSS = {"greek": "\n.word{font-size:2em}.word.len-l{font-size:1.8em}.word.len-xl{font-size:1.5em}.word.len-xxl{font-size:1.4em}.en{font-size:1.4em}"
+    "@media (max-width:480px){.word{font-size:2em}.word.len-l{font-size:1.8em}.word.len-xl{font-size:1.5em}.word.len-xxl{font-size:1.4em}.en{font-size:1.4em}.enbox{padding:22px 24px}}"}
 FIT_JS = ('<script>(function(){var e=document.querySelector(".word");if(!e)return;function f(){var base=parseFloat(getComputedStyle(e.parentNode).fontSize),i=0;'
           'while(i++<12&&e.getBoundingClientRect().height>parseFloat(getComputedStyle(e).lineHeight)*1.4){var px=parseFloat(getComputedStyle(e).fontSize)*0.95;if(px<base*1.4)px=base*1.4;e.style.fontSize=px+"px";if(px<=base*1.4)break}}'
           'if(document.fonts&&document.fonts.ready)document.fonts.ready.then(f);else f()})()</script>')  # shrink only if still wrapping; floor 1.4em
