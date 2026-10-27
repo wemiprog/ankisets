@@ -1,0 +1,198 @@
+0|und, auch, aber
+1|der, die, das (Artikel)
+2|zu, nach, für
+3|in, an, mit, durch
+4|(Akkusativzeichen)
+5|von, aus; mehr als
+6|der HERR, Jahwe
+7|auf, über, gegen
+8|zu, nach, hin zu
+9|der, die, das; welcher; dass
+10|all, ganz, jeder
+11|sagen, sprechen
+12|nicht, nein
+13|der Sohn
+14|denn, weil, dass; wenn
+15|sein, werden, geschehen
+16|wie, gemäß
+17|machen, tun
+18|Gott
+19|kommen, hineingehen
+20|der König
+21|Israel
+22|das Land, die Erde
+23|der Tag
+24|der Mann, Ehemann; jeder
+25|das Angesicht, Gesicht
+26|das Haus
+27|geben
+28|das Volk
+29|die Hand; Macht
+30|gehen; (übertr.) leben
+31|das Wort; die Sache
+32|sehen
+33|bis, bis zu
+34|ich
+35|der Vater
+36|hören; gehorchen
+37|reden, sprechen (Pi.)
+38|vor, angesichts
+39|die Stadt
+40|sitzen, wohnen
+41|dieser (m.)
+42|David
+43|umkehren, zurückkehren
+44|hinausgehen, herauskommen
+45|wenn, falls; ob
+46|siehe! schau!
+47|mit, bei
+48|er
+49|eins, einer (m./f.)
+50|nehmen
+51|erkennen, wissen
+52|mit, bei
+53|das Auge; die Quelle
+54|der, die, das (Artikel)
+55|hinaufgehen, aufsteigen
+56|das Jahr
+57|der Name
+58|das Herz; Sinn, Verstand
+59|senden, ausstrecken
+60|sterben
+61|dort, dorthin
+62|Juda
+63|essen, verzehren
+64|der Knecht, Diener; Sklave
+65|nicht vorhanden, es gibt nicht
+66|die Frau, Ehefrau
+67|der Herr, Besitzer
+68|zwei (m./f.)
+69|auch, sogar
+70|Mose
+71|die Seele, das Leben; die Kehle
+72|was? wie?
+73|du (m.)
+74|der Priester
+75|(Fragepartikel)
+76|diese
+77|so; recht, richtig
+78|rufen, nennen; lesen
+79|nicht (Verbot)
+80|der Weg; Lebenswandel
+81|Ägypten; Ägypter
+82|hinter, nach
+83|Jerusalem
+84|heben, tragen
+85|der Bruder
+86|aufstehen, sich erheben
+87|diese (f.)
+88|drei
+89|das Haupt, der Kopf; Anfang
+90|die Tochter
+91|setzen, stellen, legen
+92|hundert
+93|das Wasser
+94|so, hier
+95|sie (m. Pl.)
+96|das Volk, die Nation; Heiden
+97|der Berg, das Gebirge
+98|hinübergehen, vorübergehen; übertreten
+99|der Mensch, die Menschheit
+100|groß
+101|stehen, hintreten
+102|unter; anstatt
+103|fünf
+104|die Stimme; der Laut
+105|wie, als
+106|schlagen, erschlagen (Hi.)
+107|der Mund
+108|gebieten, befehlen (Pi.)
+109|gebären; zeugen
+110|tausend; die Sippe
+111|zehn
+112|noch, wieder
+113|sie (f. Sg.)
+114|das Heer; der Kriegsdienst
+115|das Heilige, die Heiligkeit
+116|bewahren, behüten, halten
+117|vier
+118|finden, antreffen
+119|die Ewigkeit, ferne Zeit
+120|jetzt, nun
+121|fallen
+122|wer?
+123|das Recht, Gericht; der Brauch
+124|viel, groß; der Oberste
+125|der Fürst, Oberste
+126|der Himmel
+127|die Mitte
+128|das Schwert
+129|zwischen
+130|Saul
+131|doch, bitte
+132|das Silber, Geld
+133|der Altar
+134|sieben
+135|der Ort, die Stätte
+136|das Meer; der Westen
+137|das Gold
+138|hinabsteigen, herabkommen
+139|das Feuer
+140|bauen
+141|der Spruch (des HERRN)
+142|gut, schön
+143|das Tor
+144|mitteilen, verkünden (Hi.)
+145|der Geist, Wind, Atem
+146|das Blut
+147|schlecht, böse
+148|Levi; Levit
+149|König sein, herrschen
+150|Jakob
+151|das Zelt
+152|Aaron
+153|der, welcher; dass (aram.)
+154|ringsum, rings umher
+155|der Baum; das Holz
+156|segnen; preisen (Pi.)
+157|das Gerät, Gefäß; die Waffe
+158|oder
+159|das Feld
+160|der Krieg, Kampf
+161|sich fürchten, Ehrfurcht haben
+162|der Prophet
+163|antworten
+164|das Böse, Unheil
+165|die Sippe, das Geschlecht
+166|sich kümmern um, heimsuchen; mustern; einsetzen
+167|sehr
+168|die Sünde; das Sündopfer
+169|das Brot, die Speise
+170|weichen, abweichen; (Hi.) entfernen
+171|die Zeit
+172|Salomo
+173|Philister
+174|stark sein; (Hi.) ergreifen
+175|abschneiden, ausrotten; (Bund) schließen
+176|dienen, arbeiten
+177|Babel, Babylon
+178|das Brandopfer
+179|leben, am Leben bleiben
+180|der Bund
+181|der Feind
+182|ihr (m./f.)
+183|der Neumond, Monat
+184|sich nähern, herantreten
+185|die Nase; der Zorn
+186|der Pharao
+187|das Kleinvieh, die Schafe
+188|um … willen, damit
+189|der Stein
+190|die Wüste, Steppe
+191|das Fleisch
+192|das Leben; lebendig
+193|schuldig, gottlos, frevelhaft
+194|der Stab; der Stamm
+195|der Fuß
+196|die Elle; der Unterarm
+197|voll sein, füllen, erfüllen

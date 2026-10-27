@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """Anki vocab decks from a JSON word list (source of truth: data/<lang>_words.json).
-  python tools/build_deck.py build   <project> [--lang hebrew]      [--contact]  # fast: JSON + <project>/media/<lang>/ + fonts/ + tools/template/ -> 4 set decks + _all (no video access)
+  python tools/build_deck.py build   <project> [--lang hebrew]      [--contact]  # fast: JSON + <project>/media/<lang>/ + fonts/ + tools/template/ -> per set + _all, each in 3 variants EN/DE/EN.wDE (no video access)
   python tools/build_deck.py extract <project> [--lang hebrew]      # only for entries whose image/audio file is missing: cut from entry's video
   python tools/build_deck.py init    <project> [--lang hebrew]      # one-time: config/*.json+.csv -> data/<lang>_words.json
 JSON: {"lang","root","dir","prefix","font","sets":[{freq,freq_tag}],"words":[{id,word,english,occurrences,rank,due,
- pos,pos_label,freq,freq_tag,image,audio,src:{video,crop,pad,frame_t,audio_start,audio_end}}]} sorted by occurrences desc.
-Deck: <root>::<freq>::<pos_label> (singular English: Noun, Verb, Adjective, Other, Proper Name; also shown on the back as POS); GUID guid_for(lang,id); model/deck IDs from stable names."""
+ pos,pos_label,freq,freq_tag,image,audio,german,strongs,src:{video,crop,pad,frame_t,audio_start,audio_end}}]} sorted by occurrences desc.
+Deck: <root>::<freq>::<pos_label> (singular English: Noun, Verb, Adjective, Other, Proper Name; also shown on the back as POS, then Strong's); GUID guid_for(lang,id) (EN) / guid_for(lang,id,variant);
+Packages: <prefix>_<set>.<variant>.apkg + <prefix>_all.<variant>.apkg, variants EN, DE, EN.wDE (separate note types); model/deck IDs from stable names."""
 import csv, glob, unicodedata, hashlib, json, os, subprocess, sys, time, genanki
 from PIL import Image
 TOOLS = os.path.dirname(os.path.abspath(__file__)); REPO = os.path.dirname(TOOLS)
@@ -33,14 +34,24 @@ def size_class(word):  # NFC chars; thresholds measured at 390px with Gentium Pl
 def tmpl(t, lang):
     return t if lang != "greek" else t.replace('<div class="word">', '<div class="word {{Size}}">', 1).replace('<div class="play">{{Audio}}</div></div>', '<div class="play">{{Audio}}</div></div>' + FIT_JS, 1)
 _models = {}
-def model_for(lang, direction):
-    face, fam = WORDFONT[lang]
-    if lang not in _models:
-        _models[lang] = genanki.Model(stable_id("model:" + lang), f"Vocab ({lang})",
-          fields=[{"name": n} for n in ["Word", "Audio", "Image", "English", "Occurrences", "Rank"] + (["Size"] if lang == "greek" else []) + ["POS"]],
+VARIANTS = ("EN", "DE", "EN.wDE")  # back answer area: EN = English only (approved design); DE = German main + English small; EN.wDE = English main + German small
+def back_for(variant):
+    if variant == "EN": return BACK
+    main, sub = ("German", "English") if variant == "DE" else ("English", "German")
+    b = BACK.replace('<div class="box enbox"><div class="en">{{English}}</div></div>',
+        f'<div class="box enbox two"><div class="en">{{{{{main}}}}}</div>{{{{#{sub}}}}}<div class="sub">{{{{{sub}}}}}</div>{{{{/{sub}}}}}</div>', 1)
+    return b.replace('querySelectorAll(".word,.en")', 'querySelectorAll(".word,.en,.sub")', 1)
+SUB_CSS = ("\n.enbox.two{flex-direction:column}.sub{font-size:.95em;line-height:1.3;color:#6e6e73;margin-top:8px}"
+           ".nightMode .sub,.night_mode .sub{color:#a1a1a6}")
+def model_for(lang, direction, variant="EN"):
+    face, fam = WORDFONT[lang]; key = (lang, variant)
+    if key not in _models:  # EN keeps the original model ID; DE / EN.wDE are separate note types so all three can coexist
+        mid = stable_id("model:" + lang) if variant == "EN" else stable_id(f"model:{lang}:{variant}")
+        _models[key] = genanki.Model(mid, f"Vocab ({lang}) {variant}",
+          fields=[{"name": n} for n in ["Word", "Audio", "Image", "English", "Occurrences", "Rank"] + (["Size"] if lang == "greek" else []) + ["POS", "Strongs", "German"]],
           templates=[{"name": "Word → Meaning",
-            "qfmt": tmpl(FRONT, lang), "afmt": tmpl(BACK, lang)}], css=CSS.replace("__DIR__", direction).replace("__FONTFACE__", face).replace("__WORDFONT__", fam) + EXTRA_CSS.get(lang, ""))
-    return _models[lang]
+            "qfmt": tmpl(FRONT, lang), "afmt": tmpl(back_for(variant), lang)}], css=CSS.replace("__DIR__", direction).replace("__FONTFACE__", face).replace("__WORDFONT__", fam) + EXTRA_CSS.get(lang, "") + ("" if variant == "EN" else SUB_CSS))
+    return _models[key]
 
 def arg(name, default):
     a = sys.argv; return a[a.index(name) + 1] if name in a else default
@@ -97,27 +108,29 @@ def contact(imgs, path, cols=4):
     for i, im in enumerate(ims): sheet.paste(im.resize((tw, th)), ((i % cols) * tw, (i // cols) * th))
     sheet.save(path)
 
-def package(d, words, out, sheet=True):
-    lang = d["lang"]; media = f"media/{lang}"; m = model_for(lang, d.get("dir", "ltr")); decks = {}
+def package(d, words, out, sheet=True, variant="EN"):
+    lang = d["lang"]; media = f"media/{lang}"; m = model_for(lang, d.get("dir", "ltr"), variant); decks = {}
     files = [os.path.join(FONTS, d["font"])] if d.get("font") else []
     for w in sorted(words, key=lambda w: w["due"]):
         name = f"{d['root']}::{w['freq']}::{w['pos_label']}"
         deck = decks.setdefault(name, genanki.Deck(stable_id("deck:" + name), name))
         for f in (w["image"], w["audio"]):
             if not os.path.exists(f"{media}/{f}"): sys.exit(f"missing {media}/{f} - run: build_deck.py extract")
-        deck.add_note(genanki.Note(model=m, guid=genanki.guid_for(lang, w["id"]), due=w["due"],
+        if variant != "EN" and not w.get("german"): sys.exit(f"{w['id']}: no german gloss in JSON")
+        deck.add_note(genanki.Note(model=m, guid=genanki.guid_for(lang, w["id"]) if variant == "EN" else genanki.guid_for(lang, w["id"], variant), due=w["due"],
             tags=[f"pos::{w['pos']}", f"freq::{w['freq_tag']}", f"lang::{lang}"],
-            fields=[w["word"], f"[sound:{w['audio']}]", f'<img src="{w["image"]}">', w["english"], str(w["occurrences"]), str(w["rank"])] + ([size_class(w["word"])] if lang == "greek" else []) + [w["pos_label"]]))
+            fields=[w["word"], f"[sound:{w['audio']}]", f'<img src="{w["image"]}">', w["english"], str(w["occurrences"]), str(w["rank"])] + ([size_class(w["word"])] if lang == "greek" else []) + [w["pos_label"], w.get("strongs", ""), w.get("german", "")]))
         files += [f"{media}/{w['image']}", f"{media}/{w['audio']}"]
     genanki.Package(list(decks.values()), media_files=files).write_to_file(out)
-    if sheet: contact([f"{media}/{w['image']}" for w in words], "out/" + os.path.basename(out).replace(".apkg", "_contact.png"))
+    if sheet and variant == "EN": contact([f"{media}/{w['image']}" for w in words], "out/" + os.path.basename(out).replace(".apkg", "_contact.png"))
     print(f"wrote {out}: {len(words)} notes, {len(decks)} decks")
 
-def build(lang, sheet):
+def build(lang, sheet):  # reads only the JSON fields (german, strongs are stored there; no lookups at build time)
     d = load(lang); os.makedirs("out", exist_ok=True); p = d["prefix"]
-    for s in d["sets"]:
-        package(d, [w for w in d["words"] if w["freq"] == s["freq"]], f"{p}_{s['freq_tag']}.apkg", sheet)
-    package(d, d["words"], f"{p}_all.apkg", sheet)
+    for v in VARIANTS:
+        for s in d["sets"]:
+            package(d, [w for w in d["words"] if w["freq"] == s["freq"]], f"{p}_{s['freq_tag']}.{v}.apkg", sheet, v)
+        package(d, d["words"], f"{p}_all.{v}.apkg", sheet, v)
 
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "build"; lang = arg("--lang", None) or os.path.basename(glob.glob("data/*_words.json")[0]).split("_words")[0]; t = time.time()

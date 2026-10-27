@@ -1,0 +1,237 @@
+0|himmlisch
+1|vollkommen; reif, erwachsen
+2|alt
+3|(voll) empfangen haben; (intr.) entfernt sein
+4|vorsetzen; (Med.) anvertrauen, anbefehlen
+5|sich sorgen, besorgt sein
+6|ergreifen, sich annehmen
+7|erheben, aufheben; (Pass.) sich überheben
+8|beurteilen, unterscheiden; (Med.) zweifeln
+9|die Schöpfung; das Geschöpf
+10|die Gemeinschaft; die Teilhabe
+11|der Bauer, Weingärtner
+12|das Zeugnis
+13|der Richter
+14|die Übertretung, Verfehlung
+15|die Taufe
+16|die Weissagung, Prophetie
+17|die Gabe, das Geschenk; die Opfergabe
+18|oft
+19|wahrhaftig, wirklich
+20|sofort, auf der Stelle
+21|morgen, am folgenden Tag
+22|golden
+23|offenbar, sichtbar
+24|besser, stärker
+25|gebären
+26|verkündigen
+27|hineingehen
+28|erlauben, gestatten
+29|verurteilen
+30|erben
+31|(Pass.) einschlafen, entschlafen
+32|verbergen
+33|hinzufügen, hinzutun
+34|(Hände) anlegen; daraufwerfen
+35|das Gebet, die Bitte
+36|der Zorn, Grimm
+37|der Krieg
+38|der Kranz, die Krone
+39|das Tor, der Torweg
+40|die Offenbarung
+41|die Zahl
+42|die Fessel, das Band
+43|das Verderben, die Verdammnis
+44|der Monat
+45|die Lästerung
+46|der Hirte
+47|die Mühe, Arbeit
+48|der Bau; die Erbauung
+49|ebenso
+50|bereit
+51|hundert
+52|verborgen
+53|leer; vergeblich
+54|überführen; zurechtweisen
+55|ausharren; erdulden
+56|gewinnen
+57|außer sich sein, staunen; in Erstaunen versetzen
+58|auflösen, abbrechen; einkehren
+59|festhalten; zurückhalten
+60|beschneiden
+61|beunruhigen, erschrecken
+62|gefallen
+63|waschen
+64|retten, erretten
+65|das Pferd
+66|der Schatz
+67|die Fülle
+68|die Gnadengabe
+69|die Notwendigkeit, Not
+70|die Vergebung, der Erlass
+71|der Fluss, Strom
+72|der Heuchler
+73|die Wurzel; der Spross
+74|die Speise
+75|übel, schlecht
+76|niemals
+77|nahe; der Nächste
+78|danach, darauf
+79|voll
+80|einsteigen, hineingehen
+81|bleiben, verharren
+82|gewähren, darbieten
+83|ausstrecken
+84|schließen, verschließen
+85|ergreifen, festnehmen; empfangen (schwanger werden)
+86|begehren
+87|verwerfen, für ungültig erklären
+88|anordnen
+89|wagen
+90|untersuchen, beurteilen
+91|erwarten
+92|überlegen, erwägen
+93|hinabgehen, hinabkommen
+94|Mangel haben; zu kurz kommen
+95|sättigen
+96|dürsten
+97|ausgießen, vergießen
+98|empfehlen; erweisen; (intr.) bestehen
+99|die Nahrung, Speise
+100|das Wunder(zeichen)
+101|das Mahl, Abendmahl
+102|der Gefangene
+103|der Arbeiter
+104|der Dieb
+105|der Eifer; die Eifersucht, der Neid
+106|die Hochzeit
+107|die Finsternis
+108|der Bräutigam
+109|das Siegel
+110|die Traurigkeit, der Schmerz
+111|der Feigenbaum
+112|der Segen; der Lobpreis
+113|das Leiden
+114|der Denar
+115|dann, darauf
+116|übrigens; im Übrigen, schließlich
+117|schnell, bald
+118|nackt
+119|bekannt; der Bekannte
+120|schlagen, prügeln
+121|nützen, helfen
+122|erschüttern, bewegen
+123|ergreifen, erfassen; (Med.) begreifen
+124|aufhören lassen; (Med.) aufhören
+125|nützlich sein, zuträglich sein
+126|meinen, glauben
+127|tränken, zu trinken geben
+128|gleichmachen, vergleichen
+129|austrocknen, verdorren
+130|kosten, schmecken; erfahren
+131|(Med.) ertragen, aushalten
+132|schaffen, erschaffen
+133|versiegeln
+134|abführen, wegführen
+135|verheißen; sich bekennen zu
+136|ehebrechen
+137|ernstlich bezeugen, beschwören
+138|gebieten, befehlen
+139|vorhersagen
+140|die Danksagung
+141|das Erbe
+142|der Tisch; die Wechslerbank
+143|das Haar
+144|das Ärgernis, die Falle
+145|das Fundament, der Grund
+146|der Erbe
+147|die Jungfrau
+148|der Erdkreis, die bewohnte Welt
+149|das Vorbild, Urbild; das Abbild
+150|das Gras
+151|der Abend
+152|die Gesetzlosigkeit
+153|der Fels
+154|der Gehorsam
+155|der Räuber
+156|die Frömmigkeit, Gottesfurcht
+157|einmal, ein für alle Mal
+158|von oben; von neuem
+159|wie beschaffen, wie
+160|morgen
+161|von fern
+162|fremd; einem andern gehörig
+163|klug, verständig
+164|beide
+165|stumm; taub
+166|unmündig; das (kleine) Kind
+167|fremd; der Fremde, Gastfreund
+168|der geringste, kleinste
+169|der Mitarbeiter
+170|gemeinsam; gemein, unrein
+171|übermäßig, überreichlich
+172|lahm
+173|aufnehmen; erwarten
+174|erniedrigen, demütigen
+175|sich zurückziehen, weggehen
+176|verstehen, begreifen
+177|brechen (Brot)
+178|verunreinigen, entweihen
+179|wahrnehmen, betrachten
+180|rauben, entreißen; entrücken
+181|abfallen, sich entfernen; abwendig machen
+182|ungehorsam sein, nicht glauben
+183|widerstehen
+184|zu Tisch liegen
+185|wissen, verstehen
+186|aufessen, verzehren
+187|unverwandt anblicken
+188|opfern; schlachten
+189|teilen, zuteilen
+190|verkündigen, berichten
+191|erfreuen; (Pass.) sich freuen
+192|der Buchstabe; die Schrift
+193|das Jahr
+194|der Gedanke, die Überlegung
+195|die Lampe, Leuchte
+196|das Erdbeben; der Sturm
+197|die Langmut, Geduld
+198|das Salböl
+199|der Vogel
+200|die Natur, das Wesen
+201|der Dorn(strauch)
+202|das Maß
+203|die Schlange
+204|das Talent (Geld/Gewicht)
+205|der Weizen, das Getreide
+206|gleichwie
+207|ehe, bevor
+208|kostbar, wertvoll; geachtet
+209|höchster; der Höchste
+210|sechs
+211|aussenden, wegschicken
+212|suchen, begehren
+213|sich unterscheiden, wichtiger sein; hindurchtragen
+214|beschämen, zuschanden machen
+215|verspotten
+216|stärken, festigen
+217|sich unterreden, disputieren
+218|trennen; (Pass.) sich trennen, weggehen
+219|zurechtbringen; bereiten, vollenden
+220|schlagen
+221|besessen sein
+222|stehlen
+223|gelangen, hinkommen
+224|erziehen; zurechtweisen, strafen
+225|(Pass.) außer sich geraten, erstaunen
+226|aufnehmen, hinaufnehmen
+227|die Art und Weise
+228|das Almosen; die Barmherzigkeit
+229|die Magd, Dienerin
+230|der Drache
+231|der Rauch
+232|der Lebenswandel
+233|der Ölbaum, die Olive
+234|der Sauerteig
+235|die Ernte
+236|die Überlieferung

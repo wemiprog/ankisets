@@ -1,0 +1,208 @@
+0|töricht; der Tor
+1|sehr, überaus
+2|innen, von innen
+3|früh, am Morgen
+4|besonders, am meisten
+5|je, jeweils; (mit μέσον) mitten
+6|dreimal
+7|schnell
+8|umso mehr, besonders
+9|römisch; der Römer
+10|ungerecht
+11|anblicken, ansehen
+12|sich erbarmen, Mitleid haben
+13|die Trompete blasen
+14|daliegen, zu Tisch liegen
+15|reich sein, reich werden
+16|herausführen
+17|quälen, peinigen
+18|rufen, schreien
+19|gesund sein
+20|zusammenhalten, bedrängen; (Pass.) befallen sein
+21|vermehren; (Pass.) sich mehren
+22|(Pass.) sich anschließen, sich binden an
+23|bitten; ablehnen, sich entschuldigen
+24|verbrennen
+25|morden, töten
+26|ergreifen, festnehmen
+27|erlangen, erreichen; zufällig sein
+28|hinübergehen, weggehen
+29|sich (zu Tisch) niederlegen
+30|(Med.) zu sich nehmen, aufnehmen
+31|sich erkundigen, erfragen
+32|lügen
+33|ausruhen lassen, erquicken; (Med.) ruhen
+34|die Schale
+35|das Gebiet; (Pl.) die Grenzen
+36|die Gesinnung, der Verstand
+37|der Zahn
+38|das Netz
+39|der Hausherr
+40|der Täufer
+41|der Ratschluss, Plan
+42|die Hölle (Gehenna)
+43|der Stab, Stock
+44|die Macht, Kraft
+45|der Hahn
+46|das Rohr; das Schreibrohr
+47|die Prostituierte, Hure
+48|die Erscheinung, Vision
+49|das Schwein
+50|das Fohlen (junger Esel)
+51|der Leuchter
+52|der Vorsatz, Ratschluss; das Auslegen (der Schaubrote)
+53|das Knie
+54|das Gold
+55|der Hof, Vorhof
+56|die Sitte, Gewohnheit
+57|der Donner
+58|der Schlauch
+59|der Richterstuhl
+60|die Hungersnot
+61|der Eifer; die Eile
+62|von außen, draußen
+63|einmütig
+64|sehr
+65|später, zuletzt
+66|gesund
+67|unverständig, töricht
+68|tausend
+69|verwandt; der Verwandte
+70|hoch; hochmütig
+71|zwanzig
+72|euer
+73|galiläisch; der Galiläer
+74|dreißig
+75|schlimmer
+76|sich beeilen, sich bemühen
+77|jubeln, sich sehr freuen
+78|darauffallen, überfallen
+79|töten
+80|messen
+81|besuchen; sich annehmen
+82|begraben
+83|lebendig machen
+84|verteilen
+85|pflanzen
+86|anzünden; (Pass.) brennen
+87|hineinführen
+88|verleugnen; sich selbst verleugnen
+89|weiden, hüten
+90|verachten
+91|voll sein
+92|lassen, zulassen
+93|sich schämen
+94|gebrauchen, benutzen
+95|bereiten, herrichten; bauen
+96|widersprechen
+97|erleuchten
+98|spalten, zerreißen
+99|sterben
+100|eifern; beneiden
+101|ausgießen, vergießen
+102|das Öl, Olivenöl
+103|die Quelle
+104|der Zweig
+105|der junge Mann
+106|der Aufgang; der Osten
+107|der See
+108|(Pl.) die Eingeweide; das Erbarmen, Herz
+109|die Sanftmut
+110|der Ruhm, Grund zum Rühmen
+111|der Marktplatz
+112|die Trompete, Posaune
+113|die Bosheit, Schlechtigkeit
+114|die Liege, Bahre
+115|das Untergewand
+116|das Horn
+117|die Krankheit
+118|der falsche Prophet
+119|die Kette
+120|die Grundlegung
+121|die Gabe, das Geschenk
+122|der Unglaube
+123|das Los; das Erbteil
+124|das Essen, die Speise; der Rost
+125|das Lob
+126|die Sache, das Ding; die Tat
+127|die List, der Betrug
+128|das Götzenbild
+129|die Freiheit
+130|das Rühmen
+131|die Berufung
+132|da, weil
+133|wirklich, tatsächlich
+134|fern, weit weg
+135|früher, vorig
+136|von hier
+137|dieser (hier)
+138|gelähmt; der Gelähmte
+139|schuldig, verfallen
+140|alt, ursprünglich
+141|berufen, eingeladen
+142|unmöglich; kraftlos
+143|mancherlei, verschiedenartig
+144|sich verteidigen
+145|bringen; (Med.) empfangen, davontragen
+146|schweigen
+147|empfangen, zurückerhalten
+148|offenbaren, kundtun; anzeigen
+149|abhauen, ausrotten
+150|langmütig sein, Geduld haben
+151|nennen, benennen
+152|bekennen; (Med.) preisen
+153|erweisen, zeigen
+154|herausfallen, abfallen
+155|vorübergehen; vergehen
+156|bedrängen, bedrücken
+157|Raum haben, fassen; Raum geben
+158|verehren
+159|verlassen, im Stich lassen
+160|absondern, aussondern
+161|schmücken; ordnen
+162|schweigen
+163|stehen, feststehen
+164|hinaufbringen; opfern
+165|vollenden, vollbringen
+166|schlagen
+167|festhalten an, beharren bei
+168|es kümmert, liegt am Herzen
+169|trauern, Leid tragen
+170|wegnehmen, abhauen
+171|entgegengehen, begegnen
+172|als Gast aufnehmen; befremden
+173|schonen
+174|sich streiten, sich besprechen
+175|schlachten, hinschlachten
+176|befehlen, gebieten
+177|die Erlösung
+178|der Unzüchtige
+179|die Taube
+180|das Leben; der Lebensunterhalt
+181|der Teilhaber, Genosse
+182|das Buch
+183|der Irrtum, die Verführung
+184|der Eid, Schwur
+185|die Träne
+186|der Allmächtige
+187|die Unreinheit
+188|die Lüge
+189|die Sandale, der Schuh
+190|die Güte, Freundlichkeit
+191|der Hades, das Totenreich
+192|das Tor
+193|der Mitknecht
+194|das Grundstück, Landgut
+195|der Lügner
+196|das Lager, die Kaserne; das Heer
+197|der Verwalter, Haushalter
+198|der Befehlshaber; der Tempelhauptmann
+199|die Habsucht
+200|die Verfolgung
+201|die Rechtsforderung, Satzung; die gerechte Tat
+202|das Gold
+203|der Herr, Besitzer
+204|die Stärke, Kraft
+205|der Gruß
+206|die Heiligung
+207|die Zügellosigkeit, Ausschweifung

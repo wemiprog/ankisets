@@ -1,0 +1,182 @@
+0|trocken sein, verdorren
+1|bilden, formen
+2|(ins Horn) blasen; (Pflock) einschlagen
+3|heilen
+4|die Gunst, Gnade; die Anmut
+5|der Osten; der Ostwind
+6|der Zeuge
+7|der runde Laib; das Talent; die (Jordan-)Ebene
+8|Abimelech
+9|Midian; Midianiter
+10|ausbreiten
+11|das Ende
+12|die Schulter; die Seite
+13|das Gute, die Güte
+14|das Grab
+15|sich zerstreuen; (Hi.) zerstreuen
+16|der Mann (kräftig)
+17|der Grundbesitz, das Eigentum
+18|der Anteil, das Teil
+19|der Rest, Überrest
+20|gelingen, Erfolg haben
+21|straucheln, stürzen
+22|(Pi.) leiten; „dem Chorleiter“
+23|früh aufstehen (Hi.)
+24|ergreifen, fassen
+25|der Traum
+26|das Feueropfer
+27|das Totenreich, die Scheol
+28|das Tal, die Ebene
+29|Bileam
+30|Joasch
+31|du (f.)
+32|ergreifen, festhalten
+33|vollendet sein, zu Ende gehen
+34|der Strom, Nil
+35|Zedekia
+36|Sichem
+37|Micha
+38|Abner
+39|voll
+40|fürchtend, gottesfürchtig
+41|verfluchen
+42|fliehen
+43|treten; (Bogen) spannen
+44|zerreißen
+45|die Magd, Sklavin
+46|Het; Hetiter
+47|bewahren, behüten
+48|tränken (Hi.)
+49|die Stärke; die Machttat
+50|das Fest, Wallfahrtsfest
+51|das Rohr, die Messrute
+52|der Rechtsstreit, Streit
+53|neben, bei
+54|wie?
+55|arm, bedürftig
+56|der Geliebte; der Onkel
+57|die Vorhalle
+58|das Ende, der Ausgang; die Zukunft
+59|der Osten; die Vorzeit
+60|Baschan
+61|Mordechai
+62|loskaufen, erlösen
+63|Unzucht treiben; (übertr.) Götzendienst treiben
+64|brennen; (Pi.) wegschaffen
+65|einsichtig sein; (Hi.) Erfolg haben
+66|die Steppe, Araba
+67|das Gelübde
+68|das Räucherwerk
+69|das Trankopfer
+70|der Stammesfürst; der Vertraute
+71|der Schild
+72|die Gewalttat, das Unrecht
+73|sechzig
+74|(Hi.) zurechtweisen; Recht sprechen
+75|pflanzen
+76|erben, als Erbteil erhalten
+77|der Pfad, Weg
+78|Hiob
+79|Asa
+80|Elisa
+81|Jehu
+82|dieser (aram.)
+83|verwüsten
+84|fern sein, sich entfernen
+85|Gott
+86|der Fels
+87|der Lobpreis, Ruhm
+88|der Geruch, Duft
+89|Rama
+90|Jericho
+91|dann, damals (aram.)
+92|vierter
+93|stark, fest
+94|einschnüren; bedrängen, befeinden
+95|tun, wirken
+96|in Wehen liegen; beben, zittern
+97|raten, beraten
+98|der Psalm
+99|der Sockel, das Fußgestell
+100|der Reiter
+101|das Königtum, Reich (aram.)
+102|Jojada
+103|Ismael; Ismaeliter
+104|ohne
+105|bevor, noch nicht
+106|schreien, rufen
+107|säen
+108|der Gedanke, Plan
+109|das Wohlgefallen, die Gunst
+110|die Verwüstung, Öde
+111|die Magd, Sklavin
+112|der Wald, das Dickicht
+113|Ester
+114|aufhören, ablassen
+115|zornig sein; (Hi.) kränken, reizen
+116|teilen, verteilen
+117|der Pfeil
+118|die Witwe
+119|die Mühsal; das Leid
+120|der Weinstock
+121|der Zahn; das Elfenbein
+122|Haman
+123|Kusch; Kuschit
+124|Laban
+125|klein, gering
+126|festhalten an, sich anschließen
+127|wollen, willig sein
+128|die linke Seite, Linke
+129|die Blöße, Scham
+130|der Zeltteppich, Vorhang
+131|das Kamel
+132|die Höhe
+133|der Honig
+134|die Nichtigkeit, Lüge
+135|das Maß
+136|Josia
+137|Sara; Sarai
+138|Zadok
+139|zu, für (poet.)
+140|oberer; der Höchste
+141|neu
+142|gießen, ausgießen
+143|zerbrochen sein; erschrecken
+144|jubeln
+145|das ungesäuerte Brot, die Mazze
+146|der Schatten
+147|die Treue, Zuverlässigkeit
+148|die Provinz
+149|der Schreiber
+150|das Feinmehl
+151|Rehabeam
+152|morgen
+153|wo?
+154|messen
+155|der Ziegenbock
+156|Amalek; Amalekiter
+157|wehe!
+158|bei Tag, tagsüber
+159|viel, sehr
+160|letzter, späterer
+161|waschen (Pi.)
+162|versprengt werden; (Hi.) verstoßen
+163|spalten
+164|der Anfang; das Erste, Beste
+165|der Ertrag
+166|das Brett
+167|Naftali
+168|sie (f. Pl.)
+169|brechen, aufheben (Hi.)
+170|unterweisen, lehren (Hi.)
+171|einreißen, durchbrechen
+172|(Hi.) dem Bann weihen, vernichten
+173|einholen, erreichen (Hi.)
+174|umherirren, sich verirren
+175|(Hi.) erkennen; (Hitp.) sich verstellen
+176|Gefallen haben
+177|die Jungfrau
+178|die Pracht, Zierde, der Ruhm
+179|der Siegelring, Ring
+180|die Erziehung, Zurechtweisung
+181|der Oberste, Anführer (in Titeln)

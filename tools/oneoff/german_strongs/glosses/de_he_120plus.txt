@@ -1,0 +1,175 @@
+0|sechs
+1|die Gnade, Güte, Treue
+2|Josua
+3|die Kraft, Tüchtigkeit; das Vermögen; das Heer
+4|die Grenze; das Gebiet
+5|der Junge, junge Mann; Diener
+6|verfehlen; sündigen
+7|der Friede, das Wohlergehen
+8|Gott; der Starke
+9|das Werk, die Tat
+10|die Schuld, Verfehlung
+11|in Besitz nehmen, beerben
+12|der Same; die Nachkommenschaft
+13|die Nacht
+14|das Innere, die Mitte
+15|schreiben
+16|suchen (Pi.)
+17|gedenken, sich erinnern
+18|die festgesetzte Zeit; der Treffpunkt
+19|das Gesetz, die Weisung
+20|der Erdboden, das Ackerland
+21|das Erbe, der Erbbesitz
+22|die Mutter
+23|feststehen; (Hi.) bereiten, festigen
+24|lieben
+25|trinken
+26|ausstrecken; sich neigen
+27|das Kleid, Gewand
+28|das Lager; das Heer
+29|hinzufügen; etwas wieder tun
+30|verlassen, preisgeben
+31|Josef
+32|entreißen, retten (Hi.)
+33|der Bote; der Engel
+34|der Morgen
+35|sich hinlegen, liegen; mit jmdm. schlafen
+36|die Gabe; das Speisopfer
+37|aufhören; vollenden
+38|gerecht
+39|die Lade, der Kasten
+40|sammeln; aufnehmen
+41|richten, Recht schaffen
+42|die Herrlichkeit, Ehre
+43|Moab; Moabiter
+44|der Besitzer, Ehemann; Baal
+45|hoch sein, erhaben sein; (Hi.) erheben
+46|die Handfläche, Hand
+47|können, vermögen
+48|das Öl
+49|zwanzig
+50|die Schrift, das Buch
+51|der Vorhof; das Gehöft
+52|das Vieh, die Tiere
+53|der Stamm; der Stab
+54|das Ohr
+55|aufdecken; in die Verbannung gehen
+56|der Nächste, Freund
+57|schwören (Ni.)
+58|zugrunde gehen; (Pi./Hi.) vernichten
+59|das Gebot
+60|Jordan
+61|das Rind, die Rinder
+62|erster, früherer
+63|Ephraim
+64|alt; der Älteste
+65|viel werden, sich mehren
+66|die Lippe; das Ufer
+67|viel sein, groß sein
+68|retten, helfen (Hi.)
+69|Abraham, Abram
+70|fragen, bitten, fordern
+71|sich niederwerfen, anbeten
+72|kämpfen (Ni.)
+73|heilig sein; (Pi.) heiligen
+74|verstehen, einsehen
+75|erwählen
+76|Benjamin
+77|das Geschlecht, die Generation
+78|die Arbeit, das Werk
+79|weiden, hüten
+80|töten, umbringen
+81|anderer
+82|suchen, fragen, befragen
+83|das Draußen; die Gasse
+84|die Tür, der Eingang
+85|Kanaan; Kanaaniter
+86|sich wenden, umgeben
+87|unrein sein; (Pi.) verunreinigen
+88|das Schlachtopfer
+89|wir
+90|allein, für sich; abgesehen von
+91|der Widder; der Mächtige
+92|nur; gewiss, sicherlich
+93|fliehen
+94|der Held; stark, tapfer
+95|die Gerechtigkeit
+96|fünfzig
+97|sich freuen
+98|zweiter
+99|Aram; Aramäer
+100|Zion
+101|der Tod
+102|bedecken, verhüllen (Pi.)
+103|der Norden
+104|die Menge, Fülle
+105|Assur, Assyrien
+106|Manasse
+107|berühren; gelangen an
+108|die Gemeinde, Versammlung
+109|die Weisheit
+110|gegenüber, vor
+111|hassen
+112|zerbrechen
+113|Jeremia
+114|acht; achtzig
+115|Joab
+116|aufbrechen, weiterziehen
+117|(Pi.) loben, preisen; (Hitp.) sich rühmen
+118|der Dienst, die Arbeit
+119|verfolgen, nachjagen
+120|sich lagern
+121|verderben, vernichten (Pi./Hi.)
+122|zusammen, miteinander
+123|der, welcher; dass
+124|der Wein
+125|damals, dann; seit
+126|wie, gleich wie
+127|die rechte Hand; der Süden
+128|oben, darüber; aufwärts
+129|Samuel
+130|das Kupfer, die Bronze
+131|begegnen, treffen
+132|die Wohnung; das Zeltheiligtum (Stiftshütte)
+133|das Pferd; die Stute
+134|weise
+135|der Bach, das Bachtal
+136|es gibt, vorhanden sein
+137|öffnen; (Pi.) lösen
+138|entweihen; (Hi.) anfangen
+139|die Sonne
+140|der Thron, Stuhl
+141|vierzig
+142|schlachten, opfern
+143|die Zahl
+144|der Abend
+145|ruhen, sich niederlassen
+146|sich wenden, sich umwenden
+147|übrig bleiben (Ni.)
+148|die Mauer, Stadtmauer
+149|der Stier; die Kuh
+150|begraben
+151|damit nicht, dass nicht
+152|auch, sogar; wie viel mehr
+153|Hiskia
+154|die Satzung, Ordnung
+155|der Fürst, Vorsteher
+156|wohnen, sich niederlassen
+157|dreißig
+158|die Wahrheit, Treue
+159|sammeln, versammeln
+160|die Kraft
+161|sich schämen, zuschanden werden
+162|herantreten, sich nähern
+163|die Hälfte
+164|werfen (Hi.)
+165|die Glut, der Zorn; das Gift
+166|Jonatan
+167|die Versammlung, Gemeinde
+168|groß sein; (Pi.) großziehen
+169|der Knochen; das Selbst
+170|Ammon; Ammoniter
+171|der Erstgeborene; das Erstgeburtsrecht
+172|das Licht
+173|einnehmen, erobern
+174|der Wagen, die Streitwagen

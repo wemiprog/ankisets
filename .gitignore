@@ -3,3 +3,4 @@ biblehebrew/input/
 .venv/
 **/.venv/
 __pycache__/
+biblegreek/data/sources/

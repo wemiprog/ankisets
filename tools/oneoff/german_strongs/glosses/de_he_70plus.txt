@@ -1,0 +1,201 @@
+0|lebendig, lebend
+1|gerade, recht, aufrichtig
+2|der Strom, Fluss
+3|die Schwester
+4|die Frucht
+5|der Gräuel, das Abscheuliche
+6|das Mal; der Schritt, Fuß
+7|heilig
+8|gut sein; (Hi.) gut machen
+9|ausgießen, vergießen
+10|das Königreich
+11|die Zunge; die Sprache
+12|vollständig sein; (Pi.) vergelten, erstatten
+13|verbrennen
+14|vertrauen
+15|die Gerechtigkeit, das Rechte
+16|(Opfer) in Rauch aufgehen lassen, räuchern
+17|weissagen, prophezeien
+18|der Weideplatz
+19|schwer sein; geehrt sein
+20|weinen
+21|die Lüge, der Trug
+22|Isaak
+23|Samaria
+24|Edom; Edomiter
+25|nicht; außer
+26|denken, rechnen, achten
+27|die Säule
+28|(Hi.) preisen, danken; bekennen
+29|der Sabbat
+30|der Staub, die Erde
+31|Gilead; Gileaditer
+32|nur
+33|der Flügel; der Zipfel
+34|(Pi.) trösten; (Ni.) bereuen
+35|dritter; Drittel
+36|zählen; (Pi.) erzählen
+37|das Lamm
+38|übrig bleiben (Ni.)
+39|Absalom
+40|die Höhe, das Höhenheiligtum
+41|Jerobeam
+42|beständig, immer
+43|hinter; durch; für
+44|laufen
+45|erlösen, auslösen; rächen
+46|die Satzung, Ordnung
+47|das Aussehen; die Erscheinung
+48|vergessen
+49|(Pi.) sühnen, Sühne schaffen
+50|wenig
+51|die Breite
+52|der Hunger, die Hungersnot
+53|siehe; wenn
+54|weil
+55|die Haut; das Leder
+56|der Jude, Judäer; jüdisch
+57|dienen (Pi.)
+58|satt werden, sich sättigen
+59|böse sein; (Hi.) Böses tun
+60|anziehen, bekleiden
+61|Esau
+62|rein
+63|siebter
+64|(Hi.) glauben, vertrauen; (Ni.) treu, zuverlässig sein
+65|das Tier, Lebewesen
+66|der Rest; der Vorrang
+67|der Esel
+68|Gott; Gottheit (aram.)
+69|die Länge
+70|erschlagen, durchbohrt
+71|(Ni.) entkommen; (Pi.) retten
+72|umwenden, umstürzen; verwandeln
+73|rein sein; (Pi.) reinigen
+74|die Freude
+75|Ahab
+76|entbrennen (Zorn), zornig werden
+77|das Vergehen, der Frevel
+78|verwüstet sein; sich entsetzen
+79|der Weinberg
+80|das Fett
+81|der Fremde, Schutzbürger
+82|das Ende, der Rand
+83|die andere Seite, das Jenseits
+84|Nebukadnezar
+85|vollständig; untadelig
+86|der Kerub
+87|der Arm; die Macht
+88|die Königsherrschaft, das Königreich
+89|vertilgen, vernichten (Hi.)
+90|das Kind, der Junge; das Mädchen
+91|die Chaldäer; Chaldäa
+92|siebzig
+93|der Rat, Ratschluss
+94|unrein
+95|singen
+96|setzen, stellen
+97|der Schekel
+98|die Erkenntnis, das Wissen
+99|die Tür
+100|Ruben; Rubeniter
+101|lernen; (Pi.) lehren
+102|das Heilsopfer, Gemeinschaftsopfer
+103|die Wolke
+104|Joschafat
+105|Amoriter
+106|Gad; Gaditer
+107|fern, entfernt
+108|erwerben, kaufen
+109|die Menge; das Getöse
+110|die Seite, der Rand, die Ecke
+111|beten (Hitp.)
+112|als Fremder wohnen
+113|das Zeugnis; die Bezeugung
+114|hier
+115|nicht (aram.)
+116|verbergen (Hi.)
+117|verschließen; (Hi.) ausliefern
+118|gering sein, leicht sein; (Pi.) verfluchen
+119|helfen
+120|männlich; das Männliche
+121|Daniel
+122|herrschen
+123|eilen (Pi.)
+124|arm, elend
+125|aufwachen; (Hi./Pol.) aufwecken
+126|verkaufen
+127|schlachten
+128|die Finsternis
+129|die Opfergabe
+130|der Tempel; der Palast
+131|demütigen, bedrücken (Pi.)
+132|der Schatz; die Schatzkammer
+133|das Zeichen
+134|der Löwe
+135|der Stier, das Rind
+136|Dan; Daniter
+137|neun
+138|reiten, fahren
+139|die Rettung, das Heil
+140|das Lied
+141|die Wache, Hut; der Dienst
+142|das Los; das Erbteil
+143|die Plage; der Schlag; das Mal
+144|Hebron
+145|zweihundert
+146|gnädig sein
+147|das Unheil, die Bosheit
+148|das Gebet
+149|die Stärke, Macht
+150|das Eisen
+151|die Abgabe, das Hebopfer
+152|das Mädchen, junge Frau
+153|der Besitz, das Vieh
+154|nahe
+155|ordnen, zurichten; sich aufstellen
+156|schwach sein, krank sein
+157|der Bogen
+158|das Heiligtum
+159|das Horn
+160|Sela (musikal. Zeichen)
+161|schreien, um Hilfe rufen
+162|verwerfen, verachten
+163|sich hinstellen (Ni.)
+164|die Beute
+165|die Ziege
+166|der Sonnenaufgang, Osten
+167|nicht, niemals
+168|binden, fesseln
+169|wunderbar sein (Ni.)
+170|Gefallen haben, begehren
+171|die Zeder
+172|der Hauch, die Nichtigkeit; der Götze
+173|die Schmach, Schande
+174|der Fels
+175|die Wand, Mauer
+176|Eleasar
+177|warum?
+178|tot
+179|waschen, (sich) baden
+180|schauen, sehen
+181|der Bauch, Mutterleib
+182|das Widderhorn, Schofar
+183|Elia
+184|Libanon
+185|aufhören, ruhen
+186|die Vögel, das Geflügel
+187|der Hügel
+188|der Tisch
+189|der Segen
+190|Bethel
+191|fremd
+192|salben
+193|blicken, schauen (Hi.)
+194|streiten, einen Rechtsstreit führen
+195|übernachten
+196|der Feind, Bedränger
+197|der Tor, Narr
+198|die Not, Bedrängnis
+199|die Grube, Zisterne
+200|der Süden, das Südland (Negev)

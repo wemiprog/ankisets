@@ -1,0 +1,299 @@
+0|also, folglich, nun
+1|annehmen, übernehmen; zu sich nehmen
+2|offenbaren, kundmachen
+3|der Bedarf, die Not
+4|das Jahr
+5|einsam, öde; die Wüste
+6|zurückgeben, vergelten
+7|nicht mehr
+8|vor
+9|sündig; der Sünder
+10|darbringen, opfern; herbeibringen
+11|ergreifen, festhalten
+12|das Gericht, Urteil
+13|das Gefängnis; die Wache
+14|die Furcht
+15|nicht; damit nicht
+16|klein, gering
+17|kreuzigen
+18|sich setzen; setzen
+19|das (wilde) Tier
+20|die Rettung, das Heil
+21|gleich, ähnlich
+22|verfolgen; nachjagen
+23|verkünden, berichten
+24|der Tempel
+25|die Bedrängnis, Trübsal
+26|außen, hinaus; außerhalb
+27|allein, einzig
+28|wohnen, bewohnen
+29|deiner selbst
+30|sich wundern, staunen
+31|rufen; krähen
+32|sündigen
+33|binden, fesseln
+34|heilen; dienen
+35|hindurchgehen, durchziehen
+36|das Geschlecht, die Generation
+37|der Same; die Nachkommenschaft
+38|neu
+39|leiden, erleiden
+40|sich nähern, nahe kommen
+41|lösen, losbinden; auflösen
+42|der Teil
+43|die Auferstehung
+44|allezeit, immer
+45|heute
+46|vier
+47|würdig, wert
+48|segnen; preisen
+49|arbeiten, wirken
+50|darstellen; (intr.) dabeistehen
+51|die Ehre; der Preis
+52|bis, bis zu
+53|übrig; die Übrigen
+54|bereiten, vorbereiten
+55|hassen
+56|rechnen, anrechnen; meinen
+57|weinen
+58|bauen; erbauen
+59|das Ende, Ziel; die Abgabe
+60|das Grab, Grabmal
+61|genügend, tauglich; beträchtlich
+62|überreich sein, Überfluss haben
+63|gerecht sprechen, rechtfertigen
+64|irreführen, verführen; (Pass.) irren
+65|tun, vollbringen
+66|auflegen
+67|(Med.) anrühren, berühren; (Akt.) anzünden
+68|die Tür
+69|das Schaf
+70|fünf
+71|versuchen, prüfen
+72|unterordnen; (Pass.) sich unterordnen
+73|danken
+74|die Begierde, das Verlangen
+75|meiner selbst
+76|von dort
+77|gut, recht
+78|verleumderisch; der Teufel
+79|wollen, beschließen
+80|herbeikommen, erscheinen
+81|sich rühmen
+82|dienen, bedienen
+83|das Zeugnis
+84|der Herrscher, Oberste
+85|sogleich, sofort
+86|jetzt, soeben
+87|umkehren, sich bekehren
+88|das Ohr
+89|der Zorn
+90|das Gebet
+91|der Acker, das Feld
+92|die Beschneidung
+93|schulden; verpflichtet sein, sollen
+94|zurückkehren
+95|der Zeuge
+96|und nicht; weder … noch
+97|arm
+98|ganz, all
+99|lästern
+100|umkehren, Buße tun
+101|das Glied
+102|der Dienst
+103|das Buch, die Schriftrolle
+104|der Wein
+105|was für ein? welcher?
+106|wenig, gering
+107|herausgehen, ausgehen
+108|schwach sein, krank sein
+109|verleugnen, leugnen
+110|der Bund; das Testament
+111|unrein
+112|feindlich; der Feind
+113|gebieten, anweisen
+114|lesen, vorlesen
+115|die Geduld, Standhaftigkeit
+116|die Sonne
+117|mächtig; möglich
+118|reinigen
+119|bewachen, bewahren, befolgen
+120|hoffen
+121|es ist erlaubt
+122|scheinen, leuchten; (Pass.) erscheinen
+123|die Finsternis
+124|der Freimut, die Offenheit
+125|der Wind
+126|die Menge
+127|der Stamm
+128|der Priester
+129|der Becher, Kelch
+130|ebenso, gleicherweise
+131|zusammenkommen
+132|zeigen
+133|anrufen; (Pass.) genannt werden
+134|kaufen; loskaufen
+135|das Gewissen
+136|die Lehre
+137|das Lamm
+138|wie, gleichwie
+139|stark, mächtig
+140|lieb; der Freund
+141|fliehen
+142|vorübergehen, vergehen
+143|herbeirufen
+144|zum Abfall verleiten, Anstoß geben
+145|anfahren, bedrohen; gebieten
+146|das Schwert
+147|das Passa(fest)
+148|der Lohn
+149|die Ermahnung; der Trost
+150|der Diener; Diakon(in)
+151|die Erkenntnis
+152|wahrhaftig, echt
+153|führen; halten für, meinen
+154|Unrecht tun, schädigen
+155|heiligen
+156|heiraten
+157|siegen, überwinden
+158|weissagen
+159|stark sein, vermögen
+160|vollenden; bezahlen
+161|sich erbarmen
+162|die Tochter
+163|das Opfer
+164|das Geheimnis
+165|das Land, die Gegend
+166|wie viel? wie groß?
+167|jedoch, aber; (Gen.) außer
+168|woher?
+169|reich
+170|rein
+171|tragen
+172|abschaffen, zunichte machen
+173|anziehen, bekleiden
+174|das Urteil, Gericht
+175|das Erbarmen, die Barmherzigkeit
+176|das Dorf
+177|das Kreuz
+178|noch nicht
+179|da, weil
+180|schwach, kraftlos
+181|wahr, wahrhaftig
+182|geistlich
+183|bekennen; preisen
+184|gesinnt sein, denken, trachten
+185|schwören
+186|offenbaren, enthüllen
+187|betrüben; (Pass.) traurig werden
+188|gekommen sein, da sein
+189|verstehen, begreifen
+190|heilen
+191|die Witwe
+192|der Soldat
+193|die Schwester
+194|dein
+195|weiß
+196|zehn
+197|erkennen, wiedererkennen
+198|kundtun, bekannt machen
+199|befehlen
+200|dienen (als Knecht)
+201|lieb haben; küssen
+202|aufblicken; wieder sehend werden
+203|lernen
+204|der Baum
+205|die Wolke
+206|die Unzucht
+207|die Ungerechtigkeit
+208|das Fest
+209|wo; wohin
+210|neu, jung
+211|zurücklassen, verlassen
+212|beseitigen, töten
+213|liegen
+214|füllen, erfüllen
+215|achtgeben auf, sich hüten vor
+216|anwesend sein, da sein
+217|der Stern
+218|der Retter, Heiland
+219|das Kind, der Junge; der Diener, Knecht
+220|die Schwachheit, Krankheit
+221|der Verstand, Sinn
+222|das Hören; die Botschaft
+223|die Ankunft, Wiederkunft; die Anwesenheit
+224|der Brief
+225|damit nicht; ob nicht etwa
+226|weil, denn
+227|ungläubig, untreu
+228|frei
+229|hindern, verwehren
+230|hinaufführen; (Med.) in See stechen
+231|anklagen
+232|vollenden, vollkommen machen
+233|hungern
+234|sich abmühen, arbeiten; müde werden
+235|sich erinnern, gedenken
+236|schenken; vergeben
+237|umlegen, bekleiden
+238|das Lebewesen
+239|der Altar
+240|der Weinberg
+241|die Tausendschaft; tausend
+242|das Gefäß, Gerät
+243|das Bild, Ebenbild
+244|anstatt, für
+245|nicht mehr
+246|auserwählt
+247|vierzig
+248|verkaufen
+249|schlafen
+250|nicht kennen, nicht wissen
+251|schauen, betrachten
+252|wachen, wachsam sein
+253|bitten, beten
+254|prüfen; für gut befinden
+255|bewirken, vollbringen
+256|auswählen, erwählen
+257|der Reichtum
+258|der Schlag, die Wunde; die Plage
+259|der Hohe Rat, das Synedrium
+260|der Bauch, Mutterleib
+261|die Buße, Umkehr
+262|ehren
+263|König sein, herrschen
+264|einsetzen, bestellen
+265|dienen (kultisch), Gott verehren
+266|hinzutreten, dabeistehen; plötzlich kommen
+267|wirken, wirksam sein
+268|Gefallen haben, wohlgefallen
+269|ernten
+270|gedenken, sich erinnern
+271|wenden, umwenden; (Pass.) sich umdrehen
+272|wachsen; wachsen lassen
+273|der Zöllner
+274|der Oberst, Tribun
+275|die Lehre
+276|die Versuchung, Prüfung
+277|so groß, so viel
+278|viel, sehr
+279|nahe
+280|jetzt, nun
+281|weise
+282|laufen
+283|fasten
+284|vorangehen; hinausführen
+285|erhöhen
+286|gehorchen; hören auf
+287|die Ursache; die Schuld, Anklage
+288|das Geschlecht, die Art; die Abstammung
+289|das Zelt, die Hütte; die Stiftshütte
+290|das Holz; der Baum; das Kreuz
+291|der Diener, Gehilfe
+292|(Pl.) die Eltern
+293|der Statthalter
+294|die Erkenntnis
+295|das Silber(geld)
+296|der Fisch
+297|der Hauptmann, Zenturio
+298|die Vorhaut; die Unbeschnittenheit

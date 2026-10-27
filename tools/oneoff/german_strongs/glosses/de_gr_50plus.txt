@@ -1,0 +1,279 @@
+0|und, auch, sogar
+1|er, sie, es; selbst
+2|du; ihr (Pl.)
+3|ich; wir (Pl.)
+4|aber, und, nun
+5|sein, existieren
+6|sagen, reden
+7|in … hinein, zu, nach
+8|der, welcher (Relativpronomen)
+9|dieser
+10|Gott; der Gott (Gottheit)
+11|dass; weil
+12|jeder, ganz, all
+13|denn, nämlich
+14|aus, von … her
+15|auf, an, über; zu
+16|der Herr
+17|haben, halten
+18|(Akk.) zu, hin zu; (Dat.) bei; (Gen.) für
+19|werden, geschehen, entstehen
+20|(Gen.) durch; (Akk.) wegen
+21|damit, dass
+22|von, von … weg
+23|aber, sondern
+24|kommen, gehen
+25|tun, machen
+26|wer? was? warum?
+27|der Mensch
+28|Christus, der Gesalbte
+29|irgendein, jemand, etwas
+30|also, nun, folglich
+31|wenn, ob
+32|(Gen.) gegen, herab; (Akk.) gemäß, entlang
+33|(Gen.) mit; (Akk.) nach
+34|sehen
+35|hören; gehorchen
+36|geben
+37|der Vater
+38|viel, groß; (Pl.) viele
+39|der Tag
+40|der Geist; der Wind, Atem
+41|der Sohn
+42|einer, eins
+43|der Bruder
+44|(Gen.) über, betreffs; (Akk.) um … herum
+45|das Wort; die Rede
+46|seiner selbst, sein eigen
+47|wissen, kennen
+48|reden, sprechen
+49|wenn, falls
+50|der Himmel
+51|jener
+52|der Jünger, Schüler
+53|nehmen, empfangen
+54|die Erde, das Land
+55|der Glaube, das Vertrauen; die Treue
+56|groß
+57|glauben, vertrauen
+58|heilig
+59|antworten
+60|der Name
+61|niemand, nichts
+62|erkennen, wissen
+63|(Gen.) von, durch; (Akk.) unter
+64|hinausgehen, herauskommen
+65|der Mann, Ehemann
+66|und; sowohl … als auch
+67|die Frau, Ehefrau
+68|können, vermögen
+69|so, auf diese Weise
+70|wollen, wünschen
+71|(Gen.) von; (Dat.) bei; (Akk.) neben, entlang
+72|jüdisch; der Jude
+73|hineingehen
+74|das Gesetz
+75|schreiben
+76|wie, als
+77|die Welt
+78|wie, gleichwie
+79|die Hand
+80|finden
+81|die Volksmenge
+82|der Engel; der Bote
+83|die Sünde
+84|das Werk, die Tat
+85|die Herrlichkeit, Ehre
+86|die Stadt
+87|das Reich, die Königsherrschaft
+88|das Volk; (Pl.) die Heiden
+89|dann, damals
+90|essen
+91|das Herz
+92|anderer
+93|die Gnade, Gunst; der Dank
+94|stellen; (intr.) stehen, hintreten
+95|gehen, reisen
+96|wer, welcher; jeder, der
+97|(Gen.) für, zugunsten; (Akk.) über … hinaus
+98|rufen, berufen; einladen
+99|jetzt, nun
+100|das Fleisch
+101|aufwecken, auferwecken; (Pass.) auferstehen
+102|der Prophet
+103|lassen, vergeben; zulassen
+104|lieben
+105|das Volk
+106|der Leib, Körper
+107|wieder, zurück
+108|leben
+109|die Stimme, der Laut
+110|zwei
+111|das Leben
+112|senden, aussenden
+113|sehen, blicken
+114|mit, zusammen mit
+115|tot
+116|der Knecht, Sklave
+117|wann immer, sooft
+118|werfen, legen
+119|der Hohepriester
+120|das Zeitalter, die Ewigkeit
+121|der Tod
+122|übergeben, ausliefern; überliefern
+123|die Kraft, Macht; die Wundertat
+124|bleiben
+125|suchen, verlangen
+126|weggehen, fortgehen
+127|die Liebe
+128|der König
+129|eigen
+130|richten, urteilen
+131|das Haus
+132|die Gemeinde, Versammlung
+133|sterben
+134|wie viel, so viel wie; alle, die
+135|ganz
+136|ermahnen, bitten; trösten
+137|im Begriff sein, sollen; zögern
+138|die Wahrheit
+139|auferwecken; (intr.) aufstehen, auferstehen
+140|retten
+141|die Stunde
+142|dort
+143|als, wenn
+144|die Seele, das Leben
+145|gut
+146|die Vollmacht, Macht
+147|es ist nötig, man muss
+148|aufheben, wegnehmen
+149|der Weg
+150|einander
+151|gut, schön
+152|setzen, legen, stellen
+153|das Auge
+154|das Kind
+155|und nicht, auch nicht
+156|anderer
+157|zeugen; gebären
+158|lehren
+159|das Brot
+160|das Blut
+161|(Pass.) sich fürchten
+162|umhergehen; (übertr.) leben, sein Leben führen
+163|noch, weiterhin
+164|der Fuß
+165|das Haus; die Familie
+166|der Friede
+167|die Gerechtigkeit
+168|das Meer, der See
+169|sitzen
+170|der Ort, die Stelle
+171|kein, niemand
+172|nachfolgen, folgen
+173|fallen
+174|verderben, vernichten; verlieren; (Med.) umkommen
+175|sieben
+176|und nicht; weder … noch
+177|herzutreten, hingehen
+178|erfüllen, füllen
+179|(Med.) anfangen; (Akt.) herrschen
+180|beten
+181|die (rechte) Zeit
+182|sodass, daher
+183|die Mutter
+184|wo
+185|jeder
+186|hinaufgehen, aufsteigen
+187|mehr, vielmehr, eher
+188|hinauswerfen, austreiben
+189|herabkommen, hinabsteigen
+190|der Apostel, Gesandte
+191|gerecht
+192|hingehen, weggehen
+193|senden, schicken
+194|böse, schlecht
+195|der Mund
+196|öffnen
+197|taufen
+198|das Zeichen, Wunderzeichen
+199|mein
+200|bezeugen, Zeugnis ablegen
+201|das Angesicht
+202|das Evangelium, die frohe Botschaft
+203|das Wasser
+204|zwölf
+205|das Haupt, der Kopf
+206|töten
+207|sich freuen; (Gruß) sei gegrüßt!
+208|trinken
+209|das Licht
+210|ewig
+211|der Tempel, das Heiligtum
+212|das Feuer
+213|allein, einzig
+214|bitten, erbitten
+215|bewahren, halten, bewachen
+216|drei
+217|das Wort; die Sache
+218|der Sabbat; die Woche
+219|treu; gläubig
+220|führen, bringen
+221|das Boot, Schiff
+222|das Gebot
+223|älter; der Älteste
+224|tragen, bringen
+225|freilassen, entlassen
+226|sagen
+227|die Frucht
+228|sei es … sei es; oder
+229|fragen; bitten
+230|der Berg
+231|der Dämon, böse Geist
+232|der Schriftgelehrte
+233|meinen; scheinen
+234|der Thron
+235|der Wille
+236|hier, hierher
+237|schon, bereits
+238|geliebt
+239|verherrlichen, preisen
+240|verkündigen, predigen
+241|die Nacht
+242|erster
+243|anbeten, sich niederwerfen
+244|vorhanden sein, sein; (Part.) der Besitz
+245|das Obergewand, Kleid
+246|versammeln, sammeln
+247|grüßen
+248|der Stein
+249|der Lehrer
+250|die Freude
+251|schauen, betrachten
+252|ein solcher, so beschaffen
+253|befragen, fragen
+254|aufnehmen, empfangen
+255|die Synagoge
+256|schreien, rufen
+257|der Anfang; die Herrschaft, Macht
+258|recht(s); die Rechte
+259|mitten; die Mitte
+260|(Med.) das Evangelium verkündigen
+261|die Zeit, Zeitdauer
+262|damit, dass; wie
+263|deshalb, darum
+264|die Hoffnung
+265|überzeugen, überreden; (Pass.) gehorchen
+266|säen
+267|das kleine Kind
+268|die Verheißung
+269|sogleich, sofort
+270|die Weisheit
+271|und nicht, auch nicht
+272|glücklich (zu preisen), selig
+273|schlecht, böse
+274|letzter
+275|blind
+276|das Gleichnis
+277|die Schrift
+278|die Zunge; die Sprache
