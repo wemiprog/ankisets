@@ -8,7 +8,7 @@ JSON: {"lang","root","root_de","dir","prefix","font","sets":[{freq,freq_tag}],"w
 Deck: <root>::<freq>::<pos_label> (singular English: Noun, Verb, Adjective, Other, Proper Name; also shown on the back as POS, then Strong's); GUID guid_for(lang,id) (EN) / guid_for(lang,id,variant);
 DE variant: <root_de>::<freq>::<German POS> (Nomen, Verb, Adjektiv, Andere, Eigenname), German POS also on the back.
 Packages: <prefix>_<set>.<variant>.apkg + <prefix>_all.<variant>.apkg, variants EN, DE, EN.wDE (separate note types); model/deck IDs from stable names."""
-import csv, glob, unicodedata, hashlib, json, os, subprocess, sys, time, genanki
+import csv, glob, re, unicodedata, hashlib, json, os, subprocess, sys, time, genanki
 from PIL import Image
 TOOLS = os.path.dirname(os.path.abspath(__file__)); REPO = os.path.dirname(TOOLS)
 PROJ = next((a for a in sys.argv[2:] if not a.startswith("-") and os.path.isdir(os.path.join(REPO, a))), "biblehebrew")
@@ -36,6 +36,12 @@ def tmpl(t, lang):
     return t if lang != "greek" else t.replace('<div class="word">', '<div class="word {{Size}}">', 1).replace('<div class="play">{{Audio}}</div></div>', '<div class="play">{{Audio}}</div></div>' + FIT_JS, 1)
 _models = {}
 POS_DE = {"Noun": "Nomen", "Verb": "Verb", "Adjective": "Adjektiv", "Other": "Andere", "Proper Name": "Eigenname"}  # DE variant: deck + card POS label
+GREEK_ART = {"ὁ", "ἡ", "τό", "οἱ", "αἱ", "τά"}
+def german_html(w, lang):  # German articles der/die/das the source headword lacks are dimmed (class "art"); computed at build time, JSON unchanged
+    g = w.get("german", "")
+    if w["pos"] == "other": return g  # article/pronoun/particle glosses: der/die/das is the meaning itself, not an added article
+    if lang == "greek" and GREEK_ART & {t.strip() for t in unicodedata.normalize("NFC", w["word"]).split(",")}: return g
+    return re.sub(r"\b(der|die|das)\b", r'<span class="art">\1</span>', g)
 VARIANTS = ("EN", "DE", "EN.wDE")  # back answer area: EN = English only (approved design); DE = German main + English small; EN.wDE = English main + German small
 def back_for(variant):
     if variant == "EN": return BACK
@@ -43,7 +49,7 @@ def back_for(variant):
     b = BACK.replace('<div class="box enbox"><div class="en">{{English}}</div></div>',
         f'<div class="box enbox two"><div class="en">{{{{{main}}}}}</div>{{{{#{sub}}}}}<div class="sub">{{{{{sub}}}}}</div>{{{{/{sub}}}}}</div>', 1)
     return b.replace('querySelectorAll(".word,.en")', 'querySelectorAll(".word,.en,.sub")', 1)
-SUB_CSS = ("\n.enbox.two{flex-direction:column}.sub{font-size:.95em;line-height:1.3;color:#6e6e73;margin-top:8px}"
+SUB_CSS = ("\n.art{opacity:.5}.enbox.two{flex-direction:column}.sub{font-size:.95em;line-height:1.3;color:#6e6e73;margin-top:8px}"
            ".nightMode .sub,.night_mode .sub{color:#a1a1a6}")
 def model_for(lang, direction, variant="EN"):
     face, fam = WORDFONT[lang]; key = (lang, variant)
@@ -122,7 +128,7 @@ def package(d, words, out, sheet=True, variant="EN"):
         if variant != "EN" and not w.get("german"): sys.exit(f"{w['id']}: no german gloss in JSON")
         deck.add_note(genanki.Note(model=m, guid=genanki.guid_for(lang, w["id"]) if variant == "EN" else genanki.guid_for(lang, w["id"], variant), due=w["due"],
             tags=[f"pos::{w['pos']}", f"freq::{w['freq_tag']}", f"lang::{lang}"],
-            fields=[w["word"], f"[sound:{w['audio']}]", f'<img src="{w["image"]}">', w["english"], str(w["occurrences"]), str(w["rank"])] + ([size_class(w["word"])] if lang == "greek" else []) + [pos, w.get("strongs", ""), w.get("german", "")]))
+            fields=[w["word"], f"[sound:{w['audio']}]", f'<img src="{w["image"]}">', w["english"], str(w["occurrences"]), str(w["rank"])] + ([size_class(w["word"])] if lang == "greek" else []) + [pos, w.get("strongs", ""), german_html(w, lang) if variant != "EN" else w.get("german", "")]))
         files += [f"{media}/{w['image']}", f"{media}/{w['audio']}"]
     genanki.Package(list(decks.values()), media_files=files).write_to_file(out)
     if sheet and variant == "EN": contact([f"{media}/{w['image']}" for w in words], "out/" + os.path.basename(out).replace(".apkg", "_contact.png"))
