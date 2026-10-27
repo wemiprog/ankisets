@@ -15,5 +15,5 @@
  "pad": 0.25,
  "cards": "config/video25.csv",
  "root": "BibleHebrew",
- "pos_label": "Name"
+ "pos_label": "Proper Name"
 }

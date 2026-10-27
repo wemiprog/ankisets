@@ -5,7 +5,7 @@
   python tools/build_deck.py init    <project> [--lang hebrew]      # one-time: config/*.json+.csv -> data/<lang>_words.json
 JSON: {"lang","root","dir","prefix","font","sets":[{freq,freq_tag}],"words":[{id,word,english,occurrences,rank,due,
  pos,pos_label,freq,freq_tag,image,audio,src:{video,crop,pad,frame_t,audio_start,audio_end}}]} sorted by occurrences desc.
-Deck: <root>::<freq>::<pos_label>; GUID guid_for(lang,id); model/deck IDs from stable names."""
+Deck: <root>::<freq>::<pos_label> (singular English: Noun, Verb, Adjective, Other, Proper Name; also shown on the back as POS); GUID guid_for(lang,id); model/deck IDs from stable names."""
 import csv, glob, unicodedata, hashlib, json, os, subprocess, sys, time, genanki
 from PIL import Image
 TOOLS = os.path.dirname(os.path.abspath(__file__)); REPO = os.path.dirname(TOOLS)
@@ -37,7 +37,7 @@ def model_for(lang, direction):
     face, fam = WORDFONT[lang]
     if lang not in _models:
         _models[lang] = genanki.Model(stable_id("model:" + lang), f"Vocab ({lang})",
-          fields=[{"name": n} for n in ["Word", "Audio", "Image", "English", "Occurrences", "Rank"] + (["Size"] if lang == "greek" else [])],
+          fields=[{"name": n} for n in ["Word", "Audio", "Image", "English", "Occurrences", "Rank"] + (["Size"] if lang == "greek" else []) + ["POS"]],
           templates=[{"name": "Word → Meaning",
             "qfmt": tmpl(FRONT, lang), "afmt": tmpl(BACK, lang)}], css=CSS.replace("__DIR__", direction).replace("__FONTFACE__", face).replace("__WORDFONT__", fam) + EXTRA_CSS.get(lang, ""))
     return _models[lang]
@@ -107,7 +107,7 @@ def package(d, words, out, sheet=True):
             if not os.path.exists(f"{media}/{f}"): sys.exit(f"missing {media}/{f} - run: build_deck.py extract")
         deck.add_note(genanki.Note(model=m, guid=genanki.guid_for(lang, w["id"]), due=w["due"],
             tags=[f"pos::{w['pos']}", f"freq::{w['freq_tag']}", f"lang::{lang}"],
-            fields=[w["word"], f"[sound:{w['audio']}]", f'<img src="{w["image"]}">', w["english"], str(w["occurrences"]), str(w["rank"])] + ([size_class(w["word"])] if lang == "greek" else [])))
+            fields=[w["word"], f"[sound:{w['audio']}]", f'<img src="{w["image"]}">', w["english"], str(w["occurrences"]), str(w["rank"])] + ([size_class(w["word"])] if lang == "greek" else []) + [w["pos_label"]]))
         files += [f"{media}/{w['image']}", f"{media}/{w['audio']}"]
     genanki.Package(list(decks.values()), media_files=files).write_to_file(out)
     if sheet: contact([f"{media}/{w['image']}" for w in words], "out/" + os.path.basename(out).replace(".apkg", "_contact.png"))
