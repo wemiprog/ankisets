@@ -21,7 +21,7 @@ FONTS = os.path.join(REPO, "fonts")
 WORDFONT = {  # lang -> (@font-face rule, .word font-family list)
     "hebrew": ('@font-face{font-family:EzraSIL;src:url("_EzraSIL.ttf")}', "'EzraSIL','Ezra SIL','SBL Hebrew','Times New Roman',serif"),
     "greek": ('@font-face{font-family:GentiumPlus;src:url("_GentiumPlus.ttf")}', "'GentiumPlus','Gentium Plus','Times New Roman',serif")}
-EXTRA_CSS = {"greek": "\n.word,.en{font-size:1.5em;line-height:1.5}@media (max-width:480px){.word,.en{font-size:1.5em}.enbox{padding:22px 24px}}"}  # long dictionary forms fit one line at ~390px
+EXTRA_CSS = {"greek": "\n.word{font-size:1.5em}.en{font-size:.96em}@media (max-width:480px){.word{font-size:1.5em}.en{font-size:.98em}.enbox{padding:22px 24px}}"}  # Greek word 1.5em (fits ~390px); English keeps v1 ratio (1.6/2.5 desktop, 1.4/2.15 phone); boxes equal height
 _models = {}
 def model_for(lang, direction):
     face, fam = WORDFONT[lang]
