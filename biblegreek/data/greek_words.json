@@ -22000,7 +22000,8 @@
     "frame_t": 14.899999999999999,
     "audio_start": 15.3,
     "audio_end": 15.95
-   }
+   },
+   "german": "töricht; der Tor"
   },
   {
    "id": "gr-o13p-03",
@@ -22895,7 +22896,8 @@
     "frame_t": 2.5,
     "audio_start": 2.6,
     "audio_end": 3.2
-   }
+   },
+   "german": "sehr, überaus"
   },
   {
    "id": "gr-o10p-03",
@@ -22922,7 +22924,8 @@
     "frame_t": 7.9,
     "audio_start": 8.2,
     "audio_end": 8.9
-   }
+   },
+   "german": "innen, von innen"
   },
   {
    "id": "gr-o10p-05",
@@ -22949,7 +22952,8 @@
     "frame_t": 13.299999999999999,
     "audio_start": 13.7,
     "audio_end": 14.3
-   }
+   },
+   "german": "früh, am Morgen"
   },
   {
    "id": "gr-o10p-09",
@@ -22976,7 +22980,8 @@
     "frame_t": 25.5,
     "audio_start": 26.0,
     "audio_end": 26.85
-   }
+   },
+   "german": "besonders, am meisten"
   },
   {
    "id": "gr-o10p-10",
@@ -23003,7 +23008,8 @@
     "frame_t": 28.3,
     "audio_start": 28.75,
     "audio_end": 29.5
-   }
+   },
+   "german": "je, jeweils; (mit μέσον) mitten"
   },
   {
    "id": "gr-o10p-11",
@@ -23030,7 +23036,8 @@
     "frame_t": 31.3,
     "audio_start": 31.6,
     "audio_end": 32.0
-   }
+   },
+   "german": "dreimal"
   },
   {
    "id": "gr-o10p-12",
@@ -23057,7 +23064,8 @@
     "frame_t": 34.1,
     "audio_start": 34.6,
     "audio_end": 35.05
-   }
+   },
+   "german": "schnell"
   },
   {
    "id": "gr-o10p-15",
@@ -23084,7 +23092,8 @@
     "frame_t": 42.900000000000006,
     "audio_start": 43.3,
     "audio_end": 44.1
-   }
+   },
+   "german": "umso mehr, besonders"
   },
   {
    "id": "gr-a10p-02",
@@ -23111,7 +23120,8 @@
     "frame_t": 4.7,
     "audio_start": 5.25,
     "audio_end": 5.85
-   }
+   },
+   "german": "römisch; der Römer"
   },
   {
    "id": "gr-a10p-09",
@@ -23138,7 +23148,8 @@
     "frame_t": 28.5,
     "audio_start": 28.85,
     "audio_end": 29.45
-   }
+   },
+   "german": "ungerecht"
   },
   {
    "id": "gr-v10p-02",
@@ -23165,7 +23176,8 @@
     "frame_t": 5.9,
     "audio_start": 6.45,
     "audio_end": 7.35
-   }
+   },
+   "german": "anblicken, ansehen"
   },
   {
    "id": "gr-v10p-03",
@@ -23192,7 +23204,8 @@
     "frame_t": 8.899999999999999,
     "audio_start": 9.55,
     "audio_end": 10.8
-   }
+   },
+   "german": "sich erbarmen, Mitleid haben"
   },
   {
    "id": "gr-v10p-04",
@@ -23219,7 +23232,8 @@
     "frame_t": 12.7,
     "audio_start": 13.5,
     "audio_end": 14.25
-   }
+   },
+   "german": "die Posaune blasen"
   },
   {
    "id": "gr-v10p-06",
@@ -23246,7 +23260,8 @@
     "frame_t": 19.9,
     "audio_start": 20.3,
     "audio_end": 21.2
-   }
+   },
+   "german": "daliegen, zu Tisch liegen"
   },
   {
    "id": "gr-v10p-12",
@@ -23273,7 +23288,8 @@
     "frame_t": 39.7,
     "audio_start": 40.25,
     "audio_end": 41.05
-   }
+   },
+   "german": "reich sein, reich werden"
   },
   {
    "id": "gr-v10p-21",
@@ -23300,7 +23316,8 @@
     "frame_t": 69.5,
     "audio_start": 70.45,
     "audio_end": 71.25
-   }
+   },
+   "german": "herausführen"
   },
   {
    "id": "gr-v10p-24",
@@ -23327,7 +23344,8 @@
     "frame_t": 79.7,
     "audio_start": 80.3,
     "audio_end": 81.3
-   }
+   },
+   "german": "quälen, peinigen"
   },
   {
    "id": "gr-v10p-26",
@@ -23354,7 +23372,8 @@
     "frame_t": 86.3,
     "audio_start": 86.75,
     "audio_end": 87.4
-   }
+   },
+   "german": "rufen, schreien"
   },
   {
    "id": "gr-v10p-28",
@@ -23381,7 +23400,8 @@
     "frame_t": 5.1000000000000005,
     "audio_start": 5.9,
     "audio_end": 6.9
-   }
+   },
+   "german": "gesund sein"
   },
   {
    "id": "gr-v10p-31",
@@ -23408,7 +23428,8 @@
     "frame_t": 14.899999999999999,
     "audio_start": 15.85,
     "audio_end": 16.6
-   }
+   },
+   "german": "zusammenhalten, bedrängen; (Pass.) befallen sein"
   },
   {
    "id": "gr-v10p-37",
@@ -23435,7 +23456,8 @@
     "frame_t": 34.900000000000006,
     "audio_start": 35.45,
     "audio_end": 36.2
-   }
+   },
+   "german": "vermehren; (Pass.) sich mehren"
   },
   {
    "id": "gr-v10p-39",
@@ -23462,7 +23484,8 @@
     "frame_t": 43.1,
     "audio_start": 43.65,
     "audio_end": 44.5
-   }
+   },
+   "german": "(Pass.) sich anschließen, anhangen"
   },
   {
    "id": "gr-v10p-45",
@@ -23489,7 +23512,8 @@
     "frame_t": 61.7,
     "audio_start": 62.3,
     "audio_end": 63.25
-   }
+   },
+   "german": "bitten; ablehnen, sich entschuldigen"
   },
   {
    "id": "gr-v10p-46",
@@ -23516,7 +23540,8 @@
     "frame_t": 64.9,
     "audio_start": 65.5,
     "audio_end": 66.4
-   }
+   },
+   "german": "verbrennen"
   },
   {
    "id": "gr-v10p-47",
@@ -23543,7 +23568,8 @@
     "frame_t": 67.7,
     "audio_start": 68.45,
     "audio_end": 69.2
-   }
+   },
+   "german": "morden, töten"
   },
   {
    "id": "gr-v10p-48",
@@ -23570,7 +23596,8 @@
     "frame_t": 72.7,
     "audio_start": 73.2,
     "audio_end": 73.85
-   }
+   },
+   "german": "ergreifen, festnehmen"
   },
   {
    "id": "gr-v10p-58",
@@ -23597,7 +23624,8 @@
     "frame_t": 13.1,
     "audio_start": 13.75,
     "audio_end": 14.6
-   }
+   },
+   "german": "erlangen, erreichen; zufällig sein"
   },
   {
    "id": "gr-v10p-59",
@@ -23624,7 +23652,8 @@
     "frame_t": 16.5,
     "audio_start": 17.1,
     "audio_end": 17.9
-   }
+   },
+   "german": "hinübergehen, weggehen"
   },
   {
    "id": "gr-v10p-63",
@@ -23651,7 +23680,8 @@
     "frame_t": 28.9,
     "audio_start": 29.45,
     "audio_end": 30.45
-   }
+   },
+   "german": "sich (zu Tisch) niederlegen"
   },
   {
    "id": "gr-v10p-70",
@@ -23678,7 +23708,8 @@
     "frame_t": 50.900000000000006,
     "audio_start": 51.6,
     "audio_end": 52.55
-   }
+   },
+   "german": "(Med.) zu sich nehmen, aufnehmen"
   },
   {
    "id": "gr-v10p-71",
@@ -23705,7 +23736,8 @@
     "frame_t": 53.900000000000006,
     "audio_start": 54.6,
     "audio_end": 55.55
-   }
+   },
+   "german": "sich erkundigen, erfragen"
   },
   {
    "id": "gr-v10p-80",
@@ -23732,7 +23764,8 @@
     "frame_t": 80.3,
     "audio_start": 80.9,
     "audio_end": 81.7
-   }
+   },
+   "german": "lügen"
   },
   {
    "id": "gr-v10p-81",
@@ -23759,7 +23792,8 @@
     "frame_t": 82.9,
     "audio_start": 83.9,
     "audio_end": 84.9
-   }
+   },
+   "german": "ausruhen lassen, erquicken; (Med.) ruhen"
   },
   {
    "id": "gr-n10p-05",
@@ -23786,7 +23820,8 @@
     "frame_t": 13.1,
     "audio_start": 13.65,
     "audio_end": 14.3
-   }
+   },
+   "german": "die Schale"
   },
   {
    "id": "gr-n10p-07",
@@ -23813,7 +23848,8 @@
     "frame_t": 18.9,
     "audio_start": 19.1,
     "audio_end": 19.8
-   }
+   },
+   "german": "das Gebiet; (Pl.) die Grenzen"
   },
   {
    "id": "gr-n10p-09",
@@ -23840,7 +23876,8 @@
     "frame_t": 23.5,
     "audio_start": 24.05,
     "audio_end": 24.9
-   }
+   },
+   "german": "die Gesinnung, der Verstand"
   },
   {
    "id": "gr-n10p-13",
@@ -23867,7 +23904,8 @@
     "frame_t": 33.7,
     "audio_start": 34.1,
     "audio_end": 34.55
-   }
+   },
+   "german": "der Zahn"
   },
   {
    "id": "gr-n10p-16",
@@ -23894,7 +23932,8 @@
     "frame_t": 41.5,
     "audio_start": 41.9,
     "audio_end": 42.75
-   }
+   },
+   "german": "das Netz"
   },
   {
    "id": "gr-n10p-22",
@@ -23921,7 +23960,8 @@
     "frame_t": 59.5,
     "audio_start": 60.1,
     "audio_end": 61.15
-   }
+   },
+   "german": "der Hausherr"
   },
   {
    "id": "gr-n10p-25",
@@ -23948,7 +23988,8 @@
     "frame_t": 69.9,
     "audio_start": 70.4,
     "audio_end": 71.1
-   }
+   },
+   "german": "der Täufer"
   },
   {
    "id": "gr-n10p-26",
@@ -23975,7 +24016,8 @@
     "frame_t": 73.10000000000001,
     "audio_start": 73.65,
     "audio_end": 74.3
-   }
+   },
+   "german": "der Ratschluss, Plan"
   },
   {
    "id": "gr-n10p-30",
@@ -24002,7 +24044,8 @@
     "frame_t": 87.5,
     "audio_start": 87.9,
     "audio_end": 88.65
-   }
+   },
+   "german": "die Hölle (Gehenna)"
   },
   {
    "id": "gr-n10p-40",
@@ -24029,7 +24072,8 @@
     "frame_t": 26.5,
     "audio_start": 27.1,
     "audio_end": 27.55
-   }
+   },
+   "german": "der Stab, Stock"
   },
   {
    "id": "gr-n10p-42",
@@ -24056,7 +24100,8 @@
     "frame_t": 32.7,
     "audio_start": 33.05,
     "audio_end": 33.6
-   }
+   },
+   "german": "die Macht, Kraft"
   },
   {
    "id": "gr-n10p-52",
@@ -24083,7 +24128,8 @@
     "frame_t": 62.7,
     "audio_start": 63.1,
     "audio_end": 63.95
-   }
+   },
+   "german": "der Hahn"
   },
   {
    "id": "gr-n10p-53",
@@ -24110,7 +24156,8 @@
     "frame_t": 65.9,
     "audio_start": 66.25,
     "audio_end": 66.85
-   }
+   },
+   "german": "das Rohr; das Schreibrohr"
   },
   {
    "id": "gr-n10p-59",
@@ -24137,7 +24184,8 @@
     "frame_t": 86.5,
     "audio_start": 87.05,
     "audio_end": 87.8
-   }
+   },
+   "german": "die Dirne, Hure"
   },
   {
    "id": "gr-n10p-60",
@@ -24164,7 +24212,8 @@
     "frame_t": 90.3,
     "audio_start": 90.75,
     "audio_end": 91.4
-   }
+   },
+   "german": "die Erscheinung, Vision"
   },
   {
    "id": "gr-n10p-61",
@@ -24191,7 +24240,8 @@
     "frame_t": 93.7,
     "audio_start": 94.35,
     "audio_end": 94.8
-   }
+   },
+   "german": "das Schwein"
   },
   {
    "id": "gr-n10p-63",
@@ -24218,7 +24268,8 @@
     "frame_t": 3.5,
     "audio_start": 3.9,
     "audio_end": 4.4
-   }
+   },
+   "german": "das Füllen, Fohlen"
   },
   {
    "id": "gr-n10p-65",
@@ -24245,7 +24296,8 @@
     "frame_t": 8.7,
     "audio_start": 9.25,
     "audio_end": 10.15
-   }
+   },
+   "german": "der Leuchter"
   },
   {
    "id": "gr-n10p-66",
@@ -24272,7 +24324,8 @@
     "frame_t": 11.5,
     "audio_start": 12.0,
     "audio_end": 12.7
-   }
+   },
+   "german": "der Vorsatz, Ratschluss; das Auslegen (der Schaubrote)"
   },
   {
    "id": "gr-n10p-72",
@@ -24299,7 +24352,8 @@
     "frame_t": 29.7,
     "audio_start": 30.15,
     "audio_end": 30.8
-   }
+   },
+   "german": "das Knie"
   },
   {
    "id": "gr-n10p-73",
@@ -24326,7 +24380,8 @@
     "frame_t": 32.900000000000006,
     "audio_start": 33.35,
     "audio_end": 34.15
-   }
+   },
+   "german": "das Gold"
   },
   {
    "id": "gr-n10p-75",
@@ -24353,7 +24408,8 @@
     "frame_t": 40.7,
     "audio_start": 41.35,
     "audio_end": 41.95
-   }
+   },
+   "german": "der Hof, Vorhof"
   },
   {
    "id": "gr-n10p-78",
@@ -24380,7 +24436,8 @@
     "frame_t": 50.1,
     "audio_start": 50.65,
     "audio_end": 51.2
-   }
+   },
+   "german": "die Sitte, Gewohnheit"
   },
   {
    "id": "gr-n10p-80",
@@ -24407,7 +24464,8 @@
     "frame_t": 56.300000000000004,
     "audio_start": 56.65,
     "audio_end": 57.3
-   }
+   },
+   "german": "der Donner"
   },
   {
    "id": "gr-n10p-81",
@@ -24434,7 +24492,8 @@
     "frame_t": 59.1,
     "audio_start": 59.6,
     "audio_end": 60.1
-   }
+   },
+   "german": "der Schlauch"
   },
   {
    "id": "gr-n10p-85",
@@ -24461,7 +24520,8 @@
     "frame_t": 70.5,
     "audio_start": 70.7,
     "audio_end": 71.4
-   }
+   },
+   "german": "der Richterstuhl"
   },
   {
    "id": "gr-n10p-86",
@@ -24488,7 +24548,8 @@
     "frame_t": 73.3,
     "audio_start": 73.7,
     "audio_end": 74.25
-   }
+   },
+   "german": "die Hungersnot"
   },
   {
    "id": "gr-n10p-88",
@@ -24515,7 +24576,8 @@
     "frame_t": 78.7,
     "audio_start": 79.25,
     "audio_end": 79.75
-   }
+   },
+   "german": "der Eifer; die Eile"
   },
   {
    "id": "gr-o10p-04",
@@ -24542,7 +24604,8 @@
     "frame_t": 10.5,
     "audio_start": 10.9,
     "audio_end": 11.65
-   }
+   },
+   "german": "von außen, draußen"
   },
   {
    "id": "gr-o10p-07",
@@ -24569,7 +24632,8 @@
     "frame_t": 19.5,
     "audio_start": 19.9,
     "audio_end": 21.0
-   }
+   },
+   "german": "einmütig"
   },
   {
    "id": "gr-o10p-14",
@@ -24596,7 +24660,8 @@
     "frame_t": 39.900000000000006,
     "audio_start": 40.65,
     "audio_end": 41.2
-   }
+   },
+   "german": "sehr"
   },
   {
    "id": "gr-o10p-16",
@@ -24623,7 +24688,8 @@
     "frame_t": 45.7,
     "audio_start": 46.25,
     "audio_end": 46.8
-   }
+   },
+   "german": "später, zuletzt"
   },
   {
    "id": "gr-a10p-04",
@@ -24650,7 +24716,8 @@
     "frame_t": 10.5,
     "audio_start": 10.95,
     "audio_end": 11.55
-   }
+   },
+   "german": "gesund"
   },
   {
    "id": "gr-a10p-06",
@@ -24677,7 +24744,8 @@
     "frame_t": 18.099999999999998,
     "audio_start": 18.6,
     "audio_end": 19.25
-   }
+   },
+   "german": "unverständig, töricht"
   },
   {
    "id": "gr-a10p-10",
@@ -24704,7 +24772,8 @@
     "frame_t": 31.5,
     "audio_start": 31.95,
     "audio_end": 32.75
-   }
+   },
+   "german": "tausend"
   },
   {
    "id": "gr-a10p-12",
@@ -24731,7 +24800,8 @@
     "frame_t": 37.900000000000006,
     "audio_start": 38.6,
     "audio_end": 39.3
-   }
+   },
+   "german": "verwandt; der Verwandte"
   },
   {
    "id": "gr-a10p-13",
@@ -24758,7 +24828,8 @@
     "frame_t": 41.7,
     "audio_start": 42.2,
     "audio_end": 42.8
-   }
+   },
+   "german": "hoch; hochmütig"
   },
   {
    "id": "gr-a10p-15",
@@ -24785,7 +24856,8 @@
     "frame_t": 48.7,
     "audio_start": 49.4,
     "audio_end": 50.15
-   }
+   },
+   "german": "zwanzig"
   },
   {
    "id": "gr-a10p-16",
@@ -24812,7 +24884,8 @@
     "frame_t": 52.1,
     "audio_start": 52.4,
     "audio_end": 53.05
-   }
+   },
+   "german": "euer"
   },
   {
    "id": "gr-a10p-17",
@@ -24839,7 +24912,8 @@
     "frame_t": 55.300000000000004,
     "audio_start": 55.8,
     "audio_end": 56.55
-   }
+   },
+   "german": "galiläisch; der Galiläer"
   },
   {
    "id": "gr-a10p-18",
@@ -24866,7 +24940,8 @@
     "frame_t": 58.7,
     "audio_start": 59.25,
     "audio_end": 60.2
-   }
+   },
+   "german": "dreißig"
   },
   {
    "id": "gr-a10p-19",
@@ -24893,7 +24968,8 @@
     "frame_t": 62.1,
     "audio_start": 62.55,
     "audio_end": 63.2
-   }
+   },
+   "german": "schlimmer"
   },
   {
    "id": "gr-v10p-01",
@@ -24920,7 +24996,8 @@
     "frame_t": 1.9,
     "audio_start": 2.45,
     "audio_end": 3.25
-   }
+   },
+   "german": "sich beeilen, sich bemühen"
   },
   {
    "id": "gr-v10p-07",
@@ -24947,7 +25024,8 @@
     "frame_t": 23.3,
     "audio_start": 24.0,
     "audio_end": 24.85
-   }
+   },
+   "german": "jubeln, frohlocken"
   },
   {
    "id": "gr-v10p-08",
@@ -24974,7 +25052,8 @@
     "frame_t": 26.7,
     "audio_start": 27.4,
     "audio_end": 28.3
-   }
+   },
+   "german": "darauffallen, überfallen"
   },
   {
    "id": "gr-v10p-13",
@@ -25001,7 +25080,8 @@
     "frame_t": 42.5,
     "audio_start": 43.2,
     "audio_end": 44.15
-   }
+   },
+   "german": "töten"
   },
   {
    "id": "gr-v10p-15",
@@ -25028,7 +25108,8 @@
     "frame_t": 49.1,
     "audio_start": 49.65,
     "audio_end": 50.45
-   }
+   },
+   "german": "messen"
   },
   {
    "id": "gr-v10p-16",
@@ -25055,7 +25136,8 @@
     "frame_t": 52.7,
     "audio_start": 53.35,
     "audio_end": 54.45
-   }
+   },
+   "german": "besuchen; sich annehmen"
   },
   {
    "id": "gr-v10p-17",
@@ -25082,7 +25164,8 @@
     "frame_t": 56.5,
     "audio_start": 57.1,
     "audio_end": 57.75
-   }
+   },
+   "german": "begraben"
   },
   {
    "id": "gr-v10p-20",
@@ -25109,7 +25192,8 @@
     "frame_t": 66.10000000000001,
     "audio_start": 66.6,
     "audio_end": 67.75
-   }
+   },
+   "german": "lebendig machen"
   },
   {
    "id": "gr-v10p-22",
@@ -25136,7 +25220,8 @@
     "frame_t": 73.10000000000001,
     "audio_start": 73.65,
     "audio_end": 74.7
-   }
+   },
+   "german": "verteilen"
   },
   {
    "id": "gr-v10p-25",
@@ -25163,7 +25248,8 @@
     "frame_t": 82.7,
     "audio_start": 83.55,
     "audio_end": 84.3
-   }
+   },
+   "german": "pflanzen"
   },
   {
    "id": "gr-v10p-27",
@@ -25190,7 +25276,8 @@
     "frame_t": 0.5,
     "audio_start": 1.2,
     "audio_end": 1.9
-   }
+   },
+   "german": "anzünden; (Pass.) brennen"
   },
   {
    "id": "gr-v10p-30",
@@ -25217,7 +25304,8 @@
     "frame_t": 11.7,
     "audio_start": 12.4,
     "audio_end": 13.5
-   }
+   },
+   "german": "hineinführen"
   },
   {
    "id": "gr-v10p-32",
@@ -25244,7 +25332,8 @@
     "frame_t": 18.7,
     "audio_start": 19.7,
     "audio_end": 20.9
-   }
+   },
+   "german": "verleugnen; sich selbst verleugnen"
   },
   {
    "id": "gr-v10p-33",
@@ -25271,7 +25360,8 @@
     "frame_t": 22.3,
     "audio_start": 23.0,
     "audio_end": 23.95
-   }
+   },
+   "german": "weiden, hüten"
   },
   {
    "id": "gr-v10p-42",
@@ -25298,7 +25388,8 @@
     "frame_t": 52.300000000000004,
     "audio_start": 52.95,
     "audio_end": 54.1
-   }
+   },
+   "german": "verachten"
   },
   {
    "id": "gr-v10p-43",
@@ -25325,7 +25416,8 @@
     "frame_t": 55.5,
     "audio_start": 55.8,
     "audio_end": 56.55
-   }
+   },
+   "german": "voll sein"
   },
   {
    "id": "gr-v10p-54",
@@ -25352,7 +25444,8 @@
     "frame_t": 92.7,
     "audio_start": 93.65,
     "audio_end": 94.35
-   }
+   },
+   "german": "lassen, zulassen"
   },
   {
    "id": "gr-v10p-56",
@@ -25379,7 +25472,8 @@
     "frame_t": 6.9,
     "audio_start": 7.55,
     "audio_end": 8.5
-   }
+   },
+   "german": "sich schämen"
   },
   {
    "id": "gr-v10p-57",
@@ -25406,7 +25500,8 @@
     "frame_t": 9.899999999999999,
     "audio_start": 10.45,
     "audio_end": 11.2
-   }
+   },
+   "german": "gebrauchen, benutzen"
   },
   {
    "id": "gr-v10p-60",
@@ -25433,7 +25528,8 @@
     "frame_t": 19.7,
     "audio_start": 20.3,
     "audio_end": 21.55
-   }
+   },
+   "german": "bereiten, herrichten; bauen"
   },
   {
    "id": "gr-v10p-61",
@@ -25460,7 +25556,8 @@
     "frame_t": 22.7,
     "audio_start": 23.4,
     "audio_end": 24.25
-   }
+   },
+   "german": "widersprechen"
   },
   {
    "id": "gr-v10p-62",
@@ -25487,7 +25584,8 @@
     "frame_t": 25.9,
     "audio_start": 26.7,
     "audio_end": 27.45
-   }
+   },
+   "german": "erleuchten"
   },
   {
    "id": "gr-v10p-65",
@@ -25514,7 +25612,8 @@
     "frame_t": 35.5,
     "audio_start": 36.5,
     "audio_end": 37.0
-   }
+   },
+   "german": "spalten, zerreißen"
   },
   {
    "id": "gr-v10p-66",
@@ -25541,7 +25640,8 @@
     "frame_t": 38.900000000000006,
     "audio_start": 39.45,
     "audio_end": 40.3
-   }
+   },
+   "german": "sterben"
   },
   {
    "id": "gr-v10p-72",
@@ -25568,7 +25668,8 @@
     "frame_t": 57.1,
     "audio_start": 57.9,
     "audio_end": 58.75
-   }
+   },
+   "german": "eifern; beneiden"
   },
   {
    "id": "gr-v10p-82",
@@ -25595,7 +25696,8 @@
     "frame_t": 85.9,
     "audio_start": 86.85,
     "audio_end": 87.65
-   }
+   },
+   "german": "ausgießen, vergießen"
   },
   {
    "id": "gr-n10p-03",
@@ -25622,7 +25724,8 @@
     "frame_t": 7.5,
     "audio_start": 8.05,
     "audio_end": 8.85
-   }
+   },
+   "german": "das Öl, Olivenöl"
   },
   {
    "id": "gr-n10p-04",
@@ -25649,7 +25752,8 @@
     "frame_t": 10.1,
     "audio_start": 10.7,
     "audio_end": 11.35
-   }
+   },
+   "german": "die Quelle"
   },
   {
    "id": "gr-n10p-10",
@@ -25676,7 +25780,8 @@
     "frame_t": 26.099999999999998,
     "audio_start": 26.45,
     "audio_end": 27.05
-   }
+   },
+   "german": "der Zweig"
   },
   {
    "id": "gr-n10p-11",
@@ -25703,7 +25808,8 @@
     "frame_t": 28.5,
     "audio_start": 28.8,
     "audio_end": 29.7
-   }
+   },
+   "german": "der junge Mann, Jüngling"
   },
   {
    "id": "gr-n10p-18",
@@ -25730,7 +25836,8 @@
     "frame_t": 47.1,
     "audio_start": 47.65,
     "audio_end": 48.4
-   }
+   },
+   "german": "der Aufgang; der Osten"
   },
   {
    "id": "gr-n10p-21",
@@ -25757,7 +25864,8 @@
     "frame_t": 56.7,
     "audio_start": 57.05,
     "audio_end": 57.75
-   }
+   },
+   "german": "der See"
   },
   {
    "id": "gr-n10p-23",
@@ -25784,7 +25892,8 @@
     "frame_t": 63.1,
     "audio_start": 63.65,
     "audio_end": 64.55
-   }
+   },
+   "german": "(Pl.) die Eingeweide; das Erbarmen, Herz"
   },
   {
    "id": "gr-n10p-29",
@@ -25811,7 +25920,8 @@
     "frame_t": 83.9,
     "audio_start": 85.05,
     "audio_end": 85.75
-   }
+   },
+   "german": "die Sanftmut"
   },
   {
    "id": "gr-n10p-31",
@@ -25838,7 +25948,8 @@
     "frame_t": 0.5,
     "audio_start": 0.95,
     "audio_end": 1.75
-   }
+   },
+   "german": "der Ruhm, Grund zum Rühmen"
   },
   {
    "id": "gr-n10p-32",
@@ -25865,7 +25976,8 @@
     "frame_t": 4.1,
     "audio_start": 4.55,
     "audio_end": 5.25
-   }
+   },
+   "german": "der Marktplatz"
   },
   {
    "id": "gr-n10p-38",
@@ -25892,7 +26004,8 @@
     "frame_t": 20.9,
     "audio_start": 21.4,
     "audio_end": 21.85
-   }
+   },
+   "german": "die Posaune, Trompete"
   },
   {
    "id": "gr-n10p-41",
@@ -25919,7 +26032,8 @@
     "frame_t": 29.7,
     "audio_start": 30.05,
     "audio_end": 30.85
-   }
+   },
+   "german": "die Bosheit, Schlechtigkeit"
   },
   {
    "id": "gr-n10p-43",
@@ -25946,7 +26060,8 @@
     "frame_t": 35.5,
     "audio_start": 35.95,
     "audio_end": 36.65
-   }
+   },
+   "german": "die Liege, Bahre"
   },
   {
    "id": "gr-n10p-44",
@@ -25973,7 +26088,8 @@
     "frame_t": 38.7,
     "audio_start": 39.2,
     "audio_end": 39.85
-   }
+   },
+   "german": "das Untergewand"
   },
   {
    "id": "gr-n10p-45",
@@ -26000,7 +26116,8 @@
     "frame_t": 41.300000000000004,
     "audio_start": 41.85,
     "audio_end": 42.25
-   }
+   },
+   "german": "das Horn"
   },
   {
    "id": "gr-n10p-46",
@@ -26027,7 +26144,8 @@
     "frame_t": 43.900000000000006,
     "audio_start": 44.25,
     "audio_end": 44.85
-   }
+   },
+   "german": "die Krankheit"
   },
   {
    "id": "gr-n10p-49",
@@ -26054,7 +26172,8 @@
     "frame_t": 52.900000000000006,
     "audio_start": 53.45,
     "audio_end": 54.5
-   }
+   },
+   "german": "der falsche Prophet"
   },
   {
    "id": "gr-n10p-50",
@@ -26081,7 +26200,8 @@
     "frame_t": 56.300000000000004,
     "audio_start": 56.8,
     "audio_end": 57.95
-   }
+   },
+   "german": "die Kette"
   },
   {
    "id": "gr-n10p-51",
@@ -26108,7 +26228,8 @@
     "frame_t": 59.5,
     "audio_start": 59.75,
     "audio_end": 60.55
-   }
+   },
+   "german": "die Grundlegung"
   },
   {
    "id": "gr-n10p-54",
@@ -26135,7 +26256,8 @@
     "frame_t": 69.5,
     "audio_start": 70.05,
     "audio_end": 70.8
-   }
+   },
+   "german": "die Gabe, das Geschenk"
   },
   {
    "id": "gr-n10p-56",
@@ -26162,7 +26284,8 @@
     "frame_t": 77.10000000000001,
     "audio_start": 77.55,
     "audio_end": 78.55
-   }
+   },
+   "german": "der Unglaube"
   },
   {
    "id": "gr-n10p-62",
@@ -26189,7 +26312,8 @@
     "frame_t": 0.5,
     "audio_start": 1.1,
     "audio_end": 1.55
-   }
+   },
+   "german": "das Los; das Erbteil"
   },
   {
    "id": "gr-n10p-68",
@@ -26216,7 +26340,8 @@
     "frame_t": 17.3,
     "audio_start": 17.65,
     "audio_end": 18.25
-   }
+   },
+   "german": "das Essen, die Speise; der Rost"
   },
   {
    "id": "gr-n10p-70",
@@ -26243,7 +26368,8 @@
     "frame_t": 23.5,
     "audio_start": 24.05,
     "audio_end": 24.65
-   }
+   },
+   "german": "das Lob"
   },
   {
    "id": "gr-n10p-74",
@@ -26270,7 +26396,8 @@
     "frame_t": 36.7,
     "audio_start": 37.3,
     "audio_end": 38.05
-   }
+   },
+   "german": "die Sache, das Ding; die Tat"
   },
   {
    "id": "gr-n10p-76",
@@ -26297,7 +26424,8 @@
     "frame_t": 43.7,
     "audio_start": 44.2,
     "audio_end": 44.8
-   }
+   },
+   "german": "die List, der Betrug"
   },
   {
    "id": "gr-n10p-77",
@@ -26324,7 +26452,8 @@
     "frame_t": 46.900000000000006,
     "audio_start": 47.35,
     "audio_end": 48.1
-   }
+   },
+   "german": "das Götzenbild"
   },
   {
    "id": "gr-n10p-79",
@@ -26351,7 +26480,8 @@
     "frame_t": 53.5,
     "audio_start": 53.9,
     "audio_end": 54.9
-   }
+   },
+   "german": "die Freiheit"
   },
   {
    "id": "gr-n10p-82",
@@ -26378,7 +26508,8 @@
     "frame_t": 61.7,
     "audio_start": 62.4,
     "audio_end": 63.4
-   }
+   },
+   "german": "das Rühmen"
   },
   {
    "id": "gr-n10p-89",
@@ -26405,7 +26536,8 @@
     "frame_t": 81.3,
     "audio_start": 81.65,
     "audio_end": 82.35
-   }
+   },
+   "german": "die Berufung"
   },
   {
    "id": "gr-o10p-02",
@@ -26432,7 +26564,8 @@
     "frame_t": 5.5,
     "audio_start": 5.75,
     "audio_end": 6.4
-   }
+   },
+   "german": "da, weil"
   },
   {
    "id": "gr-o10p-06",
@@ -26459,7 +26592,8 @@
     "frame_t": 16.9,
     "audio_start": 17.05,
     "audio_end": 17.55
-   }
+   },
+   "german": "wirklich, tatsächlich"
   },
   {
    "id": "gr-o10p-08",
@@ -26486,7 +26620,8 @@
     "frame_t": 22.3,
     "audio_start": 22.85,
     "audio_end": 23.6
-   }
+   },
+   "german": "fern, weit weg"
   },
   {
    "id": "gr-o10p-13",
@@ -26513,7 +26648,8 @@
     "frame_t": 37.1,
     "audio_start": 37.55,
     "audio_end": 38.2
-   }
+   },
+   "german": "früher, vorig"
   },
   {
    "id": "gr-o10p-17",
@@ -26540,7 +26676,8 @@
     "frame_t": 48.5,
     "audio_start": 49.35,
     "audio_end": 50.45
-   }
+   },
+   "german": "von hier"
   },
   {
    "id": "gr-o10p-18",
@@ -26567,7 +26704,8 @@
     "frame_t": 52.5,
     "audio_start": 53.0,
     "audio_end": 53.55
-   }
+   },
+   "german": "dieser (hier)"
   },
   {
    "id": "gr-a10p-01",
@@ -26594,7 +26732,8 @@
     "frame_t": 1.3,
     "audio_start": 1.9,
     "audio_end": 2.8
-   }
+   },
+   "german": "gelähmt; der Gelähmte"
   },
   {
    "id": "gr-a10p-03",
@@ -26621,7 +26760,8 @@
     "frame_t": 7.9,
     "audio_start": 8.15,
     "audio_end": 8.8
-   }
+   },
+   "german": "schuldig, verfallen"
   },
   {
    "id": "gr-a10p-07",
@@ -26648,7 +26788,8 @@
     "frame_t": 21.7,
     "audio_start": 22.3,
     "audio_end": 22.95
-   }
+   },
+   "german": "alt, ursprünglich"
   },
   {
    "id": "gr-a10p-08",
@@ -26675,7 +26816,8 @@
     "frame_t": 25.3,
     "audio_start": 25.7,
     "audio_end": 26.35
-   }
+   },
+   "german": "berufen, eingeladen"
   },
   {
    "id": "gr-a10p-11",
@@ -26702,7 +26844,8 @@
     "frame_t": 34.5,
     "audio_start": 35.05,
     "audio_end": 35.85
-   }
+   },
+   "german": "unmöglich; kraftlos"
   },
   {
    "id": "gr-a10p-14",
@@ -26729,7 +26872,8 @@
     "frame_t": 45.300000000000004,
     "audio_start": 45.9,
     "audio_end": 46.55
-   }
+   },
+   "german": "mancherlei, verschiedenartig"
   },
   {
    "id": "gr-v10p-05",
@@ -26756,7 +26900,8 @@
     "frame_t": 16.1,
     "audio_start": 16.6,
     "audio_end": 17.8
-   }
+   },
+   "german": "sich verteidigen"
   },
   {
    "id": "gr-v10p-09",
@@ -26783,7 +26928,8 @@
     "frame_t": 29.9,
     "audio_start": 30.5,
     "audio_end": 31.25
-   }
+   },
+   "german": "bringen; (Med.) empfangen, davontragen"
   },
   {
    "id": "gr-v10p-10",
@@ -26810,7 +26956,8 @@
     "frame_t": 33.1,
     "audio_start": 33.85,
     "audio_end": 34.6
-   }
+   },
+   "german": "schweigen"
   },
   {
    "id": "gr-v10p-11",
@@ -26837,7 +26984,8 @@
     "frame_t": 36.7,
     "audio_start": 37.25,
     "audio_end": 38.3
-   }
+   },
+   "german": "empfangen, zurückerhalten"
   },
   {
    "id": "gr-v10p-14",
@@ -26864,7 +27012,8 @@
     "frame_t": 45.5,
     "audio_start": 46.2,
     "audio_end": 47.05
-   }
+   },
+   "german": "offenbaren, kundtun; anzeigen"
   },
   {
    "id": "gr-v10p-18",
@@ -26891,7 +27040,8 @@
     "frame_t": 59.5,
     "audio_start": 60.15,
     "audio_end": 60.9
-   }
+   },
+   "german": "abhauen, ausrotten"
   },
   {
    "id": "gr-v10p-19",
@@ -26918,7 +27068,8 @@
     "frame_t": 62.7,
     "audio_start": 63.25,
     "audio_end": 64.35
-   }
+   },
+   "german": "langmütig sein, Geduld haben"
   },
   {
    "id": "gr-v10p-23",
@@ -26945,7 +27096,8 @@
     "frame_t": 76.3,
     "audio_start": 77.1,
     "audio_end": 78.0
-   }
+   },
+   "german": "nennen, benennen"
   },
   {
    "id": "gr-v10p-29",
@@ -26972,7 +27124,8 @@
     "frame_t": 8.299999999999999,
     "audio_start": 8.9,
     "audio_end": 10.1
-   }
+   },
+   "german": "bekennen; (Med.) preisen"
   },
   {
    "id": "gr-v10p-34",
@@ -26999,7 +27152,8 @@
     "frame_t": 25.7,
     "audio_start": 26.4,
     "audio_end": 27.25
-   }
+   },
+   "german": "erweisen, zeigen"
   },
   {
    "id": "gr-v10p-35",
@@ -27026,7 +27180,8 @@
     "frame_t": 28.9,
     "audio_start": 29.55,
     "audio_end": 30.4
-   }
+   },
+   "german": "herausfallen, abfallen"
   },
   {
    "id": "gr-v10p-36",
@@ -27053,7 +27208,8 @@
     "frame_t": 32.1,
     "audio_start": 32.7,
     "audio_end": 33.5
-   }
+   },
+   "german": "vorübergehen; vergehen"
   },
   {
    "id": "gr-v10p-38",
@@ -27080,7 +27236,8 @@
     "frame_t": 38.300000000000004,
     "audio_start": 39.1,
     "audio_end": 39.65
-   }
+   },
+   "german": "bedrängen, bedrücken"
   },
   {
    "id": "gr-v10p-40",
@@ -27107,7 +27264,8 @@
     "frame_t": 46.300000000000004,
     "audio_start": 47.05,
     "audio_end": 47.65
-   }
+   },
+   "german": "Raum haben, fassen; Raum geben"
   },
   {
    "id": "gr-v10p-41",
@@ -27134,7 +27292,8 @@
     "frame_t": 49.5,
     "audio_start": 50.2,
     "audio_end": 50.7
-   }
+   },
+   "german": "verehren"
   },
   {
    "id": "gr-v10p-44",
@@ -27161,7 +27320,8 @@
     "frame_t": 58.300000000000004,
     "audio_start": 58.75,
     "audio_end": 59.9
-   }
+   },
+   "german": "verlassen, im Stich lassen"
   },
   {
    "id": "gr-v10p-49",
@@ -27188,7 +27348,8 @@
     "frame_t": 75.7,
     "audio_start": 76.55,
     "audio_end": 77.45
-   }
+   },
+   "german": "absondern, aussondern"
   },
   {
    "id": "gr-v10p-50",
@@ -27215,7 +27376,8 @@
     "frame_t": 79.10000000000001,
     "audio_start": 79.5,
     "audio_end": 80.25
-   }
+   },
+   "german": "schmücken; ordnen"
   },
   {
    "id": "gr-v10p-51",
@@ -27242,7 +27404,8 @@
     "frame_t": 82.10000000000001,
     "audio_start": 82.8,
     "audio_end": 83.55
-   }
+   },
+   "german": "schweigen"
   },
   {
    "id": "gr-v10p-52",
@@ -27269,7 +27432,8 @@
     "frame_t": 85.3,
     "audio_start": 86.25,
     "audio_end": 86.8
-   }
+   },
+   "german": "stehen, feststehen"
   },
   {
    "id": "gr-v10p-53",
@@ -27296,7 +27460,8 @@
     "frame_t": 88.9,
     "audio_start": 89.75,
     "audio_end": 90.65
-   }
+   },
+   "german": "hinaufbringen; opfern"
   },
   {
    "id": "gr-v10p-55",
@@ -27323,7 +27488,8 @@
     "frame_t": 3.9000000000000004,
     "audio_start": 4.5,
     "audio_end": 5.5
-   }
+   },
+   "german": "vollenden, vollbringen"
   },
   {
    "id": "gr-v10p-64",
@@ -27350,7 +27516,8 @@
     "frame_t": 32.1,
     "audio_start": 32.85,
     "audio_end": 33.75
-   }
+   },
+   "german": "schlagen"
   },
   {
    "id": "gr-v10p-67",
@@ -27377,7 +27544,8 @@
     "frame_t": 41.900000000000006,
     "audio_start": 42.6,
     "audio_end": 43.8
-   }
+   },
+   "german": "festhalten an, beharren bei"
   },
   {
    "id": "gr-v10p-68",
@@ -27404,7 +27572,8 @@
     "frame_t": 45.1,
     "audio_start": 45.6,
     "audio_end": 46.25
-   }
+   },
+   "german": "es kümmert, liegt am Herzen"
   },
   {
    "id": "gr-v10p-69",
@@ -27431,7 +27600,8 @@
     "frame_t": 47.900000000000006,
     "audio_start": 48.7,
     "audio_end": 49.6
-   }
+   },
+   "german": "trauern, Leid tragen"
   },
   {
    "id": "gr-v10p-73",
@@ -27458,7 +27628,8 @@
     "frame_t": 60.1,
     "audio_start": 60.8,
     "audio_end": 61.65
-   }
+   },
+   "german": "wegnehmen, abhauen"
   },
   {
    "id": "gr-v10p-74",
@@ -27485,7 +27656,8 @@
     "frame_t": 63.1,
     "audio_start": 63.7,
     "audio_end": 64.5
-   }
+   },
+   "german": "entgegengehen, begegnen"
   },
   {
    "id": "gr-v10p-75",
@@ -27512,7 +27684,8 @@
     "frame_t": 66.3,
     "audio_start": 67.0,
     "audio_end": 67.8
-   }
+   },
+   "german": "beherbergen; befremden"
   },
   {
    "id": "gr-v10p-76",
@@ -27539,7 +27712,8 @@
     "frame_t": 69.3,
     "audio_start": 69.95,
     "audio_end": 70.7
-   }
+   },
+   "german": "schonen"
   },
   {
    "id": "gr-v10p-77",
@@ -27566,7 +27740,8 @@
     "frame_t": 71.9,
     "audio_start": 72.45,
     "audio_end": 73.25
-   }
+   },
+   "german": "sich streiten, sich besprechen"
   },
   {
    "id": "gr-v10p-78",
@@ -27593,7 +27768,8 @@
     "frame_t": 74.5,
     "audio_start": 75.35,
     "audio_end": 75.95
-   }
+   },
+   "german": "schlachten, hinschlachten"
   },
   {
    "id": "gr-v10p-79",
@@ -27620,7 +27796,8 @@
     "frame_t": 77.3,
     "audio_start": 78.1,
     "audio_end": 79.0
-   }
+   },
+   "german": "befehlen, gebieten"
   },
   {
    "id": "gr-n10p-01",
@@ -27647,7 +27824,8 @@
     "frame_t": 0.8999999999999999,
     "audio_start": 1.65,
     "audio_end": 2.6
-   }
+   },
+   "german": "die Erlösung"
   },
   {
    "id": "gr-n10p-02",
@@ -27674,7 +27852,8 @@
     "frame_t": 4.1,
     "audio_start": 4.95,
     "audio_end": 5.65
-   }
+   },
+   "german": "der Hurer, Unzüchtige"
   },
   {
    "id": "gr-n10p-06",
@@ -27701,7 +27880,8 @@
     "frame_t": 16.1,
     "audio_start": 16.55,
     "audio_end": 17.45
-   }
+   },
+   "german": "die Taube"
   },
   {
    "id": "gr-n10p-08",
@@ -27728,7 +27908,8 @@
     "frame_t": 21.3,
     "audio_start": 21.55,
     "audio_end": 22.05
-   }
+   },
+   "german": "das Leben; der Lebensunterhalt"
   },
   {
    "id": "gr-n10p-12",
@@ -27755,7 +27936,8 @@
     "frame_t": 31.099999999999998,
     "audio_start": 31.45,
     "audio_end": 32.25
-   }
+   },
+   "german": "der Teilhaber, Genosse"
   },
   {
    "id": "gr-n10p-14",
@@ -27782,7 +27964,8 @@
     "frame_t": 36.300000000000004,
     "audio_start": 36.6,
     "audio_end": 37.25
-   }
+   },
+   "german": "das Buch"
   },
   {
    "id": "gr-n10p-15",
@@ -27809,7 +27992,8 @@
     "frame_t": 38.900000000000006,
     "audio_start": 39.55,
     "audio_end": 40.15
-   }
+   },
+   "german": "der Irrtum, die Verführung"
   },
   {
    "id": "gr-n10p-17",
@@ -27836,7 +28020,8 @@
     "frame_t": 44.5,
     "audio_start": 44.9,
     "audio_end": 45.45
-   }
+   },
+   "german": "der Eid, Schwur"
   },
   {
    "id": "gr-n10p-19",
@@ -27863,7 +28048,8 @@
     "frame_t": 50.300000000000004,
     "audio_start": 50.9,
     "audio_end": 51.8
-   }
+   },
+   "german": "die Träne"
   },
   {
    "id": "gr-n10p-20",
@@ -27890,7 +28076,8 @@
     "frame_t": 53.7,
     "audio_start": 54.3,
     "audio_end": 55.3
-   }
+   },
+   "german": "der Allmächtige"
   },
   {
    "id": "gr-n10p-24",
@@ -27917,7 +28104,8 @@
     "frame_t": 66.3,
     "audio_start": 66.9,
     "audio_end": 68.05
-   }
+   },
+   "german": "die Unreinheit"
   },
   {
    "id": "gr-n10p-27",
@@ -27944,7 +28132,8 @@
     "frame_t": 76.10000000000001,
     "audio_start": 76.85,
     "audio_end": 77.45
-   }
+   },
+   "german": "die Lüge"
   },
   {
    "id": "gr-n10p-28",
@@ -27971,7 +28160,8 @@
     "frame_t": 79.5,
     "audio_start": 80.1,
     "audio_end": 80.85
-   }
+   },
+   "german": "die Sandale, der Schuh"
   },
   {
    "id": "gr-n10p-33",
@@ -27998,7 +28188,8 @@
     "frame_t": 6.7,
     "audio_start": 7.15,
     "audio_end": 7.75
-   }
+   },
+   "german": "die Güte, Freundlichkeit"
   },
   {
    "id": "gr-n10p-34",
@@ -28025,7 +28216,8 @@
     "frame_t": 9.299999999999999,
     "audio_start": 9.55,
     "audio_end": 10.05
-   }
+   },
+   "german": "der Hades, das Totenreich"
   },
   {
    "id": "gr-n10p-35",
@@ -28052,7 +28244,8 @@
     "frame_t": 11.899999999999999,
     "audio_start": 12.3,
     "audio_end": 12.85
-   }
+   },
+   "german": "das Tor"
   },
   {
    "id": "gr-n10p-36",
@@ -28079,7 +28272,8 @@
     "frame_t": 14.7,
     "audio_start": 15.4,
     "audio_end": 16.0
-   }
+   },
+   "german": "der Mitknecht"
   },
   {
    "id": "gr-n10p-37",
@@ -28106,7 +28300,8 @@
     "frame_t": 18.099999999999998,
     "audio_start": 18.6,
     "audio_end": 19.2
-   }
+   },
+   "german": "das Grundstück, Landgut"
   },
   {
    "id": "gr-n10p-39",
@@ -28133,7 +28328,8 @@
     "frame_t": 23.7,
     "audio_start": 24.05,
     "audio_end": 24.75
-   }
+   },
+   "german": "der Lügner"
   },
   {
    "id": "gr-n10p-47",
@@ -28160,7 +28356,8 @@
     "frame_t": 46.7,
     "audio_start": 47.2,
     "audio_end": 48.0
-   }
+   },
+   "german": "das Lager, die Kaserne; das Heer"
   },
   {
    "id": "gr-n10p-48",
@@ -28187,7 +28384,8 @@
     "frame_t": 49.900000000000006,
     "audio_start": 50.45,
     "audio_end": 51.25
-   }
+   },
+   "german": "der Verwalter, Haushalter"
   },
   {
    "id": "gr-n10p-55",
@@ -28214,7 +28412,8 @@
     "frame_t": 73.3,
     "audio_start": 73.95,
     "audio_end": 74.55
-   }
+   },
+   "german": "der Befehlshaber; der Tempelhauptmann"
   },
   {
    "id": "gr-n10p-57",
@@ -28241,7 +28440,8 @@
     "frame_t": 80.10000000000001,
     "audio_start": 80.5,
     "audio_end": 81.45
-   }
+   },
+   "german": "die Habsucht"
   },
   {
    "id": "gr-n10p-58",
@@ -28268,7 +28468,8 @@
     "frame_t": 83.3,
     "audio_start": 83.85,
     "audio_end": 84.6
-   }
+   },
+   "german": "die Verfolgung"
   },
   {
    "id": "gr-n10p-64",
@@ -28295,7 +28496,8 @@
     "frame_t": 6.1000000000000005,
     "audio_start": 6.6,
     "audio_end": 7.55
-   }
+   },
+   "german": "die Rechtsforderung, Satzung; die gerechte Tat"
   },
   {
    "id": "gr-n10p-67",
@@ -28322,7 +28524,8 @@
     "frame_t": 14.299999999999999,
     "audio_start": 14.95,
     "audio_end": 15.5
-   }
+   },
+   "german": "das Gold"
   },
   {
    "id": "gr-n10p-69",
@@ -28349,7 +28552,8 @@
     "frame_t": 20.5,
     "audio_start": 20.95,
     "audio_end": 21.9
-   }
+   },
+   "german": "der Herr, Gebieter"
   },
   {
    "id": "gr-n10p-71",
@@ -28376,7 +28580,8 @@
     "frame_t": 26.3,
     "audio_start": 26.75,
     "audio_end": 27.4
-   }
+   },
+   "german": "die Stärke, Kraft"
   },
   {
    "id": "gr-n10p-83",
@@ -28403,7 +28608,8 @@
     "frame_t": 64.7,
     "audio_start": 65.3,
     "audio_end": 66.1
-   }
+   },
+   "german": "der Gruß"
   },
   {
    "id": "gr-n10p-84",
@@ -28430,7 +28636,8 @@
     "frame_t": 67.7,
     "audio_start": 68.2,
     "audio_end": 69.0
-   }
+   },
+   "german": "die Heiligung"
   },
   {
    "id": "gr-n10p-87",
@@ -28457,7 +28664,8 @@
     "frame_t": 75.9,
     "audio_start": 76.45,
     "audio_end": 77.4
-   }
+   },
+   "german": "die Zügellosigkeit, Ausschweifung"
   }
  ]
 }
