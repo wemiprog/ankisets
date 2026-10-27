@@ -3,9 +3,10 @@
   python tools/build_deck.py build   <project> [--lang hebrew]      [--contact]  # fast: JSON + <project>/media/<lang>/ + fonts/ + tools/template/ -> per set + _all, each in 3 variants EN/DE/EN.wDE (no video access)
   python tools/build_deck.py extract <project> [--lang hebrew]      # only for entries whose image/audio file is missing: cut from entry's video
   python tools/build_deck.py init    <project> [--lang hebrew]      # one-time: config/*.json+.csv -> data/<lang>_words.json
-JSON: {"lang","root","dir","prefix","font","sets":[{freq,freq_tag}],"words":[{id,word,english,occurrences,rank,due,
+JSON: {"lang","root","root_de","dir","prefix","font","sets":[{freq,freq_tag}],"words":[{id,word,english,occurrences,rank,due,
  pos,pos_label,freq,freq_tag,image,audio,german,strongs,src:{video,crop,pad,frame_t,audio_start,audio_end}}]} sorted by occurrences desc.
 Deck: <root>::<freq>::<pos_label> (singular English: Noun, Verb, Adjective, Other, Proper Name; also shown on the back as POS, then Strong's); GUID guid_for(lang,id) (EN) / guid_for(lang,id,variant);
+DE variant: <root_de>::<freq>::<German POS> (Nomen, Verb, Adjektiv, Andere, Eigenname), German POS also on the back.
 Packages: <prefix>_<set>.<variant>.apkg + <prefix>_all.<variant>.apkg, variants EN, DE, EN.wDE (separate note types); model/deck IDs from stable names."""
 import csv, glob, unicodedata, hashlib, json, os, subprocess, sys, time, genanki
 from PIL import Image
@@ -34,6 +35,7 @@ def size_class(word):  # NFC chars; thresholds measured at 390px with Gentium Pl
 def tmpl(t, lang):
     return t if lang != "greek" else t.replace('<div class="word">', '<div class="word {{Size}}">', 1).replace('<div class="play">{{Audio}}</div></div>', '<div class="play">{{Audio}}</div></div>' + FIT_JS, 1)
 _models = {}
+POS_DE = {"Noun": "Nomen", "Verb": "Verb", "Adjective": "Adjektiv", "Other": "Andere", "Proper Name": "Eigenname"}  # DE variant: deck + card POS label
 VARIANTS = ("EN", "DE", "EN.wDE")  # back answer area: EN = English only (approved design); DE = German main + English small; EN.wDE = English main + German small
 def back_for(variant):
     if variant == "EN": return BACK
@@ -112,14 +114,15 @@ def package(d, words, out, sheet=True, variant="EN"):
     lang = d["lang"]; media = f"media/{lang}"; m = model_for(lang, d.get("dir", "ltr"), variant); decks = {}
     files = [os.path.join(FONTS, d["font"])] if d.get("font") else []
     for w in sorted(words, key=lambda w: w["due"]):
-        name = f"{d['root']}::{w['freq']}::{w['pos_label']}"
+        pos = POS_DE[w["pos_label"]] if variant == "DE" else w["pos_label"]
+        name = f"{d['root_de'] if variant == 'DE' else d['root']}::{w['freq']}::{pos}"
         deck = decks.setdefault(name, genanki.Deck(stable_id("deck:" + name), name))
         for f in (w["image"], w["audio"]):
             if not os.path.exists(f"{media}/{f}"): sys.exit(f"missing {media}/{f} - run: build_deck.py extract")
         if variant != "EN" and not w.get("german"): sys.exit(f"{w['id']}: no german gloss in JSON")
         deck.add_note(genanki.Note(model=m, guid=genanki.guid_for(lang, w["id"]) if variant == "EN" else genanki.guid_for(lang, w["id"], variant), due=w["due"],
             tags=[f"pos::{w['pos']}", f"freq::{w['freq_tag']}", f"lang::{lang}"],
-            fields=[w["word"], f"[sound:{w['audio']}]", f'<img src="{w["image"]}">', w["english"], str(w["occurrences"]), str(w["rank"])] + ([size_class(w["word"])] if lang == "greek" else []) + [w["pos_label"], w.get("strongs", ""), w.get("german", "")]))
+            fields=[w["word"], f"[sound:{w['audio']}]", f'<img src="{w["image"]}">', w["english"], str(w["occurrences"]), str(w["rank"])] + ([size_class(w["word"])] if lang == "greek" else []) + [pos, w.get("strongs", ""), w.get("german", "")]))
         files += [f"{media}/{w['image']}", f"{media}/{w['audio']}"]
     genanki.Package(list(decks.values()), media_files=files).write_to_file(out)
     if sheet and variant == "EN": contact([f"{media}/{w['image']}" for w in words], "out/" + os.path.basename(out).replace(".apkg", "_contact.png"))

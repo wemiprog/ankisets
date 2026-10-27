@@ -1,6 +1,7 @@
 {
  "lang": "greek",
  "root": "BibleGreek",
+ "root_de": "Bibel-Griechisch",
  "dir": "ltr",
  "prefix": "biblegreek",
  "font": "_GentiumPlus.ttf",

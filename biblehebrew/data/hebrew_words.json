@@ -1,6 +1,7 @@
 {
  "lang": "hebrew",
  "root": "BibleHebrew",
+ "root_de": "Bibel-Hebräisch",
  "dir": "rtl",
  "prefix": "biblehebrew",
  "font": "_EzraSIL.ttf",
