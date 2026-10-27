@@ -48,7 +48,8 @@
     "audio_end": "20.90"
    },
    "due": 1,
-   "rank": 1
+   "rank": 1,
+   "german": "und, auch, aber"
   },
   {
    "id": "he-o23968-ha",
@@ -75,7 +76,8 @@
     "audio_end": "20.33"
    },
    "due": 2,
-   "rank": 2
+   "rank": 2,
+   "german": "der, die, das (Artikel)"
   },
   {
    "id": "he-o20435-le",
@@ -102,7 +104,8 @@
     "audio_end": "33.29"
    },
    "due": 3,
-   "rank": 3
+   "rank": 3,
+   "german": "zu, nach, für"
   },
   {
    "id": "he-o15632-be",
@@ -129,7 +132,8 @@
     "audio_end": "21.66"
    },
    "due": 4,
-   "rank": 4
+   "rank": 4,
+   "german": "in, an, mit, durch"
   },
   {
    "id": "he-o10970-et",
@@ -156,7 +160,8 @@
     "audio_end": "25.09"
    },
    "due": 5,
-   "rank": 5
+   "rank": 5,
+   "german": "(Akkusativzeichen)"
   },
   {
    "id": "he-o7586-min",
@@ -183,7 +188,8 @@
     "audio_end": "28.53"
    },
    "due": 6,
-   "rank": 6
+   "rank": 6,
+   "german": "von, aus; mehr als"
   },
   {
    "id": "he-6877",
@@ -210,7 +216,8 @@
     "audio_end": "47.06"
    },
    "due": 7,
-   "rank": 7
+   "rank": 7,
+   "german": "der HERR, Jahwe"
   },
   {
    "id": "he-o5774-al",
@@ -237,7 +244,8 @@
     "audio_end": "51.15"
    },
    "due": 8,
-   "rank": 8
+   "rank": 8,
+   "german": "auf, über, gegen"
   },
   {
    "id": "he-o5518-el",
@@ -264,7 +272,8 @@
     "audio_end": "25.49"
    },
    "due": 9,
-   "rank": 9
+   "rank": 9,
+   "german": "zu, nach, hin zu"
   },
   {
    "id": "he-o5503-asher",
@@ -291,7 +300,8 @@
     "audio_end": "60.06"
    },
    "due": 10,
-   "rank": 10
+   "rank": 10,
+   "german": "der, die, das; welcher; dass"
   },
   {
    "id": "he-5415",
@@ -318,7 +328,8 @@
     "audio_end": "44.95"
    },
    "due": 11,
-   "rank": 11
+   "rank": 11,
+   "german": "all, ganz, jeder"
   },
   {
    "id": "he-v5317-amar",
@@ -345,7 +356,8 @@
     "audio_end": "23.26"
    },
    "due": 12,
-   "rank": 12
+   "rank": 12,
+   "german": "sagen, sprechen"
   },
   {
    "id": "he-o5188-lo",
@@ -372,7 +384,8 @@
     "audio_end": "77.33"
    },
    "due": 13,
-   "rank": 13
+   "rank": 13,
+   "german": "nicht, nein"
   },
   {
    "id": "he-4942",
@@ -399,7 +412,8 @@
     "audio_end": "55.08"
    },
    "due": 14,
-   "rank": 14
+   "rank": 14,
+   "german": "der Sohn"
   },
   {
    "id": "he-o4487-ki",
@@ -426,7 +440,8 @@
     "audio_end": "29.44"
    },
    "due": 15,
-   "rank": 15
+   "rank": 15,
+   "german": "denn, weil, dass; wenn"
   },
   {
    "id": "he-v3576-hayah",
@@ -453,7 +468,8 @@
     "audio_end": "26.94"
    },
    "due": 16,
-   "rank": 16
+   "rank": 16,
+   "german": "sein, werden, geschehen"
   },
   {
    "id": "he-o2910-ke",
@@ -480,7 +496,8 @@
     "audio_end": "7.74"
    },
    "due": 17,
-   "rank": 17
+   "rank": 17,
+   "german": "wie, gemäß"
   },
   {
    "id": "he-v2632-asah",
@@ -507,7 +524,8 @@
     "audio_end": "12.93"
    },
    "due": 18,
-   "rank": 18
+   "rank": 18,
+   "german": "machen, tun"
   },
   {
    "id": "he-2602",
@@ -534,7 +552,8 @@
     "audio_end": "62.93"
    },
    "due": 19,
-   "rank": 19
+   "rank": 19,
+   "german": "Gott"
   },
   {
    "id": "he-v2579-bo",
@@ -561,7 +580,8 @@
     "audio_end": "72.42"
    },
    "due": 20,
-   "rank": 20
+   "rank": 20,
+   "german": "kommen, hineingehen"
   },
   {
    "id": "he-2530",
@@ -588,7 +608,8 @@
     "audio_end": "35.78"
    },
    "due": 21,
-   "rank": 21
+   "rank": 21,
+   "german": "der König"
   },
   {
    "id": "he-n2507-yisrael",
@@ -615,7 +636,8 @@
     "audio_end": "45.09"
    },
    "due": 22,
-   "rank": 22
+   "rank": 22,
+   "german": "Israel"
   },
   {
    "id": "he-2505",
@@ -642,7 +664,8 @@
     "audio_end": "42.36"
    },
    "due": 23,
-   "rank": 23
+   "rank": 23,
+   "german": "das Land, die Erde"
   },
   {
    "id": "he-2303",
@@ -669,7 +692,8 @@
     "audio_end": "35.46"
    },
    "due": 24,
-   "rank": 24
+   "rank": 24,
+   "german": "der Tag"
   },
   {
    "id": "he-2187",
@@ -696,7 +720,8 @@
     "audio_end": "47.02"
    },
    "due": 25,
-   "rank": 25
+   "rank": 25,
+   "german": "der Mann, Ehemann; jeder"
   },
   {
    "id": "he-2128",
@@ -723,7 +748,8 @@
     "audio_end": "11.68"
    },
    "due": 26,
-   "rank": 26
+   "rank": 26,
+   "german": "das Angesicht, Gesicht"
   },
   {
    "id": "he-2046",
@@ -750,7 +776,8 @@
     "audio_end": "51.96"
    },
    "due": 27,
-   "rank": 27
+   "rank": 27,
+   "german": "das Haus"
   },
   {
    "id": "he-v2014-natan",
@@ -777,7 +804,8 @@
     "audio_end": "45.64"
    },
    "due": 28,
-   "rank": 28
+   "rank": 28,
+   "german": "geben"
   },
   {
    "id": "he-1867",
@@ -804,7 +832,8 @@
     "audio_end": "10.83"
    },
    "due": 29,
-   "rank": 29
+   "rank": 29,
+   "german": "das Volk"
   },
   {
    "id": "he-1627",
@@ -831,7 +860,8 @@
     "audio_end": "16.54"
    },
    "due": 30,
-   "rank": 30
+   "rank": 30,
+   "german": "die Hand; Macht"
   },
   {
    "id": "he-v1554-halakh",
@@ -858,7 +888,8 @@
     "audio_end": "49.69"
    },
    "due": 31,
-   "rank": 31
+   "rank": 31,
+   "german": "gehen, wandeln"
   },
   {
    "id": "he-1454",
@@ -885,7 +916,8 @@
     "audio_end": "88.21"
    },
    "due": 32,
-   "rank": 32
+   "rank": 32,
+   "german": "das Wort; die Sache"
   },
   {
    "id": "he-v1310-raah",
@@ -912,7 +944,8 @@
     "audio_end": "59.92"
    },
    "due": 33,
-   "rank": 33
+   "rank": 33,
+   "german": "sehen"
   },
   {
    "id": "he-o1263-ad",
@@ -939,7 +972,8 @@
     "audio_end": "81.65"
    },
    "due": 34,
-   "rank": 34
+   "rank": 34,
+   "german": "bis, bis zu"
   },
   {
    "id": "he-o1232-ani",
@@ -966,7 +1000,8 @@
     "audio_end": "17.18"
    },
    "due": 35,
-   "rank": 35
+   "rank": 35,
+   "german": "ich"
   },
   {
    "id": "he-1210",
@@ -993,7 +1028,8 @@
     "audio_end": "10.94"
    },
    "due": 36,
-   "rank": 36
+   "rank": 36,
+   "german": "der Vater"
   },
   {
    "id": "he-v1165-shama",
@@ -1020,7 +1056,8 @@
     "audio_end": "61.39"
    },
    "due": 37,
-   "rank": 37
+   "rank": 37,
+   "german": "hören; gehorchen"
   },
   {
    "id": "he-v1135-dibber",
@@ -1047,7 +1084,8 @@
     "audio_end": "23.46"
    },
    "due": 38,
-   "rank": 38
+   "rank": 38,
+   "german": "reden, sprechen (Pi.)"
   },
   {
    "id": "he-o1103-lifnei",
@@ -1074,7 +1112,8 @@
     "audio_end": "71.66"
    },
    "due": 39,
-   "rank": 39
+   "rank": 39,
+   "german": "vor, angesichts"
   },
   {
    "id": "he-1094",
@@ -1101,7 +1140,8 @@
     "audio_end": "7.98"
    },
    "due": 40,
-   "rank": 40
+   "rank": 40,
+   "german": "die Stadt"
   },
   {
    "id": "he-v1087-yashav",
@@ -1128,7 +1168,8 @@
     "audio_end": "15.38"
    },
    "due": 41,
-   "rank": 41
+   "rank": 41,
+   "german": "sitzen, wohnen"
   },
   {
    "id": "he-o1078-zeh",
@@ -1155,7 +1196,8 @@
     "audio_end": "6.91"
    },
    "due": 42,
-   "rank": 42
+   "rank": 42,
+   "german": "dieser (m.)"
   },
   {
    "id": "he-n1075-david",
@@ -1182,7 +1224,8 @@
     "audio_end": "22.59"
    },
    "due": 43,
-   "rank": 43
+   "rank": 43,
+   "german": "David"
   },
   {
    "id": "he-v1075-shuv",
@@ -1209,7 +1252,8 @@
     "audio_end": "16.22"
    },
    "due": 44,
-   "rank": 43
+   "rank": 43,
+   "german": "umkehren, zurückkehren"
   },
   {
    "id": "he-v1075-yatsa",
@@ -1236,7 +1280,8 @@
     "audio_end": "64.85"
    },
    "due": 45,
-   "rank": 43
+   "rank": 43,
+   "german": "hinausgehen, herauskommen"
   },
   {
    "id": "he-o1070-im",
@@ -1263,7 +1308,8 @@
     "audio_end": "46.00"
    },
    "due": 46,
-   "rank": 46
+   "rank": 46,
+   "german": "wenn, falls; ob"
   },
   {
    "id": "he-o1061-hinneh",
@@ -1290,7 +1336,8 @@
     "audio_end": "16.00"
    },
    "due": 47,
-   "rank": 47
+   "rank": 47,
+   "german": "siehe!"
   },
   {
    "id": "he-o1048-im",
@@ -1317,7 +1364,8 @@
     "audio_end": "51.64"
    },
    "due": 48,
-   "rank": 48
+   "rank": 48,
+   "german": "mit, bei"
   },
   {
    "id": "he-o1039-hu",
@@ -1344,7 +1392,8 @@
     "audio_end": "33.20"
    },
    "due": 49,
-   "rank": 49
+   "rank": 49,
+   "german": "er"
   },
   {
    "id": "he-a976-echad",
@@ -1371,7 +1420,8 @@
     "audio_end": "26.60"
    },
    "due": 50,
-   "rank": 50
+   "rank": 50,
+   "german": "eins, einer (m./f.)"
   },
   {
    "id": "he-v966-laqach",
@@ -1398,7 +1448,8 @@
     "audio_end": "49.00"
    },
    "due": 51,
-   "rank": 51
+   "rank": 51,
+   "german": "nehmen"
   },
   {
    "id": "he-v952-yada",
@@ -1425,7 +1476,8 @@
     "audio_end": "91.26"
    },
    "due": 52,
-   "rank": 52
+   "rank": 52,
+   "german": "erkennen, wissen"
   },
   {
    "id": "he-o898-et",
@@ -1452,7 +1504,8 @@
     "audio_end": "47.18"
    },
    "due": 53,
-   "rank": 53
+   "rank": 53,
+   "german": "mit, bei"
   },
   {
    "id": "he-896",
@@ -1479,7 +1532,8 @@
     "audio_end": "39.11"
    },
    "due": 54,
-   "rank": 54
+   "rank": 54,
+   "german": "das Auge; die Quelle"
   },
   {
    "id": "he-o894-ha-qamets",
@@ -1506,7 +1560,8 @@
     "audio_end": "36.71"
    },
    "due": 55,
-   "rank": 55
+   "rank": 55,
+   "german": "der, die, das (Artikel)"
   },
   {
    "id": "he-v894-alah",
@@ -1533,7 +1588,8 @@
     "audio_end": "6.56"
    },
    "due": 56,
-   "rank": 55
+   "rank": 55,
+   "german": "hinaufgehen, aufsteigen"
   },
   {
    "id": "he-879",
@@ -1560,7 +1616,8 @@
     "audio_end": "52.67"
    },
    "due": 57,
-   "rank": 57
+   "rank": 57,
+   "german": "das Jahr"
   },
   {
    "id": "he-864",
@@ -1587,7 +1644,8 @@
     "audio_end": "26.32"
    },
    "due": 58,
-   "rank": 58
+   "rank": 58,
+   "german": "der Name"
   },
   {
    "id": "he-853",
@@ -1614,7 +1672,8 @@
     "audio_end": "28.13"
    },
    "due": 59,
-   "rank": 59
+   "rank": 59,
+   "german": "das Herz; Sinn, Verstand"
   },
   {
    "id": "he-v847-shalach",
@@ -1641,7 +1700,8 @@
     "audio_end": "56.17"
    },
    "due": 60,
-   "rank": 60
+   "rank": 60,
+   "german": "senden, ausstrecken"
   },
   {
    "id": "he-v845-mut",
@@ -1668,7 +1728,8 @@
     "audio_end": "33.24"
    },
    "due": 61,
-   "rank": 61
+   "rank": 61,
+   "german": "sterben"
   },
   {
    "id": "he-o835-sham",
@@ -1695,7 +1756,8 @@
     "audio_end": "56.05"
    },
    "due": 62,
-   "rank": 62
+   "rank": 62,
+   "german": "dort, dorthin"
   },
   {
    "id": "he-n820-yehudah",
@@ -1722,7 +1784,8 @@
     "audio_end": "26.75"
    },
    "due": 63,
-   "rank": 63
+   "rank": 63,
+   "german": "Juda"
   },
   {
    "id": "he-v814-akhal",
@@ -1749,7 +1812,8 @@
     "audio_end": "37.76"
    },
    "due": 64,
-   "rank": 64
+   "rank": 64,
+   "german": "essen, verzehren"
   },
   {
    "id": "he-803",
@@ -1776,7 +1840,8 @@
     "audio_end": "2.39"
    },
    "due": 65,
-   "rank": 65
+   "rank": 65,
+   "german": "der Knecht, Diener"
   },
   {
    "id": "he-o790-ayin",
@@ -1803,7 +1868,8 @@
     "audio_end": "13.68"
    },
    "due": 66,
-   "rank": 66
+   "rank": 66,
+   "german": "nicht vorhanden, es gibt nicht"
   },
   {
    "id": "he-781",
@@ -1830,7 +1896,8 @@
     "audio_end": "25.90"
    },
    "due": 67,
-   "rank": 67
+   "rank": 67,
+   "german": "die Frau, Ehefrau"
   },
   {
    "id": "he-774",
@@ -1857,7 +1924,8 @@
     "audio_end": "83.09"
    },
    "due": 68,
-   "rank": 68
+   "rank": 68,
+   "german": "der Herr, Gebieter"
   },
   {
    "id": "he-a769-shnayim",
@@ -1884,7 +1952,8 @@
     "audio_end": "57.49"
    },
    "due": 69,
-   "rank": 69
+   "rank": 69,
+   "german": "zwei (m./f.)"
   },
   {
    "id": "he-o769-gam",
@@ -1911,7 +1980,8 @@
     "audio_end": "29.28"
    },
    "due": 70,
-   "rank": 69
+   "rank": 69,
+   "german": "auch, sogar"
   },
   {
    "id": "he-n763-moshe",
@@ -1938,7 +2008,8 @@
     "audio_end": "4.82"
    },
    "due": 71,
-   "rank": 71
+   "rank": 71,
+   "german": "Mose"
   },
   {
    "id": "he-757",
@@ -1965,7 +2036,8 @@
     "audio_end": "49.75"
    },
    "due": 72,
-   "rank": 72
+   "rank": 72,
+   "german": "die Seele, das Leben; die Kehle"
   },
   {
    "id": "he-o755-mah",
@@ -1992,7 +2064,8 @@
     "audio_end": "41.82"
    },
    "due": 73,
-   "rank": 73
+   "rank": 73,
+   "german": "was? wie?"
   },
   {
    "id": "he-o752-atah",
@@ -2019,7 +2092,8 @@
     "audio_end": "3.85"
    },
    "due": 74,
-   "rank": 74
+   "rank": 74,
+   "german": "du (m.)"
   },
   {
    "id": "he-750",
@@ -2046,7 +2120,8 @@
     "audio_end": "37.88"
    },
    "due": 75,
-   "rank": 75
+   "rank": 75,
+   "german": "der Priester"
   },
   {
    "id": "he-o748-ha-interr",
@@ -2073,7 +2148,8 @@
     "audio_end": "90.12"
    },
    "due": 76,
-   "rank": 76
+   "rank": 76,
+   "german": "(Fragepartikel)"
   },
   {
    "id": "he-o746-eleh",
@@ -2100,7 +2176,8 @@
     "audio_end": "73.54"
    },
    "due": 77,
-   "rank": 77
+   "rank": 77,
+   "german": "diese"
   },
   {
    "id": "he-o743-ken",
@@ -2127,7 +2204,8 @@
     "audio_end": "11.57"
    },
    "due": 78,
-   "rank": 78
+   "rank": 78,
+   "german": "so; recht, richtig"
   },
   {
    "id": "he-v736-qara",
@@ -2154,7 +2232,8 @@
     "audio_end": "57.41"
    },
    "due": 79,
-   "rank": 79
+   "rank": 79,
+   "german": "rufen, nennen; lesen"
   },
   {
    "id": "he-o729-al-neg",
@@ -2181,7 +2260,8 @@
     "audio_end": "24.37"
    },
    "due": 80,
-   "rank": 80
+   "rank": 80,
+   "german": "nicht (Verbot)"
   },
   {
    "id": "he-712",
@@ -2208,7 +2288,8 @@
     "audio_end": "34.05"
    },
    "due": 81,
-   "rank": 81
+   "rank": 81,
+   "german": "der Weg; Lebenswandel"
   },
   {
    "id": "he-n712-mitsrayim",
@@ -2235,7 +2316,8 @@
     "audio_end": "13.92"
    },
    "due": 82,
-   "rank": 81
+   "rank": 81,
+   "german": "Ägypten; Ägypter"
   },
   {
    "id": "he-o707-achar",
@@ -2262,7 +2344,8 @@
     "audio_end": "37.35"
    },
    "due": 83,
-   "rank": 83
+   "rank": 83,
+   "german": "hinter, nach"
   },
   {
    "id": "he-n667-yerushalayim",
@@ -2289,7 +2372,8 @@
     "audio_end": "48.75"
    },
    "due": 84,
-   "rank": 84
+   "rank": 84,
+   "german": "Jerusalem"
   },
   {
    "id": "he-v658-nasa",
@@ -2316,7 +2400,8 @@
     "audio_end": "88.04"
    },
    "due": 85,
-   "rank": 85
+   "rank": 85,
+   "german": "heben, tragen"
   },
   {
    "id": "he-629",
@@ -2343,7 +2428,8 @@
     "audio_end": "43.17"
    },
    "due": 86,
-   "rank": 86
+   "rank": 86,
+   "german": "der Bruder"
   },
   {
    "id": "he-v627-qum",
@@ -2370,7 +2456,8 @@
     "audio_end": "68.11"
    },
    "due": 87,
-   "rank": 87
+   "rank": 87,
+   "german": "aufstehen, sich erheben"
   },
   {
    "id": "he-o616-zot",
@@ -2397,7 +2484,8 @@
     "audio_end": "7.36"
    },
    "due": 88,
-   "rank": 88
+   "rank": 88,
+   "german": "diese (f.)"
   },
   {
    "id": "he-a606-shalosh",
@@ -2424,7 +2512,8 @@
     "audio_end": "63.39"
    },
    "due": 89,
-   "rank": 89
+   "rank": 89,
+   "german": "drei"
   },
   {
    "id": "he-600",
@@ -2451,7 +2540,8 @@
     "audio_end": "2.91"
    },
    "due": 90,
-   "rank": 90
+   "rank": 90,
+   "german": "das Haupt, der Kopf; Anfang"
   },
   {
    "id": "he-588",
@@ -2478,7 +2568,8 @@
     "audio_end": "6.62"
    },
    "due": 91,
-   "rank": 91
+   "rank": 91,
+   "german": "die Tochter"
   },
   {
    "id": "he-v588-sim",
@@ -2505,7 +2596,8 @@
     "audio_end": "84.11"
    },
    "due": 92,
-   "rank": 91
+   "rank": 91,
+   "german": "setzen, stellen, legen"
   },
   {
    "id": "he-a583-meah",
@@ -2532,7 +2624,8 @@
     "audio_end": "40.92"
    },
    "due": 93,
-   "rank": 93
+   "rank": 93,
+   "german": "hundert"
   },
   {
    "id": "he-583",
@@ -2559,7 +2652,8 @@
     "audio_end": "7.96"
    },
    "due": 94,
-   "rank": 93
+   "rank": 93,
+   "german": "das Wasser"
   },
   {
    "id": "he-o577-koh",
@@ -2586,7 +2680,8 @@
     "audio_end": "86.59"
    },
    "due": 95,
-   "rank": 95
+   "rank": 95,
+   "german": "so, hier"
   },
   {
    "id": "he-o563-hem",
@@ -2613,7 +2708,8 @@
     "audio_end": "77.51"
    },
    "due": 96,
-   "rank": 96
+   "rank": 96,
+   "german": "sie (m. Pl.)"
   },
   {
    "id": "he-560",
@@ -2640,7 +2736,8 @@
     "audio_end": "56.91"
    },
    "due": 97,
-   "rank": 97
+   "rank": 97,
+   "german": "das Volk, die Nation; Heiden"
   },
   {
    "id": "he-559",
@@ -2667,7 +2764,8 @@
     "audio_end": "73.17"
    },
    "due": 98,
-   "rank": 98
+   "rank": 98,
+   "german": "der Berg, das Gebirge"
   },
   {
    "id": "he-v554-avar",
@@ -2694,7 +2792,8 @@
     "audio_end": "41.84"
    },
    "due": 99,
-   "rank": 99
+   "rank": 99,
+   "german": "hinübergehen, vorübergehen; übertreten"
   },
   {
    "id": "he-545",
@@ -2721,7 +2820,8 @@
     "audio_end": "25.35"
    },
    "due": 100,
-   "rank": 100
+   "rank": 100,
+   "german": "der Mensch, die Menschheit"
   },
   {
    "id": "he-a527-gadol",
@@ -2748,7 +2848,8 @@
     "audio_end": "3.27"
    },
    "due": 101,
-   "rank": 101
+   "rank": 101,
+   "german": "groß"
   },
   {
    "id": "he-v524-amad",
@@ -2775,7 +2876,8 @@
     "audio_end": "69.10"
    },
    "due": 102,
-   "rank": 102
+   "rank": 102,
+   "german": "stehen, hintreten"
   },
   {
    "id": "he-o511-tachat",
@@ -2802,7 +2904,8 @@
     "audio_end": "67.08"
    },
    "due": 103,
-   "rank": 103
+   "rank": 103,
+   "german": "unter; anstatt"
   },
   {
    "id": "he-a508-chamesh",
@@ -2829,7 +2932,8 @@
     "audio_end": "9.73"
    },
    "due": 104,
-   "rank": 104
+   "rank": 104,
+   "german": "fünf"
   },
   {
    "id": "he-505",
@@ -2856,7 +2960,8 @@
     "audio_end": "22.01"
    },
    "due": 105,
-   "rank": 105
+   "rank": 105,
+   "german": "die Stimme; der Laut"
   },
   {
    "id": "he-o504-kaasher",
@@ -2883,7 +2988,8 @@
     "audio_end": "2.77"
    },
    "due": 106,
-   "rank": 106
+   "rank": 106,
+   "german": "wie, als"
   },
   {
    "id": "he-v501-nakhah",
@@ -2910,7 +3016,8 @@
     "audio_end": "37.19"
    },
    "due": 107,
-   "rank": 107
+   "rank": 107,
+   "german": "schlagen, erschlagen (Hi.)"
   },
   {
    "id": "he-498",
@@ -2937,7 +3044,8 @@
     "audio_end": "21.08"
    },
    "due": 108,
-   "rank": 108
+   "rank": 108,
+   "german": "der Mund"
   },
   {
    "id": "he-v496-tsivah",
@@ -2964,7 +3072,8 @@
     "audio_end": "19.55"
    },
    "due": 109,
-   "rank": 109
+   "rank": 109,
+   "german": "gebieten, befehlen (Pi.)"
   },
   {
    "id": "he-v495-yalad",
@@ -2991,7 +3100,8 @@
     "audio_end": "34.41"
    },
    "due": 110,
-   "rank": 110
+   "rank": 110,
+   "german": "gebären; zeugen"
   },
   {
    "id": "he-a494-elef",
@@ -3018,7 +3128,8 @@
     "audio_end": "74.09"
    },
    "due": 111,
-   "rank": 111
+   "rank": 111,
+   "german": "tausend; die Sippe"
   },
   {
    "id": "he-a492-eser",
@@ -3045,7 +3156,8 @@
     "audio_end": "36.21"
    },
    "due": 112,
-   "rank": 112
+   "rank": 112,
+   "german": "zehn"
   },
   {
    "id": "he-o491-od",
@@ -3072,7 +3184,8 @@
     "audio_end": "32.73"
    },
    "due": 113,
-   "rank": 113
+   "rank": 113,
+   "german": "noch, wieder"
   },
   {
    "id": "he-o490-hi",
@@ -3099,7 +3212,8 @@
     "audio_end": "69.29"
    },
    "due": 114,
-   "rank": 114
+   "rank": 114,
+   "german": "sie (f. Sg.)"
   },
   {
    "id": "he-486",
@@ -3126,7 +3240,8 @@
     "audio_end": "63.30"
    },
    "due": 115,
-   "rank": 115
+   "rank": 115,
+   "german": "das Heer; der Kriegsdienst"
   },
   {
    "id": "he-470",
@@ -3153,7 +3268,8 @@
     "audio_end": "55.16"
    },
    "due": 116,
-   "rank": 116
+   "rank": 116,
+   "german": "das Heilige, die Heiligkeit"
   },
   {
    "id": "he-v469-shamar",
@@ -3180,7 +3296,8 @@
     "audio_end": "9.80"
    },
    "due": 117,
-   "rank": 117
+   "rank": 117,
+   "german": "bewahren, behüten, halten"
   },
   {
    "id": "he-a465-arba",
@@ -3207,7 +3324,8 @@
     "audio_end": "46.85"
    },
    "due": 118,
-   "rank": 118
+   "rank": 118,
+   "german": "vier"
   },
   {
    "id": "he-v457-matsa",
@@ -3234,7 +3352,8 @@
     "audio_end": "30.79"
    },
    "due": 119,
-   "rank": 119
+   "rank": 119,
+   "german": "finden, antreffen"
   },
   {
    "id": "he-440",
@@ -3261,7 +3380,8 @@
     "audio_end": "21.13"
    },
    "due": 120,
-   "rank": 120
+   "rank": 120,
+   "german": "die Ewigkeit, ferne Zeit"
   },
   {
    "id": "he-o435-atah",
@@ -3288,7 +3408,8 @@
     "audio_end": "2.93"
    },
    "due": 121,
-   "rank": 121
+   "rank": 121,
+   "german": "jetzt, nun"
   },
   {
    "id": "he-v435-nafal",
@@ -3315,7 +3436,8 @@
     "audio_end": "29.44"
    },
    "due": 122,
-   "rank": 121
+   "rank": 121,
+   "german": "fallen"
   },
   {
    "id": "he-o424-mi",
@@ -3342,7 +3464,8 @@
     "audio_end": "41.34"
    },
    "due": 123,
-   "rank": 123
+   "rank": 123,
+   "german": "wer?"
   },
   {
    "id": "he-424",
@@ -3369,7 +3492,8 @@
     "audio_end": "68.08"
    },
    "due": 124,
-   "rank": 123
+   "rank": 123,
+   "german": "das Recht, Gericht; der Brauch"
   },
   {
    "id": "he-a422-rav",
@@ -3396,7 +3520,8 @@
     "audio_end": "30.72"
    },
    "due": 125,
-   "rank": 125
+   "rank": 125,
+   "german": "viel, groß; der Oberste"
   },
   {
    "id": "he-421-sar",
@@ -3423,7 +3548,8 @@
     "audio_end": "54.55"
    },
    "due": 126,
-   "rank": 126
+   "rank": 126,
+   "german": "der Fürst, Oberste"
   },
   {
    "id": "he-421-shamayim",
@@ -3450,7 +3576,8 @@
     "audio_end": "12.01"
    },
    "due": 127,
-   "rank": 126
+   "rank": 126,
+   "german": "der Himmel"
   },
   {
    "id": "he-420",
@@ -3477,7 +3604,8 @@
     "audio_end": "50.44"
    },
    "due": 128,
-   "rank": 128
+   "rank": 128,
+   "german": "die Mitte"
   },
   {
    "id": "he-413",
@@ -3504,7 +3632,8 @@
     "audio_end": "15.97"
    },
    "due": 129,
-   "rank": 129
+   "rank": 129,
+   "german": "das Schwert"
   },
   {
    "id": "he-o409-bein",
@@ -3531,7 +3660,8 @@
     "audio_end": "56.29"
    },
    "due": 130,
-   "rank": 130
+   "rank": 130,
+   "german": "zwischen"
   },
   {
    "id": "he-n406-shaul",
@@ -3558,7 +3688,8 @@
     "audio_end": "8.50"
    },
    "due": 131,
-   "rank": 131
+   "rank": 131,
+   "german": "Saul"
   },
   {
    "id": "he-o405-na",
@@ -3585,7 +3716,8 @@
     "audio_end": "36.71"
    },
    "due": 132,
-   "rank": 132
+   "rank": 132,
+   "german": "doch, bitte"
   },
   {
    "id": "he-403",
@@ -3612,7 +3744,8 @@
     "audio_end": "45.26"
    },
    "due": 133,
-   "rank": 133
+   "rank": 133,
+   "german": "das Silber, Geld"
   },
   {
    "id": "he-403-mizbeach",
@@ -3639,7 +3772,8 @@
     "audio_end": "77.94"
    },
    "due": 134,
-   "rank": 133
+   "rank": 133,
+   "german": "der Altar"
   },
   {
    "id": "he-a402-sheva",
@@ -3666,7 +3800,8 @@
     "audio_end": "20.91"
    },
    "due": 135,
-   "rank": 135
+   "rank": 135,
+   "german": "sieben"
   },
   {
    "id": "he-401",
@@ -3693,7 +3828,8 @@
     "audio_end": "20.97"
    },
    "due": 136,
-   "rank": 136
+   "rank": 136,
+   "german": "der Ort, die Stätte"
   },
   {
    "id": "he-396",
@@ -3720,7 +3856,8 @@
     "audio_end": "80.67"
    },
    "due": 137,
-   "rank": 137
+   "rank": 137,
+   "german": "das Meer; der Westen"
   },
   {
    "id": "he-389",
@@ -3747,7 +3884,8 @@
     "audio_end": "15.97"
    },
    "due": 138,
-   "rank": 138
+   "rank": 138,
+   "german": "das Gold"
   },
   {
    "id": "he-v382-yarad",
@@ -3774,7 +3912,8 @@
     "audio_end": "77.73"
    },
    "due": 139,
-   "rank": 139
+   "rank": 139,
+   "german": "hinabsteigen, herabkommen"
   },
   {
    "id": "he-377",
@@ -3801,7 +3940,8 @@
     "audio_end": "46.19"
    },
    "due": 140,
-   "rank": 140
+   "rank": 140,
+   "german": "das Feuer"
   },
   {
    "id": "he-v377-banah",
@@ -3828,7 +3968,8 @@
     "audio_end": "11.95"
    },
    "due": 141,
-   "rank": 140
+   "rank": 140,
+   "german": "bauen"
   },
   {
    "id": "he-376",
@@ -3855,7 +3996,8 @@
     "audio_end": "40.53"
    },
    "due": 142,
-   "rank": 142
+   "rank": 142,
+   "german": "der Spruch (des HERRN)"
   },
   {
    "id": "he-a373-tov",
@@ -3882,7 +4024,8 @@
     "audio_end": "51.34"
    },
    "due": 143,
-   "rank": 143
+   "rank": 143,
+   "german": "gut, schön"
   },
   {
    "id": "he-373",
@@ -3909,7 +4052,8 @@
     "audio_end": "37.28"
    },
    "due": 144,
-   "rank": 143
+   "rank": 143,
+   "german": "das Tor"
   },
   {
    "id": "he-v371-nagad",
@@ -3936,7 +4080,8 @@
     "audio_end": "71.43"
    },
    "due": 145,
-   "rank": 145
+   "rank": 145,
+   "german": "mitteilen, verkünden (Hi.)"
   },
   {
    "id": "he-363",
@@ -3963,7 +4108,8 @@
     "audio_end": "42.20"
    },
    "due": 146,
-   "rank": 146
+   "rank": 146,
+   "german": "der Geist, Wind, Atem"
   },
   {
    "id": "he-361",
@@ -3990,7 +4136,8 @@
     "audio_end": "76.16"
    },
    "due": 147,
-   "rank": 147
+   "rank": 147,
+   "german": "das Blut"
   },
   {
    "id": "he-a358-ra",
@@ -4017,7 +4164,8 @@
     "audio_end": "68.28"
    },
    "due": 148,
-   "rank": 148
+   "rank": 148,
+   "german": "schlecht, böse"
   },
   {
    "id": "he-n350-levi",
@@ -4044,7 +4192,8 @@
     "audio_end": "61.65"
    },
    "due": 149,
-   "rank": 149
+   "rank": 149,
+   "german": "Levi; Levit"
   },
   {
    "id": "he-v350-malakh",
@@ -4071,7 +4220,8 @@
     "audio_end": "53.37"
    },
    "due": 150,
-   "rank": 149
+   "rank": 149,
+   "german": "König sein, herrschen"
   },
   {
    "id": "he-n349-yaakov",
@@ -4098,7 +4248,8 @@
     "audio_end": "31.60"
    },
    "due": 151,
-   "rank": 151
+   "rank": 151,
+   "german": "Jakob"
   },
   {
    "id": "he-348",
@@ -4125,7 +4276,8 @@
     "audio_end": "40.44"
    },
    "due": 152,
-   "rank": 152
+   "rank": 152,
+   "german": "das Zelt"
   },
   {
    "id": "he-n347-aharon",
@@ -4152,7 +4304,8 @@
     "audio_end": "53.25"
    },
    "due": 153,
-   "rank": 153
+   "rank": 153,
+   "german": "Aaron"
   },
   {
    "id": "he-o347-di",
@@ -4179,7 +4332,8 @@
     "audio_end": "85.95"
    },
    "due": 154,
-   "rank": 153
+   "rank": 153,
+   "german": "der, welcher; dass (aram.)"
   },
   {
    "id": "he-o338-saviv",
@@ -4206,7 +4360,8 @@
     "audio_end": "64.32"
    },
    "due": 155,
-   "rank": 155
+   "rank": 155,
+   "german": "ringsum, rings umher"
   },
   {
    "id": "he-330",
@@ -4233,7 +4388,8 @@
     "audio_end": "31.14"
    },
    "due": 156,
-   "rank": 156
+   "rank": 156,
+   "german": "der Baum; das Holz"
   },
   {
    "id": "he-v327-barakh",
@@ -4260,7 +4416,8 @@
     "audio_end": "80.93"
    },
    "due": 157,
-   "rank": 157
+   "rank": 157,
+   "german": "segnen; preisen (Pi.)"
   },
   {
    "id": "he-325",
@@ -4287,7 +4444,8 @@
     "audio_end": "2.34"
    },
    "due": 158,
-   "rank": 158
+   "rank": 158,
+   "german": "das Gerät, Gefäß; die Waffe"
   },
   {
    "id": "he-o321-o",
@@ -4314,7 +4472,8 @@
     "audio_end": "17.71"
    },
    "due": 159,
-   "rank": 159
+   "rank": 159,
+   "german": "oder"
   },
   {
    "id": "he-321",
@@ -4341,7 +4500,8 @@
     "audio_end": "26.68"
    },
    "due": 160,
-   "rank": 159
+   "rank": 159,
+   "german": "das Feld"
   },
   {
    "id": "he-319",
@@ -4368,7 +4528,8 @@
     "audio_end": "50.58"
    },
    "due": 161,
-   "rank": 161
+   "rank": 161,
+   "german": "der Krieg, Kampf"
   },
   {
    "id": "he-v318-yare",
@@ -4395,7 +4556,8 @@
     "audio_end": "3.29"
    },
    "due": 162,
-   "rank": 162
+   "rank": 162,
+   "german": "sich fürchten, Ehrfurcht haben"
   },
   {
    "id": "he-317",
@@ -4422,7 +4584,8 @@
     "audio_end": "5.51"
    },
    "due": 163,
-   "rank": 163
+   "rank": 163,
+   "german": "der Prophet"
   },
   {
    "id": "he-v317-anah",
@@ -4449,7 +4612,8 @@
     "audio_end": "44.94"
    },
    "due": 164,
-   "rank": 163
+   "rank": 163,
+   "german": "antworten"
   },
   {
    "id": "he-311",
@@ -4476,7 +4640,8 @@
     "audio_end": "17.48"
    },
    "due": 165,
-   "rank": 165
+   "rank": 165,
+   "german": "das Böse, Unheil"
   },
   {
    "id": "he-304",
@@ -4503,7 +4668,8 @@
     "audio_end": "15.66"
    },
    "due": 166,
-   "rank": 166
+   "rank": 166,
+   "german": "die Sippe, das Geschlecht"
   },
   {
    "id": "he-v304-paqad",
@@ -4530,7 +4696,8 @@
     "audio_end": "2.52"
    },
    "due": 167,
-   "rank": 166
+   "rank": 166,
+   "german": "heimsuchen, mustern; bestellen"
   },
   {
    "id": "he-o298-meod",
@@ -4557,7 +4724,8 @@
     "audio_end": "82.38"
    },
    "due": 168,
-   "rank": 168
+   "rank": 168,
+   "german": "sehr"
   },
   {
    "id": "he-298-chattat",
@@ -4584,7 +4752,8 @@
     "audio_end": "26.06"
    },
    "due": 169,
-   "rank": 168
+   "rank": 168,
+   "german": "die Sünde; das Sündopfer"
   },
   {
    "id": "he-298-lechem",
@@ -4611,7 +4780,8 @@
     "audio_end": "32.86"
    },
    "due": 170,
-   "rank": 168
+   "rank": 168,
+   "german": "das Brot, die Speise"
   },
   {
    "id": "he-v298-sur",
@@ -4638,7 +4808,8 @@
     "audio_end": "41.07"
    },
    "due": 171,
-   "rank": 168
+   "rank": 168,
+   "german": "weichen, abweichen; (Hi.) entfernen"
   },
   {
    "id": "he-296",
@@ -4665,7 +4836,8 @@
     "audio_end": "30.33"
    },
    "due": 172,
-   "rank": 172
+   "rank": 172,
+   "german": "die Zeit"
   },
   {
    "id": "he-n293-shlomo",
@@ -4692,7 +4864,8 @@
     "audio_end": "18.32"
    },
    "due": 173,
-   "rank": 173
+   "rank": 173,
+   "german": "Salomo"
   },
   {
    "id": "he-n290-plishti",
@@ -4719,7 +4892,8 @@
     "audio_end": "41.14"
    },
    "due": 174,
-   "rank": 174
+   "rank": 174,
+   "german": "Philister"
   },
   {
    "id": "he-v290-chazaq",
@@ -4746,7 +4920,8 @@
     "audio_end": "64.34"
    },
    "due": 175,
-   "rank": 174
+   "rank": 174,
+   "german": "stark sein; (Hi.) ergreifen"
   },
   {
    "id": "he-v289-karat",
@@ -4773,7 +4948,8 @@
     "audio_end": "19.82"
    },
    "due": 176,
-   "rank": 176
+   "rank": 176,
+   "german": "abschneiden, ausrotten; (Bund) schließen"
   },
   {
    "id": "he-v289-avad",
@@ -4800,7 +4976,8 @@
     "audio_end": "3.49"
    },
    "due": 177,
-   "rank": 176
+   "rank": 176,
+   "german": "dienen, arbeiten"
   },
   {
    "id": "he-n288-bavel",
@@ -4827,7 +5004,8 @@
     "audio_end": "35.88"
    },
    "due": 178,
-   "rank": 178
+   "rank": 178,
+   "german": "Babel, Babylon"
   },
   {
    "id": "he-288",
@@ -4854,7 +5032,8 @@
     "audio_end": "50.35"
    },
    "due": 179,
-   "rank": 178
+   "rank": 178,
+   "german": "das Brandopfer"
   },
   {
    "id": "he-v287-chayah",
@@ -4881,7 +5060,8 @@
     "audio_end": "52.70"
    },
    "due": 180,
-   "rank": 180
+   "rank": 180,
+   "german": "leben, am Leben bleiben"
   },
   {
    "id": "he-284-berit",
@@ -4908,7 +5088,8 @@
     "audio_end": "85.98"
    },
    "due": 181,
-   "rank": 181
+   "rank": 181,
+   "german": "der Bund"
   },
   {
    "id": "he-284-oyev",
@@ -4935,7 +5116,8 @@
     "audio_end": "21.88"
    },
    "due": 182,
-   "rank": 181
+   "rank": 181,
+   "german": "der Feind"
   },
   {
    "id": "he-o283-atem",
@@ -4962,7 +5144,8 @@
     "audio_end": "62.23"
    },
    "due": 183,
-   "rank": 183
+   "rank": 183,
+   "german": "ihr (m./f.)"
   },
   {
    "id": "he-283",
@@ -4989,7 +5172,8 @@
     "audio_end": "58.01"
    },
    "due": 184,
-   "rank": 183
+   "rank": 183,
+   "german": "der Neumond, Monat"
   },
   {
    "id": "he-v280-qarav",
@@ -5016,7 +5200,8 @@
     "audio_end": "74.59"
    },
    "due": 185,
-   "rank": 185
+   "rank": 185,
+   "german": "sich nähern, herantreten"
   },
   {
    "id": "he-277",
@@ -5043,7 +5228,8 @@
     "audio_end": "17.61"
    },
    "due": 186,
-   "rank": 186
+   "rank": 186,
+   "german": "die Nase; der Zorn"
   },
   {
    "id": "he-n274-paroh",
@@ -5070,7 +5256,8 @@
     "audio_end": "57.19"
    },
    "due": 187,
-   "rank": 187
+   "rank": 187,
+   "german": "der Pharao"
   },
   {
    "id": "he-a120p-274-shesh",
@@ -5124,7 +5311,8 @@
     "audio_end": "61.65"
    },
    "due": 189,
-   "rank": 187
+   "rank": 187,
+   "german": "das Kleinvieh, die Schafe"
   },
   {
    "id": "he-o272-lemaan",
@@ -5151,7 +5339,8 @@
     "audio_end": "11.17"
    },
    "due": 190,
-   "rank": 190
+   "rank": 190,
+   "german": "um … willen, damit"
   },
   {
    "id": "he-272",
@@ -5178,7 +5367,8 @@
     "audio_end": "43.11"
    },
    "due": 191,
-   "rank": 190
+   "rank": 190,
+   "german": "der Stein"
   },
   {
    "id": "he-270-midbar",
@@ -5205,7 +5395,8 @@
     "audio_end": "3.29"
    },
    "due": 192,
-   "rank": 192
+   "rank": 192,
+   "german": "die Wüste, Steppe"
   },
   {
    "id": "he-270-basar",
@@ -5232,7 +5423,8 @@
     "audio_end": "59.01"
    },
    "due": 193,
-   "rank": 192
+   "rank": 192,
+   "german": "das Fleisch"
   },
   {
    "id": "he-268",
@@ -5259,7 +5451,8 @@
     "audio_end": "32.13"
    },
    "due": 194,
-   "rank": 194
+   "rank": 194,
+   "german": "das Leben; lebendig"
   },
   {
    "id": "he-a264-rasha",
@@ -5286,7 +5479,8 @@
     "audio_end": "15.51"
    },
    "due": 195,
-   "rank": 195
+   "rank": 195,
+   "german": "schuldig, gottlos, frevelhaft"
   },
   {
    "id": "he-252",
@@ -5313,7 +5507,8 @@
     "audio_end": "20.89"
    },
    "due": 196,
-   "rank": 196
+   "rank": 196,
+   "german": "der Stab; der Stamm"
   },
   {
    "id": "he-251",
@@ -5340,7 +5535,8 @@
     "audio_end": "6.91"
    },
    "due": 197,
-   "rank": 197
+   "rank": 197,
+   "german": "der Fuß"
   },
   {
    "id": "he-250",
@@ -5367,7 +5563,8 @@
     "audio_end": "10.78"
    },
    "due": 198,
-   "rank": 198
+   "rank": 198,
+   "german": "die Elle; der Unterarm"
   },
   {
    "id": "he-v250-male",
@@ -5394,7 +5591,8 @@
     "audio_end": "8.02"
    },
    "due": 199,
-   "rank": 198
+   "rank": 198,
+   "german": "voll sein, füllen, erfüllen"
   },
   {
    "id": "he-nn120p-249-chesed",
