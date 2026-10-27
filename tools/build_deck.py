@@ -6,7 +6,7 @@
 JSON: {"lang","root","dir","prefix","font","sets":[{freq,freq_tag}],"words":[{id,word,english,occurrences,rank,due,
  pos,pos_label,freq,freq_tag,image,audio,src:{video,crop,pad,frame_t,audio_start,audio_end}}]} sorted by occurrences desc.
 Deck: <root>::<freq>::<pos_label>; GUID guid_for(lang,id); model/deck IDs from stable names."""
-import csv, glob, hashlib, json, os, subprocess, sys, time, genanki
+import csv, glob, unicodedata, hashlib, json, os, subprocess, sys, time, genanki
 from PIL import Image
 TOOLS = os.path.dirname(os.path.abspath(__file__)); REPO = os.path.dirname(TOOLS)
 PROJ = next((a for a in sys.argv[2:] if not a.startswith("-") and os.path.isdir(os.path.join(REPO, a))), "biblehebrew")
@@ -21,15 +21,25 @@ FONTS = os.path.join(REPO, "fonts")
 WORDFONT = {  # lang -> (@font-face rule, .word font-family list)
     "hebrew": ('@font-face{font-family:EzraSIL;src:url("_EzraSIL.ttf")}', "'EzraSIL','Ezra SIL','SBL Hebrew','Times New Roman',serif"),
     "greek": ('@font-face{font-family:GentiumPlus;src:url("_GentiumPlus.ttf")}', "'GentiumPlus','Gentium Plus','Times New Roman',serif")}
-EXTRA_CSS = {"greek": "\n.word{font-size:1.5em}.en{font-size:1.1em}@media (max-width:480px){.word{font-size:1.5em}.en{font-size:1.1em}.enbox{padding:22px 24px}}"}  # Greek word 1.5em (fits ~390px); English 1.1em (Michi); boxes equal height
+# Greek: word 2.0em, shrunk per card by character count (Size field -> class), JS refines (never below 1.4em); English 1.5em
+EXTRA_CSS = {"greek": "\n.word{font-size:2em}.word.len-l{font-size:1.8em}.word.len-xl{font-size:1.5em}.word.len-xxl{font-size:1.4em}.en{font-size:1.5em}"
+    "@media (max-width:480px){.word{font-size:2em}.word.len-l{font-size:1.8em}.word.len-xl{font-size:1.5em}.word.len-xxl{font-size:1.4em}.en{font-size:1.5em}.enbox{padding:22px 24px}}"}
+FIT_JS = ('<script>(function(){var e=document.querySelector(".word");if(!e)return;function f(){var base=parseFloat(getComputedStyle(e.parentNode).fontSize),i=0;'
+          'while(i++<12&&e.getBoundingClientRect().height>parseFloat(getComputedStyle(e).lineHeight)*1.4){var px=parseFloat(getComputedStyle(e).fontSize)*0.95;if(px<base*1.4)px=base*1.4;e.style.fontSize=px+"px";if(px<=base*1.4)break}}'
+          'if(document.fonts&&document.fonts.ready)document.fonts.ready.then(f);else f()})()</script>')  # shrink only if still wrapping; floor 1.4em
+def size_class(word):  # NFC chars; thresholds measured at 390px with Gentium Plus
+    n = len(unicodedata.normalize("NFC", word))
+    return "" if n <= 17 else "len-l" if n <= 19 else "len-xl" if n <= 22 else "len-xxl"
+def tmpl(t, lang):
+    return t if lang != "greek" else t.replace('<div class="word">', '<div class="word {{Size}}">', 1).replace('<div class="play">{{Audio}}</div></div>', '<div class="play">{{Audio}}</div></div>' + FIT_JS, 1)
 _models = {}
 def model_for(lang, direction):
     face, fam = WORDFONT[lang]
     if lang not in _models:
         _models[lang] = genanki.Model(stable_id("model:" + lang), f"Vocab ({lang})",
-          fields=[{"name": n} for n in ["Word", "Audio", "Image", "English", "Occurrences", "Rank"]],
+          fields=[{"name": n} for n in ["Word", "Audio", "Image", "English", "Occurrences", "Rank"] + (["Size"] if lang == "greek" else [])],
           templates=[{"name": "Word → Meaning",
-            "qfmt": FRONT, "afmt": BACK}], css=CSS.replace("__DIR__", direction).replace("__FONTFACE__", face).replace("__WORDFONT__", fam) + EXTRA_CSS.get(lang, ""))
+            "qfmt": tmpl(FRONT, lang), "afmt": tmpl(BACK, lang)}], css=CSS.replace("__DIR__", direction).replace("__FONTFACE__", face).replace("__WORDFONT__", fam) + EXTRA_CSS.get(lang, ""))
     return _models[lang]
 
 def arg(name, default):
@@ -97,7 +107,7 @@ def package(d, words, out, sheet=True):
             if not os.path.exists(f"{media}/{f}"): sys.exit(f"missing {media}/{f} - run: build_deck.py extract")
         deck.add_note(genanki.Note(model=m, guid=genanki.guid_for(lang, w["id"]), due=w["due"],
             tags=[f"pos::{w['pos']}", f"freq::{w['freq_tag']}", f"lang::{lang}"],
-            fields=[w["word"], f"[sound:{w['audio']}]", f'<img src="{w["image"]}">', w["english"], str(w["occurrences"]), str(w["rank"])]))
+            fields=[w["word"], f"[sound:{w['audio']}]", f'<img src="{w["image"]}">', w["english"], str(w["occurrences"]), str(w["rank"])] + ([size_class(w["word"])] if lang == "greek" else [])))
         files += [f"{media}/{w['image']}", f"{media}/{w['audio']}"]
     genanki.Package(list(decks.values()), media_files=files).write_to_file(out)
     if sheet: contact([f"{media}/{w['image']}" for w in words], "out/" + os.path.basename(out).replace(".apkg", "_contact.png"))
