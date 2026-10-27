@@ -11,7 +11,7 @@ Status: **all items resolved** (Michi, 27.10.2026). The German is stored in the 
 | פָּקַד | H6485 | sich kümmern um, heimsuchen; mustern; einsetzen | proposal kept |
 | מִשְׁכָּן | H4908 | die Wohnung; die Stiftshütte | as in round 1 |
 | תְּרוּמָה | H8641 | die Abgabe, das Hebopfer | proposal kept |
-| פָּרַר | H6565 | brechen, aufheben (Hi.); (einen Bund) brechen | „(einen Bund) brechen“ added; English stays as in the source |
+| פָּרַר | H6565 | (Hi.) aufheben; (einen Bund) brechen | shortened to avoid „brechen“ twice; English stays as in the source |
 | עֵדוּת; עֵדָה² | H5715 | das Zeugnis; die Bezeugung | proposal kept |
 
 ## Resolved, round 2: Hebrew Strong's
