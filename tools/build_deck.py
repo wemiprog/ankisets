@@ -21,6 +21,7 @@ FONTS = os.path.join(REPO, "fonts")
 WORDFONT = {  # lang -> (@font-face rule, .word font-family list)
     "hebrew": ('@font-face{font-family:EzraSIL;src:url("_EzraSIL.ttf")}', "'EzraSIL','Ezra SIL','SBL Hebrew','Times New Roman',serif"),
     "greek": ('@font-face{font-family:GentiumPlus;src:url("_GentiumPlus.ttf")}', "'GentiumPlus','Gentium Plus','Times New Roman',serif")}
+EXTRA_CSS = {"greek": "\n.word{font-size:1.6em}@media (max-width:480px){.word{font-size:1.6em}}"}  # long dictionary forms fit one line at ~390px
 _models = {}
 def model_for(lang, direction):
     face, fam = WORDFONT[lang]
@@ -28,7 +29,7 @@ def model_for(lang, direction):
         _models[lang] = genanki.Model(stable_id("model:" + lang), f"Vocab ({lang})",
           fields=[{"name": n} for n in ["Word", "Audio", "Image", "English", "Occurrences", "Rank"]],
           templates=[{"name": "Word → Meaning",
-            "qfmt": FRONT, "afmt": BACK}], css=CSS.replace("__DIR__", direction).replace("__FONTFACE__", face).replace("__WORDFONT__", fam))
+            "qfmt": FRONT, "afmt": BACK}], css=CSS.replace("__DIR__", direction).replace("__FONTFACE__", face).replace("__WORDFONT__", fam) + EXTRA_CSS.get(lang, ""))
     return _models[lang]
 
 def arg(name, default):
